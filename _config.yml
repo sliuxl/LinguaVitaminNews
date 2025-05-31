@@ -1,4 +1,5 @@
 title: LinguaVitamin News
-baseurl: "/LinguaVitaminnews"  # Matches your repo name
+description: Daily multilingual news to boost your language learning
+baseurl: "/LinguaVitaminnews"
 url: "https://sliuxl.github.io"
 theme: minima

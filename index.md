@@ -13,7 +13,7 @@ Here you’ll find daily multilingual news to boost your language learning.
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><br />
       <small>{{ post.date | date: "%Y-%m-%d" }}</small>
     </li>
   {% endfor %}
