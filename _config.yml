@@ -1,0 +1,5 @@
+title: LinguaVitamin News
+description: Daily multilingual news posts
+theme: minima
+baseurl: "/LinguaVitaminnews"  # Important: case-sensitive and must match repo name
+url: "https://sliuxl.github.io"
