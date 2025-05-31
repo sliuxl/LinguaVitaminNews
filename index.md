@@ -1,9 +1,20 @@
 ---
-layout: home
-title: LinguaVitamin News
+layout: default
+title: Home
 ---
 
 Welcome to **LinguaVitamin News**!
-Here you'll find daily multilingual news to boost your language learning.
+Here you’ll find daily multilingual news to boost your language learning.
 
-Latest posts below 👇
+---
+
+## 📰 Latest Posts
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <small>{{ post.date | date: "%Y-%m-%d" }}</small>
+    </li>
+  {% endfor %}
+</ul>
