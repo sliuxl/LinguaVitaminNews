@@ -6,6 +6,8 @@ title: Home
 Welcome to **LinguaVitamin News**!
 Here you’ll find daily multilingual news to boost your language learning.
 
+- Source code: [LinguaVitaminNews](https://github.com/sliuxl/LinguaVitaminNews)
+
 ---
 
 ## 📰 Latest Posts
