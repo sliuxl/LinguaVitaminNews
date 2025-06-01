@@ -7,6 +7,7 @@ Welcome to **LinguaVitamin News**!
 Here you’ll find daily multilingual news to boost your language learning.
 
 - Source code: [LinguaVitaminNews](https://github.com/sliuxl/LinguaVitaminNews)
+- Read arXiv papers instead: [https://sliuxl.github.io/LinguaVitaminArxiv](https://sliuxl.github.io/LinguaVitaminArxiv)
 
 ---
 
