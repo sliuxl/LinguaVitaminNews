@@ -2,4 +2,12 @@ title: LinguaVitamin News
 description: Daily multilingual news to boost your language learning
 baseurl: "/LinguaVitaminNews"
 url: "https://sliuxl.github.io"
+
+# Show future-dated posts
+future: true
+
+# Build settings
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
