@@ -1,0 +1,1163 @@
+---
+title: "English vocab up to 2025-06-30: 1156"
+date: 2025-06-30
+layout: post
+---
+
+- id | count | en | de | es | fr | zh
+- [0000] | 74 | the | die | 排
+- [0001] | 68 | to | zu | 至
+- [0002] | 65 | of | von | 联 联 年 月 日 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 月 日 月 的 月 月 月 日 月 月 日 月 的 月 月 月 月 日 月 月 月
+- [0003] | 64 | for | für | 用于
+- [0004] | 60 | and | und | 和
+- [0005] | 52 | a | a | a a/
+- [0006] | 48 | in | in der | 内
+- [0007] | 39 | on | am | 上 年 月
+- [0008] | 38 | new | neu | 新建新
+- [0009] | 37 | with | mit | 与
+- [0010] | 35 | MIT | MIT | 麻 麻 三
+- [0011] | 17 | AI | GESUNDHEITSSCHUTZ | AI AI AI
+- [0012] | 17 | at | bei | 至 年
+- [0013] | 16 | students | Schüler | 学生 学生
+- [0014] | 15 | global | global | 全球环球
+- [0015] | 14 | an | und | a , a , a , a , a , a
+- [0016] | 14 | How | Wie | 如何如何
+- [0017] | 13 | after | nach | 之后
+- [0018] | 13 | Class | Klasse | 班级
+- [0019] | 13 | Study | Studie | 研究研究
+- [0020] | 12 | Harvard | L 347 vom 20.12.2013, S. 671. | 哈佛
+- [0021] | 12 | human | Mensch | 人 人 人 人 人 人 人 人 人 人 人 人 人
+- [0022] | 9 | as | als | 计为
+- [0023] | 9 | attack | Angriff | 攻击攻击
+- [0024] | 9 | could | könnte | 能够
+- [0025] | 9 | Green | Grün | 绿绿色
+- [0026] | 9 | Hank | Hank | 汉克
+- [0027] | 9 | Minister | Minister | 部长部长,部长
+- [0028] | 9 | over | Über | 超过
+- [0029] | 9 | solutions | Lösungen | 解决方案
+- [0030] | 9 | Syria | Syrien | 叙利亚 叙利亚
+- [0031] | 9 | Trump | Trump | 特朗
+- [0032] | 8 | are | sie werden | 是
+- [0033] | 8 | Commencement | Beginn | 开始
+- [0034] | 8 | life | Leben | 生命
+- [0035] | 8 | shows | zeigt | 显示显示
+- [0036] | 8 | work | Arbeit | 工 工 工 工 工 工 工 工 工 工
+- [0037] | 7 | Boulder | Boulder | 发泡机
+- [0038] | 7 | Development | Entwicklung | 发展、发展、发展、发展
+- [0039] | 7 | energy | Energie | 能源能源
+- [0040] | 7 | is | wird | 是
+- [0041] | 7 | process | Prozess | 进程进程
+- [0042] | 7 | Science | Wissenschaft | 科学科学
+- [0043] | 7 | transition | Übergang | 过渡期
+- [0044] | 7 | urges | Drängen | 敦促
+- [0045] | 7 | way | Art und Weise | 方形
+- [0046] | 6 | address | Anschrift | 地址地址地址地址地址地址
+- [0047] | 6 | against | dagegen | 日 年 年 年 月 日
+- [0048] | 6 | Alabali-Radovan | Alabali-Radovan | 阿拉巴利-拉多万
+- [0049] | 6 | cell | Zelle | 单元格单元格单元格单元格单元格单元格
+- [0050] | 6 | cells | Zellen | 单元格单元格单元格单元格
+- [0051] | 6 | cent | INSGESAMT | 百分比(%)
+- [0052] | 6 | Corporation | Unternehmen | 公司公司
+- [0053] | 6 | day | Tag | 天天
+- [0054] | 6 | discover | entdecken | 发现发现
+- [0055] | 6 | engineering | Ingenieurwesen | 工程工程工程
+- [0056] | 6 | Germany | Deutschland | 德国 德国
+- [0057] | 6 | if | wenn | 如果
+- [0058] | 6 | inclusion | Aufnahme | 包含
+- [0059] | 6 | it | Es wird | 其 其 年 , 其 年 , 其 年 , 其
+- [0060] | 6 | Judge | Richter | 法官 法官 法官 法官 法官 法官 法官 法官 法官
+- [0061] | 6 | magnetic | magnetisch | 磁磁
+- [0062] | 6 | manufacturing | Verarbeitendes Gewerbe | 制造制造业
+- [0063] | 6 | may | kann | 中 中 中 中 中 中
+- [0064] | 6 | members | Mitglieder | 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员
+- [0065] | 6 | MIT’s | MITTEN | 麻省麻省麻省麻省麻省麻省麻省麻省麻省麻省
+- [0066] | 6 | named | benannt | 命名名称
+- [0067] | 6 | per | je | / 人 / 人
+- [0068] | 6 | proud | stolz | 骄傲自豪
+- [0069] | 6 | Questions | Fragen | 问 问 问 问 问 问 问 问 问 问
+- [0070] | 6 | reduce | Verringerung | 减少
+- [0071] | 6 | Reem | Reem | Reeem  Reeem  Reeem 雷 Reeem
+- [0072] | 6 | scientists | Wissenschaftler | 科学家、科学家和科学家
+- [0073] | 6 | shots | Schüsse | 射击
+- [0074] | 6 | some | teilweise | 部分为某些
+- [0075] | 6 | state | Zustand | 状态状态状态状态
+- [0076] | 6 | Summit | Gipfeltreffen | 首脑会议首脑首脑首脑首脑首脑首脑首脑首脑首脑首脑会议首脑会议首脑会议首脑会议
+- [0077] | 6 | targets | Ziele | 指标指标指标指标指标指标指标指标指标指标指标
+- [0078] | 6 | Technique | Technik | 技术
+- [0079] | 6 | terror | Terror | 恐怖主义恐怖主义
+- [0080] | 5 | about | über | 约约约
+- [0081] | 5 | advance | Vorschuss | 预预
+- [0082] | 5 | by | von | 至
+- [0083] | 5 | D | D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | D D
+- [0084] | 5 | data | Daten | 数据数据数据数据数据
+- [0085] | 5 | degrees | Grad | 摄度度
+- [0086] | 5 | from | von | 调自
+- [0087] | 5 | future | Zukunft | 未来
+- [0088] | 5 | graduating | Abschluss | 毕业毕业
+- [0089] | 5 | models | Modelle | 模型模型模型
+- [0090] | 5 | potential | Potenzial | 潜在潜力
+- [0091] | 5 | predict | vorhersagen | 预测预测数
+- [0092] | 5 | research | Forschung | 研究研究研究
+- [0093] | 5 | stand | Stand | 站点
+- [0094] | 5 | tells | sagt | 线报
+- [0095] | 5 | their | deren | 他们的
+- [0096] | 5 | they | sie/Sie | 和
+- [0097] | 5 | through | bis | 中 中 中
+- [0098] | 5 | using | Verwendung | 使用
+- [0099] | 5 | we | wir | 我们
+- [0100] | 5 | ’ | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ' ' ;
+- [0101] | 4 | all | alle | 全部( 全部)
+- [0102] | 4 | American | amerikanisch | 美裔美国人
+- [0103] | 4 | announces | kündigt an | 宣布宣布
+- [0104] | 4 | any | keine | 任何
+- [0105] | 4 | Call | Anruf | 调调
+- [0106] | 4 | can | kann | 能够
+- [0107] | 4 | can’t | Kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann. | 不能”
+- [0108] | 4 | enables | ermöglicht | 启用启用
+- [0109] | 4 | gift | Geschenk | 赠礼礼物
+- [0110] | 4 | have | haben | 拥有
+- [0111] | 4 | history | Vorgeschichte | 历史历史历史历史历史历史历史
+- [0112] | 4 | identify | Identifizieren | 识别
+- [0113] | 4 | K | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein nein, nein, nein, nein nein, nein nein, nein nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein nein, nein nein, nein, nein, nein nein, nein nein, nein nein, nein nein, nein nein, nein, nein, nein nein nein, nein nein, nein nein nein nein nein nein nein nein nein, nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein | K K 级
+- [0114] | 4 | less | weniger | 小于
+- [0115] | 4 | location | Standort | 位置位置位置
+- [0116] | 4 | make | machen | 混和 混和
+- [0117] | 4 | multiple | Mehrfach | 多个数
+- [0118] | 4 | No | Nein | 否 无
+- [0119] | 4 | off | aus | 关闭
+- [0120] | 4 | oil | Öl | 石油油油
+- [0121] | 4 | people | Menschen | 人 人 人 人 人 人 人 人
+- [0122] | 4 | Program | Programm | 方案方案
+- [0123] | 4 | School | Schule | 学校学校
+- [0124] | 4 | support | Unterstützung | 支助支助
+- [0125] | 4 | suspect | Verdächtiger | 可疑嫌疑人
+- [0126] | 4 | times | Zeiten | 时间时间
+- [0127] | 4 | tool | Werkzeug | 工具工具工具
+- [0128] | 4 | toward | Richtung | 向
+- [0129] | 4 | up | nach oben | 上上
+- [0130] | 4 | water | Wasser | 水 水
+- [0131] | 4 | Why | Warum? | 为什么
+- [0132] | 4 | wins | gewinnt | 赢赢
+- [0133] | 3 | - | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - 带
+- [0134] | 3 | -year | -Jahr | -年份 -年份
+- [0135] | 3 | accessibility | Zugänglichkeit | 无障碍环境
+- [0136] | 3 | also | auch | 并且,还有
+- [0137] | 3 | Alzheimer’s | Alzheimer | 阿尔茨海默氏体
+- [0138] | 3 | anomaly | Anomalie | 异常异常
+- [0139] | 3 | answer | Antwort | 答答
+- [0140] | 3 | anyone | jeder | 任何人
+- [0141] | 3 | approach | Ansatz | 方 式 式
+- [0142] | 3 | Architecture | Architektur | 建筑结构结构
+- [0143] | 3 | aviation | Luftfahrt | 航空航空
+- [0144] | 3 | Award | Preis | 奖 奖 奖 奖
+- [0145] | 3 | awards | Auszeichnungen | 裁定赔偿金
+- [0146] | 3 | becomes | wird | 成为
+- [0147] | 3 | Bertsimas | Bertsimas | 伯特西玛斯
+- [0148] | 3 | best | am besten | 最佳
+- [0149] | 3 | biology” | Biologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 生物学”
+- [0150] | 3 | boost | Boost | 推进推进
+- [0151] | 3 | bot | Bot | 立方体体
+- [0152] | 3 | bottleneck | Engpass | 瓶颈
+- [0153] | 3 | brain’s | Gehirne | 大脑
+- [0154] | 3 | bridges | Brücken | 桥梁
+- [0155] | 3 | build | Bauen | 建设
+- [0156] | 3 | capacity | Kapazität | 能力能力能力
+- [0157] | 3 | capture | Erfassung | 捕捉
+- [0158] | 3 | carrying | mitgeführt | 带有
+- [0159] | 3 | catches | Fänge | 渔渔渔渔量
+- [0160] | 3 | cells’ | Zellen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 单元格单元格 '
+- [0161] | 3 | Chancellor | Kanzler | 总理,总理
+- [0162] | 3 | change | Veränderung | 变动
+- [0163] | 3 | charge | Erhebung | 收费
+- [0164] | 3 | Climate | Klima | 气候气候 气候
+- [0165] | 3 | CO | L 347 vom 20.12.2013, S. 671. | COCO
+- [0166] | 3 | collaboration | Zusammenarbeit | 协作
+- [0167] | 3 | commitments | Verpflichtungen | 承付款
+- [0168] | 3 | communication | Kommunikation | 通讯通讯通讯通讯
+- [0169] | 3 | compact | kompakt | 紧紧
+- [0170] | 3 | Competition | Wettbewerb | 竞争 竞争 竞争 竞争 竞争 竞争 竞争
+- [0171] | 3 | concludes | Schlussfolgerungen | 结 结 结 结 结
+- [0172] | 3 | connected | verbunden | 连接连接
+- [0173] | 3 | conversion | Umwandlung | 转换
+- [0174] | 3 | cooperation | Zusammenarbeit | 合作合作
+- [0175] | 3 | corrosion-resistant | Korrosionsbeständig | 抗腐蚀
+- [0176] | 3 | course | Kurs | 课程课程
+- [0177] | 3 | criticizes | kritisiert | 批评批评
+- [0178] | 3 | crucial | entscheidend | 关键
+- [0179] | 3 | crude | roh | 粗 原油
+- [0180] | 3 | curiosity | Neugierde | 好奇心
+- [0181] | 3 | D-Lab | D-Lab | D-拉布
+- [0182] | 3 | deadly | tödlich | 致命致命
+- [0183] | 3 | Declaration | Erklärung | 宣言宣言
+- [0184] | 3 | density | Dichte | 密度密度密度
+- [0185] | 3 | design | Entwurf | 设计设计设计
+- [0186] | 3 | detection | Nachweis | 检测检测
+- [0187] | 3 | developmental | entwicklungspolitische | 发 发 发 发 发
+- [0188] | 3 | device | Einrichtung | 设备设备
+- [0189] | 3 | diet | Diät | 饮食
+- [0190] | 3 | Dimitris | Dimitris | 迪米特里
+- [0191] | 3 | director | Direktor | 主任 主任
+- [0192] | 3 | disabilities | Behinderung | 残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾
+- [0193] | 3 | Disability | Behinderung | 残疾残疾残疾残疾
+- [0194] | 3 | diseases | Krankheiten | 疾病 疾病 疾病 疾病
+- [0195] | 3 | doses | Dosierung | 剂量剂量
+- [0196] | 3 | Drug | Arzneimittel | 毒品 毒品
+- [0197] | 3 | drugs | Drogen | 毒品毒品 毒品
+- [0198] | 3 | during | während | 期间
+- [0199] | 3 | dysfunction | Dysfunktion | 功能功能失调
+- [0200] | 3 | economic | Wirtschaft | 经济、经济、 经济、 经济、 经济、 经济、 经济、
+- [0201] | 3 | education | Bildung | 学历教育
+- [0202] | 3 | effect | Wirkung | 效果效果
+- [0203] | 3 | Eldercare | Altenpflege | 老年人护理
+- [0204] | 3 | electric | elektrisch | 电动
+- [0205] | 3 | elects | wählt | 选择
+- [0206] | 3 | enable | aktivieren | 启用启用
+- [0207] | 3 | explain | erklären | 解释解释
+- [0208] | 3 | explore | Erforschen | 探索探索
+- [0209] | 3 | extending | Erweiterung | 扩展扩展
+- [0210] | 3 | fall | Herbst | 秋秋
+- [0211] | 3 | feeling | Gefühl | 感觉感觉
+- [0212] | 3 | follow-up | Folgemaßnahmen | 后续行动后续行动
+- [0213] | 3 | Foreign | Ausländische | 外国 外国
+- [0214] | 3 | fractionate | fraktioniert | 分数范围
+- [0215] | 3 | framework | Rahmen | 框架框架框架框架
+- [0216] | 3 | fuel | Kraftstoff | 燃料燃料燃料燃料燃料燃料燃料
+- [0217] | 3 | gain | Gewinn | 增益
+- [0218] | 3 | gene | Gen | 基因基因
+- [0219] | 3 | generates | erzeugt | 生成
+- [0220] | 3 | graduates | Hochschulabsolventen | 毕业生
+- [0221] | 3 | Hamburg | ZEITSCHRIFTEN | 汉堡汉堡
+- [0222] | 3 | handle | Griff | 控件
+- [0223] | 3 | handling | Handhabung | 处理处理
+- [0224] | 3 | harder | härter | 更硬
+- [0225] | 3 | health | Gesundheit | 健康健康 健康 健康 健康 健康 健康 健康 健康 健康 健康
+- [0226] | 3 | helping | Hilfe | 帮助帮助
+- [0227] | 3 | helps | hilft | 帮助帮助
+- [0228] | 3 | He’s | Er ist | 他
+- [0229] | 3 | high-fat | fettreich | 高脂肪
+- [0230] | 3 | high-speed | Hochgeschwindigkeitsfahrzeuge | 高速高速
+- [0231] | 3 | highly | hoch | 高
+- [0232] | 3 | history’ | Geschichte | 历史历史
+- [0233] | 3 | huge | groß | 巨大
+- [0234] | 3 | humanity’ | Menschheit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 人类
+- [0235] | 3 | humans | Menschen | 人 人 人 人 人 人 人 人 人
+- [0236] | 3 | Imaging | Bildgebung | 图像成像
+- [0237] | 3 | inclusive | Einschließlich | 包容性
+- [0238] | 3 | India | Indien | 印度 印度 印度
+- [0239] | 3 | Initiative | Initiative | 倡议倡议倡议倡议
+- [0240] | 3 | injection | Injektionslösung | 注射
+- [0241] | 3 | international | Veröffentlichungen der Europäischen Gemeinschaften | 国际国际
+- [0242] | 3 | intervention | Intervention | 干预和干预
+- [0243] | 3 | invites | lädt ein | 邀请邀请
+- [0244] | 3 | Johann | - Ich weiß es nicht. - Ich weiß nicht. | 约翰·约翰
+- [0245] | 3 | join | beitreten | 加入加入加入
+- [0246] | 3 | joke | Witz | 笑话
+- [0247] | 3 | Journalism | Journalismus | 新闻新闻
+- [0248] | 3 | Kannon | Kannon | 肯农
+- [0249] | 3 | Killian | Killian | 基利安语Name
+- [0250] | 3 | Knight | Ritter | 骑士骑士
+- [0251] | 3 | Knight-Hennessy | Ritter-Hennessy | 骑士汉内斯
+- [0252] | 3 | Kornbluth’s | Kornbluth | 科恩布卢特的
+- [0253] | 3 | leading | führend | 铅
+- [0254] | 3 | lead” | Blei | 铅铅”
+- [0255] | 3 | learns | lernt | 学 学 学 学
+- [0256] | 3 | Lee | Lee, bitte. | 李李
+- [0257] | 3 | lifting | Heben | 升举
+- [0258] | 3 | lobbies | Lobbies | 圆圈
+- [0259] | 3 | magnet | Magnet | 磁磁磁
+- [0260] | 3 | Mary | Maria | 玛丽玛丽
+- [0261] | 3 | materials | Werkstoffe | 材料
+- [0262] | 3 | McFarling | McFarling | 麦克法林
+- [0263] | 3 | measures | Maßnahmen | 措施措施措施
+- [0264] | 3 | mechanical | mechanisch | 机械 机械
+- [0265] | 3 | Melissa | Melissa | 梅丽莎
+- [0266] | 3 | metabolic | metabolisch | 代代谢
+- [0267] | 3 | might | könnte | 中
+- [0268] | 3 | military | Militärisch | 军事 军事
+- [0269] | 3 | million | in Mio. | 百万百万
+- [0270] | 3 | mission-critical | geschäftskritische | 任务关键任务
+- [0271] | 3 | Mohamed | Mohamed | 穆罕默德·穆罕默德
+- [0272] | 3 | money | Geld | 货币 货币
+- [0273] | 3 | moon | Mond | 月月月月
+- [0274] | 3 | much | viel | 多
+- [0275] | 3 | multilateral | Multilaterale | 多边多边多边
+- [0276] | 3 | need | Notwendigkeit | 需要 需要
+- [0277] | 3 | negation | Verneinung | 否定否定
+- [0278] | 3 | Nobles’ | Adlige | 贵族
+- [0279] | 3 | normal | Normal | 正常正常
+- [0280] | 3 | officers | Beamte | 干事 干事 干事
+- [0281] | 3 | Overlooked | Überwacht | 被忽略
+- [0282] | 3 | pairs | Paare | 双对
+- [0283] | 3 | Particles | Teilchen | 粒子
+- [0284] | 3 | peaceful | friedlich | 和平、和平、和平
+- [0285] | 3 | people” | Menschen | 人与人”
+- [0286] | 3 | period | Zeitraum | 期间
+- [0287] | 3 | persons | Personen | 人 人 人 人
+- [0288] | 3 | physicists | Physiker | 物理学家
+- [0289] | 3 | physics | Physik | 物理学
+- [0290] | 3 | Ping | Ping | 平 平 平 平
+- [0291] | 3 | Planning | Planung | 规划 规划 规划 规划 规划 规划 规划 规划
+- [0292] | 3 | pledges | Verpfändungen | 认捐认捐款
+- [0293] | 3 | pong | (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) | 海绵
+- [0294] | 3 | population | Bevölkerung | 人口 人口 人口
+- [0295] | 3 | precision | Präzision | 精精精精精度
+- [0296] | 3 | problems | Probleme | 问题 问题
+- [0297] | 3 | produce | Erzeugung | 生产生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产
+- [0298] | 3 | promising | vielversprechend | 有希望
+- [0299] | 3 | prosecutor | Staatsanwalt | 检察官检察官 检察官检察官
+- [0300] | 3 | protecting | Schutz | 保护
+- [0301] | 3 | protein | Eiweiß | 蛋蛋蛋蛋蛋白
+- [0302] | 3 | pull | Ziehen | 拉拉拉
+- [0303] | 3 | queries | Abfragen | 查询
+- [0304] | 3 | rapidly | schnell | 快速快速
+- [0305] | 3 | Rationale | Begründung | 理由理由
+- [0306] | 3 | reaching | Erreicht | 达到
+- [0307] | 3 | receives | erhält | 接收接收
+- [0308] | 3 | reflecting | reflektierend | 反映
+- [0309] | 3 | regions | Regionen | 区域
+- [0310] | 3 | removes | entfernt | 删除
+- [0311] | 3 | researchers | Forscher | 研究人员 研究人员
+- [0312] | 3 | Responsible | Verantwortlich | 负责
+- [0313] | 3 | returns | Renditen | 返回返回返回
+- [0314] | 3 | Robinson | Robinson | 鲁滨逊
+- [0315] | 3 | robot | Roboter | 机器人机器人
+- [0316] | 3 | rocks | Steine | 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石
+- [0317] | 3 | Safeguarding | Schutz | 保障
+- [0318] | 3 | Sally | Sally | 萨莉
+- [0319] | 3 | sanctions | Sanktionen | 制裁制裁
+- [0320] | 3 | scenes | Szenen | 场景
+- [0321] | 3 | Scholar | Gelehrter | 学者学者
+- [0322] | 3 | SDGs | SDGs | SDGs 可持续发展目标
+- [0323] | 3 | see | siehe | 见见
+- [0324] | 3 | sets | Sets | 套套套套套套套套
+- [0325] | 3 | several | mehrere | 数个
+- [0326] | 3 | Shanmugam | ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNGEN | 沙努姆
+- [0327] | 3 | shelf | Regal | 架架架
+- [0328] | 3 | sides | Seiten | 边边边
+- [0329] | 3 | sign | Zeichen | 符号符号符号
+- [0330] | 3 | sit | Sitzen | 坐 席 坐 席
+- [0331] | 3 | smog | Smog | 烟雾烟雾
+- [0332] | 3 | Soliman | Soliman | 索利曼
+- [0333] | 3 | solvable | lösbar | 溶解
+- [0334] | 3 | solve | lösen | 解答
+- [0335] | 3 | someone’s | Jemandes | 某某人的
+- [0336] | 3 | sound | Geräusche | 声音
+- [0337] | 3 | star | Stern | 恒星星
+- [0338] | 3 | Startup | Inbetriebnahme | 启动启动
+- [0339] | 3 | steel | Stahl | 钢钢
+- [0340] | 3 | Steven | WETTBEWERBSREGELN | 史蒂文
+- [0341] | 3 | storage | Lagerung | 储存储存
+- [0342] | 3 | story | Geschichte | 故事故事故事
+- [0343] | 3 | strong | stark | 强
+- [0344] | 3 | successful | Erfolg | 成功成功
+- [0345] | 3 | superconductor | Supraleiter | 超导体
+- [0346] | 3 | supports | Unterstützungen | 支持支持
+- [0347] | 3 | sustainability | Nachhaltigkeit | 可持续性
+- [0348] | 3 | sustainable | nachhaltig | 可持续的可持续
+- [0349] | 3 | Syrian | Syrisch | 叙利亚语叙利亚语Name 叙利亚语Name
+- [0350] | 3 | tactics | Taktik | 战术战术
+- [0351] | 3 | technology | Technologie | 技 技 技 技 技
+- [0352] | 3 | term | Begriff | 定期
+- [0353] | 3 | th | n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n | 第 月 月
+- [0354] | 3 | that | das | ,该数额,
+- [0355] | 3 | that’s | Dass | 这一点
+- [0356] | 3 | them | sie | 三、它们
+- [0357] | 3 | theoretical | Theoretische | 理论理论
+- [0358] | 3 | therapy | Therapie | 理疗
+- [0359] | 3 | think | denken | 思考思考
+- [0360] | 3 | three | Drei | 3个 3
+- [0361] | 3 | together | zusammen | 组合在一起
+- [0362] | 3 | Truong | Truong | 忠哥
+- [0363] | 3 | turbulent | turbulent | 动荡
+- [0364] | 3 | type | Typ | 类型类型类型
+- [0365] | 3 | undergraduate | undergraduate | 本科本科生
+- [0366] | 3 | underwater | unter Wasser | 水下
+- [0367] | 3 | US | ENTWICKLUNG | 美 美 美
+- [0368] | 3 | use | Verwendung | 使用
+- [0369] | 3 | Usha | INSGESAMT | 乌沙
+- [0370] | 3 | vaccination | Impfung | 接种疫苗
+- [0371] | 3 | vaccine | Impfstoff | 疫苗疫苗疫苗
+- [0372] | 3 | Verghese | Verghese | verghese( verghese) verghese( 弗高)
+- [0373] | 3 | virtually | virtuell | 虚拟
+- [0374] | 3 | vision | Sehvermögen | 愿景愿景
+- [0375] | 3 | vision-language | Visionssprache | 视觉语言
+- [0376] | 3 | Wadephul | Wadephul | 韦phul
+- [0377] | 3 | weight | Gewicht | 加权数
+- [0378] | 3 | we’re | Wir sind | 我们
+- [0379] | 3 | What | Was ist? | 什么什么是什么 是什么( What) 是什么( What)
+- [0380] | 3 | within | innerhalb | 内
+- [0381] | 3 | without | ohne | 无
+- [0382] | 3 | words | Wörter | 字词词词词
+- [0383] | 3 | worldwide | weltweit | 全世界
+- [0384] | 3 | ‘It’s | „Es handelt sich um | `它 '
+- [0385] | 3 | ‘Like | „Wie | 类似
+- [0386] | 3 | “build | Bauen | “建造
+- [0387] | 3 | “everyday | Tag für Tag | “每天
+- [0388] | 3 | “find | ®finden | “已查明
+- [0389] | 3 | “Livelihoods | Lebendigkeiten | “生活
+- [0390] | 3 | ” | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ”
+- [0391] | 2 | Abdul-Jabbar | Abdul-Jabbar | 阿卜杜勒·贾巴巴
+- [0392] | 2 | admin | Verwaltungsroutine | 管理员
+- [0393] | 2 | alleged | angeblich | 据称
+- [0394] | 2 | awarded | vergeben | 裁定赔偿金
+- [0395] | 2 | be | werden | be be be 的, 是
+- [0396] | 2 | bias | Voreingenommenheit | 性别偏见
+- [0397] | 2 | Biden | Biden | 拜登
+- [0398] | 2 | Biden-era | Biden-Ära | 拜登时代
+- [0399] | 2 | Biologists | Biologen | 生物学家
+- [0400] | 2 | breakthrough | Durchbruch | 中中点
+- [0401] | 2 | Brown | Braun | 棕色
+- [0402] | 2 | calling | Anrufen | 调来电话
+- [0403] | 2 | campaign | Kampagne | 运动运动
+- [0404] | 2 | cancer | Krebs | 癌症癌症
+- [0405] | 2 | Cathleen | Cathleen | 凯思琳Name
+- [0406] | 2 | caught | gefangen | 被抓获
+- [0407] | 2 | celebration | Feier | 庆祝庆祝活动
+- [0408] | 2 | Center | Zentrum | 中心中心中心
+- [0409] | 2 | Chrisley | Chrisley, Mitglied der Kommission. - (EN) Herr Präsident! | 克里斯利
+- [0410] | 2 | Chrisley's | Chrisley's | 克里斯利的
+- [0411] | 2 | Closing | Schließung | 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭
+- [0412] | 2 | CNN | L 347 vom 20.12.2013, S. 671. | CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN 有
+- [0413] | 2 | Colorado | Colorado | 科罗拉多
+- [0414] | 2 | complex | komplex | 复杂复杂
+- [0415] | 2 | consumers | Verbraucher | 消费者消费者
+- [0416] | 2 | cut | Schnitt | 剪切剪切
+- [0417] | 2 | datasets | Datensätze | 数据集
+- [0418] | 2 | daughter | Tochter | 女 儿 儿 女
+- [0419] | 2 | David | David | 戴维·戴维
+- [0420] | 2 | dead | tot | 死 死
+- [0421] | 2 | death | Tod | 死亡死亡
+- [0422] | 2 | DEI | DEI | 德 迪 迪 迪
+- [0423] | 2 | Democratic | Demokratisch | 民主民主民主
+- [0424] | 2 | Department | Abteilung | 部 部 部
+- [0425] | 2 | developing | Entwicklung | 发展中发展中国家
+- [0426] | 2 | do | tun | do do do 做
+- [0427] | 2 | Dunne | Dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne. | Dunne 唐
+- [0428] | 2 | early | Anfang | 早期
+- [0429] | 2 | Economics | Wirtschaft | 经济学经济学
+- [0430] | 2 | economies | Wirtschaft | 经济经济体
+- [0431] | 2 | Election | Wahl | 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举
+- [0432] | 2 | emerging | sich abzeichnend | 新兴
+- [0433] | 2 | failures | Ausfälle | 失败失败
+- [0434] | 2 | fashion | Mode | 时时时时时时
+- [0435] | 2 | FBI | FBI | FBI 联邦调查局
+- [0436] | 2 | Fetterman | Betterman | 芬德曼
+- [0437] | 2 | formation | Bildung | 形成
+- [0438] | 2 | Gaza | Gaza | 加沙
+- [0439] | 2 | genome | Erbgut | 基因组组
+- [0440] | 2 | Gifts | Geschenke | 礼品礼品
+- [0441] | 2 | girls' | Mädchen" | 女童 女童
+- [0442] | 2 | gives | gibt | 给给
+- [0443] | 2 | goes | geht | 继续
+- [0444] | 2 | gun | Pistole | 枪炮
+- [0445] | 2 | help | Hilfe | 帮助帮助帮助
+- [0446] | 2 | here’s | Hier's | 这里的
+- [0447] | 2 | home | Zuhause | 家 家
+- [0448] | 2 | honorary | Ehrenamtlich | 荣誉荣誉
+- [0449] | 2 | host | Gastgeber | 主机主机
+- [0450] | 2 | house | Haus | 居内
+- [0451] | 2 | Inequality | Ungleichbehandlung | 不平等
+- [0452] | 2 | investment | Investitionen | 投资投资投资
+- [0453] | 2 | Israel | Israel | 以色列 以色列
+- [0454] | 2 | James | - Ja. - Ja. - Ja. - Ja. | 詹姆斯·詹姆斯
+- [0455] | 2 | kinds | Art | 种类种类
+- [0456] | 2 | know | wissen | 已知
+- [0457] | 2 | launch | Start | 启动启动
+- [0458] | 2 | laws | Rechtsvorschriften | 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律
+- [0459] | 2 | Learning | Lernen | 学习学习学习学习
+- [0460] | 2 | lets | kann | lets , lets , 计
+- [0461] | 2 | M | M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | M 男
+- [0462] | 2 | markets | Märkte | 市场市场
+- [0463] | 2 | mayor | Bürgermeister | 市长 市长
+- [0464] | 2 | MBA | MBA | MBA 甲基溴管理管理
+- [0465] | 2 | meet | Treffen | 会 会 会 会 会 会 会 会 会 会
+- [0466] | 2 | member | Mitglied | 成员成员
+- [0467] | 2 | message | Nachricht | 消息消息
+- [0468] | 2 | mobilize | mobilisieren | 调动调动
+- [0469] | 2 | more | mehr | 更多
+- [0470] | 2 | Musk | Moschus | 松木
+- [0471] | 2 | object’s | Gegenstand | 对象
+- [0472] | 2 | Olivia | Olivia | Olivia( 奥利维亚)
+- [0473] | 2 | one | eins | 1个
+- [0474] | 2 | out | aus | 外出
+- [0475] | 2 | pancreatic | Bauchspeicheldrüse | 洲际
+- [0476] | 2 | parents | Eltern | 父母 父母
+- [0477] | 2 | party | Partei | 缔约方
+- [0478] | 2 | Paul | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 保罗 保罗
+- [0479] | 2 | planetary | planetarisch | 行星行星行星行星
+- [0480] | 2 | private | privat | 私立
+- [0481] | 2 | properties | Eigenschaften | 属性属性
+- [0482] | 2 | Rand | Rand | 兰德
+- [0483] | 2 | rare | Selten | 稀有
+- [0484] | 2 | reading | Lesen | 读数
+- [0485] | 2 | recognize | erkennen | 承认
+- [0486] | 2 | release | Freigabe | 释放
+- [0487] | 2 | report | Bericht | 报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告
+- [0488] | 2 | robots | Roboter | 机器人
+- [0489] | 2 | run | Ausführen | 运行中
+- [0490] | 2 | Sabry | Sabry | 萨布里
+- [0491] | 2 | seniors | Senioren | 老年人 老年人
+- [0492] | 2 | Shaping | Formgebung | 形状形状
+- [0493] | 2 | Should | Sollte | sh sh sh sh sh sh sh sh sh
+- [0494] | 2 | show | anzeigen | 显示显示显示
+- [0495] | 2 | Six | Sechs | 六六
+- [0496] | 2 | South | Süden | 南南
+- [0497] | 2 | states | Staaten | 状态
+- [0498] | 2 | still | immer noch | 仍为
+- [0499] | 2 | Stone | Stein | 石石头
+- [0500] | 2 | structure | Struktur | 结构结构结构结构
+- [0501] | 2 | student | Schüler | 学生 学生
+- [0502] | 2 | sues | RECHTSSACHE | 诉讼
+- [0503] | 2 | System | System | 系统系统系统系统系统
+- [0504] | 2 | Take | Nehmen Sie | 采取
+- [0505] | 2 | tax | Steuer | 税务税
+- [0506] | 2 | Teaching | Unterricht | 教学教学
+- [0507] | 2 | tensions | Spannungen | 紧张局势
+- [0508] | 2 | time | Zeit | 时间
+- [0509] | 2 | Todd | Todd | 托德
+- [0510] | 2 | too | auch | 也一样
+- [0511] | 2 | trans | trans trans | 转
+- [0512] | 2 | treatments | Behandlungen | 治疗治疗
+- [0513] | 2 | truth’ | Wahrheit | 真相 '
+- [0514] | 2 | uncovers | entlarvt | 揭开
+- [0515] | 2 | understanding | Verständnis | 理解
+- [0516] | 2 | value | Wert | 价值价值
+- [0517] | 2 | voters | Wähler | 选民选民
+- [0518] | 2 | waste | Abfälle | 废物废物
+- [0519] | 2 | where | Dabei ist | 何 地
+- [0520] | 2 | win | gewinnen | 赢赢
+- [0521] | 2 | you | Sie | 您 您 的 您 您
+- [0522] | 2 | ‘Stand | „Stand | 站立
+- [0523] | 1 | & | & | 和( P)
+- [0524] | 1 | ' | " | ' '
+- [0525] | 1 | 'astonishing' | "Astonisieren" | "惊讶"
+- [0526] | 1 | 'best' | "beste" | "最好的"
+- [0527] | 1 | 'big | Groß | # 大
+- [0528] | 1 | 'Boardwalk | "Boardwalk | "波道"
+- [0529] | 1 | 'bulletproof' | 'Bulletproof' | "防弹防弹"
+- [0530] | 1 | 'Chaos | "Chaos" | 化 化
+- [0531] | 1 | 'compelling | "Bezwingen | 强制
+- [0532] | 1 | 'dying' | "Sterben" | "死亡"
+- [0533] | 1 | 'Handmaid's | "Handjungfer" | 女佣的
+- [0534] | 1 | 'hysterical' | "hysterisch" | "歇斯底里"
+- [0535] | 1 | 'Love | Liebe | 爱爱
+- [0536] | 1 | 'Must | "Muss | 强制
+- [0537] | 1 | 'new | "neu | '新
+- [0538] | 1 | 'Rank | "Rank | 兰克
+- [0539] | 1 | 'Red | Rot | 红色
+- [0540] | 1 | 'Republicans | "Republikaner | 共和国
+- [0541] | 1 | 'Run | "Laufen | 运行
+- [0542] | 1 | 'Spider’s | "Spider" (Spider) | Spider( 蜘蛛)
+- [0543] | 1 | 'Sport | "Sport | 《体育》
+- [0544] | 1 | 'TACO' | "TACO" | "TaCO" (TaCO) (TaCO) (TaCO) (TaCO)) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO)) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO)
+- [0545] | 1 | 'terrorist | "Terrorist" | '恐怖主义
+- [0546] | 1 | 'The | "Das | # 爱着 # # # The #
+- [0547] | 1 | 'Total | Insgesamt | 总计
+- [0548] | 1 | 'unacceptable' | "unannehmbar" | "不能接受"
+- [0549] | 1 | 'Votes | "Stimmen | 视频
+- [0550] | 1 | 'will | "wird | 将
+- [0551] | 1 | -word | - Wort | -词词词词词词词词词词词
+- [0552] | 1 | abuse | Missbrauch | 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待
+- [0553] | 1 | accused | beschuldigt | 被告人
+- [0554] | 1 | accuser | Ankläger | 控告人
+- [0555] | 1 | across | gegenüber | 横横
+- [0556] | 1 | activists | Aktivisten | 活动分子活动家
+- [0557] | 1 | admitting | Zulassung | 承认
+- [0558] | 1 | adopt | Annahme | 通过通过通过通过,通过通过通过通过通过通过通过通过《通过通过通过通过通过 的通过,通过通过
+- [0559] | 1 | advantage | Vorteil | 优势
+- [0560] | 1 | Africa | Afrika | 非洲 非洲 非洲 非洲
+- [0561] | 1 | agrees | stimmt zu | 同意同意
+- [0562] | 1 | airport | Flughafen | 机场机场机场
+- [0563] | 1 | AK | AK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | AK AK步枪
+- [0564] | 1 | allegedly | angeblich | 据称
+- [0565] | 1 | allow | erlauben | 允许
+- [0566] | 1 | ambulance | Krankenwagen | 救护车
+- [0567] | 1 | America | Amerika | 美洲美洲
+- [0568] | 1 | among | zwischen | 介
+- [0569] | 1 | analyst | Analytiker | 分析师
+- [0570] | 1 | anti-Trump | Anti-Trump | 反特朗普
+- [0571] | 1 | antisemitic | Antisemitikum | 反犹太主义
+- [0572] | 1 | antisemitism' | Antisemitismus" | 反犹太主义
+- [0573] | 1 | ANWR | ANWR | 安娜
+- [0574] | 1 | anyway | Jedenfalls | 无论如何
+- [0575] | 1 | appeals | Rechtsmittel | 上诉上诉
+- [0576] | 1 | appearance | Aussehen | 外 貌 貌 貌 貌 貌 貌
+- [0577] | 1 | Archaeologist | Archäologe | 考古学家
+- [0578] | 1 | armored | gepanzert | 装甲
+- [0579] | 1 | around | ringsherum | 周围
+- [0580] | 1 | arrest | Festnahme | 逮捕和逮捕
+- [0581] | 1 | artistic | Künstlerisch | 艺术艺术
+- [0582] | 1 | assault | Körperverletzung | 攻击性攻击
+- [0583] | 1 | athlete | Sportler | 运动员
+- [0584] | 1 | athletes | Sportler | 运动员运动员
+- [0585] | 1 | attack' | Angriff" | a. 攻击
+- [0586] | 1 | attorney | Rechtsanwalt | 律师律师
+- [0587] | 1 | avoid | vermeiden | 避免
+- [0588] | 1 | awkward | unbequem | 尴尬
+- [0589] | 1 | Bach-Hasselhoff's | Bach-Hasselhoffs | 巴赫 - 哈塞尔霍夫的
+- [0590] | 1 | back | zurück | 后退
+- [0591] | 1 | beach | Strand | 海滩海滩
+- [0592] | 1 | beautiful | schön | 美丽
+- [0593] | 1 | becoming | werden | 成为
+- [0594] | 1 | before | Vorher | 之前
+- [0595] | 1 | begin | Anfang | 开始
+- [0596] | 1 | bill | Rechnung | 账单账单
+- [0597] | 1 | bill' | Rechnung" | 法案
+- [0598] | 1 | Billy | Billy | 比利
+- [0599] | 1 | bipartisan | Zweiparteien | 两党
+- [0600] | 1 | birthday | Geburtstag | 生日生日
+- [0601] | 1 | bled | geblutet | 混混
+- [0602] | 1 | board | Vorstand | 棋盘
+- [0603] | 1 | bond | Anleihen | 债券债券债券
+- [0604] | 1 | border | Grenzüberschreitung | 边境边境边境
+- [0605] | 1 | Boys' | Jungen" | 男孩们
+- [0606] | 1 | brands | Marken | 品牌品牌
+- [0607] | 1 | breaking | Bruch | 间间间断
+- [0608] | 1 | Brenkus | Brenkus | 布伦库斯
+- [0609] | 1 | broad | breit | 宽
+- [0610] | 1 | BROOKS | FRAUEN | 布鲁克
+- [0611] | 1 | building | Gebäude | 建筑物
+- [0612] | 1 | Bureau | Präsidium | 主席团主席团主席团主席团 主席团主席团主席团
+- [0613] | 1 | burns | Verbrennungen | 烧灼
+- [0614] | 1 | but | aber | 但是,但
+- [0615] | 1 | California | Kalifornien | 加利福尼亚州
+- [0616] | 1 | calls | Anrufe | 调来电话
+- [0617] | 1 | calzone | Calzon | 内积
+- [0618] | 1 | cam | Nocken | 闭门
+- [0619] | 1 | came | kam | 来
+- [0620] | 1 | camera | Kamera | 照相机
+- [0621] | 1 | cans | Dosen | 罐体
+- [0622] | 1 | Capitol | Kapitol | 都城
+- [0623] | 1 | Caplan | Caplan | 卡普兰
+- [0624] | 1 | ceiling | Höchstgrenze | 上限
+- [0625] | 1 | celebrates | feiert | 庆祝
+- [0626] | 1 | ceremony | Zeremonie | 仪式仪式
+- [0627] | 1 | challenge | Herausforderung | 挑战挑战
+- [0628] | 1 | Challenges | Herausforderungen | 挑战挑战挑战挑战
+- [0629] | 1 | Chase | Verfolgung | 大通大通
+- [0630] | 1 | Chicago's | Chicago's | 芝加哥
+- [0631] | 1 | China | China | 中国 中国 中国 中国 中国 中国 中国
+- [0632] | 1 | city | Stadt | 城市城市
+- [0633] | 1 | claim | Antrag | 索偿
+- [0634] | 1 | claims | Forderungen | 索偿
+- [0635] | 1 | classifying | Klassifizierung | 分类分类
+- [0636] | 1 | Coast | Küste | 海岸海岸
+- [0637] | 1 | cocktail | Cocktail | 鸡尾酒
+- [0638] | 1 | collapse | Zusammenbruch | 崩溃崩溃
+- [0639] | 1 | columnist | Kolumnist | 列词
+- [0640] | 1 | combo | Kombination | 组合组合
+- [0641] | 1 | company | Unternehmen | 公司 公司
+- [0642] | 1 | compares | Vergleich | 对比对比对比
+- [0643] | 1 | complaint | Beschwerde | 投诉投诉
+- [0644] | 1 | completely | vollständig | 完全完全
+- [0645] | 1 | concrete | Beton | 具体具体
+- [0646] | 1 | condemns | verurteilt | 谴责
+- [0647] | 1 | congressional | Tagungswoche | 国会
+- [0648] | 1 | Connecticut | Connecticut | 康涅狄格州
+- [0649] | 1 | conservative | konservativ | 保守
+- [0650] | 1 | continues | weiter | 继续
+- [0651] | 1 | contracts | Verträge | 合同合同合同合同
+- [0652] | 1 | control | Kontrolle | 控制控制
+- [0653] | 1 | controversial | umstritten | 有争议
+- [0654] | 1 | controversy | Kontroverse | 争议
+- [0655] | 1 | cool | Kühl | 凉凉
+- [0656] | 1 | COREY | KÖRIGREICH | 方 地 地 地
+- [0657] | 1 | Costco | Kostenco | 成本成本公司
+- [0658] | 1 | Court | Gericht | 法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院
+- [0659] | 1 | COVID- | KOVID- | 科维德...
+- [0660] | 1 | crashes | Abstürze | 碰撞事故
+- [0661] | 1 | creates | erstellt | 创建创建
+- [0662] | 1 | critics | Kritiker | 批评者
+- [0663] | 1 | Crockett | Krockett | 克罗基特Name
+- [0664] | 1 | crossroads | Kreuzung | 十字路口
+- [0665] | 1 | crowd | Menschenmenge | 人群
+- [0666] | 1 | Cruz | Cruz | 克鲁斯州
+- [0667] | 1 | Cubs | Krümel | 幼熊
+- [0668] | 1 | cursing | Fluchen | 咒骂
+- [0669] | 1 | custody | Verwahrung | 羁押
+- [0670] | 1 | cuts | Teile | 削减
+- [0671] | 1 | Cyrus | Korpus | Cyrus 赛勒斯
+- [0672] | 1 | Cyrus’ | Cyrus-Arten | 赛勒斯
+- [0673] | 1 | dads | Väter | 父 父 父
+- [0674] | 1 | De | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 执 执
+- [0675] | 1 | deal | Abmachung | 发牌
+- [0676] | 1 | deals | Abkommen | 交易交易
+- [0677] | 1 | dean | Herr dean | 院长
+- [0678] | 1 | debt | Verbindlichkeiten | 负债债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国
+- [0679] | 1 | declares | erklärt | 声明
+- [0680] | 1 | declines | Abnahmen | 下降
+- [0681] | 1 | declining | Rückgang | 下降
+- [0682] | 1 | defend | verteidigen | 国防
+- [0683] | 1 | defense | Verteidigung | 国防
+- [0684] | 1 | Democrat | Demokratisch | 民主民主党
+- [0685] | 1 | denial | Leugnung | 拒绝拒绝
+- [0686] | 1 | denies | verleugnet | 否认否认
+- [0687] | 1 | departure | Abreise | 离开
+- [0688] | 1 | deportation | Abschiebung | 驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐
+- [0689] | 1 | Depot's | Depots | 迪宝的
+- [0690] | 1 | designs | Designs | 设计设计
+- [0691] | 1 | despite | trotz | 尽管如此,尽管
+- [0692] | 1 | destinies | mit einem Gehalt an Milchfett von mehr als 10 GHT | 命运
+- [0693] | 1 | detected | festgestellt | 检测到
+- [0694] | 1 | determined | bestimmt | 确定数
+- [0695] | 1 | Devin | Entbeinung | Devin 开发
+- [0696] | 1 | Diddy | Diddy. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 迪迪
+- [0697] | 1 | die' | stirbt." | # 死亡 死亡 # # 死亡 # # 死亡 # # 死亡 死亡 #
+- [0698] | 1 | discussion | Diskussion | 讨论讨论讨论
+- [0699] | 1 | DNC | DNC | DNNNC DNA DNA DNA DNA DNA DNA DNNNN
+- [0700] | 1 | docs | n s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 医生数
+- [0701] | 1 | dodges | Ausweichen | 躲躲
+- [0702] | 1 | dog | Hund | 狗狗狗
+- [0703] | 1 | DOGE | GESAMTBESCHEINIGUNG | 高 格 师 师 师 师 师 师 师
+- [0704] | 1 | DOGE-aligned | GESAMTBESCHEINIGUNG | DGE 调整后
+- [0705] | 1 | dominating | dominierend | 主导占主导
+- [0706] | 1 | don’t | nicht | 不要
+- [0707] | 1 | double | Doppelt | 双双
+- [0708] | 1 | drone | Drohne | 无人驾驶无人驾驶飞机
+- [0709] | 1 | dropped | fallen gelassen | 下降数
+- [0710] | 1 | Duda | Duda | 杜达
+- [0711] | 1 | earlier | früher | 早期
+- [0712] | 1 | easier | einfacher | 较容易
+- [0713] | 1 | efforts | Anstrengungen | A. 努力努力
+- [0714] | 1 | Egyptian | Ägyptisch | 埃及语埃及语Name 埃及语
+- [0715] | 1 | Eight | Acht | 8 8 八
+- [0716] | 1 | elimination | Beseitigung | 冲销
+- [0717] | 1 | Elly | Elly | 埃利
+- [0718] | 1 | Elon | Elon | 伊隆
+- [0719] | 1 | emergency | Notfall | 紧急紧急
+- [0720] | 1 | Emmanuel | Emmanuel | 埃马纽埃尔
+- [0721] | 1 | Empire' | Weltreich" | 帝国帝国
+- [0722] | 1 | ends | Enden | 结尾
+- [0723] | 1 | enrichment | Anreicherung | 浓缩浓缩浓缩
+- [0724] | 1 | equipment | Ausrüstung | 设备设备
+- [0725] | 1 | era | Zeit | 时代时代
+- [0726] | 1 | escalate | Eskalation | 升级
+- [0727] | 1 | escapes | Fluchten | 逃逃
+- [0728] | 1 | ethics | Ethik | 道德操守
+- [0729] | 1 | event | Veranstaltung | 事件事件
+- [0730] | 1 | everything' | alles" | 所有的一切,所有的一切,
+- [0731] | 1 | evidence' | Nachweise" | 证据证据的证据证据
+- [0732] | 1 | Ex-Democratic | Ex-Demokratische | 前民主
+- [0733] | 1 | Ex-Mumford | Ex-Mumford | 前穆姆福德州
+- [0734] | 1 | examine | Prüfung | 检查
+- [0735] | 1 | EXCLUSIVE | AUSSCHLIESSLICH | 绝对
+- [0736] | 1 | exits | Ausstiege | 退出
+- [0737] | 1 | expert | Sachverständiger | 专家专家
+- [0738] | 1 | explosion | Explosion | 爆炸爆炸
+- [0739] | 1 | explosive | explosiv | 爆炸性炸药
+- [0740] | 1 | Facebook | Facebook | 脸书脸书
+- [0741] | 1 | faith | Glaube | 信 信 信 信 信
+- [0742] | 1 | fake | Fälschung | 假造
+- [0743] | 1 | false | falsch | 假
+- [0744] | 1 | family | Familie | 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭
+- [0745] | 1 | fan-favorite | Fan-Favorit | 最喜爱的扇形
+- [0746] | 1 | fans | Ventilatoren | 粉粉粉粉扇
+- [0747] | 1 | fared | geschliffen | 远远
+- [0748] | 1 | fascist | faschistisch | 法西斯
+- [0749] | 1 | father | Vater | 父 父 父
+- [0750] | 1 | Father's | Vater's | 父亲的
+- [0751] | 1 | fears | Ängste | 恐惧
+- [0752] | 1 | federal | föderal | 联邦联邦
+- [0753] | 1 | feds | Feds | 联邦联邦
+- [0754] | 1 | Fellowships | Stipendien | 研究金研究金研究金
+- [0755] | 1 | female | weiblich | 女性 女性 女性 女性
+- [0756] | 1 | finance | Finanzierung | 财务财务
+- [0757] | 1 | finds | Funde | 找寻
+- [0758] | 1 | fire | Feuer | 火灾
+- [0759] | 1 | fires | Brände | 火灾火灾
+- [0760] | 1 | firing | Feuer | 射击
+- [0761] | 1 | first | zuerst | 第一次
+- [0762] | 1 | Flasbarth | Flasbarth | 弗拉斯巴
+- [0763] | 1 | following | folgend | 下述
+- [0764] | 1 | form | Formblatt | 窗体窗体
+- [0765] | 1 | forward' | Vorwärts" | 未来
+- [0766] | 1 | Foundation | Stiftung | 基金会基金会基金会基金会基金会基金会
+- [0767] | 1 | Franklin | Franklin | 富兰克林
+- [0768] | 1 | fraud | Betrug | 欺诈欺诈
+- [0769] | 1 | free | frei | 空闲
+- [0770] | 1 | French | Französisch | 法语 法语 法语
+- [0771] | 1 | fully | vollständig | 充分
+- [0772] | 1 | game | Spiel | 游戏游戏游戏
+- [0773] | 1 | game-tying | Spielbindung | 游戏- 调色
+- [0774] | 1 | gas | Gas | 气体气体气体
+- [0775] | 1 | Gender | Geschlecht | 性别 性别 性别 性别 性别
+- [0776] | 1 | gold | Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold | 金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金
+- [0777] | 1 | good | gut | 良好
+- [0778] | 1 | Google | Google | 谷歌谷歌
+- [0779] | 1 | Graham | Graham | 格雷厄姆
+- [0780] | 1 | gravity | Schwerkraft | 重力
+- [0781] | 1 | Greenpeace | Greenpeace | 绿色绿色和平组织
+- [0782] | 1 | grills | Gitter | 烤架
+- [0783] | 1 | group | Gruppe | 组群
+- [0784] | 1 | groups | Gruppen | 组群
+- [0785] | 1 | Guard | Wache | 警卫警卫
+- [0786] | 1 | guitarist | Gitarrist | 吉他手
+- [0787] | 1 | hall | Halle | 大厅
+- [0788] | 1 | handcuffed | Handschellen | 带手铐
+- [0789] | 1 | hands | Hände | 手手
+- [0790] | 1 | hard-line | hard-line | 硬线
+- [0791] | 1 | Harjes | Harjes | 哈列斯
+- [0792] | 1 | Harvey | Harvey. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 哈维
+- [0793] | 1 | he | er | 世 世 世 世 世 世 世
+- [0794] | 1 | headquarters | Sitz | 总部总部总部
+- [0795] | 1 | heavy | schwer | 重重
+- [0796] | 1 | her | sie | 
+- [0797] | 1 | here | Hierher | 在这里
+- [0798] | 1 | Hertz | Hertz | Hertz 赫兹
+- [0799] | 1 | HHS | HHS | 时 年
+- [0800] | 1 | hidden | versteckt | 隐藏隐藏
+- [0801] | 1 | hike | Wanderung | 远 远 远 远
+- [0802] | 1 | Hill | Hügel | 山丘
+- [0803] | 1 | his | sein | 排在《公约》
+- [0804] | 1 | history’s | Geschichte | 历史历史
+- [0805] | 1 | hit | getroffen | 中弹
+- [0806] | 1 | hits | Treffer | 点击次数
+- [0807] | 1 | homeless | Obdachlos | 无家可归的无家可归者
+- [0808] | 1 | homer | homer | homer 主机
+- [0809] | 1 | hope | Hoffnung | 希望希望
+- [0810] | 1 | hostages | Geiseln | 人质或人质人质
+- [0811] | 1 | hot | heiß | 热热
+- [0812] | 1 | humanitarian | humanitäre Hilfe | 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义
+- [0813] | 1 | Hundreds | Hunderte | 百 百 百
+- [0814] | 1 | hunt | Jagd | 狩猎
+- [0815] | 1 | hydrogen | Wasserstoff | 氢氢
+- [0816] | 1 | I'm | Ich bin | 我... 我... 我... 我...
+- [0817] | 1 | illegal | illegal | 非法非法
+- [0818] | 1 | illegally | illegal | 非法非法
+- [0819] | 1 | Illinois | Illinois (Illinois). - (EN) Herr Präsident, meine Damen und Herren! | 伊利诺斯州
+- [0820] | 1 | imaginary | imaginär | 想象中
+- [0821] | 1 | immigrant | Zuwanderer | 移民移民移民
+- [0822] | 1 | immigration | Einwanderung | 移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民
+- [0823] | 1 | important | wichtig | 重要重要
+- [0824] | 1 | Indonesia | Indonesien | 印度尼西亚 印度尼西亚 印度尼西亚
+- [0825] | 1 | industry | Industrie | 工业工业
+- [0826] | 1 | information | Informationen | 信息信息信息信息信息信息信息
+- [0827] | 1 | inner | inner | 内
+- [0828] | 1 | innovation | Innovation | 创新创新
+- [0829] | 1 | insights | Einsichten | 洞洞洞洞见
+- [0830] | 1 | interim | Vorübergehend | 临时临时
+- [0831] | 1 | into | in die | 与
+- [0832] | 1 | investigation | Untersuchung | 调查调查
+- [0833] | 1 | Iran | Iran | 伊朗 伊朗 伊朗
+- [0834] | 1 | irked | geschält | 穿针
+- [0835] | 1 | Island | Insel | 岛屿
+- [0836] | 1 | issues | Fragen | 问题(问题)
+- [0837] | 1 | Istanbul | Istanbul | 伊斯坦布尔
+- [0838] | 1 | Jasmine | Jasmin | 茉莉花
+- [0839] | 1 | Jesus | Mein Gott! | 耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣
+- [0840] | 1 | Jewish | Jüdisch | 犹太犹太人
+- [0841] | 1 | Jochen | Jochen | 约 约 琴
+- [0842] | 1 | John | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 约翰·约翰
+- [0843] | 1 | Julie | Julie | 朱莉
+- [0844] | 1 | Just | Nur | 只是
+- [0845] | 1 | Karol | Karol | 卡洛
+- [0846] | 1 | key | Schlüssel | 键键
+- [0847] | 1 | Khabib | Khabib | Khabib 村庄
+- [0848] | 1 | kills | tötet | 杀 杀 杀 杀 杀
+- [0849] | 1 | La | L 347 vom 20.12.2013, S. 671. | 拉
+- [0850] | 1 | lady's | Frauen | 女 女 女 女 女
+- [0851] | 1 | last | Letzter | 最后一
+- [0852] | 1 | lavish | verschwenderisch | 粗软
+- [0853] | 1 | lawmaker | Gesetzgeber | 立法者
+- [0854] | 1 | lawmakers | Gesetzgeber | 立法者
+- [0855] | 1 | leader | Führer | 领导领导者
+- [0856] | 1 | leads | Leitungen | 铅铅
+- [0857] | 1 | leans | mager | 倾斜
+- [0858] | 1 | leave | Urlaub | 休假假期
+- [0859] | 1 | legend | Legende | 图例
+- [0860] | 1 | letter | Buchstabe | 来函
+- [0861] | 1 | Liberal | Liberal | 自由自由自由
+- [0862] | 1 | light | leicht | 轻型轻型
+- [0863] | 1 | like | Wie z.B. | 类似
+- [0864] | 1 | Lindsay | Lindsay | 林赛
+- [0865] | 1 | Lindsie | Lindsie | 林西
+- [0866] | 1 | Lives' | Lebend" | 生命
+- [0867] | 1 | lock | Verriegelung | 锁定锁定锁定
+- [0868] | 1 | Longtime | Lange Zeit | 长年时间
+- [0869] | 1 | look | Sehen Sie. | 外观
+- [0870] | 1 | loss | Verlust | 损失损失
+- [0871] | 1 | love | Liebe | 爱爱
+- [0872] | 1 | luggage | Gepäck | 行李行李
+- [0873] | 1 | machines | Maschinen | 机 机 机 机
+- [0874] | 1 | Macron | Makron | 宏
+- [0875] | 1 | made | hergestellt | 作出
+- [0876] | 1 | madness | Wahnsinn | 疯疯疯、疯疯、疯疯、狂狂、
+- [0877] | 1 | makes | macht | 环环环
+- [0878] | 1 | making | Herstellung | 制造
+- [0879] | 1 | malicious | bösartig | 恶意
+- [0880] | 1 | man | Mann | 男性 男性
+- [0881] | 1 | marvels | Wunder | 奇迹
+- [0882] | 1 | Maryland | Maryland | 马里兰州
+- [0883] | 1 | Maxine | Höchstgehalt | 美美美
+- [0884] | 1 | McCormick | McCormick | 麦考密克
+- [0885] | 1 | McEuen | McEuen | 麦克艾恩
+- [0886] | 1 | medalist | Medaillengewinner | 得奖奖人
+- [0887] | 1 | medical | ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich | 医疗 医务
+- [0888] | 1 | meeting | Sitzung | 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议
+- [0889] | 1 | men's | Männer | 男男性
+- [0890] | 1 | metals | Metalle | 金属金属
+- [0891] | 1 | method | Verfahren | 方法
+- [0892] | 1 | middle | Mitte | 中间中间
+- [0893] | 1 | Miley | Miley | 米耶
+- [0894] | 1 | millions | Millionen | 百万 百万
+- [0895] | 1 | misconduct | Fehlverhalten | 行为失检行为
+- [0896] | 1 | Missouri | Missouri | 密密苏里
+- [0897] | 1 | mixed | gemischt | 混合混合
+- [0898] | 1 | Molotov | Molotow | 莫洛托夫
+- [0899] | 1 | moment | Moment | 瞬间
+- [0900] | 1 | Moscow | Moskau | 莫斯科莫斯科
+- [0901] | 1 | move | Verschieben | 移动移动
+- [0902] | 1 | much-needed | dringend benötigte | 迫切需要的
+- [0903] | 1 | mugshot | Schnuller | 截图
+- [0904] | 1 | murder | Mord | 谋杀 谋杀
+- [0905] | 1 | murderers | Mörder | 谋杀杀人犯
+- [0906] | 1 | music | Musik | 音乐音乐
+- [0907] | 1 | must | muss | 必须
+- [0908] | 1 | must-know | muss-wissen | 必须知道
+- [0909] | 1 | Nadler | Nadler | 纳德勒
+- [0910] | 1 | Nam | Nam | 南南
+- [0911] | 1 | NATO | NATO | 北约北约
+- [0912] | 1 | Nawrocki | Nawrocki | 纳罗基语Name
+- [0913] | 1 | NBC | NBC | NNBC 核生核
+- [0914] | 1 | near | in der Nähe | 附近
+- [0915] | 1 | Newark | Newark | 纽瓦克Name
+- [0916] | 1 | noncitizen | Nicht-Bürger | 非公民公民
+- [0917] | 1 | nonstop | nonstop | 连续连续
+- [0918] | 1 | not | nicht | 否
+- [0919] | 1 | notorious | notorisch | 臭名昭著
+- [0920] | 1 | nuclear | Kernkraft | 核
+- [0921] | 1 | Nurmagomedov | Nurmagomedov | 努尔马默多多
+- [0922] | 1 | NY | NIEDERLANDE | 纽约,纽约
+- [0923] | 1 | office | Büro | 办公室办公室
+- [0924] | 1 | Olympic | Olympische Spiele | 奥林匹克奥林匹克奥林匹克奥林匹克
+- [0925] | 1 | online | online | 在线在线
+- [0926] | 1 | opens | geöffnet | 打开
+- [0927] | 1 | opposition | Einspruch | 反对派
+- [0928] | 1 | Oregon | Oregon | 俄勒冈州
+- [0929] | 1 | org | org@info:whatsthis:whatsthis:whatsthis:whats:whats:whats:whats:whats:whats:whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats | 以 org 单位
+- [0930] | 1 | ousted | verausgabt | 被调离
+- [0931] | 1 | outdoor | im Freien | 户外
+- [0932] | 1 | outside | außerhalb | 外部
+- [0933] | 1 | Palestinians | Palästinenser | 巴勒斯坦人巴勒斯坦人
+- [0934] | 1 | Pamela | Pamela | 帕梅拉
+- [0935] | 1 | pandemic | Pandemie | 大流行病 大流行病
+- [0936] | 1 | pardon | Entschuldigung | 赦免 赦免
+- [0937] | 1 | parked | geparkt | 停停
+- [0938] | 1 | Partnerships | Partnerschaften | 伙伴关系伙伴关系伙伴关系伙伴关系
+- [0939] | 1 | PASTOR | PASTOR | 书 员 书 员 书 员
+- [0940] | 1 | pay | Bezahlung | 薪资
+- [0941] | 1 | peace | Frieden | 和平、和平、和平、和平
+- [0942] | 1 | performs | führt aus | 表演 表演
+- [0943] | 1 | person | Person | 人 人 人 人
+- [0944] | 1 | personal | persönlich | 个人 个人 个人
+- [0945] | 1 | pizza | Pizza | 披萨比萨
+- [0946] | 1 | place | Ort | 地点地点
+- [0947] | 1 | plane | Ebene | 平平平面
+- [0948] | 1 | planned | geplant | 计划计划数
+- [0949] | 1 | players' | Spieler" | 播放播放播放播放播放播放器
+- [0950] | 1 | Plus | Plus | 加加
+- [0951] | 1 | policies | Politikbereiche | 政策、政策、政策、政策和政策
+- [0952] | 1 | policy | Politik | 政策政策
+- [0953] | 1 | Polish | Polnisch | 波兰语Name
+- [0954] | 1 | polling | Umfragen | 投票情况
+- [0955] | 1 | poor | schlecht | 贫穷
+- [0956] | 1 | popular | beliebt | 普 普 普 普
+- [0957] | 1 | posed | gestellt | 装装
+- [0958] | 1 | postdoc | Postdoc | 弃号后
+- [0959] | 1 | posts | Planstellen | 员额员额员额
+- [0960] | 1 | Powerful | Kraftvoll | 强大的
+- [0961] | 1 | President | Präsident | 主 庭长 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席
+- [0962] | 1 | presidential | Präsident | 总统
+- [0963] | 1 | previous | vorhergehend | 上一个
+- [0964] | 1 | printing | Druckverfahren | 印 印 印 印 印 印 印 印
+- [0965] | 1 | prison | Gefängnis | 监狱监狱
+- [0966] | 1 | pro-Israel | pro-Israel | 亲以色列
+- [0967] | 1 | prosecution | Strafverfolgung | 起诉 起诉
+- [0968] | 1 | protest | Protest | 抗议抗议
+- [0969] | 1 | purchase | Kauf | 购买购买
+- [0970] | 1 | Purse | Portemonnaie | 发货
+- [0971] | 1 | push | schieben | 推进
+- [0972] | 1 | pushes | Drücker | 推键
+- [0973] | 1 | pushing | schieben | 推推
+- [0974] | 1 | Putin | Putin | 普京
+- [0975] | 1 | puts | setzt | 调和
+- [0976] | 1 | quickly | schnell | 快速快速
+- [0977] | 1 | R-Truth | R-Wahrheit | R- 真相
+- [0978] | 1 | racket' | "Geschmack" | 吵闹闹闹闹闹闹闹闹
+- [0979] | 1 | Ray | - Ich weiß nicht. - Ich weiß es nicht. | 雷
+- [0980] | 1 | react | reagieren | 反应
+- [0981] | 1 | reaction | Reaktion | 反应反应反应
+- [0982] | 1 | reaffirms | bekräftigt | 重申
+- [0983] | 1 | reality | Wirklichkeit | 现实现实
+- [0984] | 1 | receive | empfangen | 接收接收
+- [0985] | 1 | recipe | Rezept | 食谱配方
+- [0986] | 1 | Red | Rot | 红红
+- [0987] | 1 | Reds | Rote | 红
+- [0988] | 1 | reflects | reflektiert | 反映
+- [0989] | 1 | refuses | lehnt ab | 拒绝拒绝
+- [0990] | 1 | Regarding | In Bezug auf | 关于
+- [0991] | 1 | registration | Registrierung | 登记登记
+- [0992] | 1 | released | freigegeben | 释放
+- [0993] | 1 | removed | entfernt | 已删除
+- [0994] | 1 | removing | Entfernen | 删除删除
+- [0995] | 1 | Rep | Antwort | Re Re Re Re
+- [0996] | 1 | rescues | Rettungsmaßnahmen | 营救
+- [0997] | 1 | resistance | Widerstandsfähigkeit | 抗药性
+- [0998] | 1 | responds | antwortet | 回复回复
+- [0999] | 1 | restaurant | Restaurant | 餐厅
+- [1000] | 1 | restricting | Begrenzung | 限制限制
+- [1001] | 1 | restructuring | Umstrukturierung | 改组改组
+- [1002] | 1 | reversal | Umkehrung | 逆转
+- [1003] | 1 | reversed' | umgekehrt" | 倒转'
+- [1004] | 1 | reviews | Überprüfungen | 审评
+- [1005] | 1 | revives | wiederbelebt | 恢复
+- [1006] | 1 | Rhode | Rhode | 罗德
+- [1007] | 1 | rice | Reis | 大米饭
+- [1008] | 1 | rips | Reißzähne | 裂数
+- [1009] | 1 | rise | Anstieg | 升升
+- [1010] | 1 | RNC | RNC | RNNNN  RNNN
+- [1011] | 1 | Rockies | Felsgewächse | 岩礁
+- [1012] | 1 | Rounds | Rundungen | 轮数轮
+- [1013] | 1 | rule | Regel | 规则细则细则细则细则细则细则细则
+- [1014] | 1 | rules' | Vorschriften" | 规则规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的
+- [1015] | 1 | Russia | Frankreich | 俄罗斯 俄罗斯
+- [1016] | 1 | Russian | Russisch | 俄文 俄文 俄文
+- [1017] | 1 | sale | Verkauf | 销售销售
+- [1018] | 1 | Samaritan’s | Samariter | 撒马利亚人
+- [1019] | 1 | say | sagen | 说
+- [1020] | 1 | says | sagt | 说:
+- [1021] | 1 | scalable | skalierbar | 可缩放
+- [1022] | 1 | scams | Betrug | 骗骗骗
+- [1023] | 1 | Science' | Wissenschaft" | 科学
+- [1024] | 1 | SCOOP | SCOOP | 孔孔
+- [1025] | 1 | scores | Werte | 得分数
+- [1026] | 1 | season | Jahreszeit | 季节季节
+- [1027] | 1 | seat | Sitz | 位数
+- [1028] | 1 | seawater | Meerwasser | 海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水
+- [1029] | 1 | Second | Zweiter | 第二届
+- [1030] | 1 | Secretary | Sekretär | 秘书秘书秘书秘书
+- [1031] | 1 | secretly | Insgeheim | 秘密秘密
+- [1032] | 1 | security | Sicherheit | 安全安全
+- [1033] | 1 | Sen | SEN | 森数
+- [1034] | 1 | sexual | sexuell | 性 性 性 性
+- [1035] | 1 | shake | Schütteln | 摇摇
+- [1036] | 1 | she | sie | 谢 谢
+- [1037] | 1 | sheds | Schuppen | 棚棚,
+- [1038] | 1 | shelter | Unterschlupf | 庇护所
+- [1039] | 1 | shop | Shop | 店铺
+- [1040] | 1 | shortly | in Kürze | 不久不久
+- [1041] | 1 | Side | Seite | 侧边
+- [1042] | 1 | silence | Stille | 静静
+- [1043] | 1 | sister | Schwester | 姐姐 姐姐
+- [1044] | 1 | site | Ort | 网址网址
+- [1045] | 1 | sketch | Skizze | 草图草图
+- [1046] | 1 | small | klein | 小
+- [1047] | 1 | sobriety | Nüchternheit | 戒酒
+- [1048] | 1 | soda | Soda | 苏打汽水
+- [1049] | 1 | softball | Softball | 垒球
+- [1050] | 1 | Sons | Söhne | 儿子
+- [1051] | 1 | speech | Rede | 语音
+- [1052] | 1 | sports | Sport | 运动 运动 运动 运动 运动 运动 运动
+- [1053] | 1 | sportscaster | Sportcaster | 体育播放台
+- [1054] | 1 | Spot | Ort | 点点点
+- [1055] | 1 | stabbed | abgestochen | 刺刺
+- [1056] | 1 | staff | Personal | 工作人员 工作人员
+- [1057] | 1 | standing | stehend | 现职
+- [1058] | 1 | statement | Erklärung | 报表报表
+- [1059] | 1 | statue | Statue | 雕像
+- [1060] | 1 | Steelers | Stähle und Stähle | 钢钢人
+- [1061] | 1 | stirs | Schüttelfrost | 电动,
+- [1062] | 1 | stolen | gestohlen | 被盗
+- [1063] | 1 | stores | Filialen | 储存仓库
+- [1064] | 1 | strike | Streik | 罢工罢工
+- [1065] | 1 | strokes | Schlaganfälle | 中划线
+- [1066] | 1 | strongly | stark | 强烈强烈
+- [1067] | 1 | struggle | Kampf | 战斗 战斗
+- [1068] | 1 | stunning | Betäubung | 令人惊叹
+- [1069] | 1 | stunt | Stunt | 发育障碍
+- [1070] | 1 | subscription | Abonnement | 订阅
+- [1071] | 1 | succeed | Erfolg | 成功成功
+- [1072] | 1 | Supreme | Oberster | 最高最高
+- [1073] | 1 | suspect's | Verdächtiger | 嫌疑人的
+- [1074] | 1 | sweep | Sweep | 扫描
+- [1075] | 1 | swimsuit | Badeanzug | 泳衣
+- [1076] | 1 | swirls | Wirbel | 旋转
+- [1077] | 1 | Tale' | Geschichte" | 说 道
+- [1078] | 1 | talks | Gespräche | 会谈 会谈
+- [1079] | 1 | tape' | Band" | 磁带'
+- [1080] | 1 | tariffs | Tarife | 关税关税
+- [1081] | 1 | taxpayers | Steuerpflichtige | 纳税人纳税人
+- [1082] | 1 | Tennessee | Tennessee | 田田
+- [1083] | 1 | terrorism | Terrorismus | 恐怖主义恐怖主义恐怖主义恐怖主义恐怖主义
+- [1084] | 1 | testing | Prüfung | 测试测试
+- [1085] | 1 | tests | Prüfungen | 测试测试
+- [1086] | 1 | Texas | WIRTSCHAFTSZWEIG | 得克萨斯州
+- [1087] | 1 | theft | Diebstahl | 盗窃
+- [1088] | 1 | ties | Verbindungen | 连结
+- [1089] | 1 | title | Titel | 标题标题标题
+- [1090] | 1 | took | genommen | 采取
+- [1091] | 1 | tools | Werkzeuge | 工具工具
+- [1092] | 1 | town | Stadt | 镇镇
+- [1093] | 1 | Toxic | Giftig | 有毒有毒
+- [1094] | 1 | traveling | Reisen | 旅行旅费
+- [1095] | 1 | Trevor | Trevor | 特雷弗
+- [1096] | 1 | trolls | Trolle | 巨巨人
+- [1097] | 1 | truck | LKW | 卡车
+- [1098] | 1 | true | wahr | 真实
+- [1099] | 1 | turned | gedreht | 转转
+- [1100] | 1 | UCLA | UCLA | UCLA 加州大学
+- [1101] | 1 | UFC | UFC | UCUC 团结团结会
+- [1102] | 1 | UK | Vereinigtes Königreich | 联合王国
+- [1103] | 1 | Ukraine | Ukraine | 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰
+- [1104] | 1 | Ukraine’s | Ukraine | 乌克兰 乌克兰
+- [1105] | 1 | unfortunate | Unglücklich | 不幸
+- [1106] | 1 | United | Vereinigtes | 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联
+- [1107] | 1 | unleashes | entfesselt | 释放
+- [1108] | 1 | uranium' | Uran" | 铀
+- [1109] | 1 | USAID | USAID | 美援署
+- [1110] | 1 | Variety | Sorten | 多样性
+- [1111] | 1 | Viet | Vietnam | 越南 越南 越南
+- [1112] | 1 | violating | Verleumdung | 违反《公约》
+- [1113] | 1 | viral | virale | 病毒
+- [1114] | 1 | voter | Wähler | 选民选民选民
+- [1115] | 1 | vs | vs. | Vs 和
+- [1116] | 1 | want | wollen | 需要
+- [1117] | 1 | wanting | zu wünschen | 缺少
+- [1118] | 1 | Warnock | Warnock | 华纳克
+- [1119] | 1 | warns | warnt | 警告警告
+- [1120] | 1 | warplanes | Kriegsflugzeuge | 战机
+- [1121] | 1 | was | wurde | 原为
+- [1122] | 1 | watchdog | Wachhund | 监 监 监 监 监
+- [1123] | 1 | Waters | Wasser | 水 水
+- [1124] | 1 | wax | Wachs | 蜡蜡
+- [1125] | 1 | WCWS | WCWS | WWWWS WWS(WWWWW WWS)
+- [1126] | 1 | Web' | Web" | 网络
+- [1127] | 1 | weekend | Wochenende | 周末周末
+- [1128] | 1 | weeks | Wochen | 周数
+- [1129] | 1 | Weinstein | Weinstein | 温斯坦
+- [1130] | 1 | when | wenn | 何时
+- [1131] | 1 | whether | ob | 是否
+- [1132] | 1 | while | während | 时时
+- [1133] | 1 | who | Wer | 人 或 人
+- [1134] | 1 | will | wird | 会
+- [1135] | 1 | wine | Wein | 葡萄酒
+- [1136] | 1 | withdrawal | Rücknahme | 退出退出
+- [1137] | 1 | workers | Arbeitnehmer | 工人 工人
+- [1138] | 1 | workings | Arbeiten | 工作
+- [1139] | 1 | work’ | Arbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 工 工 工 工
+- [1140] | 1 | worlds | Welten | 世界和世界
+- [1141] | 1 | worst | schlimmste | 最差
+- [1142] | 1 | would | würde | 将
+- [1143] | 1 | writing | Schreiben | 写写
+- [1144] | 1 | WWE | WWE | WWWWWWWW WWW WWWW WWWW WWWW WWW WWW WWW WW WWW WWW WWW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW W WW WW W WW W W W W W W W W W WW WW WW W W W W W W W W W W WW W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W
+- [1145] | 1 | years | Jahre | 年份
+- [1146] | 1 | York | L 347 vom 20.12.2013, S. 671. | 纽约,纽约
+- [1147] | 1 | your | Ihre | 贵国的
+- [1148] | 1 | – | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - ~ ~ ~ ~ ~
+- [1149] | 1 | ‘ | „ | ' '
+- [1150] | 1 | ‘illegal’ | „illegal" | `非法 '
+- [1151] | 1 | ‘kindness’ | „Freundlichkeit" | " 慈善 "
+- [1152] | 1 | ‘Resist | „Widerspruch | `抵抗
+- [1153] | 1 | ‘victory’ | „Sieg" | `胜利 '
+- [1154] | 1 | ‘We’re | „Wir sind | `我们'
+- [1155] | 1 | … | ... | .
