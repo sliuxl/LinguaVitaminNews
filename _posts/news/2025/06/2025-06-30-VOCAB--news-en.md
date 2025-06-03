@@ -1,1163 +1,1129 @@
 ---
-title: "English vocab up to 2025-06-30: 1156"
+title: "English vocab up to 2025-06-30: 1122"
 date: 2025-06-30
 layout: post
 ---
 
-- id | count | en | de | es | fr | zh
-- [0000] | 74 | the | die | 排
-- [0001] | 68 | to | zu | 至
-- [0002] | 65 | of | von | 联 联 年 月 日 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 月 日 月 的 月 月 月 日 月 月 日 月 的 月 月 月 月 日 月 月 月
-- [0003] | 64 | for | für | 用于
-- [0004] | 60 | and | und | 和
-- [0005] | 52 | a | a | a a/
-- [0006] | 48 | in | in der | 内
-- [0007] | 39 | on | am | 上 年 月
-- [0008] | 38 | new | neu | 新建新
-- [0009] | 37 | with | mit | 与
-- [0010] | 35 | MIT | MIT | 麻 麻 三
-- [0011] | 17 | AI | GESUNDHEITSSCHUTZ | AI AI AI
-- [0012] | 17 | at | bei | 至 年
-- [0013] | 16 | students | Schüler | 学生 学生
-- [0014] | 15 | global | global | 全球环球
-- [0015] | 14 | an | und | a , a , a , a , a , a
-- [0016] | 14 | How | Wie | 如何如何
-- [0017] | 13 | after | nach | 之后
-- [0018] | 13 | Class | Klasse | 班级
-- [0019] | 13 | Study | Studie | 研究研究
-- [0020] | 12 | Harvard | L 347 vom 20.12.2013, S. 671. | 哈佛
-- [0021] | 12 | human | Mensch | 人 人 人 人 人 人 人 人 人 人 人 人 人
-- [0022] | 9 | as | als | 计为
-- [0023] | 9 | attack | Angriff | 攻击攻击
-- [0024] | 9 | could | könnte | 能够
-- [0025] | 9 | Green | Grün | 绿绿色
-- [0026] | 9 | Hank | Hank | 汉克
-- [0027] | 9 | Minister | Minister | 部长部长,部长
-- [0028] | 9 | over | Über | 超过
-- [0029] | 9 | solutions | Lösungen | 解决方案
-- [0030] | 9 | Syria | Syrien | 叙利亚 叙利亚
-- [0031] | 9 | Trump | Trump | 特朗
-- [0032] | 8 | are | sie werden | 是
-- [0033] | 8 | Commencement | Beginn | 开始
-- [0034] | 8 | life | Leben | 生命
-- [0035] | 8 | shows | zeigt | 显示显示
-- [0036] | 8 | work | Arbeit | 工 工 工 工 工 工 工 工 工 工
-- [0037] | 7 | Boulder | Boulder | 发泡机
-- [0038] | 7 | Development | Entwicklung | 发展、发展、发展、发展
-- [0039] | 7 | energy | Energie | 能源能源
-- [0040] | 7 | is | wird | 是
-- [0041] | 7 | process | Prozess | 进程进程
-- [0042] | 7 | Science | Wissenschaft | 科学科学
-- [0043] | 7 | transition | Übergang | 过渡期
-- [0044] | 7 | urges | Drängen | 敦促
-- [0045] | 7 | way | Art und Weise | 方形
-- [0046] | 6 | address | Anschrift | 地址地址地址地址地址地址
-- [0047] | 6 | against | dagegen | 日 年 年 年 月 日
-- [0048] | 6 | Alabali-Radovan | Alabali-Radovan | 阿拉巴利-拉多万
-- [0049] | 6 | cell | Zelle | 单元格单元格单元格单元格单元格单元格
-- [0050] | 6 | cells | Zellen | 单元格单元格单元格单元格
-- [0051] | 6 | cent | INSGESAMT | 百分比(%)
-- [0052] | 6 | Corporation | Unternehmen | 公司公司
-- [0053] | 6 | day | Tag | 天天
-- [0054] | 6 | discover | entdecken | 发现发现
-- [0055] | 6 | engineering | Ingenieurwesen | 工程工程工程
-- [0056] | 6 | Germany | Deutschland | 德国 德国
-- [0057] | 6 | if | wenn | 如果
-- [0058] | 6 | inclusion | Aufnahme | 包含
-- [0059] | 6 | it | Es wird | 其 其 年 , 其 年 , 其 年 , 其
-- [0060] | 6 | Judge | Richter | 法官 法官 法官 法官 法官 法官 法官 法官 法官
-- [0061] | 6 | magnetic | magnetisch | 磁磁
-- [0062] | 6 | manufacturing | Verarbeitendes Gewerbe | 制造制造业
-- [0063] | 6 | may | kann | 中 中 中 中 中 中
-- [0064] | 6 | members | Mitglieder | 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员
-- [0065] | 6 | MIT’s | MITTEN | 麻省麻省麻省麻省麻省麻省麻省麻省麻省麻省
-- [0066] | 6 | named | benannt | 命名名称
-- [0067] | 6 | per | je | / 人 / 人
-- [0068] | 6 | proud | stolz | 骄傲自豪
-- [0069] | 6 | Questions | Fragen | 问 问 问 问 问 问 问 问 问 问
-- [0070] | 6 | reduce | Verringerung | 减少
-- [0071] | 6 | Reem | Reem | Reeem  Reeem  Reeem 雷 Reeem
-- [0072] | 6 | scientists | Wissenschaftler | 科学家、科学家和科学家
-- [0073] | 6 | shots | Schüsse | 射击
-- [0074] | 6 | some | teilweise | 部分为某些
-- [0075] | 6 | state | Zustand | 状态状态状态状态
-- [0076] | 6 | Summit | Gipfeltreffen | 首脑会议首脑首脑首脑首脑首脑首脑首脑首脑首脑首脑会议首脑会议首脑会议首脑会议
-- [0077] | 6 | targets | Ziele | 指标指标指标指标指标指标指标指标指标指标指标
-- [0078] | 6 | Technique | Technik | 技术
-- [0079] | 6 | terror | Terror | 恐怖主义恐怖主义
-- [0080] | 5 | about | über | 约约约
-- [0081] | 5 | advance | Vorschuss | 预预
-- [0082] | 5 | by | von | 至
-- [0083] | 5 | D | D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | D D
-- [0084] | 5 | data | Daten | 数据数据数据数据数据
-- [0085] | 5 | degrees | Grad | 摄度度
-- [0086] | 5 | from | von | 调自
-- [0087] | 5 | future | Zukunft | 未来
-- [0088] | 5 | graduating | Abschluss | 毕业毕业
-- [0089] | 5 | models | Modelle | 模型模型模型
-- [0090] | 5 | potential | Potenzial | 潜在潜力
-- [0091] | 5 | predict | vorhersagen | 预测预测数
-- [0092] | 5 | research | Forschung | 研究研究研究
-- [0093] | 5 | stand | Stand | 站点
-- [0094] | 5 | tells | sagt | 线报
-- [0095] | 5 | their | deren | 他们的
-- [0096] | 5 | they | sie/Sie | 和
-- [0097] | 5 | through | bis | 中 中 中
-- [0098] | 5 | using | Verwendung | 使用
-- [0099] | 5 | we | wir | 我们
-- [0100] | 5 | ’ | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ' ' ;
-- [0101] | 4 | all | alle | 全部( 全部)
-- [0102] | 4 | American | amerikanisch | 美裔美国人
-- [0103] | 4 | announces | kündigt an | 宣布宣布
-- [0104] | 4 | any | keine | 任何
-- [0105] | 4 | Call | Anruf | 调调
-- [0106] | 4 | can | kann | 能够
-- [0107] | 4 | can’t | Kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann. | 不能”
-- [0108] | 4 | enables | ermöglicht | 启用启用
-- [0109] | 4 | gift | Geschenk | 赠礼礼物
-- [0110] | 4 | have | haben | 拥有
-- [0111] | 4 | history | Vorgeschichte | 历史历史历史历史历史历史历史
-- [0112] | 4 | identify | Identifizieren | 识别
-- [0113] | 4 | K | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein nein, nein, nein, nein nein, nein nein, nein nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein nein, nein nein, nein, nein, nein nein, nein nein, nein nein, nein nein, nein nein, nein, nein, nein nein nein, nein nein, nein nein nein nein nein nein nein nein nein, nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein | K K 级
-- [0114] | 4 | less | weniger | 小于
-- [0115] | 4 | location | Standort | 位置位置位置
-- [0116] | 4 | make | machen | 混和 混和
-- [0117] | 4 | multiple | Mehrfach | 多个数
-- [0118] | 4 | No | Nein | 否 无
-- [0119] | 4 | off | aus | 关闭
-- [0120] | 4 | oil | Öl | 石油油油
-- [0121] | 4 | people | Menschen | 人 人 人 人 人 人 人 人
-- [0122] | 4 | Program | Programm | 方案方案
-- [0123] | 4 | School | Schule | 学校学校
-- [0124] | 4 | support | Unterstützung | 支助支助
-- [0125] | 4 | suspect | Verdächtiger | 可疑嫌疑人
-- [0126] | 4 | times | Zeiten | 时间时间
-- [0127] | 4 | tool | Werkzeug | 工具工具工具
-- [0128] | 4 | toward | Richtung | 向
-- [0129] | 4 | up | nach oben | 上上
-- [0130] | 4 | water | Wasser | 水 水
-- [0131] | 4 | Why | Warum? | 为什么
-- [0132] | 4 | wins | gewinnt | 赢赢
-- [0133] | 3 | - | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - 带
-- [0134] | 3 | -year | -Jahr | -年份 -年份
-- [0135] | 3 | accessibility | Zugänglichkeit | 无障碍环境
-- [0136] | 3 | also | auch | 并且,还有
-- [0137] | 3 | Alzheimer’s | Alzheimer | 阿尔茨海默氏体
-- [0138] | 3 | anomaly | Anomalie | 异常异常
-- [0139] | 3 | answer | Antwort | 答答
-- [0140] | 3 | anyone | jeder | 任何人
-- [0141] | 3 | approach | Ansatz | 方 式 式
-- [0142] | 3 | Architecture | Architektur | 建筑结构结构
-- [0143] | 3 | aviation | Luftfahrt | 航空航空
-- [0144] | 3 | Award | Preis | 奖 奖 奖 奖
-- [0145] | 3 | awards | Auszeichnungen | 裁定赔偿金
-- [0146] | 3 | becomes | wird | 成为
-- [0147] | 3 | Bertsimas | Bertsimas | 伯特西玛斯
-- [0148] | 3 | best | am besten | 最佳
-- [0149] | 3 | biology” | Biologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 生物学”
-- [0150] | 3 | boost | Boost | 推进推进
-- [0151] | 3 | bot | Bot | 立方体体
-- [0152] | 3 | bottleneck | Engpass | 瓶颈
-- [0153] | 3 | brain’s | Gehirne | 大脑
-- [0154] | 3 | bridges | Brücken | 桥梁
-- [0155] | 3 | build | Bauen | 建设
-- [0156] | 3 | capacity | Kapazität | 能力能力能力
-- [0157] | 3 | capture | Erfassung | 捕捉
-- [0158] | 3 | carrying | mitgeführt | 带有
-- [0159] | 3 | catches | Fänge | 渔渔渔渔量
-- [0160] | 3 | cells’ | Zellen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 单元格单元格 '
-- [0161] | 3 | Chancellor | Kanzler | 总理,总理
-- [0162] | 3 | change | Veränderung | 变动
-- [0163] | 3 | charge | Erhebung | 收费
-- [0164] | 3 | Climate | Klima | 气候气候 气候
-- [0165] | 3 | CO | L 347 vom 20.12.2013, S. 671. | COCO
-- [0166] | 3 | collaboration | Zusammenarbeit | 协作
-- [0167] | 3 | commitments | Verpflichtungen | 承付款
-- [0168] | 3 | communication | Kommunikation | 通讯通讯通讯通讯
-- [0169] | 3 | compact | kompakt | 紧紧
-- [0170] | 3 | Competition | Wettbewerb | 竞争 竞争 竞争 竞争 竞争 竞争 竞争
-- [0171] | 3 | concludes | Schlussfolgerungen | 结 结 结 结 结
-- [0172] | 3 | connected | verbunden | 连接连接
-- [0173] | 3 | conversion | Umwandlung | 转换
-- [0174] | 3 | cooperation | Zusammenarbeit | 合作合作
-- [0175] | 3 | corrosion-resistant | Korrosionsbeständig | 抗腐蚀
-- [0176] | 3 | course | Kurs | 课程课程
-- [0177] | 3 | criticizes | kritisiert | 批评批评
-- [0178] | 3 | crucial | entscheidend | 关键
-- [0179] | 3 | crude | roh | 粗 原油
-- [0180] | 3 | curiosity | Neugierde | 好奇心
-- [0181] | 3 | D-Lab | D-Lab | D-拉布
-- [0182] | 3 | deadly | tödlich | 致命致命
-- [0183] | 3 | Declaration | Erklärung | 宣言宣言
-- [0184] | 3 | density | Dichte | 密度密度密度
-- [0185] | 3 | design | Entwurf | 设计设计设计
-- [0186] | 3 | detection | Nachweis | 检测检测
-- [0187] | 3 | developmental | entwicklungspolitische | 发 发 发 发 发
-- [0188] | 3 | device | Einrichtung | 设备设备
-- [0189] | 3 | diet | Diät | 饮食
-- [0190] | 3 | Dimitris | Dimitris | 迪米特里
-- [0191] | 3 | director | Direktor | 主任 主任
-- [0192] | 3 | disabilities | Behinderung | 残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾
-- [0193] | 3 | Disability | Behinderung | 残疾残疾残疾残疾
-- [0194] | 3 | diseases | Krankheiten | 疾病 疾病 疾病 疾病
-- [0195] | 3 | doses | Dosierung | 剂量剂量
-- [0196] | 3 | Drug | Arzneimittel | 毒品 毒品
-- [0197] | 3 | drugs | Drogen | 毒品毒品 毒品
-- [0198] | 3 | during | während | 期间
-- [0199] | 3 | dysfunction | Dysfunktion | 功能功能失调
-- [0200] | 3 | economic | Wirtschaft | 经济、经济、 经济、 经济、 经济、 经济、 经济、
-- [0201] | 3 | education | Bildung | 学历教育
-- [0202] | 3 | effect | Wirkung | 效果效果
-- [0203] | 3 | Eldercare | Altenpflege | 老年人护理
-- [0204] | 3 | electric | elektrisch | 电动
-- [0205] | 3 | elects | wählt | 选择
-- [0206] | 3 | enable | aktivieren | 启用启用
-- [0207] | 3 | explain | erklären | 解释解释
-- [0208] | 3 | explore | Erforschen | 探索探索
-- [0209] | 3 | extending | Erweiterung | 扩展扩展
-- [0210] | 3 | fall | Herbst | 秋秋
-- [0211] | 3 | feeling | Gefühl | 感觉感觉
-- [0212] | 3 | follow-up | Folgemaßnahmen | 后续行动后续行动
-- [0213] | 3 | Foreign | Ausländische | 外国 外国
-- [0214] | 3 | fractionate | fraktioniert | 分数范围
-- [0215] | 3 | framework | Rahmen | 框架框架框架框架
-- [0216] | 3 | fuel | Kraftstoff | 燃料燃料燃料燃料燃料燃料燃料
-- [0217] | 3 | gain | Gewinn | 增益
-- [0218] | 3 | gene | Gen | 基因基因
-- [0219] | 3 | generates | erzeugt | 生成
-- [0220] | 3 | graduates | Hochschulabsolventen | 毕业生
-- [0221] | 3 | Hamburg | ZEITSCHRIFTEN | 汉堡汉堡
-- [0222] | 3 | handle | Griff | 控件
-- [0223] | 3 | handling | Handhabung | 处理处理
-- [0224] | 3 | harder | härter | 更硬
-- [0225] | 3 | health | Gesundheit | 健康健康 健康 健康 健康 健康 健康 健康 健康 健康 健康
-- [0226] | 3 | helping | Hilfe | 帮助帮助
-- [0227] | 3 | helps | hilft | 帮助帮助
-- [0228] | 3 | He’s | Er ist | 他
-- [0229] | 3 | high-fat | fettreich | 高脂肪
-- [0230] | 3 | high-speed | Hochgeschwindigkeitsfahrzeuge | 高速高速
-- [0231] | 3 | highly | hoch | 高
-- [0232] | 3 | history’ | Geschichte | 历史历史
-- [0233] | 3 | huge | groß | 巨大
-- [0234] | 3 | humanity’ | Menschheit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 人类
-- [0235] | 3 | humans | Menschen | 人 人 人 人 人 人 人 人 人
-- [0236] | 3 | Imaging | Bildgebung | 图像成像
-- [0237] | 3 | inclusive | Einschließlich | 包容性
-- [0238] | 3 | India | Indien | 印度 印度 印度
-- [0239] | 3 | Initiative | Initiative | 倡议倡议倡议倡议
-- [0240] | 3 | injection | Injektionslösung | 注射
-- [0241] | 3 | international | Veröffentlichungen der Europäischen Gemeinschaften | 国际国际
-- [0242] | 3 | intervention | Intervention | 干预和干预
-- [0243] | 3 | invites | lädt ein | 邀请邀请
-- [0244] | 3 | Johann | - Ich weiß es nicht. - Ich weiß nicht. | 约翰·约翰
-- [0245] | 3 | join | beitreten | 加入加入加入
-- [0246] | 3 | joke | Witz | 笑话
-- [0247] | 3 | Journalism | Journalismus | 新闻新闻
-- [0248] | 3 | Kannon | Kannon | 肯农
-- [0249] | 3 | Killian | Killian | 基利安语Name
-- [0250] | 3 | Knight | Ritter | 骑士骑士
-- [0251] | 3 | Knight-Hennessy | Ritter-Hennessy | 骑士汉内斯
-- [0252] | 3 | Kornbluth’s | Kornbluth | 科恩布卢特的
-- [0253] | 3 | leading | führend | 铅
-- [0254] | 3 | lead” | Blei | 铅铅”
-- [0255] | 3 | learns | lernt | 学 学 学 学
-- [0256] | 3 | Lee | Lee, bitte. | 李李
-- [0257] | 3 | lifting | Heben | 升举
-- [0258] | 3 | lobbies | Lobbies | 圆圈
-- [0259] | 3 | magnet | Magnet | 磁磁磁
-- [0260] | 3 | Mary | Maria | 玛丽玛丽
-- [0261] | 3 | materials | Werkstoffe | 材料
-- [0262] | 3 | McFarling | McFarling | 麦克法林
-- [0263] | 3 | measures | Maßnahmen | 措施措施措施
-- [0264] | 3 | mechanical | mechanisch | 机械 机械
-- [0265] | 3 | Melissa | Melissa | 梅丽莎
-- [0266] | 3 | metabolic | metabolisch | 代代谢
-- [0267] | 3 | might | könnte | 中
-- [0268] | 3 | military | Militärisch | 军事 军事
-- [0269] | 3 | million | in Mio. | 百万百万
-- [0270] | 3 | mission-critical | geschäftskritische | 任务关键任务
-- [0271] | 3 | Mohamed | Mohamed | 穆罕默德·穆罕默德
-- [0272] | 3 | money | Geld | 货币 货币
-- [0273] | 3 | moon | Mond | 月月月月
-- [0274] | 3 | much | viel | 多
-- [0275] | 3 | multilateral | Multilaterale | 多边多边多边
-- [0276] | 3 | need | Notwendigkeit | 需要 需要
-- [0277] | 3 | negation | Verneinung | 否定否定
-- [0278] | 3 | Nobles’ | Adlige | 贵族
-- [0279] | 3 | normal | Normal | 正常正常
-- [0280] | 3 | officers | Beamte | 干事 干事 干事
-- [0281] | 3 | Overlooked | Überwacht | 被忽略
-- [0282] | 3 | pairs | Paare | 双对
-- [0283] | 3 | Particles | Teilchen | 粒子
-- [0284] | 3 | peaceful | friedlich | 和平、和平、和平
-- [0285] | 3 | people” | Menschen | 人与人”
-- [0286] | 3 | period | Zeitraum | 期间
-- [0287] | 3 | persons | Personen | 人 人 人 人
-- [0288] | 3 | physicists | Physiker | 物理学家
-- [0289] | 3 | physics | Physik | 物理学
-- [0290] | 3 | Ping | Ping | 平 平 平 平
-- [0291] | 3 | Planning | Planung | 规划 规划 规划 规划 规划 规划 规划 规划
-- [0292] | 3 | pledges | Verpfändungen | 认捐认捐款
-- [0293] | 3 | pong | (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) | 海绵
-- [0294] | 3 | population | Bevölkerung | 人口 人口 人口
-- [0295] | 3 | precision | Präzision | 精精精精精度
-- [0296] | 3 | problems | Probleme | 问题 问题
-- [0297] | 3 | produce | Erzeugung | 生产生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产
-- [0298] | 3 | promising | vielversprechend | 有希望
-- [0299] | 3 | prosecutor | Staatsanwalt | 检察官检察官 检察官检察官
-- [0300] | 3 | protecting | Schutz | 保护
-- [0301] | 3 | protein | Eiweiß | 蛋蛋蛋蛋蛋白
-- [0302] | 3 | pull | Ziehen | 拉拉拉
-- [0303] | 3 | queries | Abfragen | 查询
-- [0304] | 3 | rapidly | schnell | 快速快速
-- [0305] | 3 | Rationale | Begründung | 理由理由
-- [0306] | 3 | reaching | Erreicht | 达到
-- [0307] | 3 | receives | erhält | 接收接收
-- [0308] | 3 | reflecting | reflektierend | 反映
-- [0309] | 3 | regions | Regionen | 区域
-- [0310] | 3 | removes | entfernt | 删除
-- [0311] | 3 | researchers | Forscher | 研究人员 研究人员
-- [0312] | 3 | Responsible | Verantwortlich | 负责
-- [0313] | 3 | returns | Renditen | 返回返回返回
-- [0314] | 3 | Robinson | Robinson | 鲁滨逊
-- [0315] | 3 | robot | Roboter | 机器人机器人
-- [0316] | 3 | rocks | Steine | 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石
-- [0317] | 3 | Safeguarding | Schutz | 保障
-- [0318] | 3 | Sally | Sally | 萨莉
-- [0319] | 3 | sanctions | Sanktionen | 制裁制裁
-- [0320] | 3 | scenes | Szenen | 场景
-- [0321] | 3 | Scholar | Gelehrter | 学者学者
-- [0322] | 3 | SDGs | SDGs | SDGs 可持续发展目标
-- [0323] | 3 | see | siehe | 见见
-- [0324] | 3 | sets | Sets | 套套套套套套套套
-- [0325] | 3 | several | mehrere | 数个
-- [0326] | 3 | Shanmugam | ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNGEN | 沙努姆
-- [0327] | 3 | shelf | Regal | 架架架
-- [0328] | 3 | sides | Seiten | 边边边
-- [0329] | 3 | sign | Zeichen | 符号符号符号
-- [0330] | 3 | sit | Sitzen | 坐 席 坐 席
-- [0331] | 3 | smog | Smog | 烟雾烟雾
-- [0332] | 3 | Soliman | Soliman | 索利曼
-- [0333] | 3 | solvable | lösbar | 溶解
-- [0334] | 3 | solve | lösen | 解答
-- [0335] | 3 | someone’s | Jemandes | 某某人的
-- [0336] | 3 | sound | Geräusche | 声音
-- [0337] | 3 | star | Stern | 恒星星
-- [0338] | 3 | Startup | Inbetriebnahme | 启动启动
-- [0339] | 3 | steel | Stahl | 钢钢
-- [0340] | 3 | Steven | WETTBEWERBSREGELN | 史蒂文
-- [0341] | 3 | storage | Lagerung | 储存储存
-- [0342] | 3 | story | Geschichte | 故事故事故事
-- [0343] | 3 | strong | stark | 强
-- [0344] | 3 | successful | Erfolg | 成功成功
-- [0345] | 3 | superconductor | Supraleiter | 超导体
-- [0346] | 3 | supports | Unterstützungen | 支持支持
-- [0347] | 3 | sustainability | Nachhaltigkeit | 可持续性
-- [0348] | 3 | sustainable | nachhaltig | 可持续的可持续
-- [0349] | 3 | Syrian | Syrisch | 叙利亚语叙利亚语Name 叙利亚语Name
-- [0350] | 3 | tactics | Taktik | 战术战术
-- [0351] | 3 | technology | Technologie | 技 技 技 技 技
-- [0352] | 3 | term | Begriff | 定期
-- [0353] | 3 | th | n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n | 第 月 月
-- [0354] | 3 | that | das | ,该数额,
-- [0355] | 3 | that’s | Dass | 这一点
-- [0356] | 3 | them | sie | 三、它们
-- [0357] | 3 | theoretical | Theoretische | 理论理论
-- [0358] | 3 | therapy | Therapie | 理疗
-- [0359] | 3 | think | denken | 思考思考
-- [0360] | 3 | three | Drei | 3个 3
-- [0361] | 3 | together | zusammen | 组合在一起
-- [0362] | 3 | Truong | Truong | 忠哥
-- [0363] | 3 | turbulent | turbulent | 动荡
-- [0364] | 3 | type | Typ | 类型类型类型
-- [0365] | 3 | undergraduate | undergraduate | 本科本科生
-- [0366] | 3 | underwater | unter Wasser | 水下
-- [0367] | 3 | US | ENTWICKLUNG | 美 美 美
-- [0368] | 3 | use | Verwendung | 使用
-- [0369] | 3 | Usha | INSGESAMT | 乌沙
-- [0370] | 3 | vaccination | Impfung | 接种疫苗
-- [0371] | 3 | vaccine | Impfstoff | 疫苗疫苗疫苗
-- [0372] | 3 | Verghese | Verghese | verghese( verghese) verghese( 弗高)
-- [0373] | 3 | virtually | virtuell | 虚拟
-- [0374] | 3 | vision | Sehvermögen | 愿景愿景
-- [0375] | 3 | vision-language | Visionssprache | 视觉语言
-- [0376] | 3 | Wadephul | Wadephul | 韦phul
-- [0377] | 3 | weight | Gewicht | 加权数
-- [0378] | 3 | we’re | Wir sind | 我们
-- [0379] | 3 | What | Was ist? | 什么什么是什么 是什么( What) 是什么( What)
-- [0380] | 3 | within | innerhalb | 内
-- [0381] | 3 | without | ohne | 无
-- [0382] | 3 | words | Wörter | 字词词词词
-- [0383] | 3 | worldwide | weltweit | 全世界
-- [0384] | 3 | ‘It’s | „Es handelt sich um | `它 '
-- [0385] | 3 | ‘Like | „Wie | 类似
-- [0386] | 3 | “build | Bauen | “建造
-- [0387] | 3 | “everyday | Tag für Tag | “每天
-- [0388] | 3 | “find | ®finden | “已查明
-- [0389] | 3 | “Livelihoods | Lebendigkeiten | “生活
-- [0390] | 3 | ” | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ”
-- [0391] | 2 | Abdul-Jabbar | Abdul-Jabbar | 阿卜杜勒·贾巴巴
-- [0392] | 2 | admin | Verwaltungsroutine | 管理员
-- [0393] | 2 | alleged | angeblich | 据称
-- [0394] | 2 | awarded | vergeben | 裁定赔偿金
-- [0395] | 2 | be | werden | be be be 的, 是
-- [0396] | 2 | bias | Voreingenommenheit | 性别偏见
-- [0397] | 2 | Biden | Biden | 拜登
-- [0398] | 2 | Biden-era | Biden-Ära | 拜登时代
-- [0399] | 2 | Biologists | Biologen | 生物学家
-- [0400] | 2 | breakthrough | Durchbruch | 中中点
-- [0401] | 2 | Brown | Braun | 棕色
-- [0402] | 2 | calling | Anrufen | 调来电话
-- [0403] | 2 | campaign | Kampagne | 运动运动
-- [0404] | 2 | cancer | Krebs | 癌症癌症
-- [0405] | 2 | Cathleen | Cathleen | 凯思琳Name
-- [0406] | 2 | caught | gefangen | 被抓获
-- [0407] | 2 | celebration | Feier | 庆祝庆祝活动
-- [0408] | 2 | Center | Zentrum | 中心中心中心
-- [0409] | 2 | Chrisley | Chrisley, Mitglied der Kommission. - (EN) Herr Präsident! | 克里斯利
-- [0410] | 2 | Chrisley's | Chrisley's | 克里斯利的
-- [0411] | 2 | Closing | Schließung | 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭
-- [0412] | 2 | CNN | L 347 vom 20.12.2013, S. 671. | CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN 有
-- [0413] | 2 | Colorado | Colorado | 科罗拉多
-- [0414] | 2 | complex | komplex | 复杂复杂
-- [0415] | 2 | consumers | Verbraucher | 消费者消费者
-- [0416] | 2 | cut | Schnitt | 剪切剪切
-- [0417] | 2 | datasets | Datensätze | 数据集
-- [0418] | 2 | daughter | Tochter | 女 儿 儿 女
-- [0419] | 2 | David | David | 戴维·戴维
-- [0420] | 2 | dead | tot | 死 死
-- [0421] | 2 | death | Tod | 死亡死亡
-- [0422] | 2 | DEI | DEI | 德 迪 迪 迪
-- [0423] | 2 | Democratic | Demokratisch | 民主民主民主
-- [0424] | 2 | Department | Abteilung | 部 部 部
-- [0425] | 2 | developing | Entwicklung | 发展中发展中国家
-- [0426] | 2 | do | tun | do do do 做
-- [0427] | 2 | Dunne | Dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne. | Dunne 唐
-- [0428] | 2 | early | Anfang | 早期
-- [0429] | 2 | Economics | Wirtschaft | 经济学经济学
-- [0430] | 2 | economies | Wirtschaft | 经济经济体
-- [0431] | 2 | Election | Wahl | 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举 选举
-- [0432] | 2 | emerging | sich abzeichnend | 新兴
-- [0433] | 2 | failures | Ausfälle | 失败失败
-- [0434] | 2 | fashion | Mode | 时时时时时时
-- [0435] | 2 | FBI | FBI | FBI 联邦调查局
-- [0436] | 2 | Fetterman | Betterman | 芬德曼
-- [0437] | 2 | formation | Bildung | 形成
-- [0438] | 2 | Gaza | Gaza | 加沙
-- [0439] | 2 | genome | Erbgut | 基因组组
-- [0440] | 2 | Gifts | Geschenke | 礼品礼品
-- [0441] | 2 | girls' | Mädchen" | 女童 女童
-- [0442] | 2 | gives | gibt | 给给
-- [0443] | 2 | goes | geht | 继续
-- [0444] | 2 | gun | Pistole | 枪炮
-- [0445] | 2 | help | Hilfe | 帮助帮助帮助
-- [0446] | 2 | here’s | Hier's | 这里的
-- [0447] | 2 | home | Zuhause | 家 家
-- [0448] | 2 | honorary | Ehrenamtlich | 荣誉荣誉
-- [0449] | 2 | host | Gastgeber | 主机主机
-- [0450] | 2 | house | Haus | 居内
-- [0451] | 2 | Inequality | Ungleichbehandlung | 不平等
-- [0452] | 2 | investment | Investitionen | 投资投资投资
-- [0453] | 2 | Israel | Israel | 以色列 以色列
-- [0454] | 2 | James | - Ja. - Ja. - Ja. - Ja. | 詹姆斯·詹姆斯
-- [0455] | 2 | kinds | Art | 种类种类
-- [0456] | 2 | know | wissen | 已知
-- [0457] | 2 | launch | Start | 启动启动
-- [0458] | 2 | laws | Rechtsvorschriften | 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律
-- [0459] | 2 | Learning | Lernen | 学习学习学习学习
-- [0460] | 2 | lets | kann | lets , lets , 计
-- [0461] | 2 | M | M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | M 男
-- [0462] | 2 | markets | Märkte | 市场市场
-- [0463] | 2 | mayor | Bürgermeister | 市长 市长
-- [0464] | 2 | MBA | MBA | MBA 甲基溴管理管理
-- [0465] | 2 | meet | Treffen | 会 会 会 会 会 会 会 会 会 会
-- [0466] | 2 | member | Mitglied | 成员成员
-- [0467] | 2 | message | Nachricht | 消息消息
-- [0468] | 2 | mobilize | mobilisieren | 调动调动
-- [0469] | 2 | more | mehr | 更多
-- [0470] | 2 | Musk | Moschus | 松木
-- [0471] | 2 | object’s | Gegenstand | 对象
-- [0472] | 2 | Olivia | Olivia | Olivia( 奥利维亚)
-- [0473] | 2 | one | eins | 1个
-- [0474] | 2 | out | aus | 外出
-- [0475] | 2 | pancreatic | Bauchspeicheldrüse | 洲际
-- [0476] | 2 | parents | Eltern | 父母 父母
-- [0477] | 2 | party | Partei | 缔约方
-- [0478] | 2 | Paul | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 保罗 保罗
-- [0479] | 2 | planetary | planetarisch | 行星行星行星行星
-- [0480] | 2 | private | privat | 私立
-- [0481] | 2 | properties | Eigenschaften | 属性属性
-- [0482] | 2 | Rand | Rand | 兰德
-- [0483] | 2 | rare | Selten | 稀有
-- [0484] | 2 | reading | Lesen | 读数
-- [0485] | 2 | recognize | erkennen | 承认
-- [0486] | 2 | release | Freigabe | 释放
-- [0487] | 2 | report | Bericht | 报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告
-- [0488] | 2 | robots | Roboter | 机器人
-- [0489] | 2 | run | Ausführen | 运行中
-- [0490] | 2 | Sabry | Sabry | 萨布里
-- [0491] | 2 | seniors | Senioren | 老年人 老年人
-- [0492] | 2 | Shaping | Formgebung | 形状形状
-- [0493] | 2 | Should | Sollte | sh sh sh sh sh sh sh sh sh
-- [0494] | 2 | show | anzeigen | 显示显示显示
-- [0495] | 2 | Six | Sechs | 六六
-- [0496] | 2 | South | Süden | 南南
-- [0497] | 2 | states | Staaten | 状态
-- [0498] | 2 | still | immer noch | 仍为
-- [0499] | 2 | Stone | Stein | 石石头
-- [0500] | 2 | structure | Struktur | 结构结构结构结构
-- [0501] | 2 | student | Schüler | 学生 学生
-- [0502] | 2 | sues | RECHTSSACHE | 诉讼
-- [0503] | 2 | System | System | 系统系统系统系统系统
-- [0504] | 2 | Take | Nehmen Sie | 采取
-- [0505] | 2 | tax | Steuer | 税务税
-- [0506] | 2 | Teaching | Unterricht | 教学教学
-- [0507] | 2 | tensions | Spannungen | 紧张局势
-- [0508] | 2 | time | Zeit | 时间
-- [0509] | 2 | Todd | Todd | 托德
-- [0510] | 2 | too | auch | 也一样
-- [0511] | 2 | trans | trans trans | 转
-- [0512] | 2 | treatments | Behandlungen | 治疗治疗
-- [0513] | 2 | truth’ | Wahrheit | 真相 '
-- [0514] | 2 | uncovers | entlarvt | 揭开
-- [0515] | 2 | understanding | Verständnis | 理解
-- [0516] | 2 | value | Wert | 价值价值
-- [0517] | 2 | voters | Wähler | 选民选民
-- [0518] | 2 | waste | Abfälle | 废物废物
-- [0519] | 2 | where | Dabei ist | 何 地
-- [0520] | 2 | win | gewinnen | 赢赢
-- [0521] | 2 | you | Sie | 您 您 的 您 您
-- [0522] | 2 | ‘Stand | „Stand | 站立
-- [0523] | 1 | & | & | 和( P)
-- [0524] | 1 | ' | " | ' '
-- [0525] | 1 | 'astonishing' | "Astonisieren" | "惊讶"
-- [0526] | 1 | 'best' | "beste" | "最好的"
-- [0527] | 1 | 'big | Groß | # 大
-- [0528] | 1 | 'Boardwalk | "Boardwalk | "波道"
-- [0529] | 1 | 'bulletproof' | 'Bulletproof' | "防弹防弹"
-- [0530] | 1 | 'Chaos | "Chaos" | 化 化
-- [0531] | 1 | 'compelling | "Bezwingen | 强制
-- [0532] | 1 | 'dying' | "Sterben" | "死亡"
-- [0533] | 1 | 'Handmaid's | "Handjungfer" | 女佣的
-- [0534] | 1 | 'hysterical' | "hysterisch" | "歇斯底里"
-- [0535] | 1 | 'Love | Liebe | 爱爱
-- [0536] | 1 | 'Must | "Muss | 强制
-- [0537] | 1 | 'new | "neu | '新
-- [0538] | 1 | 'Rank | "Rank | 兰克
-- [0539] | 1 | 'Red | Rot | 红色
-- [0540] | 1 | 'Republicans | "Republikaner | 共和国
-- [0541] | 1 | 'Run | "Laufen | 运行
-- [0542] | 1 | 'Spider’s | "Spider" (Spider) | Spider( 蜘蛛)
-- [0543] | 1 | 'Sport | "Sport | 《体育》
-- [0544] | 1 | 'TACO' | "TACO" | "TaCO" (TaCO) (TaCO) (TaCO) (TaCO)) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO)) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO) (TaCO)
-- [0545] | 1 | 'terrorist | "Terrorist" | '恐怖主义
-- [0546] | 1 | 'The | "Das | # 爱着 # # # The #
-- [0547] | 1 | 'Total | Insgesamt | 总计
-- [0548] | 1 | 'unacceptable' | "unannehmbar" | "不能接受"
-- [0549] | 1 | 'Votes | "Stimmen | 视频
-- [0550] | 1 | 'will | "wird | 将
-- [0551] | 1 | -word | - Wort | -词词词词词词词词词词词
-- [0552] | 1 | abuse | Missbrauch | 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待
-- [0553] | 1 | accused | beschuldigt | 被告人
-- [0554] | 1 | accuser | Ankläger | 控告人
-- [0555] | 1 | across | gegenüber | 横横
-- [0556] | 1 | activists | Aktivisten | 活动分子活动家
-- [0557] | 1 | admitting | Zulassung | 承认
-- [0558] | 1 | adopt | Annahme | 通过通过通过通过,通过通过通过通过通过通过通过通过《通过通过通过通过通过 的通过,通过通过
-- [0559] | 1 | advantage | Vorteil | 优势
-- [0560] | 1 | Africa | Afrika | 非洲 非洲 非洲 非洲
-- [0561] | 1 | agrees | stimmt zu | 同意同意
-- [0562] | 1 | airport | Flughafen | 机场机场机场
-- [0563] | 1 | AK | AK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | AK AK步枪
-- [0564] | 1 | allegedly | angeblich | 据称
-- [0565] | 1 | allow | erlauben | 允许
-- [0566] | 1 | ambulance | Krankenwagen | 救护车
-- [0567] | 1 | America | Amerika | 美洲美洲
-- [0568] | 1 | among | zwischen | 介
-- [0569] | 1 | analyst | Analytiker | 分析师
-- [0570] | 1 | anti-Trump | Anti-Trump | 反特朗普
-- [0571] | 1 | antisemitic | Antisemitikum | 反犹太主义
-- [0572] | 1 | antisemitism' | Antisemitismus" | 反犹太主义
-- [0573] | 1 | ANWR | ANWR | 安娜
-- [0574] | 1 | anyway | Jedenfalls | 无论如何
-- [0575] | 1 | appeals | Rechtsmittel | 上诉上诉
-- [0576] | 1 | appearance | Aussehen | 外 貌 貌 貌 貌 貌 貌
-- [0577] | 1 | Archaeologist | Archäologe | 考古学家
-- [0578] | 1 | armored | gepanzert | 装甲
-- [0579] | 1 | around | ringsherum | 周围
-- [0580] | 1 | arrest | Festnahme | 逮捕和逮捕
-- [0581] | 1 | artistic | Künstlerisch | 艺术艺术
-- [0582] | 1 | assault | Körperverletzung | 攻击性攻击
-- [0583] | 1 | athlete | Sportler | 运动员
-- [0584] | 1 | athletes | Sportler | 运动员运动员
-- [0585] | 1 | attack' | Angriff" | a. 攻击
-- [0586] | 1 | attorney | Rechtsanwalt | 律师律师
-- [0587] | 1 | avoid | vermeiden | 避免
-- [0588] | 1 | awkward | unbequem | 尴尬
-- [0589] | 1 | Bach-Hasselhoff's | Bach-Hasselhoffs | 巴赫 - 哈塞尔霍夫的
-- [0590] | 1 | back | zurück | 后退
-- [0591] | 1 | beach | Strand | 海滩海滩
-- [0592] | 1 | beautiful | schön | 美丽
-- [0593] | 1 | becoming | werden | 成为
-- [0594] | 1 | before | Vorher | 之前
-- [0595] | 1 | begin | Anfang | 开始
-- [0596] | 1 | bill | Rechnung | 账单账单
-- [0597] | 1 | bill' | Rechnung" | 法案
-- [0598] | 1 | Billy | Billy | 比利
-- [0599] | 1 | bipartisan | Zweiparteien | 两党
-- [0600] | 1 | birthday | Geburtstag | 生日生日
-- [0601] | 1 | bled | geblutet | 混混
-- [0602] | 1 | board | Vorstand | 棋盘
-- [0603] | 1 | bond | Anleihen | 债券债券债券
-- [0604] | 1 | border | Grenzüberschreitung | 边境边境边境
-- [0605] | 1 | Boys' | Jungen" | 男孩们
-- [0606] | 1 | brands | Marken | 品牌品牌
-- [0607] | 1 | breaking | Bruch | 间间间断
-- [0608] | 1 | Brenkus | Brenkus | 布伦库斯
-- [0609] | 1 | broad | breit | 宽
-- [0610] | 1 | BROOKS | FRAUEN | 布鲁克
-- [0611] | 1 | building | Gebäude | 建筑物
-- [0612] | 1 | Bureau | Präsidium | 主席团主席团主席团主席团 主席团主席团主席团
-- [0613] | 1 | burns | Verbrennungen | 烧灼
-- [0614] | 1 | but | aber | 但是,但
-- [0615] | 1 | California | Kalifornien | 加利福尼亚州
-- [0616] | 1 | calls | Anrufe | 调来电话
-- [0617] | 1 | calzone | Calzon | 内积
-- [0618] | 1 | cam | Nocken | 闭门
-- [0619] | 1 | came | kam | 来
-- [0620] | 1 | camera | Kamera | 照相机
-- [0621] | 1 | cans | Dosen | 罐体
-- [0622] | 1 | Capitol | Kapitol | 都城
-- [0623] | 1 | Caplan | Caplan | 卡普兰
-- [0624] | 1 | ceiling | Höchstgrenze | 上限
-- [0625] | 1 | celebrates | feiert | 庆祝
-- [0626] | 1 | ceremony | Zeremonie | 仪式仪式
-- [0627] | 1 | challenge | Herausforderung | 挑战挑战
-- [0628] | 1 | Challenges | Herausforderungen | 挑战挑战挑战挑战
-- [0629] | 1 | Chase | Verfolgung | 大通大通
-- [0630] | 1 | Chicago's | Chicago's | 芝加哥
-- [0631] | 1 | China | China | 中国 中国 中国 中国 中国 中国 中国
-- [0632] | 1 | city | Stadt | 城市城市
-- [0633] | 1 | claim | Antrag | 索偿
-- [0634] | 1 | claims | Forderungen | 索偿
-- [0635] | 1 | classifying | Klassifizierung | 分类分类
-- [0636] | 1 | Coast | Küste | 海岸海岸
-- [0637] | 1 | cocktail | Cocktail | 鸡尾酒
-- [0638] | 1 | collapse | Zusammenbruch | 崩溃崩溃
-- [0639] | 1 | columnist | Kolumnist | 列词
-- [0640] | 1 | combo | Kombination | 组合组合
-- [0641] | 1 | company | Unternehmen | 公司 公司
-- [0642] | 1 | compares | Vergleich | 对比对比对比
-- [0643] | 1 | complaint | Beschwerde | 投诉投诉
-- [0644] | 1 | completely | vollständig | 完全完全
-- [0645] | 1 | concrete | Beton | 具体具体
-- [0646] | 1 | condemns | verurteilt | 谴责
-- [0647] | 1 | congressional | Tagungswoche | 国会
-- [0648] | 1 | Connecticut | Connecticut | 康涅狄格州
-- [0649] | 1 | conservative | konservativ | 保守
-- [0650] | 1 | continues | weiter | 继续
-- [0651] | 1 | contracts | Verträge | 合同合同合同合同
-- [0652] | 1 | control | Kontrolle | 控制控制
-- [0653] | 1 | controversial | umstritten | 有争议
-- [0654] | 1 | controversy | Kontroverse | 争议
-- [0655] | 1 | cool | Kühl | 凉凉
-- [0656] | 1 | COREY | KÖRIGREICH | 方 地 地 地
-- [0657] | 1 | Costco | Kostenco | 成本成本公司
-- [0658] | 1 | Court | Gericht | 法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院
-- [0659] | 1 | COVID- | KOVID- | 科维德...
-- [0660] | 1 | crashes | Abstürze | 碰撞事故
-- [0661] | 1 | creates | erstellt | 创建创建
-- [0662] | 1 | critics | Kritiker | 批评者
-- [0663] | 1 | Crockett | Krockett | 克罗基特Name
-- [0664] | 1 | crossroads | Kreuzung | 十字路口
-- [0665] | 1 | crowd | Menschenmenge | 人群
-- [0666] | 1 | Cruz | Cruz | 克鲁斯州
-- [0667] | 1 | Cubs | Krümel | 幼熊
-- [0668] | 1 | cursing | Fluchen | 咒骂
-- [0669] | 1 | custody | Verwahrung | 羁押
-- [0670] | 1 | cuts | Teile | 削减
-- [0671] | 1 | Cyrus | Korpus | Cyrus 赛勒斯
-- [0672] | 1 | Cyrus’ | Cyrus-Arten | 赛勒斯
-- [0673] | 1 | dads | Väter | 父 父 父
-- [0674] | 1 | De | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 执 执
-- [0675] | 1 | deal | Abmachung | 发牌
-- [0676] | 1 | deals | Abkommen | 交易交易
-- [0677] | 1 | dean | Herr dean | 院长
-- [0678] | 1 | debt | Verbindlichkeiten | 负债债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国
-- [0679] | 1 | declares | erklärt | 声明
-- [0680] | 1 | declines | Abnahmen | 下降
-- [0681] | 1 | declining | Rückgang | 下降
-- [0682] | 1 | defend | verteidigen | 国防
-- [0683] | 1 | defense | Verteidigung | 国防
-- [0684] | 1 | Democrat | Demokratisch | 民主民主党
-- [0685] | 1 | denial | Leugnung | 拒绝拒绝
-- [0686] | 1 | denies | verleugnet | 否认否认
-- [0687] | 1 | departure | Abreise | 离开
-- [0688] | 1 | deportation | Abschiebung | 驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐
-- [0689] | 1 | Depot's | Depots | 迪宝的
-- [0690] | 1 | designs | Designs | 设计设计
-- [0691] | 1 | despite | trotz | 尽管如此,尽管
-- [0692] | 1 | destinies | mit einem Gehalt an Milchfett von mehr als 10 GHT | 命运
-- [0693] | 1 | detected | festgestellt | 检测到
-- [0694] | 1 | determined | bestimmt | 确定数
-- [0695] | 1 | Devin | Entbeinung | Devin 开发
-- [0696] | 1 | Diddy | Diddy. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 迪迪
-- [0697] | 1 | die' | stirbt." | # 死亡 死亡 # # 死亡 # # 死亡 # # 死亡 死亡 #
-- [0698] | 1 | discussion | Diskussion | 讨论讨论讨论
-- [0699] | 1 | DNC | DNC | DNNNC DNA DNA DNA DNA DNA DNA DNNNN
-- [0700] | 1 | docs | n s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 医生数
-- [0701] | 1 | dodges | Ausweichen | 躲躲
-- [0702] | 1 | dog | Hund | 狗狗狗
-- [0703] | 1 | DOGE | GESAMTBESCHEINIGUNG | 高 格 师 师 师 师 师 师 师
-- [0704] | 1 | DOGE-aligned | GESAMTBESCHEINIGUNG | DGE 调整后
-- [0705] | 1 | dominating | dominierend | 主导占主导
-- [0706] | 1 | don’t | nicht | 不要
-- [0707] | 1 | double | Doppelt | 双双
-- [0708] | 1 | drone | Drohne | 无人驾驶无人驾驶飞机
-- [0709] | 1 | dropped | fallen gelassen | 下降数
-- [0710] | 1 | Duda | Duda | 杜达
-- [0711] | 1 | earlier | früher | 早期
-- [0712] | 1 | easier | einfacher | 较容易
-- [0713] | 1 | efforts | Anstrengungen | A. 努力努力
-- [0714] | 1 | Egyptian | Ägyptisch | 埃及语埃及语Name 埃及语
-- [0715] | 1 | Eight | Acht | 8 8 八
-- [0716] | 1 | elimination | Beseitigung | 冲销
-- [0717] | 1 | Elly | Elly | 埃利
-- [0718] | 1 | Elon | Elon | 伊隆
-- [0719] | 1 | emergency | Notfall | 紧急紧急
-- [0720] | 1 | Emmanuel | Emmanuel | 埃马纽埃尔
-- [0721] | 1 | Empire' | Weltreich" | 帝国帝国
-- [0722] | 1 | ends | Enden | 结尾
-- [0723] | 1 | enrichment | Anreicherung | 浓缩浓缩浓缩
-- [0724] | 1 | equipment | Ausrüstung | 设备设备
-- [0725] | 1 | era | Zeit | 时代时代
-- [0726] | 1 | escalate | Eskalation | 升级
-- [0727] | 1 | escapes | Fluchten | 逃逃
-- [0728] | 1 | ethics | Ethik | 道德操守
-- [0729] | 1 | event | Veranstaltung | 事件事件
-- [0730] | 1 | everything' | alles" | 所有的一切,所有的一切,
-- [0731] | 1 | evidence' | Nachweise" | 证据证据的证据证据
-- [0732] | 1 | Ex-Democratic | Ex-Demokratische | 前民主
-- [0733] | 1 | Ex-Mumford | Ex-Mumford | 前穆姆福德州
-- [0734] | 1 | examine | Prüfung | 检查
-- [0735] | 1 | EXCLUSIVE | AUSSCHLIESSLICH | 绝对
-- [0736] | 1 | exits | Ausstiege | 退出
-- [0737] | 1 | expert | Sachverständiger | 专家专家
-- [0738] | 1 | explosion | Explosion | 爆炸爆炸
-- [0739] | 1 | explosive | explosiv | 爆炸性炸药
-- [0740] | 1 | Facebook | Facebook | 脸书脸书
-- [0741] | 1 | faith | Glaube | 信 信 信 信 信
-- [0742] | 1 | fake | Fälschung | 假造
-- [0743] | 1 | false | falsch | 假
-- [0744] | 1 | family | Familie | 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭
-- [0745] | 1 | fan-favorite | Fan-Favorit | 最喜爱的扇形
-- [0746] | 1 | fans | Ventilatoren | 粉粉粉粉扇
-- [0747] | 1 | fared | geschliffen | 远远
-- [0748] | 1 | fascist | faschistisch | 法西斯
-- [0749] | 1 | father | Vater | 父 父 父
-- [0750] | 1 | Father's | Vater's | 父亲的
-- [0751] | 1 | fears | Ängste | 恐惧
-- [0752] | 1 | federal | föderal | 联邦联邦
-- [0753] | 1 | feds | Feds | 联邦联邦
-- [0754] | 1 | Fellowships | Stipendien | 研究金研究金研究金
-- [0755] | 1 | female | weiblich | 女性 女性 女性 女性
-- [0756] | 1 | finance | Finanzierung | 财务财务
-- [0757] | 1 | finds | Funde | 找寻
-- [0758] | 1 | fire | Feuer | 火灾
-- [0759] | 1 | fires | Brände | 火灾火灾
-- [0760] | 1 | firing | Feuer | 射击
-- [0761] | 1 | first | zuerst | 第一次
-- [0762] | 1 | Flasbarth | Flasbarth | 弗拉斯巴
-- [0763] | 1 | following | folgend | 下述
-- [0764] | 1 | form | Formblatt | 窗体窗体
-- [0765] | 1 | forward' | Vorwärts" | 未来
-- [0766] | 1 | Foundation | Stiftung | 基金会基金会基金会基金会基金会基金会
-- [0767] | 1 | Franklin | Franklin | 富兰克林
-- [0768] | 1 | fraud | Betrug | 欺诈欺诈
-- [0769] | 1 | free | frei | 空闲
-- [0770] | 1 | French | Französisch | 法语 法语 法语
-- [0771] | 1 | fully | vollständig | 充分
-- [0772] | 1 | game | Spiel | 游戏游戏游戏
-- [0773] | 1 | game-tying | Spielbindung | 游戏- 调色
-- [0774] | 1 | gas | Gas | 气体气体气体
-- [0775] | 1 | Gender | Geschlecht | 性别 性别 性别 性别 性别
-- [0776] | 1 | gold | Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold | 金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金
-- [0777] | 1 | good | gut | 良好
-- [0778] | 1 | Google | Google | 谷歌谷歌
-- [0779] | 1 | Graham | Graham | 格雷厄姆
-- [0780] | 1 | gravity | Schwerkraft | 重力
-- [0781] | 1 | Greenpeace | Greenpeace | 绿色绿色和平组织
-- [0782] | 1 | grills | Gitter | 烤架
-- [0783] | 1 | group | Gruppe | 组群
-- [0784] | 1 | groups | Gruppen | 组群
-- [0785] | 1 | Guard | Wache | 警卫警卫
-- [0786] | 1 | guitarist | Gitarrist | 吉他手
-- [0787] | 1 | hall | Halle | 大厅
-- [0788] | 1 | handcuffed | Handschellen | 带手铐
-- [0789] | 1 | hands | Hände | 手手
-- [0790] | 1 | hard-line | hard-line | 硬线
-- [0791] | 1 | Harjes | Harjes | 哈列斯
-- [0792] | 1 | Harvey | Harvey. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 哈维
-- [0793] | 1 | he | er | 世 世 世 世 世 世 世
-- [0794] | 1 | headquarters | Sitz | 总部总部总部
-- [0795] | 1 | heavy | schwer | 重重
-- [0796] | 1 | her | sie | 
-- [0797] | 1 | here | Hierher | 在这里
-- [0798] | 1 | Hertz | Hertz | Hertz 赫兹
-- [0799] | 1 | HHS | HHS | 时 年
-- [0800] | 1 | hidden | versteckt | 隐藏隐藏
-- [0801] | 1 | hike | Wanderung | 远 远 远 远
-- [0802] | 1 | Hill | Hügel | 山丘
-- [0803] | 1 | his | sein | 排在《公约》
-- [0804] | 1 | history’s | Geschichte | 历史历史
-- [0805] | 1 | hit | getroffen | 中弹
-- [0806] | 1 | hits | Treffer | 点击次数
-- [0807] | 1 | homeless | Obdachlos | 无家可归的无家可归者
-- [0808] | 1 | homer | homer | homer 主机
-- [0809] | 1 | hope | Hoffnung | 希望希望
-- [0810] | 1 | hostages | Geiseln | 人质或人质人质
-- [0811] | 1 | hot | heiß | 热热
-- [0812] | 1 | humanitarian | humanitäre Hilfe | 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义
-- [0813] | 1 | Hundreds | Hunderte | 百 百 百
-- [0814] | 1 | hunt | Jagd | 狩猎
-- [0815] | 1 | hydrogen | Wasserstoff | 氢氢
-- [0816] | 1 | I'm | Ich bin | 我... 我... 我... 我...
-- [0817] | 1 | illegal | illegal | 非法非法
-- [0818] | 1 | illegally | illegal | 非法非法
-- [0819] | 1 | Illinois | Illinois (Illinois). - (EN) Herr Präsident, meine Damen und Herren! | 伊利诺斯州
-- [0820] | 1 | imaginary | imaginär | 想象中
-- [0821] | 1 | immigrant | Zuwanderer | 移民移民移民
-- [0822] | 1 | immigration | Einwanderung | 移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民
-- [0823] | 1 | important | wichtig | 重要重要
-- [0824] | 1 | Indonesia | Indonesien | 印度尼西亚 印度尼西亚 印度尼西亚
-- [0825] | 1 | industry | Industrie | 工业工业
-- [0826] | 1 | information | Informationen | 信息信息信息信息信息信息信息
-- [0827] | 1 | inner | inner | 内
-- [0828] | 1 | innovation | Innovation | 创新创新
-- [0829] | 1 | insights | Einsichten | 洞洞洞洞见
-- [0830] | 1 | interim | Vorübergehend | 临时临时
-- [0831] | 1 | into | in die | 与
-- [0832] | 1 | investigation | Untersuchung | 调查调查
-- [0833] | 1 | Iran | Iran | 伊朗 伊朗 伊朗
-- [0834] | 1 | irked | geschält | 穿针
-- [0835] | 1 | Island | Insel | 岛屿
-- [0836] | 1 | issues | Fragen | 问题(问题)
-- [0837] | 1 | Istanbul | Istanbul | 伊斯坦布尔
-- [0838] | 1 | Jasmine | Jasmin | 茉莉花
-- [0839] | 1 | Jesus | Mein Gott! | 耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣
-- [0840] | 1 | Jewish | Jüdisch | 犹太犹太人
-- [0841] | 1 | Jochen | Jochen | 约 约 琴
-- [0842] | 1 | John | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 约翰·约翰
-- [0843] | 1 | Julie | Julie | 朱莉
-- [0844] | 1 | Just | Nur | 只是
-- [0845] | 1 | Karol | Karol | 卡洛
-- [0846] | 1 | key | Schlüssel | 键键
-- [0847] | 1 | Khabib | Khabib | Khabib 村庄
-- [0848] | 1 | kills | tötet | 杀 杀 杀 杀 杀
-- [0849] | 1 | La | L 347 vom 20.12.2013, S. 671. | 拉
-- [0850] | 1 | lady's | Frauen | 女 女 女 女 女
-- [0851] | 1 | last | Letzter | 最后一
-- [0852] | 1 | lavish | verschwenderisch | 粗软
-- [0853] | 1 | lawmaker | Gesetzgeber | 立法者
-- [0854] | 1 | lawmakers | Gesetzgeber | 立法者
-- [0855] | 1 | leader | Führer | 领导领导者
-- [0856] | 1 | leads | Leitungen | 铅铅
-- [0857] | 1 | leans | mager | 倾斜
-- [0858] | 1 | leave | Urlaub | 休假假期
-- [0859] | 1 | legend | Legende | 图例
-- [0860] | 1 | letter | Buchstabe | 来函
-- [0861] | 1 | Liberal | Liberal | 自由自由自由
-- [0862] | 1 | light | leicht | 轻型轻型
-- [0863] | 1 | like | Wie z.B. | 类似
-- [0864] | 1 | Lindsay | Lindsay | 林赛
-- [0865] | 1 | Lindsie | Lindsie | 林西
-- [0866] | 1 | Lives' | Lebend" | 生命
-- [0867] | 1 | lock | Verriegelung | 锁定锁定锁定
-- [0868] | 1 | Longtime | Lange Zeit | 长年时间
-- [0869] | 1 | look | Sehen Sie. | 外观
-- [0870] | 1 | loss | Verlust | 损失损失
-- [0871] | 1 | love | Liebe | 爱爱
-- [0872] | 1 | luggage | Gepäck | 行李行李
-- [0873] | 1 | machines | Maschinen | 机 机 机 机
-- [0874] | 1 | Macron | Makron | 宏
-- [0875] | 1 | made | hergestellt | 作出
-- [0876] | 1 | madness | Wahnsinn | 疯疯疯、疯疯、疯疯、狂狂、
-- [0877] | 1 | makes | macht | 环环环
-- [0878] | 1 | making | Herstellung | 制造
-- [0879] | 1 | malicious | bösartig | 恶意
-- [0880] | 1 | man | Mann | 男性 男性
-- [0881] | 1 | marvels | Wunder | 奇迹
-- [0882] | 1 | Maryland | Maryland | 马里兰州
-- [0883] | 1 | Maxine | Höchstgehalt | 美美美
-- [0884] | 1 | McCormick | McCormick | 麦考密克
-- [0885] | 1 | McEuen | McEuen | 麦克艾恩
-- [0886] | 1 | medalist | Medaillengewinner | 得奖奖人
-- [0887] | 1 | medical | ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich | 医疗 医务
-- [0888] | 1 | meeting | Sitzung | 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议
-- [0889] | 1 | men's | Männer | 男男性
-- [0890] | 1 | metals | Metalle | 金属金属
-- [0891] | 1 | method | Verfahren | 方法
-- [0892] | 1 | middle | Mitte | 中间中间
-- [0893] | 1 | Miley | Miley | 米耶
-- [0894] | 1 | millions | Millionen | 百万 百万
-- [0895] | 1 | misconduct | Fehlverhalten | 行为失检行为
-- [0896] | 1 | Missouri | Missouri | 密密苏里
-- [0897] | 1 | mixed | gemischt | 混合混合
-- [0898] | 1 | Molotov | Molotow | 莫洛托夫
-- [0899] | 1 | moment | Moment | 瞬间
-- [0900] | 1 | Moscow | Moskau | 莫斯科莫斯科
-- [0901] | 1 | move | Verschieben | 移动移动
-- [0902] | 1 | much-needed | dringend benötigte | 迫切需要的
-- [0903] | 1 | mugshot | Schnuller | 截图
-- [0904] | 1 | murder | Mord | 谋杀 谋杀
-- [0905] | 1 | murderers | Mörder | 谋杀杀人犯
-- [0906] | 1 | music | Musik | 音乐音乐
-- [0907] | 1 | must | muss | 必须
-- [0908] | 1 | must-know | muss-wissen | 必须知道
-- [0909] | 1 | Nadler | Nadler | 纳德勒
-- [0910] | 1 | Nam | Nam | 南南
-- [0911] | 1 | NATO | NATO | 北约北约
-- [0912] | 1 | Nawrocki | Nawrocki | 纳罗基语Name
-- [0913] | 1 | NBC | NBC | NNBC 核生核
-- [0914] | 1 | near | in der Nähe | 附近
-- [0915] | 1 | Newark | Newark | 纽瓦克Name
-- [0916] | 1 | noncitizen | Nicht-Bürger | 非公民公民
-- [0917] | 1 | nonstop | nonstop | 连续连续
-- [0918] | 1 | not | nicht | 否
-- [0919] | 1 | notorious | notorisch | 臭名昭著
-- [0920] | 1 | nuclear | Kernkraft | 核
-- [0921] | 1 | Nurmagomedov | Nurmagomedov | 努尔马默多多
-- [0922] | 1 | NY | NIEDERLANDE | 纽约,纽约
-- [0923] | 1 | office | Büro | 办公室办公室
-- [0924] | 1 | Olympic | Olympische Spiele | 奥林匹克奥林匹克奥林匹克奥林匹克
-- [0925] | 1 | online | online | 在线在线
-- [0926] | 1 | opens | geöffnet | 打开
-- [0927] | 1 | opposition | Einspruch | 反对派
-- [0928] | 1 | Oregon | Oregon | 俄勒冈州
-- [0929] | 1 | org | org@info:whatsthis:whatsthis:whatsthis:whats:whats:whats:whats:whats:whats:whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats:Whats | 以 org 单位
-- [0930] | 1 | ousted | verausgabt | 被调离
-- [0931] | 1 | outdoor | im Freien | 户外
-- [0932] | 1 | outside | außerhalb | 外部
-- [0933] | 1 | Palestinians | Palästinenser | 巴勒斯坦人巴勒斯坦人
-- [0934] | 1 | Pamela | Pamela | 帕梅拉
-- [0935] | 1 | pandemic | Pandemie | 大流行病 大流行病
-- [0936] | 1 | pardon | Entschuldigung | 赦免 赦免
-- [0937] | 1 | parked | geparkt | 停停
-- [0938] | 1 | Partnerships | Partnerschaften | 伙伴关系伙伴关系伙伴关系伙伴关系
-- [0939] | 1 | PASTOR | PASTOR | 书 员 书 员 书 员
-- [0940] | 1 | pay | Bezahlung | 薪资
-- [0941] | 1 | peace | Frieden | 和平、和平、和平、和平
-- [0942] | 1 | performs | führt aus | 表演 表演
-- [0943] | 1 | person | Person | 人 人 人 人
-- [0944] | 1 | personal | persönlich | 个人 个人 个人
-- [0945] | 1 | pizza | Pizza | 披萨比萨
-- [0946] | 1 | place | Ort | 地点地点
-- [0947] | 1 | plane | Ebene | 平平平面
-- [0948] | 1 | planned | geplant | 计划计划数
-- [0949] | 1 | players' | Spieler" | 播放播放播放播放播放播放器
-- [0950] | 1 | Plus | Plus | 加加
-- [0951] | 1 | policies | Politikbereiche | 政策、政策、政策、政策和政策
-- [0952] | 1 | policy | Politik | 政策政策
-- [0953] | 1 | Polish | Polnisch | 波兰语Name
-- [0954] | 1 | polling | Umfragen | 投票情况
-- [0955] | 1 | poor | schlecht | 贫穷
-- [0956] | 1 | popular | beliebt | 普 普 普 普
-- [0957] | 1 | posed | gestellt | 装装
-- [0958] | 1 | postdoc | Postdoc | 弃号后
-- [0959] | 1 | posts | Planstellen | 员额员额员额
-- [0960] | 1 | Powerful | Kraftvoll | 强大的
-- [0961] | 1 | President | Präsident | 主 庭长 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席大会主席
-- [0962] | 1 | presidential | Präsident | 总统
-- [0963] | 1 | previous | vorhergehend | 上一个
-- [0964] | 1 | printing | Druckverfahren | 印 印 印 印 印 印 印 印
-- [0965] | 1 | prison | Gefängnis | 监狱监狱
-- [0966] | 1 | pro-Israel | pro-Israel | 亲以色列
-- [0967] | 1 | prosecution | Strafverfolgung | 起诉 起诉
-- [0968] | 1 | protest | Protest | 抗议抗议
-- [0969] | 1 | purchase | Kauf | 购买购买
-- [0970] | 1 | Purse | Portemonnaie | 发货
-- [0971] | 1 | push | schieben | 推进
-- [0972] | 1 | pushes | Drücker | 推键
-- [0973] | 1 | pushing | schieben | 推推
-- [0974] | 1 | Putin | Putin | 普京
-- [0975] | 1 | puts | setzt | 调和
-- [0976] | 1 | quickly | schnell | 快速快速
-- [0977] | 1 | R-Truth | R-Wahrheit | R- 真相
-- [0978] | 1 | racket' | "Geschmack" | 吵闹闹闹闹闹闹闹闹
-- [0979] | 1 | Ray | - Ich weiß nicht. - Ich weiß es nicht. | 雷
-- [0980] | 1 | react | reagieren | 反应
-- [0981] | 1 | reaction | Reaktion | 反应反应反应
-- [0982] | 1 | reaffirms | bekräftigt | 重申
-- [0983] | 1 | reality | Wirklichkeit | 现实现实
-- [0984] | 1 | receive | empfangen | 接收接收
-- [0985] | 1 | recipe | Rezept | 食谱配方
-- [0986] | 1 | Red | Rot | 红红
-- [0987] | 1 | Reds | Rote | 红
-- [0988] | 1 | reflects | reflektiert | 反映
-- [0989] | 1 | refuses | lehnt ab | 拒绝拒绝
-- [0990] | 1 | Regarding | In Bezug auf | 关于
-- [0991] | 1 | registration | Registrierung | 登记登记
-- [0992] | 1 | released | freigegeben | 释放
-- [0993] | 1 | removed | entfernt | 已删除
-- [0994] | 1 | removing | Entfernen | 删除删除
-- [0995] | 1 | Rep | Antwort | Re Re Re Re
-- [0996] | 1 | rescues | Rettungsmaßnahmen | 营救
-- [0997] | 1 | resistance | Widerstandsfähigkeit | 抗药性
-- [0998] | 1 | responds | antwortet | 回复回复
-- [0999] | 1 | restaurant | Restaurant | 餐厅
-- [1000] | 1 | restricting | Begrenzung | 限制限制
-- [1001] | 1 | restructuring | Umstrukturierung | 改组改组
-- [1002] | 1 | reversal | Umkehrung | 逆转
-- [1003] | 1 | reversed' | umgekehrt" | 倒转'
-- [1004] | 1 | reviews | Überprüfungen | 审评
-- [1005] | 1 | revives | wiederbelebt | 恢复
-- [1006] | 1 | Rhode | Rhode | 罗德
-- [1007] | 1 | rice | Reis | 大米饭
-- [1008] | 1 | rips | Reißzähne | 裂数
-- [1009] | 1 | rise | Anstieg | 升升
-- [1010] | 1 | RNC | RNC | RNNNN  RNNN
-- [1011] | 1 | Rockies | Felsgewächse | 岩礁
-- [1012] | 1 | Rounds | Rundungen | 轮数轮
-- [1013] | 1 | rule | Regel | 规则细则细则细则细则细则细则细则
-- [1014] | 1 | rules' | Vorschriften" | 规则规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的仲裁规则的
-- [1015] | 1 | Russia | Frankreich | 俄罗斯 俄罗斯
-- [1016] | 1 | Russian | Russisch | 俄文 俄文 俄文
-- [1017] | 1 | sale | Verkauf | 销售销售
-- [1018] | 1 | Samaritan’s | Samariter | 撒马利亚人
-- [1019] | 1 | say | sagen | 说
-- [1020] | 1 | says | sagt | 说:
-- [1021] | 1 | scalable | skalierbar | 可缩放
-- [1022] | 1 | scams | Betrug | 骗骗骗
-- [1023] | 1 | Science' | Wissenschaft" | 科学
-- [1024] | 1 | SCOOP | SCOOP | 孔孔
-- [1025] | 1 | scores | Werte | 得分数
-- [1026] | 1 | season | Jahreszeit | 季节季节
-- [1027] | 1 | seat | Sitz | 位数
-- [1028] | 1 | seawater | Meerwasser | 海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水
-- [1029] | 1 | Second | Zweiter | 第二届
-- [1030] | 1 | Secretary | Sekretär | 秘书秘书秘书秘书
-- [1031] | 1 | secretly | Insgeheim | 秘密秘密
-- [1032] | 1 | security | Sicherheit | 安全安全
-- [1033] | 1 | Sen | SEN | 森数
-- [1034] | 1 | sexual | sexuell | 性 性 性 性
-- [1035] | 1 | shake | Schütteln | 摇摇
-- [1036] | 1 | she | sie | 谢 谢
-- [1037] | 1 | sheds | Schuppen | 棚棚,
-- [1038] | 1 | shelter | Unterschlupf | 庇护所
-- [1039] | 1 | shop | Shop | 店铺
-- [1040] | 1 | shortly | in Kürze | 不久不久
-- [1041] | 1 | Side | Seite | 侧边
-- [1042] | 1 | silence | Stille | 静静
-- [1043] | 1 | sister | Schwester | 姐姐 姐姐
-- [1044] | 1 | site | Ort | 网址网址
-- [1045] | 1 | sketch | Skizze | 草图草图
-- [1046] | 1 | small | klein | 小
-- [1047] | 1 | sobriety | Nüchternheit | 戒酒
-- [1048] | 1 | soda | Soda | 苏打汽水
-- [1049] | 1 | softball | Softball | 垒球
-- [1050] | 1 | Sons | Söhne | 儿子
-- [1051] | 1 | speech | Rede | 语音
-- [1052] | 1 | sports | Sport | 运动 运动 运动 运动 运动 运动 运动
-- [1053] | 1 | sportscaster | Sportcaster | 体育播放台
-- [1054] | 1 | Spot | Ort | 点点点
-- [1055] | 1 | stabbed | abgestochen | 刺刺
-- [1056] | 1 | staff | Personal | 工作人员 工作人员
-- [1057] | 1 | standing | stehend | 现职
-- [1058] | 1 | statement | Erklärung | 报表报表
-- [1059] | 1 | statue | Statue | 雕像
-- [1060] | 1 | Steelers | Stähle und Stähle | 钢钢人
-- [1061] | 1 | stirs | Schüttelfrost | 电动,
-- [1062] | 1 | stolen | gestohlen | 被盗
-- [1063] | 1 | stores | Filialen | 储存仓库
-- [1064] | 1 | strike | Streik | 罢工罢工
-- [1065] | 1 | strokes | Schlaganfälle | 中划线
-- [1066] | 1 | strongly | stark | 强烈强烈
-- [1067] | 1 | struggle | Kampf | 战斗 战斗
-- [1068] | 1 | stunning | Betäubung | 令人惊叹
-- [1069] | 1 | stunt | Stunt | 发育障碍
-- [1070] | 1 | subscription | Abonnement | 订阅
-- [1071] | 1 | succeed | Erfolg | 成功成功
-- [1072] | 1 | Supreme | Oberster | 最高最高
-- [1073] | 1 | suspect's | Verdächtiger | 嫌疑人的
-- [1074] | 1 | sweep | Sweep | 扫描
-- [1075] | 1 | swimsuit | Badeanzug | 泳衣
-- [1076] | 1 | swirls | Wirbel | 旋转
-- [1077] | 1 | Tale' | Geschichte" | 说 道
-- [1078] | 1 | talks | Gespräche | 会谈 会谈
-- [1079] | 1 | tape' | Band" | 磁带'
-- [1080] | 1 | tariffs | Tarife | 关税关税
-- [1081] | 1 | taxpayers | Steuerpflichtige | 纳税人纳税人
-- [1082] | 1 | Tennessee | Tennessee | 田田
-- [1083] | 1 | terrorism | Terrorismus | 恐怖主义恐怖主义恐怖主义恐怖主义恐怖主义
-- [1084] | 1 | testing | Prüfung | 测试测试
-- [1085] | 1 | tests | Prüfungen | 测试测试
-- [1086] | 1 | Texas | WIRTSCHAFTSZWEIG | 得克萨斯州
-- [1087] | 1 | theft | Diebstahl | 盗窃
-- [1088] | 1 | ties | Verbindungen | 连结
-- [1089] | 1 | title | Titel | 标题标题标题
-- [1090] | 1 | took | genommen | 采取
-- [1091] | 1 | tools | Werkzeuge | 工具工具
-- [1092] | 1 | town | Stadt | 镇镇
-- [1093] | 1 | Toxic | Giftig | 有毒有毒
-- [1094] | 1 | traveling | Reisen | 旅行旅费
-- [1095] | 1 | Trevor | Trevor | 特雷弗
-- [1096] | 1 | trolls | Trolle | 巨巨人
-- [1097] | 1 | truck | LKW | 卡车
-- [1098] | 1 | true | wahr | 真实
-- [1099] | 1 | turned | gedreht | 转转
-- [1100] | 1 | UCLA | UCLA | UCLA 加州大学
-- [1101] | 1 | UFC | UFC | UCUC 团结团结会
-- [1102] | 1 | UK | Vereinigtes Königreich | 联合王国
-- [1103] | 1 | Ukraine | Ukraine | 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰
-- [1104] | 1 | Ukraine’s | Ukraine | 乌克兰 乌克兰
-- [1105] | 1 | unfortunate | Unglücklich | 不幸
-- [1106] | 1 | United | Vereinigtes | 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联
-- [1107] | 1 | unleashes | entfesselt | 释放
-- [1108] | 1 | uranium' | Uran" | 铀
-- [1109] | 1 | USAID | USAID | 美援署
-- [1110] | 1 | Variety | Sorten | 多样性
-- [1111] | 1 | Viet | Vietnam | 越南 越南 越南
-- [1112] | 1 | violating | Verleumdung | 违反《公约》
-- [1113] | 1 | viral | virale | 病毒
-- [1114] | 1 | voter | Wähler | 选民选民选民
-- [1115] | 1 | vs | vs. | Vs 和
-- [1116] | 1 | want | wollen | 需要
-- [1117] | 1 | wanting | zu wünschen | 缺少
-- [1118] | 1 | Warnock | Warnock | 华纳克
-- [1119] | 1 | warns | warnt | 警告警告
-- [1120] | 1 | warplanes | Kriegsflugzeuge | 战机
-- [1121] | 1 | was | wurde | 原为
-- [1122] | 1 | watchdog | Wachhund | 监 监 监 监 监
-- [1123] | 1 | Waters | Wasser | 水 水
-- [1124] | 1 | wax | Wachs | 蜡蜡
-- [1125] | 1 | WCWS | WCWS | WWWWS WWS(WWWWW WWS)
-- [1126] | 1 | Web' | Web" | 网络
-- [1127] | 1 | weekend | Wochenende | 周末周末
-- [1128] | 1 | weeks | Wochen | 周数
-- [1129] | 1 | Weinstein | Weinstein | 温斯坦
-- [1130] | 1 | when | wenn | 何时
-- [1131] | 1 | whether | ob | 是否
-- [1132] | 1 | while | während | 时时
-- [1133] | 1 | who | Wer | 人 或 人
-- [1134] | 1 | will | wird | 会
-- [1135] | 1 | wine | Wein | 葡萄酒
-- [1136] | 1 | withdrawal | Rücknahme | 退出退出
-- [1137] | 1 | workers | Arbeitnehmer | 工人 工人
-- [1138] | 1 | workings | Arbeiten | 工作
-- [1139] | 1 | work’ | Arbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 工 工 工 工
-- [1140] | 1 | worlds | Welten | 世界和世界
-- [1141] | 1 | worst | schlimmste | 最差
-- [1142] | 1 | would | würde | 将
-- [1143] | 1 | writing | Schreiben | 写写
-- [1144] | 1 | WWE | WWE | WWWWWWWW WWW WWWW WWWW WWWW WWW WWW WWW WW WWW WWW WWW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW W WW WW W WW W W W W W W W W W WW WW WW W W W W W W W W W W WW W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W
-- [1145] | 1 | years | Jahre | 年份
-- [1146] | 1 | York | L 347 vom 20.12.2013, S. 671. | 纽约,纽约
-- [1147] | 1 | your | Ihre | 贵国的
-- [1148] | 1 | – | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - ~ ~ ~ ~ ~
-- [1149] | 1 | ‘ | „ | ' '
-- [1150] | 1 | ‘illegal’ | „illegal" | `非法 '
-- [1151] | 1 | ‘kindness’ | „Freundlichkeit" | " 慈善 "
-- [1152] | 1 | ‘Resist | „Widerspruch | `抵抗
-- [1153] | 1 | ‘victory’ | „Sieg" | `胜利 '
-- [1154] | 1 | ‘We’re | „Wir sind | `我们'
-- [1155] | 1 | … | ... | .
+- id | count | en | de | es | fr | zh | example
+- [0000] | 74 | to | zu | 至 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0001] | 72 | the | die | 排 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0002] | 65 | for | für | 用于 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0003] | 65 | of | von | 联 联 年 月 日 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 月 日 月 的 月 月 月 日 月 月 日 月 的 月 月 月 月 日 月 月 月 | Family of Boulder firebombing suspect taken into federal custody: sources
+- [0004] | 60 | and | und | 和 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0005] | 52 | in | in der | 内 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0006] | 50 | a | a | a a/ | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0007] | 37 | new | neu | 新建新 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0008] | 37 | on | am | 上 年 月 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0009] | 37 | with | mit | 与 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0010] | 35 | MIT | MIT | 麻 麻 三 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0011] | 18 | AI | GESUNDHEITSSCHUTZ | AI AI AI | FDA approves first AI tool to predict breast cancer risk
+- [0012] | 18 | at | bei | 至 年 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0013] | 16 | students | Schüler | 学生 学生 | MIT students and postdoc explore the inner workings of Capitol Hill
+- [0014] | 15 | global | global | 全球环球 | Safeguarding global cooperation in turbulent times
+- [0015] | 14 | an | und | a , a , a , a , a , a | Germany pledges support for an inclusive and peaceful transition process in Syria
+- [0016] | 14 | How | Wie | 如何如何 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0017] | 13 | Class | Klasse | 班级 | Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2025
+- [0018] | 13 | Study | Studie | 研究研究 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [0019] | 12 | Harvard | L 347 vom 20.12.2013, S. 671. | 哈佛 | Harvard awards 9,434 degrees
+- [0020] | 12 | human | Mensch | 人 人 人 人 人 人 人 人 人 人 人 人 人 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0021] | 11 | after | nach | 之后 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0022] | 11 | attack | Angriff | 攻击攻击 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0023] | 10 | Boulder | Boulder | 发泡机 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0024] | 10 | terror | Terror | 恐怖主义恐怖主义 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0025] | 9 | could | könnte | 能够 | New fuel cell could enable electric aviation
+- [0026] | 9 | Green | Grün | 绿绿色 | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0027] | 9 | Hank | Hank | 汉克 | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0028] | 9 | Minister | Minister | 部长部长,部长 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0029] | 9 | shows | zeigt | 显示显示 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0030] | 9 | solutions | Lösungen | 解决方案 | Germany lobbies for sustainability and multilateral solutions
+- [0031] | 9 | Syria | Syrien | 叙利亚 叙利亚 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0032] | 8 | are | sie werden | 是 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0033] | 8 | Commencement | Beginn | 开始 | Commencement address by Hank Green
+- [0034] | 8 | life | Leben | 生命 | MIT Corporation elects 10 term members, three life members
+- [0035] | 8 | work | Arbeit | 工 工 工 工 工 工 工 工 工 工 | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0036] | 7 | against | dagegen | 日 年 年 年 月 日 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0037] | 7 | as | als | 计为 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0038] | 7 | Development | Entwicklung | 发展、发展、发展、发展 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0039] | 7 | energy | Energie | 能源能源 | MIT D-Lab students design global energy solutions through collaboration
+- [0040] | 7 | House | Haus | 众议院 众议院 | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0041] | 7 | process | Prozess | 进程进程 | Germany pledges support for an inclusive and peaceful transition process in Syria
+- [0042] | 7 | Science | Wissenschaft | 科学科学 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0043] | 7 | suspect | Verdächtiger | 可疑嫌疑人 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0044] | 7 | targets | Ziele | 指标指标指标指标指标指标指标指标指标指标指标 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0045] | 7 | transition | Übergang | 过渡期 | Germany pledges support for an inclusive and peaceful transition process in Syria
+- [0046] | 7 | Trump | Trump | 特朗 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0047] | 7 | urges | Drängen | 敦促 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0048] | 6 | address | Anschrift | 地址地址地址地址地址地址 | Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2025
+- [0049] | 6 | Alabali-Radovan | Alabali-Radovan | 阿拉巴利-拉多万 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0050] | 6 | cell | Zelle | 单元格单元格单元格单元格单元格单元格 | New fuel cell could enable electric aviation
+- [0051] | 6 | cells | Zellen | 单元格单元格单元格单元格 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0052] | 6 | cent | INSGESAMT | 百分比(%) | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0053] | 6 | Corporation | Unternehmen | 公司公司 | MIT Corporation elects 10 term members, three life members
+- [0054] | 6 | day | Tag | 天天 | Proud day for Harvard
+- [0055] | 6 | discover | entdecken | 发现发现 | MIT physicists discover a new type of superconductor that’s also a magnet
+- [0056] | 6 | engineering | Ingenieurwesen | 工程工程工程 | Rationale engineering generates a compact new tool for gene therapy
+- [0057] | 6 | Germany | Deutschland | 德国 德国 | Germany lobbies for sustainability and multilateral solutions
+- [0058] | 6 | if | wenn | 如果 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0059] | 6 | inclusion | Aufnahme | 包含 | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0060] | 6 | it | Es wird | 其 其 年 , 其 年 , 其 年 , 其 | Study: Climate change may make it harder to reduce smog in some regions
+- [0061] | 6 | magnetic | magnetisch | 磁磁 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0062] | 6 | manufacturing | Verarbeitendes Gewerbe | 制造制造业 | The proud history and promising future of MIT’s work on manufacturing
+- [0063] | 6 | may | kann | 中 中 中 中 中 中 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0064] | 6 | members | Mitglieder | 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 | MIT Corporation elects 10 term members, three life members
+- [0065] | 6 | MIT’s | MITTEN | 麻省麻省麻省麻省麻省麻省麻省麻省麻省麻省 | Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2025
+- [0066] | 6 | named | benannt | 命名名称 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0067] | 6 | per | je | / 人 / 人 | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0068] | 6 | predict | vorhersagen | 预测预测数 | FDA approves first AI tool to predict breast cancer risk
+- [0069] | 6 | proud | stolz | 骄傲自豪 | The proud history and promising future of MIT’s work on manufacturing
+- [0070] | 6 | Questions | Fragen | 问 问 问 问 问 问 问 问 问 问 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0071] | 6 | reduce | Verringerung | 减少 | Study: Climate change may make it harder to reduce smog in some regions
+- [0072] | 6 | Reem | Reem | Reeem  Reeem  Reeem 雷 Reeem | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0073] | 6 | scientists | Wissenschaftler | 科学家、科学家和科学家 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0074] | 6 | shots | Schüsse | 射击 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0075] | 6 | some | teilweise | 部分为某些 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0076] | 6 | Summit | Gipfeltreffen | 首脑会议首脑首脑首脑首脑首脑首脑首脑首脑首脑首脑会议首脑会议首脑会议首脑会议 | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0077] | 6 | Technique | Technik | 技术 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0078] | 6 | way | Art und Weise | 方形 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0079] | 5 | about | über | 约约约 | How we think about protecting data
+- [0080] | 5 | advance | Vorschuss | 预预 | Global summit for persons with disabilities to advance accessibility and inclusion worldwide
+- [0081] | 5 | American | amerikanisch | 美裔美国人 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [0082] | 5 | D | D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | D D | New 3D printing method enables complex designs and creates less waste
+- [0083] | 5 | data | Daten | 数据数据数据数据数据 | How we think about protecting data
+- [0084] | 5 | degrees | Grad | 摄度度 | Harvard awards 9,434 degrees
+- [0085] | 5 | during | während | 期间 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0086] | 5 | future | Zukunft | 未来 | The proud history and promising future of MIT’s work on manufacturing
+- [0087] | 5 | graduating | Abschluss | 毕业毕业 | No joke: He’s graduating
+- [0088] | 5 | is | wird | 是 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [0089] | 5 | Judge | Richter | 法官 法官 法官 法官 法官 法官 法官 法官 法官 | Judge sides with Harvard on international students
+- [0090] | 5 | models | Modelle | 模型模型模型 | Teaching AI models what they don’t know
+- [0091] | 5 | over | Über | 超过 | Science that gives humans more say over their destinies
+- [0092] | 5 | potential | Potenzial | 潜在潜力 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0093] | 5 | research | Forschung | 研究研究研究 | $20 million gift supports theoretical physics research and education at MIT
+- [0094] | 5 | stand | Stand | 站点 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0095] | 5 | state | Zustand | 状态状态状态状态 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0096] | 5 | tells | sagt | 线报 | Verghese tells an American story at Commencement
+- [0097] | 5 | their | deren | 他们的 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0098] | 5 | they | sie/Sie | 和 | Teaching AI models what they don’t know
+- [0099] | 5 | through | bis | 中 中 中 | MIT D-Lab students design global energy solutions through collaboration
+- [0100] | 5 | up | nach oben | 上上 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0101] | 5 | using | Verwendung | 使用 | A new approach could fractionate crude oil using much less energy
+- [0102] | 5 | we | wir | 我们 | How we think about protecting data
+- [0103] | 5 | wins | gewinnt | 赢赢 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0104] | 5 | ’ | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ' ' ; | Steven Truong ’20 named 2025 Knight-Hennessy Scholar
+- [0105] | 4 | all | alle | 全部( 全部) | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0106] | 4 | announces | kündigt an | 宣布宣布 | MIT announces the Initiative for New Manufacturing
+- [0107] | 4 | by | von | 至 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [0108] | 4 | can | kann | 能够 | An anomaly detection framework anyone can use
+- [0109] | 4 | can’t | Kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann, kann. | 不能” | Study shows vision-language models can’t handle queries with negation words
+- [0110] | 4 | enables | ermöglicht | 启用启用 | New 3D printing method enables complex designs and creates less waste
+- [0111] | 4 | from | von | 调自 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [0112] | 4 | gift | Geschenk | 赠礼礼物 | $20 million gift supports theoretical physics research and education at MIT
+- [0113] | 4 | have | haben | 拥有 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0114] | 4 | history | Vorgeschichte | 历史历史历史历史历史历史历史 | The proud history and promising future of MIT’s work on manufacturing
+- [0115] | 4 | identify | Identifizieren | 识别 | Biologists identify targets for new pancreatic cancer treatments
+- [0116] | 4 | illegal | illegal | 非法非法 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0117] | 4 | K | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein nein, nein, nein, nein nein, nein nein, nein nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein nein, nein nein, nein, nein, nein nein, nein nein, nein nein, nein nein, nein nein, nein, nein, nein nein nein, nein nein, nein nein nein nein nein nein nein nein nein, nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein nein | K K 级 | Drug injection device wins MIT $100K Competition
+- [0118] | 4 | less | weniger | 小于 | New 3D printing method enables complex designs and creates less waste
+- [0119] | 4 | make | machen | 混和 混和 | Study: Climate change may make it harder to reduce smog in some regions
+- [0120] | 4 | off | aus | 关闭 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0121] | 4 | people | Menschen | 人 人 人 人 人 人 人 人 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [0122] | 4 | sets | Sets | 套套套套套套套套 | Youngkin sets date for special election to fill deep-blue House seat
+- [0123] | 4 | star | Stern | 恒星星 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0124] | 4 | support | Unterstützung | 支助支助 | Germany pledges support for an inclusive and peaceful transition process in Syria
+- [0125] | 4 | times | Zeiten | 时间时间 | Safeguarding global cooperation in turbulent times
+- [0126] | 4 | tool | Werkzeug | 工具工具工具 | FDA approves first AI tool to predict breast cancer risk
+- [0127] | 4 | toward | Richtung | 向 | A magnetic pull toward materials
+- [0128] | 4 | underwater | unter Wasser | 水下 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0129] | 4 | Why | Warum? | 为什么 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0130] | 3 | - | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - 带 | Dimitris Bertsimas receives the 2025-2026 Killian Award
+- [0131] | 3 | -year | -Jahr | -年份 -年份 | Startup enables 100-year bridges with corrosion-resistant steel
+- [0132] | 3 | accessibility | Zugänglichkeit | 无障碍环境 | Global summit for persons with disabilities to advance accessibility and inclusion worldwide
+- [0133] | 3 | also | auch | 并且,还有 | MIT physicists discover a new type of superconductor that’s also a magnet
+- [0134] | 3 | Alzheimer’s | Alzheimer | 阿尔茨海默氏体 | Scientists discover potential new targets for Alzheimer’s drugs
+- [0135] | 3 | anomaly | Anomalie | 异常异常 | An anomaly detection framework anyone can use
+- [0136] | 3 | answer | Antwort | 答答 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0137] | 3 | any | keine | 任何 | With AI, researchers predict the location of virtually any protein within a human cell
+- [0138] | 3 | anyone | jeder | 任何人 | An anomaly detection framework anyone can use
+- [0139] | 3 | approach | Ansatz | 方 式 式 | A new approach could fractionate crude oil using much less energy
+- [0140] | 3 | Architecture | Architektur | 建筑结构结构 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0141] | 3 | assault | Körperverletzung | 攻击性攻击 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0142] | 3 | aviation | Luftfahrt | 航空航空 | New fuel cell could enable electric aviation
+- [0143] | 3 | Award | Preis | 奖 奖 奖 奖 | Dimitris Bertsimas receives the 2025-2026 Killian Award
+- [0144] | 3 | awards | Auszeichnungen | 裁定赔偿金 | Harvard awards 9,434 degrees
+- [0145] | 3 | becomes | wird | 成为 | Reem Alabali-Radovan becomes new Development Minister
+- [0146] | 3 | Bertsimas | Bertsimas | 伯特西玛斯 | Dimitris Bertsimas receives the 2025-2026 Killian Award
+- [0147] | 3 | Biden | Biden | 拜登 | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0148] | 3 | biology” | Biologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 生物学” | MIT mechanical engineering course invites students to “build with biology”
+- [0149] | 3 | boost | Boost | 推进推进 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0150] | 3 | bot | Bot | 立方体体 | Ping pong bot returns shots with high-speed precision
+- [0151] | 3 | bottleneck | Engpass | 瓶颈 | How to solve a bottleneck for CO2 capture and conversion
+- [0152] | 3 | brain’s | Gehirne | 大脑 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0153] | 3 | bridges | Brücken | 桥梁 | Startup enables 100-year bridges with corrosion-resistant steel
+- [0154] | 3 | build | Bauen | 建设 | Class pairs students with military officers to build mission-critical solutions
+- [0155] | 3 | Call | Anruf | 调调 | Call to sign the Hamburg Declaration on Responsible AI for the SDGs
+- [0156] | 3 | campaign | Kampagne | 运动运动 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0157] | 3 | cancer | Krebs | 癌症癌症 | FDA approves first AI tool to predict breast cancer risk
+- [0158] | 3 | capacity | Kapazität | 能力能力能力 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0159] | 3 | capture | Erfassung | 捕捉 | How to solve a bottleneck for CO2 capture and conversion
+- [0160] | 3 | carrying | mitgeführt | 带有 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0161] | 3 | catches | Fänge | 渔渔渔渔量 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0162] | 3 | cells’ | Zellen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 单元格单元格 ' | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0163] | 3 | Center | Zentrum | 中心中心中心 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0164] | 3 | Chancellor | Kanzler | 总理,总理 | Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2025
+- [0165] | 3 | change | Veränderung | 变动 | Study: Climate change may make it harder to reduce smog in some regions
+- [0166] | 3 | charge | Erhebung | 收费 | Sally Kornbluth’s charge to the Class of 2025
+- [0167] | 3 | Climate | Klima | 气候气候 气候 | Study: Climate change may make it harder to reduce smog in some regions
+- [0168] | 3 | CO | L 347 vom 20.12.2013, S. 671. | COCO | How to solve a bottleneck for CO2 capture and conversion
+- [0169] | 3 | collaboration | Zusammenarbeit | 协作 | MIT D-Lab students design global energy solutions through collaboration
+- [0170] | 3 | Colorado | Colorado | 科罗拉多 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0171] | 3 | commitments | Verpflichtungen | 承付款 | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0172] | 3 | communication | Kommunikation | 通讯通讯通讯通讯 | 3 Questions: Hank Green on science, communication, and curiosity
+- [0173] | 3 | compact | kompakt | 紧紧 | Rationale engineering generates a compact new tool for gene therapy
+- [0174] | 3 | Competition | Wettbewerb | 竞争 竞争 竞争 竞争 竞争 竞争 竞争 | Drug injection device wins MIT $100K Competition
+- [0175] | 3 | concludes | Schlussfolgerungen | 结 结 结 结 结 | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0176] | 3 | connected | verbunden | 连接连接 | AI learns how vision and sound are connected, without human intervention
+- [0177] | 3 | conversion | Umwandlung | 转换 | How to solve a bottleneck for CO2 capture and conversion
+- [0178] | 3 | cooperation | Zusammenarbeit | 合作合作 | Safeguarding global cooperation in turbulent times
+- [0179] | 3 | corrosion-resistant | Korrosionsbeständig | 抗腐蚀 | Startup enables 100-year bridges with corrosion-resistant steel
+- [0180] | 3 | course | Kurs | 课程课程 | MIT mechanical engineering course invites students to “build with biology”
+- [0181] | 3 | crucial | entscheidend | 关键 | “Livelihoods for the Syrian population crucial for a successful transition process in Syria.”
+- [0182] | 3 | crude | roh | 粗 原油 | A new approach could fractionate crude oil using much less energy
+- [0183] | 3 | curiosity | Neugierde | 好奇心 | 3 Questions: Hank Green on science, communication, and curiosity
+- [0184] | 3 | D-Lab | D-Lab | D-拉布 | MIT D-Lab students design global energy solutions through collaboration
+- [0185] | 3 | deadly | tödlich | 致命致命 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0186] | 3 | Declaration | Erklärung | 宣言宣言 | Call to sign the Hamburg Declaration on Responsible AI for the SDGs
+- [0187] | 3 | density | Dichte | 密度密度密度 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0188] | 3 | design | Entwurf | 设计设计设计 | MIT D-Lab students design global energy solutions through collaboration
+- [0189] | 3 | detection | Nachweis | 检测检测 | An anomaly detection framework anyone can use
+- [0190] | 3 | developmental | entwicklungspolitische | 发 发 发 发 发 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0191] | 3 | device | Einrichtung | 设备设备 | Drug injection device wins MIT $100K Competition
+- [0192] | 3 | diet | Diät | 饮食 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0193] | 3 | Dimitris | Dimitris | 迪米特里 | Dimitris Bertsimas receives the 2025-2026 Killian Award
+- [0194] | 3 | director | Direktor | 主任 主任 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0195] | 3 | disabilities | Behinderung | 残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾残疾 | Global summit for persons with disabilities to advance accessibility and inclusion worldwide
+- [0196] | 3 | Disability | Behinderung | 残疾残疾残疾残疾 | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0197] | 3 | diseases | Krankheiten | 疾病 疾病 疾病 疾病 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0198] | 3 | doses | Dosierung | 剂量剂量 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0199] | 3 | Drug | Arzneimittel | 毒品 毒品 | Drug injection device wins MIT $100K Competition
+- [0200] | 3 | drugs | Drogen | 毒品毒品 毒品 | Scientists discover potential new targets for Alzheimer’s drugs
+- [0201] | 3 | dysfunction | Dysfunktion | 功能功能失调 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0202] | 3 | economic | Wirtschaft | 经济、经济、 经济、 经济、 经济、 经济、 经济、 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0203] | 3 | education | Bildung | 学历教育 | $20 million gift supports theoretical physics research and education at MIT
+- [0204] | 3 | effect | Wirkung | 效果效果 | Imaging technique removes the effect of water in underwater scenes
+- [0205] | 3 | Eldercare | Altenpflege | 老年人护理 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0206] | 3 | electric | elektrisch | 电动 | New fuel cell could enable electric aviation
+- [0207] | 3 | elects | wählt | 选择 | MIT Corporation elects 10 term members, three life members
+- [0208] | 3 | enable | aktivieren | 启用启用 | New fuel cell could enable electric aviation
+- [0209] | 3 | explain | erklären | 解释解释 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0210] | 3 | explore | Erforschen | 探索探索 | MIT students and postdoc explore the inner workings of Capitol Hill
+- [0211] | 3 | extending | Erweiterung | 扩展扩展 | A new technology for extending the shelf life of produce
+- [0212] | 3 | fall | Herbst | 秋秋 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0213] | 3 | follow-up | Folgemaßnahmen | 后续行动后续行动 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0214] | 3 | Foreign | Ausländische | 外国 外国 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0215] | 3 | fractionate | fraktioniert | 分数范围 | A new approach could fractionate crude oil using much less energy
+- [0216] | 3 | framework | Rahmen | 框架框架框架框架 | An anomaly detection framework anyone can use
+- [0217] | 3 | fuel | Kraftstoff | 燃料燃料燃料燃料燃料燃料燃料 | New fuel cell could enable electric aviation
+- [0218] | 3 | gain | Gewinn | 增益 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0219] | 3 | gene | Gen | 基因基因 | Rationale engineering generates a compact new tool for gene therapy
+- [0220] | 3 | generates | erzeugt | 生成 | Rationale engineering generates a compact new tool for gene therapy
+- [0221] | 3 | graduates | Hochschulabsolventen | 毕业生 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0222] | 3 | Hamburg | ZEITSCHRIFTEN | 汉堡汉堡 | Call to sign the Hamburg Declaration on Responsible AI for the SDGs
+- [0223] | 3 | handle | Griff | 控件 | Study shows vision-language models can’t handle queries with negation words
+- [0224] | 3 | handling | Handhabung | 处理处理 | System lets robots identify an object’s properties through handling
+- [0225] | 3 | harder | härter | 更硬 | Study: Climate change may make it harder to reduce smog in some regions
+- [0226] | 3 | health | Gesundheit | 健康健康 健康 健康 健康 健康 健康 健康 健康 健康 健康 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0227] | 3 | helps | hilft | 帮助帮助 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0228] | 3 | He’s | Er ist | 他 | No joke: He’s graduating
+- [0229] | 3 | high-fat | fettreich | 高脂肪 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0230] | 3 | high-speed | Hochgeschwindigkeitsfahrzeuge | 高速高速 | Ping pong bot returns shots with high-speed precision
+- [0231] | 3 | highly | hoch | 高 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0232] | 3 | history’ | Geschichte | 历史历史 | ‘Like we’re reaching a new period of human history’
+- [0233] | 3 | huge | groß | 巨大 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0234] | 3 | humans | Menschen | 人 人 人 人 人 人 人 人 人 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0235] | 3 | Imaging | Bildgebung | 图像成像 | Imaging technique removes the effect of water in underwater scenes
+- [0236] | 3 | immigrant | Zuwanderer | 移民移民移民 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0237] | 3 | inclusive | Einschließlich | 包容性 | Germany pledges support for an inclusive and peaceful transition process in Syria
+- [0238] | 3 | India | Indien | 印度 印度 印度 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0239] | 3 | Initiative | Initiative | 倡议倡议倡议倡议 | MIT announces the Initiative for New Manufacturing
+- [0240] | 3 | injection | Injektionslösung | 注射 | Drug injection device wins MIT $100K Competition
+- [0241] | 3 | international | Veröffentlichungen der Europäischen Gemeinschaften | 国际国际 | Judge sides with Harvard on international students
+- [0242] | 3 | intervention | Intervention | 干预和干预 | AI learns how vision and sound are connected, without human intervention
+- [0243] | 3 | invites | lädt ein | 邀请邀请 | MIT mechanical engineering course invites students to “build with biology”
+- [0244] | 3 | Johann | - Ich weiß es nicht. - Ich weiß nicht. | 约翰·约翰 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0245] | 3 | join | beitreten | 加入加入加入 | Kannon Shanmugam to join Harvard Corporation
+- [0246] | 3 | joke | Witz | 笑话 | No joke: He’s graduating
+- [0247] | 3 | Journalism | Journalismus | 新闻新闻 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0248] | 3 | Kannon | Kannon | 肯农 | Kannon Shanmugam to join Harvard Corporation
+- [0249] | 3 | Killian | Killian | 基利安语Name | Dimitris Bertsimas receives the 2025-2026 Killian Award
+- [0250] | 3 | Knight | Ritter | 骑士骑士 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0251] | 3 | Knight-Hennessy | Ritter-Hennessy | 骑士汉内斯 | Steven Truong ’20 named 2025 Knight-Hennessy Scholar
+- [0252] | 3 | Kornbluth’s | Kornbluth | 科恩布卢特的 | Sally Kornbluth’s charge to the Class of 2025
+- [0253] | 3 | leading | führend | 铅 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0254] | 3 | lead” | Blei | 铅铅” | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0255] | 3 | learns | lernt | 学 学 学 学 | AI learns how vision and sound are connected, without human intervention
+- [0256] | 3 | Lee | Lee, bitte. | 李李 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0257] | 3 | lifting | Heben | 升举 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0258] | 3 | lobbies | Lobbies | 圆圈 | Germany lobbies for sustainability and multilateral solutions
+- [0259] | 3 | location | Standort | 位置位置位置 | With AI, researchers predict the location of virtually any protein within a human cell
+- [0260] | 3 | magnet | Magnet | 磁磁磁 | MIT physicists discover a new type of superconductor that’s also a magnet
+- [0261] | 3 | Mary | Maria | 玛丽玛丽 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0262] | 3 | materials | Werkstoffe | 材料 | A magnetic pull toward materials
+- [0263] | 3 | McFarling | McFarling | 麦克法林 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0264] | 3 | measures | Maßnahmen | 措施措施措施 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0265] | 3 | mechanical | mechanisch | 机械 机械 | MIT mechanical engineering course invites students to “build with biology”
+- [0266] | 3 | Melissa | Melissa | 梅丽莎 | Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2025
+- [0267] | 3 | metabolic | metabolisch | 代代谢 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0268] | 3 | might | könnte | 中 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0269] | 3 | military | Militärisch | 军事 军事 | Class pairs students with military officers to build mission-critical solutions
+- [0270] | 3 | million | in Mio. | 百万百万 | $20 million gift supports theoretical physics research and education at MIT
+- [0271] | 3 | mission-critical | geschäftskritische | 任务关键任务 | Class pairs students with military officers to build mission-critical solutions
+- [0272] | 3 | money | Geld | 货币 货币 | If time is money, here’s one way consumers value it
+- [0273] | 3 | moon | Mond | 月月月月 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0274] | 3 | much | viel | 多 | A new approach could fractionate crude oil using much less energy
+- [0275] | 3 | multilateral | Multilaterale | 多边多边多边 | Germany lobbies for sustainability and multilateral solutions
+- [0276] | 3 | multiple | Mehrfach | 多个数 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0277] | 3 | need | Notwendigkeit | 需要 需要 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0278] | 3 | negation | Verneinung | 否定否定 | Study shows vision-language models can’t handle queries with negation words
+- [0279] | 3 | No | Nein | 否 无 | No joke: He’s graduating
+- [0280] | 3 | Nobles’ | Adlige | 贵族 | Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2025
+- [0281] | 3 | normal | Normal | 正常正常 | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0282] | 3 | officers | Beamte | 干事 干事 干事 | Class pairs students with military officers to build mission-critical solutions
+- [0283] | 3 | oil | Öl | 石油油油 | A new approach could fractionate crude oil using much less energy
+- [0284] | 3 | Overlooked | Überwacht | 被忽略 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0285] | 3 | pairs | Paare | 双对 | Class pairs students with military officers to build mission-critical solutions
+- [0286] | 3 | Particles | Teilchen | 粒子 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0287] | 3 | peaceful | friedlich | 和平、和平、和平 | Germany pledges support for an inclusive and peaceful transition process in Syria
+- [0288] | 3 | people” | Menschen | 人与人” | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0289] | 3 | period | Zeitraum | 期间 | ‘Like we’re reaching a new period of human history’
+- [0290] | 3 | persons | Personen | 人 人 人 人 | Global summit for persons with disabilities to advance accessibility and inclusion worldwide
+- [0291] | 3 | physicists | Physiker | 物理学家 | MIT physicists discover a new type of superconductor that’s also a magnet
+- [0292] | 3 | physics | Physik | 物理学 | $20 million gift supports theoretical physics research and education at MIT
+- [0293] | 3 | Ping | Ping | 平 平 平 平 | Ping pong bot returns shots with high-speed precision
+- [0294] | 3 | Planning | Planung | 规划 规划 规划 规划 规划 规划 规划 规划 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0295] | 3 | pledges | Verpfändungen | 认捐认捐款 | Germany pledges support for an inclusive and peaceful transition process in Syria
+- [0296] | 3 | pong | (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) (Pong) | 海绵 | Ping pong bot returns shots with high-speed precision
+- [0297] | 3 | population | Bevölkerung | 人口 人口 人口 | “Livelihoods for the Syrian population crucial for a successful transition process in Syria.”
+- [0298] | 3 | precision | Präzision | 精精精精精度 | Ping pong bot returns shots with high-speed precision
+- [0299] | 3 | problems | Probleme | 问题 问题 | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0300] | 3 | produce | Erzeugung | 生产生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 生产 | A new technology for extending the shelf life of produce
+- [0301] | 3 | Program | Programm | 方案方案 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0302] | 3 | promising | vielversprechend | 有希望 | The proud history and promising future of MIT’s work on manufacturing
+- [0303] | 3 | protecting | Schutz | 保护 | How we think about protecting data
+- [0304] | 3 | protein | Eiweiß | 蛋蛋蛋蛋蛋白 | With AI, researchers predict the location of virtually any protein within a human cell
+- [0305] | 3 | pull | Ziehen | 拉拉拉 | A magnetic pull toward materials
+- [0306] | 3 | queries | Abfragen | 查询 | Study shows vision-language models can’t handle queries with negation words
+- [0307] | 3 | rapidly | schnell | 快速快速 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0308] | 3 | Rationale | Begründung | 理由理由 | Rationale engineering generates a compact new tool for gene therapy
+- [0309] | 3 | reaching | Erreicht | 达到 | ‘Like we’re reaching a new period of human history’
+- [0310] | 3 | receives | erhält | 接收接收 | Dimitris Bertsimas receives the 2025-2026 Killian Award
+- [0311] | 3 | reflecting | reflektierend | 反映 | Technique rapidly measures cells’ density, reflecting health and developmental state
+- [0312] | 3 | regions | Regionen | 区域 | Study: Climate change may make it harder to reduce smog in some regions
+- [0313] | 3 | removes | entfernt | 删除 | Imaging technique removes the effect of water in underwater scenes
+- [0314] | 3 | researchers | Forscher | 研究人员 研究人员 | With AI, researchers predict the location of virtually any protein within a human cell
+- [0315] | 3 | Responsible | Verantwortlich | 负责 | Call to sign the Hamburg Declaration on Responsible AI for the SDGs
+- [0316] | 3 | returns | Renditen | 返回返回返回 | Ping pong bot returns shots with high-speed precision
+- [0317] | 3 | Robinson | Robinson | 鲁滨逊 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0318] | 3 | robot | Roboter | 机器人机器人 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0319] | 3 | rocks | Steine | 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石, 岩石 | Why are some rocks on the moon highly magnetic? MIT scientists may have an answer
+- [0320] | 3 | Russia | Frankreich | 俄罗斯 俄罗斯 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0321] | 3 | Safeguarding | Schutz | 保障 | Safeguarding global cooperation in turbulent times
+- [0322] | 3 | Sally | Sally | 萨莉 | Sally Kornbluth’s charge to the Class of 2025
+- [0323] | 3 | sanctions | Sanktionen | 制裁制裁 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0324] | 3 | scenes | Szenen | 场景 | Imaging technique removes the effect of water in underwater scenes
+- [0325] | 3 | Scholar | Gelehrter | 学者学者 | Steven Truong ’20 named 2025 Knight-Hennessy Scholar
+- [0326] | 3 | School | Schule | 学校学校 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0327] | 3 | SDGs | SDGs | SDGs 可持续发展目标 | Call to sign the Hamburg Declaration on Responsible AI for the SDGs
+- [0328] | 3 | seat | Sitz | 位数 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0329] | 3 | several | mehrere | 数个 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0330] | 3 | Shanmugam | ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNGEN | 沙努姆 | Kannon Shanmugam to join Harvard Corporation
+- [0331] | 3 | shelf | Regal | 架架架 | A new technology for extending the shelf life of produce
+- [0332] | 3 | sides | Seiten | 边边边 | Judge sides with Harvard on international students
+- [0333] | 3 | sign | Zeichen | 符号符号符号 | Call to sign the Hamburg Declaration on Responsible AI for the SDGs
+- [0334] | 3 | sit | Sitzen | 坐 席 坐 席 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0335] | 3 | smog | Smog | 烟雾烟雾 | Study: Climate change may make it harder to reduce smog in some regions
+- [0336] | 3 | solvable | lösbar | 溶解 | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0337] | 3 | solve | lösen | 解答 | How to solve a bottleneck for CO2 capture and conversion
+- [0338] | 3 | sound | Geräusche | 声音 | AI learns how vision and sound are connected, without human intervention
+- [0339] | 3 | Startup | Inbetriebnahme | 启动启动 | Startup enables 100-year bridges with corrosion-resistant steel
+- [0340] | 3 | steel | Stahl | 钢钢 | Startup enables 100-year bridges with corrosion-resistant steel
+- [0341] | 3 | Steven | WETTBEWERBSREGELN | 史蒂文 | Steven Truong ’20 named 2025 Knight-Hennessy Scholar
+- [0342] | 3 | storage | Lagerung | 储存储存 | Overlooked cells might explain the human brain’s huge storage capacity
+- [0343] | 3 | story | Geschichte | 故事故事故事 | Verghese tells an American story at Commencement
+- [0344] | 3 | strong | stark | 强 | "15 per cent for the 15 per cent": Global Disability Summit concludes with strong commitments for global inclusion
+- [0345] | 3 | successful | Erfolg | 成功成功 | “Livelihoods for the Syrian population crucial for a successful transition process in Syria.”
+- [0346] | 3 | superconductor | Supraleiter | 超导体 | MIT physicists discover a new type of superconductor that’s also a magnet
+- [0347] | 3 | supports | Unterstützungen | 支持支持 | $20 million gift supports theoretical physics research and education at MIT
+- [0348] | 3 | sustainability | Nachhaltigkeit | 可持续性 | Germany lobbies for sustainability and multilateral solutions
+- [0349] | 3 | sustainable | nachhaltig | 可持续的可持续 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0350] | 3 | Syrian | Syrisch | 叙利亚语叙利亚语Name 叙利亚语Name | “Livelihoods for the Syrian population crucial for a successful transition process in Syria.”
+- [0351] | 3 | tactics | Taktik | 战术战术 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0352] | 3 | technology | Technologie | 技 技 技 技 技 | A new technology for extending the shelf life of produce
+- [0353] | 3 | term | Begriff | 定期 | MIT Corporation elects 10 term members, three life members
+- [0354] | 3 | th | n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n | 第 月 月 | Rockies make unfortunate history with 50th loss of season
+- [0355] | 3 | that’s | Dass | 这一点 | MIT physicists discover a new type of superconductor that’s also a magnet
+- [0356] | 3 | them | sie | 三、它们 | Eldercare robot helps people sit and stand, and catches them if they fall
+- [0357] | 3 | theoretical | Theoretische | 理论理论 | $20 million gift supports theoretical physics research and education at MIT
+- [0358] | 3 | therapy | Therapie | 理疗 | Rationale engineering generates a compact new tool for gene therapy
+- [0359] | 3 | think | denken | 思考思考 | How we think about protecting data
+- [0360] | 3 | three | Drei | 3个 3 | MIT Corporation elects 10 term members, three life members
+- [0361] | 3 | together | zusammen | 组合在一起 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0362] | 3 | Truong | Truong | 忠哥 | Steven Truong ’20 named 2025 Knight-Hennessy Scholar
+- [0363] | 3 | turbulent | turbulent | 动荡 | Safeguarding global cooperation in turbulent times
+- [0364] | 3 | type | Typ | 类型类型类型 | MIT physicists discover a new type of superconductor that’s also a magnet
+- [0365] | 3 | undergraduate | undergraduate | 本科本科生 | Chancellor Melissa Nobles’ address to MIT’s undergraduate Class of 2025
+- [0366] | 3 | US | ENTWICKLUNG | 美 美 美 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0367] | 3 | use | Verwendung | 使用 | An anomaly detection framework anyone can use
+- [0368] | 3 | Usha | INSGESAMT | 乌沙 | Usha Lee McFarling named director of the Knight Science Journalism Program
+- [0369] | 3 | vaccination | Impfung | 接种疫苗 | Study in India shows several tactics together boost vaccination against deadly diseases
+- [0370] | 3 | vaccine | Impfstoff | 疫苗疫苗疫苗 | Particles carrying multiple vaccine doses could reduce the need for follow-up shots
+- [0371] | 3 | Verghese | Verghese | verghese( verghese) verghese( 弗高) | Verghese tells an American story at Commencement
+- [0372] | 3 | virtually | virtuell | 虚拟 | With AI, researchers predict the location of virtually any protein within a human cell
+- [0373] | 3 | vision | Sehvermögen | 愿景愿景 | AI learns how vision and sound are connected, without human intervention
+- [0374] | 3 | vision-language | Visionssprache | 视觉语言 | Study shows vision-language models can’t handle queries with negation words
+- [0375] | 3 | Wadephul | Wadephul | 韦phul | Foreign Minister Johann Wadephul and Development Minister Reem Alabali-Radovan on the lifting of all economic sanctions against Syria
+- [0376] | 3 | water | Wasser | 水 水 | Imaging technique removes the effect of water in underwater scenes
+- [0377] | 3 | weight | Gewicht | 加权数 | A high-fat diet sets off metabolic dysfunction in cells, leading to weight gain
+- [0378] | 3 | we’re | Wir sind | 我们 | ‘Like we’re reaching a new period of human history’
+- [0379] | 3 | What | Was ist? | 什么什么是什么 是什么( What) 是什么( What) | What good is writing anyway?
+- [0380] | 3 | within | innerhalb | 内 | With AI, researchers predict the location of virtually any protein within a human cell
+- [0381] | 3 | without | ohne | 无 | AI learns how vision and sound are connected, without human intervention
+- [0382] | 3 | words | Wörter | 字词词词词 | Study shows vision-language models can’t handle queries with negation words
+- [0383] | 3 | worldwide | weltweit | 全世界 | Global summit for persons with disabilities to advance accessibility and inclusion worldwide
+- [0384] | 3 | ‘Like | „Wie | 类似 | ‘Like we’re reaching a new period of human history’
+- [0385] | 3 | “build | Bauen | “建造 | MIT mechanical engineering course invites students to “build with biology”
+- [0386] | 3 | “everyday | Tag für Tag | “每天 | Hank Green urges the Class of 2025 to work on “everyday solvable problems of normal people”
+- [0387] | 3 | “find | ®finden | “已查明 | Mary Robinson urges MIT School of Architecture and Planning graduates to “find a way to lead”
+- [0388] | 3 | “Livelihoods | Lebendigkeiten | “生活 | “Livelihoods for the Syrian population crucial for a successful transition process in Syria.”
+- [0389] | 3 | ” | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ” | “Livelihoods for the Syrian population crucial for a successful transition process in Syria.”
+- [0390] | 2 | ' | " | ' ' | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0391] | 2 | Abdul-Jabbar | Abdul-Jabbar | 阿卜杜勒·贾巴巴 | Take a stand, Abdul-Jabbar tells graduating seniors
+- [0392] | 2 | accused | beschuldigt | 被告人 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0393] | 2 | admin | Verwaltungsroutine | 管理员 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [0394] | 2 | athlete | Sportler | 运动员 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0395] | 2 | awarded | vergeben | 裁定赔偿金 | Six honorary degrees awarded at 374th Commencement
+- [0396] | 2 | be | werden | be be be 的, 是 | Suspect in Boulder terror attack determined to be Egyptian man in US illegally: FBI
+- [0397] | 2 | best | am besten | 最佳 | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0398] | 2 | bias | Voreingenommenheit | 性别偏见 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0399] | 2 | Biologists | Biologen | 生物学家 | Biologists identify targets for new pancreatic cancer treatments
+- [0400] | 2 | breakthrough | Durchbruch | 中中点 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0401] | 2 | Brown | Braun | 棕色 | A day in the life of MIT MBA student David Brown
+- [0402] | 2 | California | Kalifornien | 加利福尼亚州 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0403] | 2 | calling | Anrufen | 调来电话 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [0404] | 2 | Cathleen | Cathleen | 凯思琳Name | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0405] | 2 | caught | gefangen | 被抓获 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0406] | 2 | celebration | Feier | 庆祝庆祝活动 | A celebration for parents, too
+- [0407] | 2 | Chrisley | Chrisley, Mitglied der Kommission. - (EN) Herr Präsident! | 克里斯利 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0408] | 2 | Chrisley's | Chrisley's | 克里斯利的 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0409] | 2 | claims | Forderungen | 索偿 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0410] | 2 | Closing | Schließung | 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0411] | 2 | complex | komplex | 复杂复杂 | New 3D printing method enables complex designs and creates less waste
+- [0412] | 2 | consumers | Verbraucher | 消费者消费者 | If time is money, here’s one way consumers value it
+- [0413] | 2 | critics | Kritiker | 批评者 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0414] | 2 | custody | Verwahrung | 羁押 | Family of Boulder firebombing suspect taken into federal custody: sources
+- [0415] | 2 | cut | Schnitt | 剪切剪切 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0416] | 2 | datasets | Datensätze | 数据集 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0417] | 2 | David | David | 戴维·戴维 | A day in the life of MIT MBA student David Brown
+- [0418] | 2 | dead | tot | 死 死 | Devin Harjes, 'Boardwalk Empire' star, dead at 41
+- [0419] | 2 | Democratic | Demokratisch | 民主民主民主 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0420] | 2 | denies | verleugnet | 否认否认 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0421] | 2 | Department | Abteilung | 部 部 部 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0422] | 2 | developing | Entwicklung | 发展中发展中国家 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0423] | 2 | do | tun | do do do 做 | Teaching AI models the broad strokes to sketch more like humans do
+- [0424] | 2 | drone | Drohne | 无人驾驶无人驾驶飞机 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [0425] | 2 | Dunne | Dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne, dunne. | Dunne 唐 | Olivia Dunne performs stunning move during swimsuit fashion show
+- [0426] | 2 | early | Anfang | 早期 | New research, data advance understanding of early planetary formation
+- [0427] | 2 | Economics | Wirtschaft | 经济学经济学 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0428] | 2 | economies | Wirtschaft | 经济经济体 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0429] | 2 | election | Wahl | 选 选 选 选 选 选 选 选 选 | Youngkin sets date for special election to fill deep-blue House seat
+- [0430] | 2 | emerging | sich abzeichnend | 新兴 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0431] | 2 | EXCLUSIVE | AUSSCHLIESSLICH | 绝对 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0432] | 2 | expert | Sachverständiger | 专家专家 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0433] | 2 | failures | Ausfälle | 失败失败 | Learning how to predict rare kinds of failures
+- [0434] | 2 | Family | Familie | 家庭家庭家庭家庭家庭家庭 | Family of Boulder firebombing suspect taken into federal custody: sources
+- [0435] | 2 | fashion | Mode | 时时时时时时 | Olivia Dunne performs stunning move during swimsuit fashion show
+- [0436] | 2 | federal | föderal | 联邦联邦 | Family of Boulder firebombing suspect taken into federal custody: sources
+- [0437] | 2 | feeling | Gefühl | 感觉感觉 | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0438] | 2 | Fetterman | Betterman | 芬德曼 | 'Chaos,' 'unacceptable': Fetterman rips Democratic handling of border in bipartisan discussion
+- [0439] | 2 | field | Bereich | 字段字段 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0440] | 2 | formation | Bildung | 形成 | New research, data advance understanding of early planetary formation
+- [0441] | 2 | Gaza | Gaza | 加沙 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [0442] | 2 | genome | Erbgut | 基因组组 | Using AI to explore the 3D structure of the genome
+- [0443] | 2 | girls' | Mädchen" | 女童 女童 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0444] | 2 | gives | gibt | 给给 | Science that gives humans more say over their destinies
+- [0445] | 2 | goes | geht | 继续 | Olivia Dunne posts 5-word reaction as fashion show stunt goes viral
+- [0446] | 2 | help | Hilfe | 帮助帮助帮助 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0447] | 2 | helping | Hilfe | 帮助帮助 | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0448] | 2 | here’s | Hier's | 这里的 | If time is money, here’s one way consumers value it
+- [0449] | 2 | hits | Treffer | 点击次数 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [0450] | 2 | home | Zuhause | 家 家 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0451] | 2 | honorary | Ehrenamtlich | 荣誉荣誉 | Six honorary degrees awarded at 374th Commencement
+- [0452] | 2 | host | Gastgeber | 主机主机 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [0453] | 2 | Hot | Heiß | 热热 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [0454] | 2 | humanity’ | Menschheit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 人类 | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0455] | 2 | Inequality | Ungleichbehandlung | 不平等 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0456] | 2 | into | in die | 与 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0457] | 2 | investment | Investitionen | 投资投资投资 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0458] | 2 | Israel | Israel | 以色列 以色列 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [0459] | 2 | James | - Ja. - Ja. - Ja. - Ja. | 詹姆斯·詹姆斯 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0460] | 2 | kinds | Art | 种类种类 | Learning how to predict rare kinds of failures
+- [0461] | 2 | know | wissen | 已知 | Teaching AI models what they don’t know
+- [0462] | 2 | launch | Start | 启动启动 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0463] | 2 | laws | Rechtsvorschriften | 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0464] | 2 | Learning | Lernen | 学习学习学习学习 | Learning how to predict rare kinds of failures
+- [0465] | 2 | lets | kann | lets , lets , 计 | System lets robots identify an object’s properties through handling
+- [0466] | 2 | like | Wie z.B. | 类似 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0467] | 2 | M | M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | M 男 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0468] | 2 | markets | Märkte | 市场市场 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0469] | 2 | MBA | MBA | MBA 甲基溴管理管理 | A day in the life of MIT MBA student David Brown
+- [0470] | 2 | meet | Treffen | 会 会 会 会 会 会 会 会 会 会 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0471] | 2 | member | Mitglied | 成员成员 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [0472] | 2 | message | Nachricht | 消息消息 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [0473] | 2 | mobilize | mobilisieren | 调动调动 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0474] | 2 | Mohamed | Mohamed | 穆罕默德·穆罕默德 | Mohamed Sabry Soliman: What we know about illegal immigrant accused in Colorado terror attack
+- [0475] | 2 | more | mehr | 更多 | Teaching AI models the broad strokes to sketch more like humans do
+- [0476] | 2 | murder | Mord | 谋杀 谋杀 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0477] | 2 | Musk | Moschus | 松木 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0478] | 2 | Nadler | Nadler | 纳德勒 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0479] | 2 | near | in der Nähe | 附近 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0480] | 2 | object’s | Gegenstand | 对象 | System lets robots identify an object’s properties through handling
+- [0481] | 2 | Olivia | Olivia | Olivia( 奥利维亚) | Olivia Dunne performs stunning move during swimsuit fashion show
+- [0482] | 2 | one | eins | 1个 | If time is money, here’s one way consumers value it
+- [0483] | 2 | pancreatic | Bauchspeicheldrüse | 洲际 | Biologists identify targets for new pancreatic cancer treatments
+- [0484] | 2 | parents | Eltern | 父母 父母 | A celebration for parents, too
+- [0485] | 2 | planetary | planetarisch | 行星行星行星行星 | New research, data advance understanding of early planetary formation
+- [0486] | 2 | policies | Politikbereiche | 政策、政策、政策、政策和政策 | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0487] | 2 | private | privat | 私立 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0488] | 2 | pro-Israel | pro-Israel | 亲以色列 | Boulder terror attack witness describes 'horrific' scene at pro-Israel rally
+- [0489] | 2 | properties | Eigenschaften | 属性属性 | System lets robots identify an object’s properties through handling
+- [0490] | 2 | prosecutor | Staatsanwalt | 检察官检察官 检察官检察官 | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0491] | 2 | rare | Selten | 稀有 | Learning how to predict rare kinds of failures
+- [0492] | 2 | reading | Lesen | 读数 | Second lady's 2025 reading challenge targets declining reading scores among students
+- [0493] | 2 | recognize | erkennen | 承认 | 3 Questions: How to help students recognize potential bias in their AI datasets
+- [0494] | 2 | release | Freigabe | 释放 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0495] | 2 | Rep | Antwort | Re Re Re Re | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0496] | 2 | report | Bericht | 报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0497] | 2 | robots | Roboter | 机器人 | System lets robots identify an object’s properties through handling
+- [0498] | 2 | run | Ausführen | 运行中 | Texas murder suspect Trevor McEuen caught after weeks on the run
+- [0499] | 2 | Sabry | Sabry | 萨布里 | Mohamed Sabry Soliman: What we know about illegal immigrant accused in Colorado terror attack
+- [0500] | 2 | says | sagt | 说: | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0501] | 2 | see | siehe | 见见 | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0502] | 2 | seniors | Senioren | 老年人 老年人 | Take a stand, Abdul-Jabbar tells graduating seniors
+- [0503] | 2 | sexual | sexuell | 性 性 性 性 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0504] | 2 | Shaping | Formgebung | 形状形状 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0505] | 2 | show | anzeigen | 显示显示显示 | Olivia Dunne performs stunning move during swimsuit fashion show
+- [0506] | 2 | Six | Sechs | 六六 | Six honorary degrees awarded at 374th Commencement
+- [0507] | 2 | Soliman | Soliman | 索利曼 | Mohamed Sabry Soliman: What we know about illegal immigrant accused in Colorado terror attack
+- [0508] | 2 | someone’s | Jemandes | 某某人的 | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0509] | 2 | South | Süden | 南南 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [0510] | 2 | still | immer noch | 仍为 | ‘We’re still standing … We can still do important work’
+- [0511] | 2 | Stone | Stein | 石石头 | MIT Department of Economics to launch James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work
+- [0512] | 2 | structure | Struktur | 结构结构结构结构 | Using AI to explore the 3D structure of the genome
+- [0513] | 2 | student | Schüler | 学生 学生 | A day in the life of MIT MBA student David Brown
+- [0514] | 2 | sues | RECHTSSACHE | 诉讼 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0515] | 2 | System | System | 系统系统系统系统系统 | System lets robots identify an object’s properties through handling
+- [0516] | 2 | Take | Nehmen Sie | 采取 | Take a stand, Abdul-Jabbar tells graduating seniors
+- [0517] | 2 | Teaching | Unterricht | 教学教学 | Teaching AI models what they don’t know
+- [0518] | 2 | time | Zeit | 时间 | If time is money, here’s one way consumers value it
+- [0519] | 2 | Todd | Todd | 托德 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0520] | 2 | too | auch | 也一样 | A celebration for parents, too
+- [0521] | 2 | trans | trans trans | 转 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0522] | 2 | treatments | Behandlungen | 治疗治疗 | Biologists identify targets for new pancreatic cancer treatments
+- [0523] | 2 | truth’ | Wahrheit | 真相 ' | ‘Stand up for the truth’
+- [0524] | 2 | Ukraine | Ukraine | 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0525] | 2 | Ukraine’s | Ukraine | 乌克兰 乌克兰 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [0526] | 2 | understanding | Verständnis | 理解 | New research, data advance understanding of early planetary formation
+- [0527] | 2 | value | Wert | 价值价值 | If time is money, here’s one way consumers value it
+- [0528] | 2 | waste | Abfälle | 废物废物 | New 3D printing method enables complex designs and creates less waste
+- [0529] | 2 | White | Weiß | 白白 | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0530] | 2 | win | gewinnen | 赢赢 | Eight with MIT ties win 2025 Hertz Foundation Fellowships
+- [0531] | 2 | ‘It’s | „Es handelt sich um | `它 ' | ‘It’s the best feeling, helping a prosecutor, a judge, see someone’s humanity’
+- [0532] | 2 | ‘Stand | „Stand | 站立 | ‘Stand up for the truth’
+- [0533] | 1 | & | & | 和( P) | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [0534] | 1 | 'astonishing' | "Astonisieren" | "惊讶" | Fetterman, McCormick react to 'astonishing' Boulder attack on pro-Israel group: 'Rank antisemitism'
+- [0535] | 1 | 'best' | "beste" | "最好的" | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0536] | 1 | 'big | Groß | # 大 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0537] | 1 | 'Boardwalk | "Boardwalk | "波道" | Devin Harjes, 'Boardwalk Empire' star, dead at 41
+- [0538] | 1 | 'bulletproof' | 'Bulletproof' | "防弹防弹" | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0539] | 1 | 'Chaos | "Chaos" | 化 化 | 'Chaos,' 'unacceptable': Fetterman rips Democratic handling of border in bipartisan discussion
+- [0540] | 1 | 'disaster' | "Katastrophe" | `灾害' | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0541] | 1 | 'Handmaid's | "Handjungfer" | 女佣的 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0542] | 1 | 'horrific' | "schrecklich" | “ 极度” | Boulder terror attack witness describes 'horrific' scene at pro-Israel rally
+- [0543] | 1 | 'just | "nur | 只是 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0544] | 1 | 'large | "Große | '大范围 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0545] | 1 | 'Must | "Muss | 强制 | Boulder terror attack puts Biden-era immigration policies in the hot seat: 'Must be fully reversed'
+- [0546] | 1 | 'Rank | "Rank | 兰克 | Fetterman, McCormick react to 'astonishing' Boulder attack on pro-Israel group: 'Rank antisemitism'
+- [0547] | 1 | 'reckless | "unvorsichtig" | 轻轻轻轻轻轻轻的 | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0548] | 1 | 'Red | Rot | 红色 | 'Red tape': Trump admin unleashes DOGE-aligned process to fire federal workers for misconduct
+- [0549] | 1 | 'Run | "Laufen | 运行 | Colorado terror attack took place at 'Run for Their Lives' event calling for release of all hostages in Gaza
+- [0550] | 1 | 'Spider’s | "Spider" (Spider) | Spider( 蜘蛛) | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [0551] | 1 | 'Sport | "Sport | 《体育》 | 'Sport Science' host John Brenkus dead at 54
+- [0552] | 1 | 'terrorist | "Terrorist" | '恐怖主义 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [0553] | 1 | 'The | "Das | # 爱着 # # # The # | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0554] | 1 | 'Total | Insgesamt | 总计 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0555] | 1 | 'townsizing' | "Städte" | 城镇化 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [0556] | 1 | 'unacceptable' | "unannehmbar" | "不能接受" | 'Chaos,' 'unacceptable': Fetterman rips Democratic handling of border in bipartisan discussion
+- [0557] | 1 | 'Wicked' | "Wicked" | "舔" | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0558] | 1 | -word | - Wort | -词词词词词词词词词词词 | Olivia Dunne posts 5-word reaction as fashion show stunt goes viral
+- [0559] | 1 | abuse | Missbrauch | 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 虐待 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0560] | 1 | accuser | Ankläger | 控告人 | Diddy accuser sues Harvey Weinstein for sexual assault
+- [0561] | 1 | across | gegenüber | 横横 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0562] | 1 | advantage | Vorteil | 优势 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0563] | 1 | Africa | Afrika | 非洲 非洲 非洲 非洲 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0564] | 1 | aims | Ziele | 目的 目的 目的 目的 目的 目的 目的 目的 目的 目的 目的 目的 目的 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0565] | 1 | airport | Flughafen | 机场机场机场 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0566] | 1 | ambulance | Krankenwagen | 救护车 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0567] | 1 | America | Amerika | 美洲美洲 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0568] | 1 | among | zwischen | 介 | Second lady's 2025 reading challenge targets declining reading scores among students
+- [0569] | 1 | anti-Trump | Anti-Trump | 反特朗普 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [0570] | 1 | antisemitic | Antisemitikum | 反犹太主义 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [0571] | 1 | antisemitism' | Antisemitismus" | 反犹太主义 | Fetterman, McCormick react to 'astonishing' Boulder attack on pro-Israel group: 'Rank antisemitism'
+- [0572] | 1 | anyway | Jedenfalls | 无论如何 | What good is writing anyway?
+- [0573] | 1 | appeals | Rechtsmittel | 上诉上诉 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0574] | 1 | approves | genehmigt | 核准核准 | FDA approves first AI tool to predict breast cancer risk
+- [0575] | 1 | armored | gepanzert | 装甲 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0576] | 1 | around | ringsherum | 周围 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0577] | 1 | arrest | Festnahme | 逮捕和逮捕 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0578] | 1 | artistic | Künstlerisch | 艺术艺术 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0579] | 1 | attack' | Angriff" | a. 攻击 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [0580] | 1 | attention | Aufmerksamkeit | 注意 注意 注意 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [0581] | 1 | attorney | Rechtsanwalt | 律师律师 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0582] | 1 | avoid | vermeiden | 避免 | Spot fake online stores, avoid Facebook subscription scams
+- [0583] | 1 | awkward | unbequem | 尴尬 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0584] | 1 | back | zurück | 后退 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0585] | 1 | Baldoni | Baldoni | 巴尔多尼 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0586] | 1 | balls | Kugeln | 球体 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [0587] | 1 | beach | Strand | 海滩海滩 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [0588] | 1 | beautiful | schön | 美丽 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0589] | 1 | becoming | werden | 成为 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0590] | 1 | before | Vorher | 之前 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0591] | 1 | Biden-era | Biden-Ära | 拜登时代 | Boulder terror attack puts Biden-era immigration policies in the hot seat: 'Must be fully reversed'
+- [0592] | 1 | bill' | Rechnung" | 法案 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0593] | 1 | Billy | Billy | 比利 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0594] | 1 | bipartisan | Zweiparteien | 两党 | 'Chaos,' 'unacceptable': Fetterman rips Democratic handling of border in bipartisan discussion
+- [0595] | 1 | birthday | Geburtstag | 生日生日 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0596] | 1 | Blake | Blake | 布莱克 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0597] | 1 | blast | Explosion | 爆炸爆炸 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0598] | 1 | bond | Anleihen | 债券债券债券 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0599] | 1 | border | Grenzüberschreitung | 边境边境边境 | 'Chaos,' 'unacceptable': Fetterman rips Democratic handling of border in bipartisan discussion
+- [0600] | 1 | Boys' | Jungen" | 男孩们 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0601] | 1 | brands | Marken | 品牌品牌 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0602] | 1 | breast | Brust | 胸胸 | FDA approves first AI tool to predict breast cancer risk
+- [0603] | 1 | Brenkus | Brenkus | 布伦库斯 | 'Sport Science' host John Brenkus dead at 54
+- [0604] | 1 | bridge | Brücke | 桥桥桥 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0605] | 1 | broad | breit | 宽 | Teaching AI models the broad strokes to sketch more like humans do
+- [0606] | 1 | Bryson | Bryson | 布赖森 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [0607] | 1 | burns | Verbrennungen | 烧灼 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [0608] | 1 | but | aber | 但是,但 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0609] | 1 | calls | Anrufe | 调来电话 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [0610] | 1 | calzone | Calzon | 内积 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0611] | 1 | camera | Kamera | 照相机 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0612] | 1 | cans | Dosen | 罐体 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [0613] | 1 | Capitol | Kapitol | 都城 | MIT students and postdoc explore the inner workings of Capitol Hill
+- [0614] | 1 | Caplan | Caplan | 卡普兰 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0615] | 1 | ceiling | Höchstgrenze | 上限 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0616] | 1 | celebrates | feiert | 庆祝 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0617] | 1 | Celebrities | Prominente | 名词 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0618] | 1 | ceremony | Zeremonie | 仪式仪式 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0619] | 1 | Certifiably | Beglaubigt | 可核查 | Certifiably engaged
+- [0620] | 1 | chair | Vorsitz | 椅子 椅子 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0621] | 1 | challenge | Herausforderung | 挑战挑战 | Second lady's 2025 reading challenge targets declining reading scores among students
+- [0622] | 1 | championships | Meisterschaften | 冠军赛 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0623] | 1 | Chase | Verfolgung | 大通大通 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0624] | 1 | China | China | 中国 中国 中国 中国 中国 中国 中国 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0625] | 1 | CNN | L 347 vom 20.12.2013, S. 671. | CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN 有 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0626] | 1 | Coast | Küste | 海岸海岸 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0627] | 1 | collapse | Zusammenbruch | 崩溃崩溃 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0628] | 1 | collection | Sammlung | 收藏收藏 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0629] | 1 | columnist | Kolumnist | 列词 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0630] | 1 | combo | Kombination | 组合组合 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0631] | 1 | Comer | Kommer | 计算器 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0632] | 1 | communism | Kommunismus | 共产主义 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0633] | 1 | company | Unternehmen | 公司 公司 | Longtime WWE star R-Truth announces departure from company
+- [0634] | 1 | compares | Vergleich | 对比对比对比 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0635] | 1 | complains | klagt | 投诉投诉 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0636] | 1 | completely | vollständig | 完全完全 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0637] | 1 | concrete | Beton | 具体具体 | AI stirs up the recipe for concrete in MIT study
+- [0638] | 1 | condemn | Verurteilen | 谴责谴责 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0639] | 1 | condemns | verurteilt | 谴责 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [0640] | 1 | congressional | Tagungswoche | 国会 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [0641] | 1 | Connecticut | Connecticut | 康涅狄格州 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0642] | 1 | conservative | konservativ | 保守 | Polish conservative Karol Nawrocki wins presidential election to succeed Duda
+- [0643] | 1 | contracts | Verträge | 合同合同合同合同 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0644] | 1 | control | Kontrolle | 控制控制 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0645] | 1 | controversial | umstritten | 有争议 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [0646] | 1 | controversy | Kontroverse | 争议 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0647] | 1 | cool | Kühl | 凉凉 | A cool new way to study gravity
+- [0648] | 1 | Costa | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 科斯科 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0649] | 1 | Costco | Kostenco | 成本成本公司 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0650] | 1 | Court | Gericht | 法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院法院 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0651] | 1 | crashes | Abstürze | 碰撞事故 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0652] | 1 | creates | erstellt | 创建创建 | New 3D printing method enables complex designs and creates less waste
+- [0653] | 1 | Crimea | L 347 vom 20.12.2013, S. 671. | 克里米亚 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0654] | 1 | criticizes | kritisiert | 批评批评 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [0655] | 1 | crossroads | Kreuzung | 十字路口 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0656] | 1 | Cruz | Cruz | 克鲁斯州 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0657] | 1 | Cubs | Krümel | 幼熊 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0658] | 1 | cursing | Fluchen | 咒骂 | Why are you cursing?
+- [0659] | 1 | cuts | Teile | 削减 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0660] | 1 | Cynthia | Cynthia | 辛西娅 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0661] | 1 | Cyrus | Korpus | Cyrus 赛勒斯 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0662] | 1 | Cyrus’ | Cyrus-Arten | 赛勒斯 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0663] | 1 | date | Datum | 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 | Youngkin sets date for special election to fill deep-blue House seat
+- [0664] | 1 | daughter | Tochter | 女 儿 儿 女 | Todd Chrisley's daughter Lindsie Chrisley leans on faith after Trump pardon
+- [0665] | 1 | De | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 执 执 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0666] | 1 | deals | Abkommen | 交易交易 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0667] | 1 | death | Tod | 死亡死亡 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0668] | 1 | debt | Verbindlichkeiten | 负债债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0669] | 1 | DeChambeau | DeChambeau | 德钱博 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [0670] | 1 | declares | erklärt | 声明 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0671] | 1 | declines | Abnahmen | 下降 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0672] | 1 | declining | Rückgang | 下降 | Second lady's 2025 reading challenge targets declining reading scores among students
+- [0673] | 1 | deep-blue | tiefblau | 深蓝色 | Youngkin sets date for special election to fill deep-blue House seat
+- [0674] | 1 | defend | verteidigen | 国防 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0675] | 1 | DEI | DEI | 德 迪 迪 迪 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0676] | 1 | Democrat's | Fraktion der Sozialdemokratischen Fraktion der Europäischen Volkspartei (Christdemokraten/Christdemokraten/Christdemokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokraten/Demokrat | 民主党 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0677] | 1 | Democrats | Sozialdemokraten | 民主民主党 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0678] | 1 | Dems | Abschreibungen | 度量单位 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0679] | 1 | departure | Abreise | 离开 | Longtime WWE star R-Truth announces departure from company
+- [0680] | 1 | deportation | Abschiebung | 驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐 | Jewish House lawmaker urges deportation of Boulder terror suspect's family
+- [0681] | 1 | Depot's | Depots | 迪宝的 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0682] | 1 | describes | beschreibt | 描述描述描述描述描述描述 | Boulder terror attack witness describes 'horrific' scene at pro-Israel rally
+- [0683] | 1 | designs | Designs | 设计设计 | New 3D printing method enables complex designs and creates less waste
+- [0684] | 1 | despite | trotz | 尽管如此,尽管 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [0685] | 1 | destinies | mit einem Gehalt an Milchfett von mehr als 10 GHT | 命运 | Science that gives humans more say over their destinies
+- [0686] | 1 | detected | festgestellt | 检测到 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0687] | 1 | determined | bestimmt | 确定数 | Suspect in Boulder terror attack determined to be Egyptian man in US illegally: FBI
+- [0688] | 1 | Dever | Abtrünniger | 地热 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0689] | 1 | Devin | Entbeinung | Devin 开发 | Devin Harjes, 'Boardwalk Empire' star, dead at 41
+- [0690] | 1 | DHS | DHS | DHS 人口与健康调查 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0691] | 1 | Diddy | Diddy. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 迪迪 | Diddy accuser sues Harvey Weinstein for sexual assault
+- [0692] | 1 | Diddy's | Diddy's | 迪迪的 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0693] | 1 | discussion | Diskussion | 讨论讨论讨论 | 'Chaos,' 'unacceptable': Fetterman rips Democratic handling of border in bipartisan discussion
+- [0694] | 1 | distress | Bedrängnis | 危 危 难 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0695] | 1 | dodges | Ausweichen | 躲躲 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [0696] | 1 | dog | Hund | 狗狗狗 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0697] | 1 | DOGE | GESAMTBESCHEINIGUNG | 高 格 师 师 师 师 师 师 师 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0698] | 1 | DOGE-aligned | GESAMTBESCHEINIGUNG | DGE 调整后 | 'Red tape': Trump admin unleashes DOGE-aligned process to fire federal workers for misconduct
+- [0699] | 1 | DOJ's | ENTSCHLIESSUNG | 司法部 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0700] | 1 | dominating | dominierend | 主导占主导 | Trans athlete fires message toward critics after dominating girls' 400 for state title
+- [0701] | 1 | don’t | nicht | 不要 | Teaching AI models what they don’t know
+- [0702] | 1 | drawn | gezeichnet | 绘图 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [0703] | 1 | driver | Fahrer | 驱动驱动 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0704] | 1 | dropped | fallen gelassen | 下降数 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [0705] | 1 | Duda | Duda | 杜达 | Polish conservative Karol Nawrocki wins presidential election to succeed Duda
+- [0706] | 1 | earlier | früher | 早期 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [0707] | 1 | efforts | Anstrengungen | A. 努力努力 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0708] | 1 | Egyptian | Ägyptisch | 埃及语埃及语Name 埃及语 | Suspect in Boulder terror attack determined to be Egyptian man in US illegally: FBI
+- [0709] | 1 | Eight | Acht | 8 8 八 | Eight with MIT ties win 2025 Hertz Foundation Fellowships
+- [0710] | 1 | elimination | Beseitigung | 冲销 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [0711] | 1 | Elly | Elly | 埃利 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0712] | 1 | Elon | Elon | 伊隆 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0713] | 1 | emergency | Notfall | 紧急紧急 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0714] | 1 | emotional | emotional | 情感、情感、情感、 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0715] | 1 | Empire' | Weltreich" | 帝国帝国 | Devin Harjes, 'Boardwalk Empire' star, dead at 41
+- [0716] | 1 | engaged | verlobt | 受雇 | Certifiably engaged
+- [0717] | 1 | Entertainment | Unterhaltung | 娱乐娱乐 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0718] | 1 | entrants | Zugänge | 入境人数 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0719] | 1 | equipment | Ausrüstung | 设备设备 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0720] | 1 | era | Zeit | 时代时代 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0721] | 1 | Erivo | Erivo | 埃里伏 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0722] | 1 | escapes | Fluchten | 逃逃 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [0723] | 1 | event | Veranstaltung | 事件事件 | Colorado terror attack took place at 'Run for Their Lives' event calling for release of all hostages in Gaza
+- [0724] | 1 | Ex-DNC | Ex-DNC | 刑前民革民委 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0725] | 1 | Ex-Mumford | Ex-Mumford | 前穆姆福德州 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [0726] | 1 | examine | Prüfung | 检查 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0727] | 1 | exits | Ausstiege | 退出 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0728] | 1 | expected | voraussichtlich | 预计预计数 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0729] | 1 | explosion | Explosion | 爆炸爆炸 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0730] | 1 | explosive | explosiv | 爆炸性炸药 | Ukraine, Russia meet for peace talks in Istanbul after explosive weekend
+- [0731] | 1 | Facebook | Facebook | 脸书脸书 | Spot fake online stores, avoid Facebook subscription scams
+- [0732] | 1 | faith | Glaube | 信 信 信 信 信 | Todd Chrisley's daughter Lindsie Chrisley leans on faith after Trump pardon
+- [0733] | 1 | fake | Fälschung | 假造 | Spot fake online stores, avoid Facebook subscription scams
+- [0734] | 1 | false | falsch | 假 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0735] | 1 | fan-favorite | Fan-Favorit | 最喜爱的扇形 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0736] | 1 | fared | geschliffen | 远远 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0737] | 1 | fascist | faschistisch | 法西斯 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0738] | 1 | father | Vater | 父 父 父 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0739] | 1 | Father's | Vater's | 父亲的 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0740] | 1 | FBI | FBI | FBI 联邦调查局 | Suspect in Boulder terror attack determined to be Egyptian man in US illegally: FBI
+- [0741] | 1 | FDA | FDA | 林业发展局 | FDA approves first AI tool to predict breast cancer risk
+- [0742] | 1 | featuring | mit einer Breite von 2 mm oder mehr, jedoch nicht mehr als 2 mm, | 具有 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0743] | 1 | Fellowships | Stipendien | 研究金研究金研究金 | Eight with MIT ties win 2025 Hertz Foundation Fellowships
+- [0744] | 1 | female | weiblich | 女性 女性 女性 女性 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0745] | 1 | figures | Zahlen | 数字数字数字 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0746] | 1 | fill | füllen | 填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填填 | Youngkin sets date for special election to fill deep-blue House seat
+- [0747] | 1 | finance | Finanzierung | 财务财务 | Maxine Waters campaign to pay $68K for violating campaign finance laws
+- [0748] | 1 | finds | Funde | 找寻 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0749] | 1 | fines | Geldbußen | 罚款罚款 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0750] | 1 | fire | Feuer | 火灾 | 'Red tape': Trump admin unleashes DOGE-aligned process to fire federal workers for misconduct
+- [0751] | 1 | firebombing | Brandbomben | 燃烧燃烧弹 | Family of Boulder firebombing suspect taken into federal custody: sources
+- [0752] | 1 | fires | Brände | 火灾火灾 | Trans athlete fires message toward critics after dominating girls' 400 for state title
+- [0753] | 1 | firing | Feuer | 射击 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [0754] | 1 | first | zuerst | 第一次 | FDA approves first AI tool to predict breast cancer risk
+- [0755] | 1 | Flasbarth | Flasbarth | 弗拉斯巴 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0756] | 1 | following | folgend | 下述 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0757] | 1 | form | Formblatt | 窗体窗体 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0758] | 1 | Foundation | Stiftung | 基金会基金会基金会基金会基金会基金会 | Eight with MIT ties win 2025 Hertz Foundation Fellowships
+- [0759] | 1 | Fox | Fuchs | 狐狐狸 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0760] | 1 | Franklin | Franklin | 富兰克林 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0761] | 1 | fraud | Betrug | 欺诈欺诈 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0762] | 1 | fully | vollständig | 充分 | Boulder terror attack puts Biden-era immigration policies in the hot seat: 'Must be fully reversed'
+- [0763] | 1 | game | Spiel | 游戏游戏游戏 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [0764] | 1 | game-tying | Spielbindung | 游戏- 调色 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [0765] | 1 | Gender | Geschlecht | 性别 性别 性别 性别 性别 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0766] | 1 | gold | Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold | 金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0767] | 1 | golf | Golf | 高 高 高 高 高 高 高 高 高 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [0768] | 1 | good | gut | 良好 | What good is writing anyway?
+- [0769] | 1 | GOP | VORSCHRIFTEN | 保 制 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0770] | 1 | Graham | Graham | 格雷厄姆 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0771] | 1 | gravity | Schwerkraft | 重力 | A cool new way to study gravity
+- [0772] | 1 | grills | Gitter | 烤架 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0773] | 1 | group | Gruppe | 组群 | Fetterman, McCormick react to 'astonishing' Boulder attack on pro-Israel group: 'Rank antisemitism'
+- [0774] | 1 | groups | Gruppen | 组群 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0775] | 1 | Guard | Wache | 警卫警卫 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0776] | 1 | guitarist | Gitarrist | 吉他手 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [0777] | 1 | gun | Pistole | 枪炮 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0778] | 1 | hails | Hagel | 冰冰冰雹 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0779] | 1 | handcuffed | Handschellen | 带手铐 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [0780] | 1 | handcuffing | Handschellen | 手铐 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0781] | 1 | hands | Hände | 手手 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0782] | 1 | Harjes | Harjes | 哈列斯 | Devin Harjes, 'Boardwalk Empire' star, dead at 41
+- [0783] | 1 | Harvey | Harvey. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 哈维 | Diddy accuser sues Harvey Weinstein for sexual assault
+- [0784] | 1 | has | hat | 拥有 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [0785] | 1 | he | er | 世 世 世 世 世 世 世 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0786] | 1 | headline | Schlagzeile | 标题标题标题 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0787] | 1 | healthcare | Gesundheitsfürsorge | 医疗保健 医疗保健 医疗保健 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0788] | 1 | heats | Erwärmt | 热热 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0789] | 1 | heavy | schwer | 重重 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0790] | 1 | her | sie |  | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0791] | 1 | here | Hierher | 在这里 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0792] | 1 | Hertz | Hertz | Hertz 赫兹 | Eight with MIT ties win 2025 Hertz Foundation Fellowships
+- [0793] | 1 | high-profile | hochkarätig | 高调 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0794] | 1 | hike | Wanderung | 远 远 远 远 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0795] | 1 | Hill | Hügel | 山丘 | MIT students and postdoc explore the inner workings of Capitol Hill
+- [0796] | 1 | him | Er ist es. | 世 世 世 世 世 世 世 世 世 世 世 世 世 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0797] | 1 | his | sein | 排在《公约》 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0798] | 1 | history’s | Geschichte | 历史历史 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0799] | 1 | homeless | Obdachlos | 无家可归的无家可归者 | 11 stabbed at homeless men's shelter in Oregon, suspect in custody
+- [0800] | 1 | homer | homer | homer 主机 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [0801] | 1 | hostages | Geiseln | 人质或人质人质 | Colorado terror attack took place at 'Run for Their Lives' event calling for release of all hostages in Gaza
+- [0802] | 1 | humanitarian | humanitäre Hilfe | 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [0803] | 1 | Hundreds | Hunderte | 百 百 百 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0804] | 1 | hydrogen | Wasserstoff | 氢氢 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [0805] | 1 | illegally | illegal | 非法非法 | Suspect in Boulder terror attack determined to be Egyptian man in US illegally: FBI
+- [0806] | 1 | imaginary | imaginär | 想象中 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0807] | 1 | immigration | Einwanderung | 移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民 | Boulder terror attack puts Biden-era immigration policies in the hot seat: 'Must be fully reversed'
+- [0808] | 1 | important | wichtig | 重要重要 | ‘We’re still standing … We can still do important work’
+- [0809] | 1 | Indonesia | Indonesien | 印度尼西亚 印度尼西亚 印度尼西亚 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0810] | 1 | industry | Industrie | 工业工业 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [0811] | 1 | inner | inner | 内 | MIT students and postdoc explore the inner workings of Capitol Hill
+- [0812] | 1 | innovation | Innovation | 创新创新 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0813] | 1 | interim | Vorübergehend | 临时临时 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0814] | 1 | investigation | Untersuchung | 调查调查 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0815] | 1 | Island | Insel | 岛屿 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0816] | 1 | Istanbul | Istanbul | 伊斯坦布尔 | Ukraine, Russia meet for peace talks in Istanbul after explosive weekend
+- [0817] | 1 | its | und | 其 其 其 其 年 其 其 其 其 其 年 的 其 其 其 其 年 的 其 其 其 其 的 其 其 其 其 其 的 其 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 的 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 其 的 其 的 其 其 的 其 其 的 其 其 的 其 的 其 的 其 其 的 其 其 的 其 的 其 的 其 的 其 的 其 的 的 其 的 的 的 其 的 的 的 的 其 的 的 的 的  的 的 的 的 的 的 的 的 的 的 的 的 的 的 的  的 的 的 的 的 的 的 的 的     的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的     的  的 的 的 的 的 的 的                的          的 的 的 的              的      的 的 的 的 的 的      的 的 的 的 的 的 的   的 的 的  的 的 的     的 的 的 的 的 的 的 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0818] | 1 | Jesus | Mein Gott! | 耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣耶稣 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0819] | 1 | Jewish | Jüdisch | 犹太犹太人 | Jewish House lawmaker urges deportation of Boulder terror suspect's family
+- [0820] | 1 | Jocelyn | Jocelyn | 约瑟林 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0821] | 1 | Jochen | Jochen | 约 约 琴 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0822] | 1 | John | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 约翰·约翰 | 'Sport Science' host John Brenkus dead at 54
+- [0823] | 1 | Julie | Julie | 朱莉 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0824] | 1 | jumps | Sprünge | 跳跃 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0825] | 1 | Just | Nur | 只是 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0826] | 1 | Justin | Justin | 贾斯汀 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0827] | 1 | Karen | Karen | 克伦 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0828] | 1 | Karol | Karol | 卡洛 | Polish conservative Karol Nawrocki wins presidential election to succeed Duda
+- [0829] | 1 | Kelly | Kelly | 凯利 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0830] | 1 | Kennedy | Kennedy | 肯尼迪 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0831] | 1 | key | Schlüssel | 键键 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0832] | 1 | Khabib | Khabib | Khabib 村庄 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0833] | 1 | kills | tötet | 杀 杀 杀 杀 杀 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0834] | 1 | La | L 347 vom 20.12.2013, S. 671. | 拉 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0835] | 1 | lady's | Frauen | 女 女 女 女 女 | Second lady's 2025 reading challenge targets declining reading scores among students
+- [0836] | 1 | late | zu spät | 迟到 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0837] | 1 | laughs | lacht | 笑笑 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0838] | 1 | launches | Starts | 发射发射 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0839] | 1 | lawmaker | Gesetzgeber | 立法者 | Jewish House lawmaker urges deportation of Boulder terror suspect's family
+- [0840] | 1 | Lawn | Rasen | 草坪草坪 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [0841] | 1 | leads | Leitungen | 铅铅 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0842] | 1 | leans | mager | 倾斜 | Todd Chrisley's daughter Lindsie Chrisley leans on faith after Trump pardon
+- [0843] | 1 | legend | Legende | 图例 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0844] | 1 | light | leicht | 轻型轻型 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0845] | 1 | Lindsay | Lindsay | 林赛 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0846] | 1 | Lindsie | Lindsie | 林西 | Todd Chrisley's daughter Lindsie Chrisley leans on faith after Trump pardon
+- [0847] | 1 | linking | Verknüpfung | 连接连接 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0848] | 1 | Lively | Lebendig | 动动地 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [0849] | 1 | Lives' | Lebend" | 生命 | Colorado terror attack took place at 'Run for Their Lives' event calling for release of all hostages in Gaza
+- [0850] | 1 | Longtime | Lange Zeit | 长年时间 | Longtime WWE star R-Truth announces departure from company
+- [0851] | 1 | look | Sehen Sie. | 外观 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0852] | 1 | loss | Verlust | 损失损失 | Rockies make unfortunate history with 50th loss of season
+- [0853] | 1 | machines | Maschinen | 机 机 机 机 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0854] | 1 | made | hergestellt | 作出 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0855] | 1 | making | Herstellung | 制造 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [0856] | 1 | malicious | bösartig | 恶意 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0857] | 1 | man | Mann | 男性 男性 | Suspect in Boulder terror attack determined to be Egyptian man in US illegally: FBI
+- [0858] | 1 | marvels | Wunder | 奇迹 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0859] | 1 | Maryland | Maryland | 马里兰州 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0860] | 1 | massive | massiv | 大规模 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [0861] | 1 | Maxine | Höchstgehalt | 美美美 | Maxine Waters campaign to pay $68K for violating campaign finance laws
+- [0862] | 1 | mayor | Bürgermeister | 市长 市长 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0863] | 1 | McCormick | McCormick | 麦考密克 | Fetterman, McCormick react to 'astonishing' Boulder attack on pro-Israel group: 'Rank antisemitism'
+- [0864] | 1 | McEuen | McEuen | 麦克艾恩 | Texas murder suspect Trevor McEuen caught after weeks on the run
+- [0865] | 1 | medalist | Medaillengewinner | 得奖奖人 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0866] | 1 | medical | ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich ärztlich | 医疗 医务 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0867] | 1 | Melania | Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien | 梅拉尼亚语Name | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0868] | 1 | men's | Männer | 男男性 | 11 stabbed at homeless men's shelter in Oregon, suspect in custody
+- [0869] | 1 | mentioned | erwähnt | 提及 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0870] | 1 | Messa | Messa | 梅萨 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0871] | 1 | metals | Metalle | 金属金属 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0872] | 1 | method | Verfahren | 方法 | New 3D printing method enables complex designs and creates less waste
+- [0873] | 1 | middle | Mitte | 中间中间 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0874] | 1 | Miley | Miley | 米耶 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0875] | 1 | millions | Millionen | 百万 百万 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0876] | 1 | misconduct | Fehlverhalten | 行为失检行为 | 'Red tape': Trump admin unleashes DOGE-aligned process to fire federal workers for misconduct
+- [0877] | 1 | Missouri | Missouri | 密密苏里 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0878] | 1 | mixed | gemischt | 混合混合 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0879] | 1 | moment | Moment | 瞬间 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0880] | 1 | Moscow | Moskau | 莫斯科莫斯科 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [0881] | 1 | move | Verschieben | 移动移动 | Olivia Dunne performs stunning move during swimsuit fashion show
+- [0882] | 1 | mugshot | Schnuller | 截图 | New mugshot released of Boulder terror attack suspect Mohamed Sabry Soliman
+- [0883] | 1 | murderers | Mörder | 谋杀杀人犯 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0884] | 1 | music | Musik | 音乐音乐 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [0885] | 1 | musical | Musikalisch | 音乐音乐 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0886] | 1 | must | muss | 必须 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0887] | 1 | Nam | Nam | 南南 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0888] | 1 | Nawrocki | Nawrocki | 纳罗基语Name | Polish conservative Karol Nawrocki wins presidential election to succeed Duda
+- [0889] | 1 | NBC | NBC | NNBC 核生核 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [0890] | 1 | Newark | Newark | 纽瓦克Name | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0891] | 1 | News | Nachrichten | 新闻新闻新闻新闻 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0892] | 1 | Newsletter | Mitteilungsblatt | 《通讯通讯》 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0893] | 1 | night | Nacht | 夜间 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0894] | 1 | Noem | Noem | Noem 编号 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0895] | 1 | nonstop | nonstop | 连续连续 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0896] | 1 | now | Jetzt | 现在 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0897] | 1 | Nungaray's | Nungaray's | Nungaray 纳加拉 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0898] | 1 | Nurmagomedov | Nurmagomedov | 努尔马默多多 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0899] | 1 | NY | NIEDERLANDE | 纽约,纽约 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [0900] | 1 | office | Büro | 办公室办公室 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [0901] | 1 | Olympic | Olympische Spiele | 奥林匹克奥林匹克奥林匹克奥林匹克 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [0902] | 1 | online | online | 在线在线 | Spot fake online stores, avoid Facebook subscription scams
+- [0903] | 1 | opening | Öffnen | 打开 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0904] | 1 | opens | geöffnet | 打开 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0905] | 1 | order | Reihenfolge | 顺序顺序顺序 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [0906] | 1 | Oregon | Oregon | 俄勒冈州 | 11 stabbed at homeless men's shelter in Oregon, suspect in custody
+- [0907] | 1 | out | aus | 外出 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [0908] | 1 | outdoor | im Freien | 户外 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0909] | 1 | overstayers | overstayer | 逾期滞留者 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0910] | 1 | packed | verpackt | 包装包装 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0911] | 1 | Palestinians | Palästinenser | 巴勒斯坦人巴勒斯坦人 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [0912] | 1 | pardon | Entschuldigung | 赦免 赦免 | Todd Chrisley's daughter Lindsie Chrisley leans on faith after Trump pardon
+- [0913] | 1 | Partnerships | Partnerschaften | 伙伴关系伙伴关系伙伴关系伙伴关系 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0914] | 1 | Paul | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 保罗 保罗 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0915] | 1 | pay | Bezahlung | 薪资 | Maxine Waters campaign to pay $68K for violating campaign finance laws
+- [0916] | 1 | peace | Frieden | 和平、和平、和平、和平 | Ukraine, Russia meet for peace talks in Istanbul after explosive weekend
+- [0917] | 1 | performs | führt aus | 表演 表演 | Olivia Dunne performs stunning move during swimsuit fashion show
+- [0918] | 1 | person | Person | 人 人 人 人 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0919] | 1 | pizza | Pizza | 披萨比萨 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0920] | 1 | place | Ort | 地点地点 | Colorado terror attack took place at 'Run for Their Lives' event calling for release of all hostages in Gaza
+- [0921] | 1 | plane | Ebene | 平平平面 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0922] | 1 | plans | Pläne | 计划计划 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0923] | 1 | playing | Spielen | 播放播放 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [0924] | 1 | Polish | Polnisch | 波兰语Name | Polish conservative Karol Nawrocki wins presidential election to succeed Duda
+- [0925] | 1 | polling | Umfragen | 投票情况 | CNN polling expert marvels at collapse of Democratic advantage with middle class in Trump era
+- [0926] | 1 | popular | beliebt | 普 普 普 普 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0927] | 1 | postdoc | Postdoc | 弃号后 | MIT students and postdoc explore the inner workings of Capitol Hill
+- [0928] | 1 | posts | Planstellen | 员额员额员额 | Olivia Dunne posts 5-word reaction as fashion show stunt goes viral
+- [0929] | 1 | power-player | power-player | 电源玩家 | Trump and Melania to headline power-player packed Kennedy Center opening night
+- [0930] | 1 | Powerful | Kraftvoll | 强大的 | Powerful house explosion caught on camera in Missouri kills 1 person, 1 dog
+- [0931] | 1 | presidential | Präsident | 总统 | Polish conservative Karol Nawrocki wins presidential election to succeed Duda
+- [0932] | 1 | previous | vorhergehend | 上一个 | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [0933] | 1 | printing | Druckverfahren | 印 印 印 印 印 印 印 印 | New 3D printing method enables complex designs and creates less waste
+- [0934] | 1 | prior | Vorher | 以往 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0935] | 1 | prison | Gefängnis | 监狱监狱 | Chase Chrisley celebrates Julie and Todd Chrisley's prison release as his 'best' birthday gift
+- [0936] | 1 | probe | Sonde | 探测器 | EXCLUSIVE: Comer hails DOJ's Biden probe as House investigation heats up
+- [0937] | 1 | prosecution | Strafverfolgung | 起诉 起诉 | Newark mayor sues interim US attorney for false arrest, malicious prosecution
+- [0938] | 1 | protest | Protest | 抗议抗议 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [0939] | 1 | Purse | Portemonnaie | 发货 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0940] | 1 | pushes | Drücker | 推键 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [0941] | 1 | puts | setzt | 调和 | Boulder terror attack puts Biden-era immigration policies in the hot seat: 'Must be fully reversed'
+- [0942] | 1 | quaint | malerisch | 条件 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [0943] | 1 | R-Truth | R-Wahrheit | R- 真相 | Longtime WWE star R-Truth announces departure from company
+- [0944] | 1 | race | Rennen | 种族 种族 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [0945] | 1 | racket' | "Geschmack" | 吵闹闹闹闹闹闹闹闹 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [0946] | 1 | rally | Kundgebung | 集合 | Boulder terror attack witness describes 'horrific' scene at pro-Israel rally
+- [0947] | 1 | Rand | Rand | 兰德 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0948] | 1 | Ray | - Ich weiß nicht. - Ich weiß es nicht. | 雷 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [0949] | 1 | react | reagieren | 反应 | Fetterman, McCormick react to 'astonishing' Boulder attack on pro-Israel group: 'Rank antisemitism'
+- [0950] | 1 | reaction | Reaktion | 反应反应反应 | Olivia Dunne posts 5-word reaction as fashion show stunt goes viral
+- [0951] | 1 | Read’s | Lesen | 读读数 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0952] | 1 | reality | Wirklichkeit | 现实现实 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [0953] | 1 | recipe | Rezept | 食谱配方 | AI stirs up the recipe for concrete in MIT study
+- [0954] | 1 | Reds | Rote | 红 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [0955] | 1 | reflects | reflektiert | 反映 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [0956] | 1 | refuses | lehnt ab | 拒绝拒绝 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [0957] | 1 | Regarding | In Bezug auf | 关于 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0958] | 1 | released | freigegeben | 释放 | New mugshot released of Boulder terror attack suspect Mohamed Sabry Soliman
+- [0959] | 1 | removed | entfernt | 已删除 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [0960] | 1 | Republican | Republikaner | 共和共和共和 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0961] | 1 | rescues | Rettungsmaßnahmen | 营救 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [0962] | 1 | response | Antwort | 答复答复答复答复 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0963] | 1 | result | Ergebnis | 结果结果结果结果结果 | Boulder terror attack result of 'reckless Biden policies,' White House says
+- [0964] | 1 | reversed' | umgekehrt" | 倒转' | Boulder terror attack puts Biden-era immigration policies in the hot seat: 'Must be fully reversed'
+- [0965] | 1 | reviews | Überprüfungen | 审评 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0966] | 1 | revives | wiederbelebt | 恢复 | Costco revives fan-favorite combo pizza in calzone form to mixed member reviews
+- [0967] | 1 | Rhode | Rhode | 罗德 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [0968] | 1 | Rica | L 347 vom 20.12.2013, S. 671. | 哥斯达黎加 | Illegal immigrant suspect in Jocelyn Nungaray's murder now accused of prior sexual assault in Costa Rica
+- [0969] | 1 | rice | Reis | 大米饭 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [0970] | 1 | rideshare | Fahrgemeinschaften | 国民可领取的 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [0971] | 1 | rips | Reißzähne | 裂数 | 'Chaos,' 'unacceptable': Fetterman rips Democratic handling of border in bipartisan discussion
+- [0972] | 1 | rise | Anstieg | 升升 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [0973] | 1 | risk | Risiko | 风险风险风险 | FDA approves first AI tool to predict breast cancer risk
+- [0974] | 1 | Rockies | Felsgewächse | 岩礁 | Rockies make unfortunate history with 50th loss of season
+- [0975] | 1 | Rose | Rosen | 玫瑰玫瑰 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0976] | 1 | Rounds | Rundungen | 轮数轮 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0977] | 1 | rubber-stamp' | Gummistempel" | 橡皮图章 | Ex-DNC chair complains Democrats expected him to 'just rubber-stamp' plans during 2024 campaign
+- [0978] | 1 | Russian | Russisch | 俄文 俄文 俄文 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [0979] | 1 | sale | Verkauf | 销售销售 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [0980] | 1 | Samaritan’s | Samariter | 撒马利亚人 | EXCLUSIVE: Franklin Graham leads ceremony as Samaritan’s Purse gives armored 'bulletproof' ambulance to Israel
+- [0981] | 1 | say | sagen | 说 | Science that gives humans more say over their destinies
+- [0982] | 1 | scalable | skalierbar | 可缩放 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [0983] | 1 | scale' | Skala" | 比额表' | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [0984] | 1 | scams | Betrug | 骗骗骗 | Spot fake online stores, avoid Facebook subscription scams
+- [0985] | 1 | scene | Szene | 现场现场 | Boulder terror attack witness describes 'horrific' scene at pro-Israel rally
+- [0986] | 1 | Science' | Wissenschaft" | 科学 | 'Sport Science' host John Brenkus dead at 54
+- [0987] | 1 | scores | Werte | 得分数 | Second lady's 2025 reading challenge targets declining reading scores among students
+- [0988] | 1 | season | Jahreszeit | 季节季节 | Rockies make unfortunate history with 50th loss of season
+- [0989] | 1 | seawater | Meerwasser | 海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水、海水 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [0990] | 1 | Second | Zweiter | 第二届 | Second lady's 2025 reading challenge targets declining reading scores among students
+- [0991] | 1 | Secretary | Sekretär | 秘书秘书秘书秘书 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [0992] | 1 | security | Sicherheit | 安全安全 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [0993] | 1 | seeing | Sehen | 可见 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [0994] | 1 | Sen | SEN | 森数 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [0995] | 1 | Senate | Senat | 参议院 参议院 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [0996] | 1 | sensitive | empfindlich | 敏感敏感 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [0997] | 1 | sex | Geschlecht | 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [0998] | 1 | shades | Schattierungen | 阴影阴影 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [0999] | 1 | shake | Schütteln | 摇摇 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [1000] | 1 | sheds | Schuppen | 棚棚, | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [1001] | 1 | shelter | Unterschlupf | 庇护所 | 11 stabbed at homeless men's shelter in Oregon, suspect in custody
+- [1002] | 1 | shop | Shop | 店铺 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [1003] | 1 | should | sollte | 应: | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [1004] | 1 | silence | Stille | 静静 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [1005] | 1 | sister | Schwester | 姐姐 姐姐 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [1006] | 1 | site | Ort | 网址网址 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [1007] | 1 | sites | Standorte | 站 址 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [1008] | 1 | sketch | Skizze | 草图草图 | Teaching AI models the broad strokes to sketch more like humans do
+- [1009] | 1 | small | klein | 小 | Coast Guard rescues 2 after small plane declares emergency, crashes near Connecticut airport
+- [1010] | 1 | sobriety | Nüchternheit | 戒酒 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [1011] | 1 | soda | Soda | 苏打汽水 | Study shows making hydrogen with soda cans and seawater is scalable and sustainable
+- [1012] | 1 | softball | Softball | 垒球 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [1013] | 1 | Sons | Söhne | 儿子 | Ex-Mumford & Sons guitarist criticizes music industry for silence after Boulder antisemitic attack
+- [1014] | 1 | sources | Quellen | 来源来源来源来源 | Family of Boulder firebombing suspect taken into federal custody: sources
+- [1015] | 1 | special | besonders | 特别特别特别 | Youngkin sets date for special election to fill deep-blue House seat
+- [1016] | 1 | sportscaster | Sportcaster | 体育播放台 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [1017] | 1 | Spot | Ort | 点点点 | Spot fake online stores, avoid Facebook subscription scams
+- [1018] | 1 | stabbed | abgestochen | 刺刺 | 11 stabbed at homeless men's shelter in Oregon, suspect in custody
+- [1019] | 1 | staff | Personal | 工作人员 工作人员 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [1020] | 1 | staffer | Mitarbeiter | 工作人员 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [1021] | 1 | standing | stehend | 现职 | ‘We’re still standing … We can still do important work’
+- [1022] | 1 | Stanley | Der Präsident. — Nach der Tagesordnung folgt der Be richt (Dok. | 斯坦利 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [1023] | 1 | statement | Erklärung | 报表报表 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [1024] | 1 | States | Mitgliedstaaten | 国家 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [1025] | 1 | stateside | Staatlich | 右侧 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [1026] | 1 | stirs | Schüttelfrost | 电动, | AI stirs up the recipe for concrete in MIT study
+- [1027] | 1 | stores | Filialen | 储存仓库 | Spot fake online stores, avoid Facebook subscription scams
+- [1028] | 1 | strike | Streik | 罢工罢工 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [1029] | 1 | strokes | Schlaganfälle | 中划线 | Teaching AI models the broad strokes to sketch more like humans do
+- [1030] | 1 | strongly | stark | 强烈强烈 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [1031] | 1 | struggle | Kampf | 战斗 战斗 | Miley Cyrus opens up about father Billy Ray Cyrus’ struggle with sobriety and their complex bond
+- [1032] | 1 | stunning | Betäubung | 令人惊叹 | Olivia Dunne performs stunning move during swimsuit fashion show
+- [1033] | 1 | stunt | Stunt | 发育障碍 | Olivia Dunne posts 5-word reaction as fashion show stunt goes viral
+- [1034] | 1 | subscription | Abonnement | 订阅 | Spot fake online stores, avoid Facebook subscription scams
+- [1035] | 1 | succeed | Erfolg | 成功成功 | Polish conservative Karol Nawrocki wins presidential election to succeed Duda
+- [1036] | 1 | summer | Sommer | 夏季夏季 | Stanley launches its summer collection, Messa Rose, featuring 3 new shades
+- [1037] | 1 | Supreme | Oberster | 最高最高 | Supreme Court declines to examine appeals over Maryland, Rhode Island gun control laws
+- [1038] | 1 | surprise | Überraschung | 出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出出 | After Ukraine’s surprise drone assault on Russia, new attention drawn to sensitive sites stateside
+- [1039] | 1 | survivor | Überlebender | 遗属 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [1040] | 1 | suspect's | Verdächtiger | 嫌疑人的 | Jewish House lawmaker urges deportation of Boulder terror suspect's family
+- [1041] | 1 | sweep | Sweep | 扫描 | Rep. Nadler condemns Trump admin after staff member handcuffed during congressional office security sweep
+- [1042] | 1 | swimsuit | Badeanzug | 泳衣 | Olivia Dunne performs stunning move during swimsuit fashion show
+- [1043] | 1 | swirls | Wirbel | 旋转 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [1044] | 1 | taken | eingenommen | 采取 | Family of Boulder firebombing suspect taken into federal custody: sources
+- [1045] | 1 | Tale' | Geschichte" | 说 道 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [1046] | 1 | talks | Gespräche | 会谈 会谈 | Ukraine, Russia meet for peace talks in Istanbul after explosive weekend
+- [1047] | 1 | tape' | Band" | 磁带' | 'Red tape': Trump admin unleashes DOGE-aligned process to fire federal workers for misconduct
+- [1048] | 1 | tax | Steuer | 税务税 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [1049] | 1 | Tennessee | Tennessee | 田田 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [1050] | 1 | Tensions | Spannungen | 紧张局势 | Tensions rise as Israel strongly denies firing on Palestinians at Gaza humanitarian site
+- [1051] | 1 | testify | Zeugnis | 证 证 证 证 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [1052] | 1 | testimony | Zeugenaussagen | 证人证明 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [1053] | 1 | tests | Prüfungen | 测试测试 | Gender controversy swirls around Olympic gold medalist after new report sheds light on medical tests
+- [1054] | 1 | Texas | WIRTSCHAFTSZWEIG | 得克萨斯州 | Texas murder suspect Trevor McEuen caught after weeks on the run
+- [1055] | 1 | that | das | ,该数额, | Science that gives humans more say over their destinies
+- [1056] | 1 | theft | Diebstahl | 盗窃 | US can’t cut China off completely, but must defend AI and American innovation from nonstop theft: Sen Rounds
+- [1057] | 1 | ties | Verbindungen | 连结 | Eight with MIT ties win 2025 Hertz Foundation Fellowships
+- [1058] | 1 | title | Titel | 标题标题标题 | Trans athlete fires message toward critics after dominating girls' 400 for state title
+- [1059] | 1 | took | genommen | 采取 | Colorado terror attack took place at 'Run for Their Lives' event calling for release of all hostages in Gaza
+- [1060] | 1 | tools | Werkzeuge | 工具工具 | Home Depot's Father's Day sale is here, shop deals on grills, tools and outdoor equipment
+- [1061] | 1 | towns | Städte | 城镇城镇 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [1062] | 1 | Toxic | Giftig | 有毒有毒 | Toxic heavy metals detected in popular rice brands across America, study shows
+- [1063] | 1 | track | Gleis | 音轨 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [1064] | 1 | trafficking | Menschenhandel | 贩运贩运贩运 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [1065] | 1 | travel | Reise | 旅费 旅费 旅费 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [1066] | 1 | treat | Behandlung | 治疗 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [1067] | 1 | trend | Entwicklung | 趋势趋势趋势趋势趋势趋势 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [1068] | 1 | Trevor | Trevor | 特雷弗 | Texas murder suspect Trevor McEuen caught after weeks on the run
+- [1069] | 1 | trial | Versuch | 审判审判 | Fox News Entertainment Newsletter: Celebrities mentioned during Diddy's high-profile sex trafficking trial
+- [1070] | 1 | Trump-supporting | Trump-unterstützend | 朗普支持 | Trump-supporting communism survivor jumps into race for late Democrat's seat
+- [1071] | 1 | UCLA | UCLA | UCLA 加州大学 | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [1072] | 1 | UFC | UFC | UCUC 团结团结会 | UFC legend Khabib Nurmagomedov refuses to shake hands with female sportscaster in awkward moment
+- [1073] | 1 | unfortunate | Unglücklich | 不幸 | Rockies make unfortunate history with 50th loss of season
+- [1074] | 1 | United | Vereinigtes | 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 联 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [1075] | 1 | unleashes | entfesselt | 释放 | 'Red tape': Trump admin unleashes DOGE-aligned process to fire federal workers for misconduct
+- [1076] | 1 | upcoming | in Kürze | 即将到来 | 'Wicked' star Cynthia Erivo laughs at critics of her playing Jesus in upcoming musical
+- [1077] | 1 | urge | Drang | 紧急敦促 | House Dems urge GOP to condemn DHS for handcuffing Rep Nadler staffer, order Noem to testify
+- [1078] | 1 | USAID | USAID | 美援署 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [1079] | 1 | Variety | Sorten | 多样性 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [1080] | 1 | vehicle | Fahrzeug | 车辆 | Kelly Dever denies seeing key figures near Karen Read’s vehicle in 'disaster' testimony: expert
+- [1081] | 1 | video | Video | 视频视频 | Ukraine targets bridge linking Russia to Crimea with massive underwater blast, video shows
+- [1082] | 1 | Viet | Vietnam | 越南 越南 越南 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [1083] | 1 | violating | Verleumdung | 违反《公约》 | Maxine Waters campaign to pay $68K for violating campaign finance laws
+- [1084] | 1 | viral | virale | 病毒 | Olivia Dunne posts 5-word reaction as fashion show stunt goes viral
+- [1085] | 1 | visa | Visum | 签证签证签证签证签证签证签证 | Senate Republican aims to treat visa overstayers like illegal entrants in response to Colorado terror attack
+- [1086] | 1 | visit | Besuch | 访问访问访问 | Bryson DeChambeau hits golf balls on White House South Lawn during visit with Trump
+- [1087] | 1 | visiting | Besuch | 访问访问访问 | Hot travel trend has people 'townsizing' by visiting quaint American towns
+- [1088] | 1 | vows | Gelübde | 誓言 | Trump vows 'large scale' fines on California after trans athlete wins girls' track and field championships
+- [1089] | 1 | vs | vs. | Vs 和 | Reds star Elly De La Cruz hits home run vs Cubs after death of sister
+- [1090] | 1 | Warnock | Warnock | 华纳克 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [1091] | 1 | warplanes | Kriegsflugzeuge | 战机 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [1092] | 1 | watchdog | Wachhund | 监 监 监 监 监 | Hundreds of millions in tax money goes to contracts for DEI groups, watchdog finds: 'Total racket'
+- [1093] | 1 | Waters | Wasser | 水 水 | Maxine Waters campaign to pay $68K for violating campaign finance laws
+- [1094] | 1 | WCWS | WCWS | WWWWS WWS(WWWWW WWS) | Tennessee softball escapes WCWS elimination game with win over UCLA despite controversial game-tying homer
+- [1095] | 1 | Web' | Web" | 网络 | Ukraine’s 'Spider’s Web' drone strike burns over 40 Russian warplanes, Moscow calls it 'terrorist attack'
+- [1096] | 1 | weekend | Wochenende | 周末周末 | Ukraine, Russia meet for peace talks in Istanbul after explosive weekend
+- [1097] | 1 | weeks | Wochen | 周数 | Texas murder suspect Trevor McEuen caught after weeks on the run
+- [1098] | 1 | Weinstein | Weinstein | 温斯坦 | Diddy accuser sues Harvey Weinstein for sexual assault
+- [1099] | 1 | where | Dabei ist | 何 地 | At MIT, Lindsay Caplan reflects on artistic crossroads where humans and machines meet
+- [1100] | 1 | whether | ob | 是否 | Warnock dodges questions from NBC host on whether Biden should have dropped out earlier
+- [1101] | 1 | while | während | 时时 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [1102] | 1 | withdrawal | Rücknahme | 退出退出 | Regarding the withdrawal of the United States from the Just Energy Transition Partnerships with Indonesia, South Africa and Viet Nam, Development State Secretary Jochen Flasbarth made the following statement:
+- [1103] | 1 | withdraws | entzieht sich | 退出 | Blake Lively withdraws emotional distress claims against Justin Baldoni
+- [1104] | 1 | witness | Zeuge | 证人证人证人 | Boulder terror attack witness describes 'horrific' scene at pro-Israel rally
+- [1105] | 1 | worked | bearbeitet | 工 工 工 工 | Boulder illegal immigrant terror suspect worked in healthcare field, as rideshare driver before attack
+- [1106] | 1 | workers | Arbeitnehmer | 工人 工人 | 'Red tape': Trump admin unleashes DOGE-aligned process to fire federal workers for misconduct
+- [1107] | 1 | workings | Arbeiten | 工作 | MIT students and postdoc explore the inner workings of Capitol Hill
+- [1108] | 1 | work’ | Arbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 工 工 工 工 | ‘We’re still standing … We can still do important work’
+- [1109] | 1 | worlds | Welten | 世界和世界 | Variety report claims 'The Boys' and 'Handmaid's Tale' imaginary fascist worlds are becoming reality
+- [1110] | 1 | worst | schlimmste | 最差 | NY Times columnist compares Elon Musk to history’s worst murderers over USAID cuts
+- [1111] | 1 | would | würde | 将 | Rand Paul says he would support 'big, beautiful bill' if debt ceiling hike removed
+- [1112] | 1 | writing | Schreiben | 写写 | What good is writing anyway?
+- [1113] | 1 | WWE | WWE | WWWWWWWW WWW WWWW WWWW WWWW WWW WWW WWW WW WWW WWW WWW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW W WW WW W WW W W W W W W W W W WW WW WW W W W W W W W W W W WW W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W | Longtime WWE star R-Truth announces departure from company
+- [1114] | 1 | you | Sie | 您 您 的 您 您 | Why are you cursing?
+- [1115] | 1 | Youngkin | Junghäutig | 扬金 | Youngkin sets date for special election to fill deep-blue House seat
+- [1116] | 1 | – | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - ~ ~ ~ ~ ~ | As Musk exits DOGE, a look back at previous efforts to cut waste, fraud and abuse – and how they fared
+- [1117] | 1 | ‘ | „ | ' ' | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [1118] | 1 | ‘kindness’ | „Freundlichkeit" | " 慈善 " | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [1119] | 1 | ‘Resist | „Widerspruch | `抵抗 | California beach ‘Resist!’ protest pushes ‘kindness’ while calling to ‘86 47’ in anti-Trump message
+- [1120] | 1 | ‘We’re | „Wir sind | `我们' | ‘We’re still standing … We can still do important work’
+- [1121] | 1 | … | ... | . | ‘We’re still standing … We can still do important work’
