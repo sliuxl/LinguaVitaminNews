@@ -1,701 +1,711 @@
 ---
-title: "German vocab up to 2025-06-30: 694"
+title: "German vocab up to 2025-06-30: 704"
 date: 2025-06-30
 layout: post
 ---
 
-- id | de | en | zh
-- [0000] | in | in | . . .
-- [0001] | der | of the | - ... ... ...
-- [0002] | und | and | ...而且... ...
-- [0003] | für | for | - ... 为...
-- [0004] | die | the | - - - -
-- [0005] | auf | on the | . . .
-- [0006] | Alabali-Radovan | Alabali Radovan | 阿拉巴利 -拉多万
-- [0007] | bei | in the case of: | . . . .
-- [0008] | mit | with | ...是... ...
-- [0009] | nach | after | . . . . .
-- [0010] | Polen | Poland | 波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人.
-- [0011] | im | In the | . . .
-- [0012] | - | - No, no, no, no, no, no, no. | - - -
-- [0013] | an | to | 印在... ...
-- [0014] | Deutschland | Germany | 德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国.
-- [0015] | von | from | 作者:
-- [0016] | Entwicklungsministerin | Minister for Development | 发展部部长
-- [0017] | Israel | Israel | 以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列.
-- [0018] | Russland | Russia | 俄罗斯
-- [0019] | vor | before | ...前... ...
-- [0020] | als | as | ...当... ...
-- [0021] | Nawrocki | Nawrocki | 纳瓦基
-- [0022] | Tote | Dead | 死人
-- [0023] | Ukraine | Ukraine | 乌克兰
-- [0024] | zur | to the | ...到... ...
-- [0025] | gegen | against | 被告人... ...
-- [0026] | Präsidentenwahl | Presidential election | 总统选举
-- [0027] | Reem | Reem | Reem Reem
-- [0028] | Wadephul | Wadephul | Wadephul.
-- [0029] | Wie | How | 如何... ...如何... ...如何...
-- [0030] | will | want | ...我... ...
-- [0031] | zu | to | ...到... ...
-- [0032] | AfD | AfD | AfD
-- [0033] | Demokratie | Democracy | 民主政体
-- [0034] | den | the | . . . .
-- [0035] | doch | but | 是的,是的,是的.
-- [0036] | ein | a | 一,二,三,四,三,四,四,四
-- [0037] | eine | one | 一个... ...一个... ...一个...
-- [0038] | gewinnt | wins | 赢了
-- [0039] | Hamburg | Hamburg | 汉堡
-- [0040] | Hamburger | Hamburger | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}汉堡包 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Burgers.
-- [0041] | ist | is | . . . . .
-- [0042] | mehr | more | 更多
-- [0043] | wird | will | . . . . . .
-- [0044] | am | Date | 是... ...
-- [0045] | China | China | 中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國.
-- [0046] | Das | The | 这个... This...
-- [0047] | Deutsche | German | 德国佬
-- [0048] | Euro | Euro | 欧元
-- [0049] | Lage | Situation | 情况危急
-- [0050] | Merz | Merz | 梅爾茲
-- [0051] | neue | new | 新的...
-- [0052] | sich | you | 自我
-- [0053] | Südkorea | South Korea | 韩国人,韩国人,韩国人,韩国人,韩国人,韩国人
-- [0054] | vom | of the | ...来自... ...
-- [0055] | zum | to the | ...到... ...
-- [0056] | zwischen | between | ...在... ...
-- [0057] | Angriff | Attack | 进攻!
-- [0058] | auch | also | 也同样如此
-- [0059] | aus | from | . . . .
-- [0060] | Außenminister | Minister for Foreign Affairs | Foreign Secretary, Foreign Secretary, Foreign Secretary
-- [0061] | Baerbock | Baerbock | Baerbock.
-- [0062] | beim | at the | . . . .
-- [0063] | Brand | Fire | Brand Brand Brand.
-- [0064] | Chaos | Chaos | 乱七八糟的
-- [0065] | dem | The | ...他... ...
-- [0066] | Druck | Pressure | 壓力
-- [0067] | es | it | ...它... ...
-- [0068] | ESA | ESA | Easy Easy East
-- [0069] | Europa | Europe | 欧洲,欧洲,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,
-- [0070] | Gaza | Gaza | 加沙
-- [0071] | Gesellschaft | Society | 社交圈
-- [0072] | Gewitter | Thunderstorms | 雷暴雨
-- [0073] | Globale | Global | 全球化
-- [0074] | Grenzkontrollen | Border controls | 边境管制
-- [0075] | Kinder | Children | 孩子们
-- [0076] | kritisiert | Criticism | 批評人
-- [0077] | Millionen | Millions | 数百万美元
-- [0078] | nicht | not | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不.
-- [0079] | nimmt | Takes | 接受... ...
-- [0080] | plant | Plans | 计划生育计划
-- [0081] | Präsident | President | 总统
-- [0082] | Rechtskonservativer | Legal-conservative | 法律保守主义者
-- [0083] | tritt | Steps | 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊
-- [0084] | Ukraine-Liveblog | Ukraine live blog | 乌克兰历史博客
-- [0085] | Umbruch | Change | 改道了
-- [0086] | USA | USA | 美国,美国,美国,美国,美国,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美
-- [0087] | Verletzte | Injured | 受伤的伤员
-- [0088] | Was | What | 什么?
-- [0089] | Welt | World | 世界
-- [0090] | werden | will be | ...你将... ...
-- [0091] | Wo | Where | 在哪里?
-- [0092] | über | on | - - - -
-- [0093] | -Minuten-Podcast | -Minute podcast | - 分钟播音员播音员
-- [0094] | Abschlussbericht | Final report | 结束报告
-- [0095] | aller | all | 每个人
-- [0096] | anderer | other | 另一方是...
-- [0097] | Angola | Angola | 安哥拉
-- [0098] | Angriffe | Attacks | 攻击
-- [0099] | aufgehoben | repealed | 保留了它
-- [0100] | Aufhebung | Repeal | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不!
-- [0101] | Bayern | Bavaria | 巴伐利亚人
-- [0102] | Besserer | Better | 更好的是
-- [0103] | bestimmen | Determine | 决定权在谁身上
-- [0104] | bezieht | with respect to: | references.
-- [0105] | Bonn | Bonn | 波恩
-- [0106] | Brücken | Bridges | 桥梁
-- [0107] | Bundesentwicklungsministerin | Federal Minister for Development | 联邦发展部长
-- [0108] | Büro | Office | 办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室
-- [0109] | Cabinda | Cabinda | 卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达
-- [0110] | Catherine | Catherine | 凯萨琳
-- [0111] | Christen | Christians | 基督教徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒.
-- [0112] | Cyberattacken | Cyberattacks | 网络攻击
-- [0113] | DIN-Normen | DIN standards | DIN -Normen
-- [0114] | Dobrindt | Dobrindt | 杜布列特
-- [0115] | Drei | Three | 3个
-- [0116] | Einladung | Invitation | 邀请函
-- [0117] | Erklärung | Declaration | 解釋一下
-- [0118] | europäische | European | 欧洲,欧洲,欧洲,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟.
-- [0119] | Feuer | Fire | 着火了
-- [0120] | Frankreichs | France | 法國人
-- [0121] | Friedensgutachten | Peace Reports | 和平评估
-- [0122] | Gazastreifen | Gaza | 加沙地带
-- [0123] | gerettete | Saved | 救了人
-- [0124] | gestorben | Died | 死了
-- [0125] | Gesundheit | Health | - 健康 - 健康 - 健康
-- [0126] | Guterres | Guterres | 善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的
-- [0127] | hat | has | ...他... ...
-- [0128] | hilft | Helps | 幫了大忙
-- [0129] | immer | always | 总是这样
-- [0130] | Istanbul | Istanbul | 伊斯坦布尔
-- [0131] | Johann | Johann | 约翰·约翰
-- [0132] | Jury | Jury | 陪审员
-- [0133] | KI | AI | 人工智慧
-- [0134] | Kindern | Children | 儿童.
-- [0135] | Klingbeil | Klingbeil | 叮叮当
-- [0136] | KM-Podcast | KM podcast | KM -Podcast
-- [0137] | knapp | Short | 差一点
-- [0138] | Kommission | Commission | 委员会
-- [0139] | Krankenhaus | Hospital | 医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院
-- [0140] | Kritik | Criticism | 批評?
-- [0141] | Landes | Country | 国家
-- [0142] | laut | Loud | 大声点
-- [0143] | Leyen | Leyen | Leyen Leyen
-- [0144] | Libyen | Libya | 利比亚
-- [0145] | liegt | in the case of: | 躺着躺着
-- [0146] | Lösungen | Solutions | 解决之道
-- [0147] | Mascha | Masha | Mascha.
-- [0148] | Menschen | People | 人类
-- [0149] | Milliarden | Billions | 数十亿美元
-- [0150] | Ministerin | Minister | 国务卿
-- [0151] | Mitzeichnung | Co-signation | 记录在案
-- [0152] | Montag | Monday | 星期一
-- [0153] | multilaterale | Multilateral | 多边形,多边形
-- [0154] | muss | must: | 不得不这么做
-- [0155] | nachhaltige | sustainable | 可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的, 可持续的,可持续的,可持续的的,
-- [0156] | Nachhaltigkeit | Sustainability | 可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性.
-- [0157] | Nahost | Middle East | 中东地区
-- [0158] | NASA-Chef | NASA Chief | 太空总署局长
-- [0159] | Netanjahu | Netanyahu | 内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡.
-- [0160] | neuer | new | 新的,新的,新的的,新的的
-- [0161] | Opfer | Victims | 牺牲品
-- [0162] | organisiert | Organised | 安排好了吗?
-- [0163] | Pandemieabkommen | Pandemic agreements | 流行性大流行病协议
-- [0164] | Pfingstferien | Pentecostal holidays | 春假
-- [0165] | Politik | Policy | 政治
-- [0166] | Preis | Price | 代价是...
-- [0167] | Präsidentschaftswahl | Presidential election | 竞选总统
-- [0168] | publica | publica | 出版社
-- [0169] | radikale | Radical | 激进的激进分子
-- [0170] | Raketenbau | Rocket construction | 火箭制造厂
-- [0171] | re | re | re re
-- [0172] | Rechtsnationalist | Legal nationalist | 右翼民族主义者
-- [0173] | rechtswidrig | Illegal | 非法的
-- [0174] | Regierung | Government | 政府... 政府...
-- [0175] | Reichweitenbeschränkung | Range restriction | 射程限制
-- [0176] | Reisewelle | Wave of travel | 浪潮,浪潮,浪潮,海浪,海浪,海浪,海浪,海浪,海浪,海浪,海浪,海浪,海浪,海浪,海浪,海浪,海浪
-- [0177] | Russell | Russell | 罗素
-- [0178] | russische | Russian | 俄国佬
-- [0179] | Sanktionen | Penalties | 制裁
-- [0180] | Schaden | Damage | 损害了我们的安全
-- [0181] | Scheideweg | Crossroads | 十字路口
-- [0182] | Schilinski | Shilinsky | 薛林斯基
-- [0183] | Schutz | Protection | 保护措施
-- [0184] | Schwimmbecken | Swimming pools | 游泳!
-- [0185] | SDGs | SDGs | SDGs
-- [0186] | Seit | Since | 从那时起
-- [0187] | soll | to: | 应为... ...
-- [0188] | Sozialplan | Social plan | 社会计划
-- [0189] | sprechen | speech | 说话啊
-- [0190] | Staatsschulden | Government debt | 主权债务
-- [0191] | Startschuss | Launch | 发射目标
-- [0192] | statt | for | 代替它
-- [0193] | Steel | Steel | 铁球
-- [0194] | steht | stands | 站立着
-- [0195] | Stellenabbau | Decreasing the number of jobs | 裁员
-- [0196] | Studie | Study | 研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究
-- [0197] | Syrien | Syria | 叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚.
-- [0198] | Süden | South | 南面,南面
-- [0199] | teils | Partially | 一部分是部分的
-- [0200] | Thyssenkrupp | Thyssenkrupp | 泰森库普
-- [0201] | Tiefe | Depth | 深度
-- [0202] | Traum | Dream | 梦境
-- [0203] | trifft | meets | 打中了
-- [0204] | Trotz | Despite | 纵使如此
-- [0205] | Trump | Trump | 特朗普 特朗普
-- [0206] | Tusk | Tusk | Tusk Tusk
-- [0207] | Umgang | How to deal with them | 管理方式
-- [0208] | UN | UN | 联合国
-- [0209] | UN-Generalsekretär | UN Secretary-General | 联合国秘书长
-- [0210] | UN-Generalversammlung | UN General Assembly | 联合国大会
-- [0211] | Unabhängigkeit | Independence | 独立自主
-- [0212] | Unabhängigkeitskampf | The struggle for independence | 独立斗争
-- [0213] | UNICEF-Exekutivdirektorin | UNICEF Executive Director | 儿童基金会执行主任
-- [0214] | verantwortungsvoller | responsible | 负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的
-- [0215] | Verdächtiger | Suspect | 嫌犯是嫌犯
-- [0216] | vorn | front | 前面
-- [0217] | Waffenexporte | Arms exports | 武器出口
-- [0218] | Wahl | Election | 选择权在他们手里
-- [0219] | Warum | Why | 为什么?
-- [0220] | Weg | Move | 消失无踪
-- [0221] | wegen | for | 因为... ...因为...
-- [0222] | Wer | Who | 谁是谁?
-- [0223] | Wetter | Weather | 天气预报
-- [0224] | wieder | again | 又来一次
-- [0225] | wirbt | advertises | 逆流而上
-- [0226] | Wirtschaftssanktionen | Economic sanctions | 经济制裁
-- [0227] | Women | Women | 女孩儿们
-- [0228] | Zukunft | Future | 未来
-- [0229] | Zurückweisungen | Rejections | 拒绝
-- [0230] | Zusammenarbeit | Cooperation | 合作
-- [0231] | Zwei | Two | 二...
-- [0232] | – | – | \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ >
-- [0233] | Absprachen | Agreements | 协议书
-- [0234] | Aktien | Shares | 股票
-- [0235] | Aktionstag | Day of Action | 行动日
-- [0236] | allem | All | 所有东西
-- [0237] | Amazons | Amazon | 亚马逊州
-- [0238] | Amtszimmer | Office | 办公室办公室
-- [0239] | andere | Other | 其它方面呢?
-- [0240] | Annalena | Annalena | 安娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜
-- [0241] | Apfelbäume | Apple trees | 苹果苹果
-- [0242] | Asche | Ash | 尘埃落定
-- [0243] | Asylsuchenden | Asylum seekers | 寻求庇护的人
-- [0244] | Asylsuchender | Asylum seekers | 寻求庇护者
-- [0245] | Atlas | Atlas | 阿特拉斯
-- [0246] | Atomverhandlungen | Nuclear negotiations | 核谈判
-- [0247] | ausbauen | expand | 扩大范围
-- [0248] | ausgeweitet | extended | 扩大范围
-- [0249] | ausgezeichnet | Excellent | 好得不得了
-- [0250] | Ausschreitungen | Riots | 暴动的发生.
-- [0251] | Autounfall | Car accident | 车祸
-- [0252] | außenpolitisch | External policy | 外在政治上,外在,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的外在的.
-- [0253] | Backnang | Backnang | 拍拍屁股,拍拍屁股
-- [0254] | Band | Volume | 磁带.
-- [0255] | Bankkunden | Bank customers | 银行客户
-- [0256] | bedroht | Threatened | 威胁到我们
-- [0257] | beeinflussen | influence | 影响. . .
-- [0258] | beendet | Finished | 结束,结束
-- [0259] | bekannt | known | 众所周知
-- [0260] | bekommt | received | 得到... ...
-- [0261] | bekämpfen | fight | 与之抗争的是...
-- [0262] | bemängelt | Complaints | 婚前协议
-- [0263] | beraten | Advising | 咨询意见
-- [0264] | Berichte | Reports | 报告
-- [0265] | Berlin | Berlin | 柏林
-- [0266] | besetzte | staff | 被占领了
-- [0267] | Besucher | Visitors | 访客们
-- [0268] | betont | Emphasizes | 着重指出
-- [0269] | betroffen | affected | 受到影響
-- [0270] | Beziehungen | Relations | 关系? 关系?
-- [0271] | bisschen | Little | 有一点
-- [0272] | Blatten | Sheets | 叶子
-- [0273] | blühen | flowers | 盛开的花朵
-- [0274] | Borna-Virus | Borna virus | 博纳病毒
-- [0275] | Branchen | Sectors | 业界人士
-- [0276] | Bremerhaven | Bremerhaven | Bremerhaven Bremerhaven.
-- [0277] | Britische | British | 英国佬
-- [0278] | Brückeneinsturz | Bridge collapse | 桥梁倒塌
-- [0279] | Brückeneinstürzen | Bridge collapses | 桥梁倒塌
-- [0280] | Brüssel | Brussels | Brussels Brussels, Brussels, Brussels, Brussels, Brussels, Brussels, Brussels, Brussels.
-- [0281] | Bundesgerichtshof | Federal Court of Justice | 联邦法庭
-- [0282] | Bundeskanzler | Federal Chancellor | 德国总理
-- [0283] | Bundespolizeipräsident | Federal Police President | 州警署长
-- [0284] | Bundestag | Bundestag | 联邦日
-- [0285] | Bus | Bus | 公交车
-- [0286] | Bürger | Citizens | 市民们
-- [0287] | Bürgerforschungsprojekt | Citizens' research project | 公民研究项目
-- [0288] | Champions | Champions | 冠军们
-- [0289] | Champions-League-Finale | Champions League finale | 冠军League决赛
-- [0290] | Conference | Conference | 会议
-- [0291] | Constantin | Constantin | 康斯坦丁
-- [0292] | CSU | CSU | CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU.
-- [0293] | CSU-Landesgruppenchef | Head of CSU Country Group | CSU省委长
-- [0294] | Delivery | Delivery | 迪利韦里
-- [0295] | dementiert | Deactivated | 否认
-- [0296] | Demo | Demo | 示威游行
-- [0297] | des | of the | - ... ...
-- [0298] | deutlich | Clear | 清楚了吗?
-- [0299] | Deutschrap | German Rap | 德文的拉瑞普
-- [0300] | Dialog | Dialogue | 对话
-- [0301] | diesen | the | ...这个... ...
-- [0302] | dos | dos | dos
-- [0303] | drehen | Rotate | 转啊转啊转
-- [0304] | dringend | urgent | 急事
-- [0305] | Drohnenangriff | Drone attack | 无人机攻击
-- [0306] | Dutzende | Dozens | 数十人
-- [0307] | DW-Interview | DW interview | DW 访问
-- [0308] | Dänemarks | Denmark | 丹麦人
-- [0309] | dürfen | may: | 允许我... ...
-- [0310] | Ehepaar | Couple | 夫妻
-- [0311] | eigenständiger | self-employed | 独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的
-- [0312] | Einfamilienhaus | Single-family house | 一家之户
-- [0313] | eingestürzt | Falled | 崩塌了
-- [0314] | eingewiesen | Introduced | 入院证物
-- [0315] | Elbvertiefung | Deepening of the Elbe | 低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,高血糖,高血糖,高血糖,高血肿,高血肿.
-- [0316] | Eltern | Parents | 父母
-- [0317] | entgleist | Derailed | 脱轨了
-- [0318] | Entlastungen | Discharges | 减轻负担
-- [0319] | entsteht | is produced | 创造出一个
-- [0320] | Entwicklung | Development | 发展
-- [0321] | erklärt | declared | 解释了这一点
-- [0322] | Ermittler | Investigator | 调查员
-- [0323] | erzwingen | Force | 迫不得已
-- [0324] | erzählt | narrated | 故事讲述了
-- [0325] | Extra-Fördergelder | Extra funding | 额外的流动资金
-- [0326] | F | F | F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F
-- [0327] | Fachkräftemangel | Skill shortages | 技能不足
-- [0328] | Faktencheck | Facts Check | 事实调查
-- [0329] | fast | almost | 几乎是...
-- [0330] | Fehlgeburt | Miscarriage | 流产
-- [0331] | feiert | celebrates | 庆祝一下
-- [0332] | fest | fixed | 绑紧了
-- [0333] | festgenommen | Arrested | 被逮捕了
-- [0334] | Feuerwehrleute | Firefighters | 消防员们
-- [0335] | Finale | Final | 决赛结束
-- [0336] | Flugzeuge | Aircraft | 飞机
-- [0337] | Flut | Flood | 洪水泛滥
-- [0338] | fordern | demand | 要求... 要求...
-- [0339] | fordert | Calls | 要求...
-- [0340] | Forderung | Requirement | 应收款要求
-- [0341] | forscht | research | 探索者
-- [0342] | Frankreich | France | 法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国.
-- [0343] | Freiheit | Freedom | 自由
-- [0344] | Freiheits-Atlas | Freedom Atlas | 自由之星
-- [0345] | Freilassung | Release | 释放自由人
-- [0346] | früher | Previous | 从前的我
-- [0347] | ganz | Total | ...整个过程... ...
-- [0348] | Gaza-Waffenruheplan | Gaza peace plan | 加沙武器休战计划
-- [0349] | Gebühren | Fees | 开销不菲
-- [0350] | Gefangenenaustausch | Exchange of prisoners | 囚犯交换条件
-- [0351] | gelingt | Achievements | 成功了
-- [0352] | genehmigte | Approved by the | 授权书
-- [0353] | Gericht | Court of Justice | 法庭,法庭,法院,法院,法院,法院,法院,法院,法院,法院,法院等
-- [0354] | Gerichtsentscheidung | Court decision | 法庭判决书
-- [0355] | gescheitert | Failed | 失敗了
-- [0356] | Geschichte | History | 菌 菌
-- [0357] | Geschwister | Siblings | 兄弟姐妹们 {\cHFFFFFF}{\3cH2F2F2F}{\4cH000000}Her brothers.
-- [0358] | gesichert | Secured | 安全起见
-- [0359] | Gesprächen | Conversations | 谈话
-- [0360] | gesucht | Searched | 被通缉
-- [0361] | getan | Done | 完成
-- [0362] | Gewalt | Violence | 暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力
-- [0363] | gewählt | elected | 当选总统
-- [0364] | Glyphosat | Glyphosate | 格力法萨 (Glyfasat)
-- [0365] | Graham | Graham | 格雷厄姆·格雷厄姆
-- [0366] | gratuliert | Congratulations | 祝贺你
-- [0367] | Grenze | Boundary | 国界线
-- [0368] | Greta | Greta | Greta Greta
-- [0369] | Großbrand | Large fire | 大烧伤.
-- [0370] | großes | Large | 大块头,大块头,大块头,大块头,大块头
-- [0371] | Grüne | Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens | 绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色
-- [0372] | gute | good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, | 好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好
-- [0373] | günstig | Cheap | 便宜货
-- [0374] | Hagel | Hail | 冰雹
-- [0375] | halbe | half | 半个小时
-- [0376] | Hamas-Angriff | Hamas attack | 哈马斯的攻击.
-- [0377] | Hamas-Geiseln | Hamas hostages | 哈马斯的枪林弹雨
-- [0378] | Hamburgs | Hamburg | 汉堡
-- [0379] | Handy-Daten | Mobile phone data | 手机数据
-- [0380] | harsch | Harsh | 婊子养的
-- [0381] | Hegseth-Äußerung | Hegseth exterior | Hegsereth Outstanding Hegsth Remotement.
-- [0382] | helfen | Help | 帮助.
-- [0383] | Herkunftsländer | Countries of origin | 原籍国
-- [0384] | Hero | Hero | 希羅
-- [0385] | Hessen | Hessian | 黑森
-- [0386] | heute | today | 今天...
-- [0387] | Hilfe | Help | 救命!
-- [0388] | Hilfszentrum | Help Centre | 救援中心
-- [0389] | hin | go | 往西走
-- [0390] | hinkt | limp | 瘸子
-- [0391] | hinter | behind | 在后座的后面
-- [0392] | Hipster | Hipster | 嬉皮士 (Hipster)
-- [0393] | hoch | High | 抬高
-- [0394] | Hochwasserkatastrophe | Flood disaster | 严重水灾
-- [0395] | hoffen | hope | 希望是
-- [0396] | hofft | Hopes | 希望是
-- [0397] | hohe | high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, | 高高在上
-- [0398] | hohen | high | 高高在上
-- [0399] | Holzwirtschaft | Wood industry | 木材管理
-- [0400] | Hygge | Hygge | Hygge.
-- [0401] | hält | Keeps | 稳住,稳住,稳住
-- [0402] | Händler | Distributors | 经销商.
-- [0403] | Härte | Hardness | 硬汉子
-- [0404] | ihre | their | 他们的... 他们的...
-- [0405] | ihres | of the | 他们的... 他们的... 他们的...
-- [0406] | Illegale | Illegal | 非法移民
-- [0407] | Indien | India | 印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度.
-- [0408] | Industrie | Industry | 工业化
-- [0409] | Infektion | Infection | 感染
-- [0410] | Inflation | Inflation | 通貨膨胀
-- [0411] | Inklusion | Inclusion | 引人注目
-- [0412] | Investieren | Investing | 投资投资
-- [0413] | Iran | Iran | 伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,
-- [0414] | Isabel | Isabel | 伊莎贝尔
-- [0415] | Israel-Kurs | Israel Course | 以色列课程
-- [0416] | Israels | Israel | 以色列
-- [0417] | ja | Yes | 是的
-- [0418] | Jahre | Years | 多年了
-- [0419] | jegliche | any | 每个人
-- [0420] | Joel | Joel | Joel Joel
-- [0421] | Jugend | Youth | 年青人
-- [0422] | Julia | Julia | 朱丽叶.
-- [0423] | Kaffeepreis | Coffee price | 咖啡价格
-- [0424] | Kanada | Canada | 加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大.
-- [0425] | kann | can | . . . . .
-- [0426] | Karol | Karol | 卡罗尔
-- [0427] | Kartellamt | Antitrust Office | 贩毒集团办公室
-- [0428] | Kartellstrafe | Antitrust | 贩毒集团刑期
-- [0429] | katastrophal | Disaster | 惨不忍睹
-- [0430] | kaum | Hardly | 很少见
-- [0431] | keine | none | 无.
-- [0432] | Kiew | Kiev | 基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅,基辅
-- [0433] | Kind | Child | 孩子
-- [0434] | Kinderrechte | Children's rights | 儿童权利.
-- [0435] | Klaus | Klaus | Klaus Klaus
-- [0436] | Klimakrise | Climate crisis | 气候危机
-- [0437] | Klinik | Clinic | 诊所
-- [0438] | Klinik-Brand | Clinic fire | 医院的桥梁
-- [0439] | Klitschko | Klitschko | 奇奇科
-- [0440] | Kläranlagen | Waste water treatment plants | 清理设施
-- [0441] | Klöckner | Fowls of the species Gallus domesticus | 卷饼机
-- [0442] | Kommunen | Municipalities | 市政厅
-- [0443] | kompakt | Compact | 交易完成
-- [0444] | Konferenz | Conference | 会议
-- [0445] | Konservativer | Conservative | 保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派.
-- [0446] | Kopf-an-Kopf-Rennen | Head-to-head race | 头对头比赛
-- [0447] | Kosten | Costs | 成本
-- [0448] | Kraft | Force | 力量
-- [0449] | Krieg | War | 战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争
-- [0450] | Krisenzeiten | Times of crisis | 危机时刻
-- [0451] | kritisch | Critical | 关键时刻
-- [0452] | Kulturelle | Cultural | 文化的文化.
-- [0453] | Lava | Lava | 岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿
-- [0454] | Le | Le | Le Le
-- [0455] | League | League | 联盟联盟 (National Alliance)
-- [0456] | Lebensmittel | Foodstuffs | 食物,食物,食物,食物,食物,食物,食物,食物,食物,食物,食物
-- [0457] | Lehrer | Teachers | 老师
-- [0458] | leicht | light | 轻而易举
-- [0459] | leisten | to the extent that: | 有能力
-- [0460] | Leitung | Management | 接线员
-- [0461] | Leuchtturm | Lighthouse | 灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔
-- [0462] | locken | lure | 诱饵
-- [0463] | lohnt | worth it | 值得一试
-- [0464] | machen | make | 做... 做...
-- [0465] | Mann | Man | 老兄
-- [0466] | Marktbericht | Market report | 市场报告
-- [0467] | Maximalforderungen | Maximum requirements | 最大限度的挑战
-- [0468] | Medien | Media | 媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体
-- [0469] | mehrere | several | 数不清次数
-- [0470] | Memorandum | Memorandum | 備忘錄
-- [0471] | Menschenrechte | Human rights | 人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权.
-- [0472] | Menschenrechtspreis | Human Rights Prize | 人权奖
-- [0473] | Mentale | Mental | 心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學
-- [0474] | mentalen | mental | 心理学上讲
-- [0475] | Meter | Meters | 计μ
-- [0476] | Mexikaner | Mexicans | 墨西哥人
-- [0477] | Miersch | Miersch | 密尔西比河
-- [0478] | Migranten | Migrants | 移徙者
-- [0479] | Migrationspolitik | Migration policy | 移民政策
-- [0480] | Militäreinsatz | Military operation | 军事行动
-- [0481] | Militärflughäfen | Military airports | 军事空军基地
-- [0482] | Milliarde | Billion | 十亿
-- [0483] | Milliardäre | Billionaires | 亿万富翁们
-- [0484] | Missbrauchstäter | Abuse offenders | 虐待者被虐待
-- [0485] | Mitarbeiter | Staff | 员工
-- [0486] | Moskau | Moscow | 莫斯科
-- [0487] | Munitionsfabriken | Ammunition factories | 弹药工厂
-- [0488] | Musk-Freund | Musk friend | 穆斯卡之友
-- [0489] | Musk-Vertrauter | Musk Trustee | 信任穆斯卡的穆斯卡人
-- [0490] | mutige | Courageous | 勇敢的人
-- [0491] | Mutterschutz | Parental protection | 产后保护
-- [0492] | Mäkelä | Mäkelä | 毛骨悚然的
-- [0493] | Nahost-Liveblog | Middle East live blog | 中东里程碑
-- [0494] | Nasser | Wet | 納瑟·納賽爾
-- [0495] | nationalpopulistisch | National populist | 全国民粹主义者
-- [0496] | NATO | NATO | 北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约.
-- [0497] | Nawrocki-Sieg | Nawrocki Victory | 纳瓦基 - 胜利
-- [0498] | Nawrockis | Nawrockis | 纳瓦基斯
-- [0499] | Nazis | Nazis | 纳粹党
-- [0500] | nein | yes | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不.
-- [0501] | Nerds | Nerds | 书呆子们
-- [0502] | Neuregelung | New rules | 重新安排
-- [0503] | Neuwahlen | New elections | 新选举
-- [0504] | News | News | 新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻
-- [0505] | Newsletter | Newsletter | 新闻记者
-- [0506] | Nigeria | Nigeria | 奈及利亞
-- [0507] | noch | Not yet | 仍然如此
-- [0508] | nun | now | 现在...
-- [0509] | nur | only | 只是...
-- [0510] | oben | Top | 楼上
-- [0511] | oder | or | 或者...
-- [0512] | offen | Open | 敞开的门
-- [0513] | offenbar | apparently | 显然,很明显的,
-- [0514] | Ort | Place | 地点
-- [0515] | Paris | Paris | 巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎.
-- [0516] | Patchworkfamilien | Patchwork Families | 修补家庭
-- [0517] | per | per | 通过... ... 通过...
-- [0518] | polarisierte | polarised | 极化
-- [0519] | Polizei | Police | 警察
-- [0520] | Populismus | Populism | 民粹主义
-- [0521] | Preisträger | Winners | 获奖者
-- [0522] | Preisvorgaben | Price targets | 价格定价
-- [0523] | Prinzessin | Princess | 公主殿下
-- [0524] | Pro-europäisch | Pro-European | 亲欧洲
-- [0525] | Problem | Problem | 有问题吗?
-- [0526] | profitiert | benefits | 获益良多
-- [0527] | Proteste | Protests | 抗议活动
-- [0528] | Provinz | Province | 省份
-- [0529] | Prozentdiskussion | Percentage discussion | 百分比讨论
-- [0530] | Präsidentin | President | 总统阁下
-- [0531] | prüfen | Check | 核实一下
-- [0532] | PSG-Sieg | PSG Victory | PSG - 胜利
-- [0533] | Psychiatrie | Psychiatry | 精神病史
-- [0534] | Randale | Randal | 边框线
-- [0535] | Rapper | Rapper | 饒舌歌手
-- [0536] | Rauer | Rough | 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊
-- [0537] | reagiert | responds | 回应了
-- [0538] | rechnet | calculated | 计算结果出来了
-- [0539] | rechtsextremistisch | extreme right | 极右翼的极权主义分子
-- [0540] | Rechtsruck | Right turn | 右边车道
-- [0541] | Rechtsverordnung | Legal regulation | 法律法规
-- [0542] | Regen | Rain | 雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨
-- [0543] | Regierungsbank | Government bank | 政府银行
-- [0544] | Regierungspläne | Government plans | 政府计划
-- [0545] | Rems-Murr-Kreis | Rems-Murr-Kreis | Rems -Murr circle. Rems -Murr
-- [0546] | Rennen | Race | 跑啊! 跑啊!
-- [0547] | Rheinland-Pfalz | Rhineland-Palatinate | 莱茵兰草原
-- [0548] | Richter | Judge | 法官
-- [0549] | Richtungswahl | Directional choice | 方向拨号
-- [0550] | Roter | Red | 红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色
-- [0551] | Russlands | Russia | 俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,以及俄罗斯,以及俄罗斯,以及俄罗斯,都属于俄罗斯.
-- [0552] | Rügen | Beef and veal | 谎话连篇
-- [0553] | Rüstungsexporte | Arms exports | 军火出口
-- [0554] | Saarland | Saarland | 萨尔兰
-- [0555] | Sabotage | Sabotage | 破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏
-- [0556] | Sand | Sand | 沙子,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙
-- [0557] | Santos | Santos | 桑托斯
-- [0558] | schaltet | Switches | 开机吧
-- [0559] | scharfen | sharp | 锋利的刀锋
-- [0560] | Schauer | Showers | 阵雨
-- [0561] | Schreiber | Writer | 书记员
-- [0562] | Schuttberg | Schuttberg | 穆斯伯格
-- [0563] | schwach | weak | 薄弱的.
-- [0564] | Schwarzarbeit | Undeclared work | 黑色工作.
-- [0565] | schwer | severe | 很难
-- [0566] | schwerer | Hepatobiliary disorders | 很重,更重
-- [0567] | Schüsse | Shots | 枪声
-- [0568] | Scouarnec | Scouarnec | 斯库鲁尼克 (Scurunec)
-- [0569] | Segelschiff | Sailing vessel | 帆船
-- [0570] | sehr | Very | 非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,
-- [0571] | sein | be | 他的
-- [0572] | Selenskyj | Selenskyj | 塞伦斯基
-- [0573] | Serbien | Serbia | 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚
-- [0574] | sexueller | sexual | 性行为
-- [0575] | Shangri-La | Shangri-La | 香格里拉
-- [0576] | Sherlock | Sherlock | 夏洛克 {\fn微软雅黑\b0\fs14\3cH000000\shad1}Sherlock.
-- [0577] | sichere | safe | 安全起见
-- [0578] | Sicherheit | Security | 安全起见
-- [0579] | sichern | Secure | 确保安全
-- [0580] | Sieger | Winner | 胜利者是胜利者
-- [0581] | sieht | see | 看见没?
-- [0582] | sind | are | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [0583] | Sitzungspräsidentin | President of the sitting | 会议主席
-- [0584] | Sizilien | Sicily | 西西里岛
-- [0585] | So | That's what I'm saying. | 所以... So...
-- [0586] | Social | Social | 社会福利
-- [0587] | Spiel | game | 游戏规则
-- [0588] | spuckt | Spit | 吐口水
-- [0589] | Staatskrise | State crisis | 国家危机
-- [0590] | Stabilität | Stability | 稳定的稳定性.
-- [0591] | Stahlbranche | Steel industry | 钢铁业
-- [0592] | steigt | Ascending | 上升
-- [0593] | Steinmeier | Steinmeier | 石头盒.
-- [0594] | stellen | The Commission's | 投案?
-- [0595] | stellt | Sets | 假设...
-- [0596] | Straßenverkehr | Road transport | 公路交通
-- [0597] | Strömungen | Currents | 洋流
-- [0598] | Städten | Cities | 城市,城市,城市,城市,城市,城市,城市,城市,城市,城市,城市和城市
-- [0599] | stärker | Stronger | 更强大
-- [0600] | stärkere | stronger | 更强大 更强大
-- [0601] | Sustainability | Sustainability | 稳定性稳定性
-- [0602] | Südkoreaner | South Koreans | 南韩人
-- [0603] | Taiwan | Taiwan | 台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾.
-- [0604] | tanken | refuelling | 油箱加油
-- [0605] | tankt | refuelling | 加油!
-- [0606] | Tatarstan | Tatarstan | 塔施坦
-- [0607] | Tausende | Thousands | 成千上萬的人
-- [0608] | teil | Part | 参与其中
-- [0609] | telefoniert | Telephoned | 电话里讲电话
-- [0610] | Terrorakt | Terrorism | 恐怖行动
-- [0611] | Thunberg | Thunberg | Thunberg Thunberg.
-- [0612] | Ton | Sound | 音响
-- [0613] | trotzte | Defeat | 反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对和反对
-- [0614] | Trump-Regierung | Trump administration | 特朗普政府
-- [0615] | Trzaskowski | Trzaskovsky | Tzaskowski. Tzaskowski.
-- [0616] | turbulenten | turbulent | 乱流
-- [0617] | tägliche | daily | 每天都有
-- [0618] | ukrainischen | Ukrainian | 乌克兰人
-- [0619] | umfassende | In this case, it is not possible to do so. | 全面的,全面的
-- [0620] | umgehen | Bypassing | 绕着路走
-- [0621] | Umsetzung | Transposition | 执行情况
-- [0622] | UN-Vollversammlung | UN General Assembly | 联合国大会全会
-- [0623] | UNESCO-Welterbestätten | UNESCO World Heritage Sites | UNESCO世界遗产公司 (UNEXCO)
-- [0624] | Unfall | Accident | 出车祸了
-- [0625] | Universitäten | Universities | 大学里
-- [0626] | unter | under | . . .
-- [0627] | Unternehmen | Enterprises | 公司,公司,公司,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业
-- [0628] | untersagen | prohibit | 拒绝
-- [0629] | unterwegs | on the road | 在路上
-- [0630] | unzulässige | Infringements | 非法移民
-- [0631] | Urananreicherung | Uranium enrichment | 铀浓缩
-- [0632] | US-Botschafter | US Ambassadors | 美国大使
-- [0633] | US-Märkte | US markets | 美国国务卿
-- [0634] | US-Senator | US Senator | 美国参议员
-- [0635] | US-Vermittler | U.S. Mediators | 美国侦探
-- [0636] | US-Zollstreit | US Customs Dispute | 美国战争,美国战争.
-- [0637] | US-Äußerung | U.S. outside | 美国的裁军
-- [0638] | vereint | United | 团结一致
-- [0639] | verhandeln | Negotiating | 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判
-- [0640] | Verhandlungen | Negotiations | 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判
-- [0641] | verletzt | Injured | 你受伤了吗?
-- [0642] | Verteidigung | Defence | 辩方律师
-- [0643] | Verteidigungsausgaben | Defence expenditure | 防务支出
-- [0644] | Verteilzentrum | Distribution centre | 分配中心
-- [0645] | Vertrauensfrage | Question of confidence | 信任问题
-- [0646] | verursachte | - if you have not been able to do so. | 导致的
-- [0647] | viele | many | 很多
-- [0648] | Vitali | Vitali | 维塔利
-- [0649] | vorerst | For the time being | 目前为止
-- [0650] | Vorwurf | Allegation | 指控我有罪
-- [0651] | Vorwürfen | Allegations | 怪罪于我
-- [0652] | Vulkan | Volcano | 瓦肯星人
-- [0653] | Waffenhilfe | Arms aid | 武器援助
-- [0654] | Waffenlieferungen | Shipments of arms | 武器供应商
-- [0655] | Waffenstopp | Weapon stop | 停止武器
-- [0656] | Wahlsieg | Electoral victory | 选举胜利
-- [0657] | warnen | Warning | 警告:
-- [0658] | Warnung | Warning | (PHP 4 = 4.2.0)
-- [0659] | Waschmitteln | Washers | 洗衣液
-- [0660] | weist | points out that: | 证据确凿
-- [0661] | Weit | Far | 远的要命
-- [0662] | weiter | continue | 向前看
-- [0663] | Welterbetag | World Heritage Day | 世界和平日
-- [0664] | Weltpremiere | World premiere | 世界首映式
-- [0665] | wertet | rated | 估价.
-- [0666] | Wetterprognose | Weather forecast | 天气预报
-- [0667] | widerspricht | contradicts | 反对意见相抵触
-- [0668] | wirft | throws | 投掷.
-- [0669] | Witkoff | Witkoff | Witkoff
-- [0670] | Wochenstart | Week start | 一周的起步
-- [0671] | Wokeness | Wokeness | 沃克尼斯沃克涅斯.
-- [0672] | Wut | Anger | 愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒和愤怒
-- [0673] | Würde | I'd like to talk to you about this. | 尊嚴
-- [0674] | zahlen | pay | 支付.
-- [0675] | Zeit | Time | 时间不多了
-- [0676] | Zeiten | Periods | 时光飞逝
-- [0677] | zerstört | Destroyed | 被摧毁了
-- [0678] | zerstörte | destroyed | 被摧毁了
-- [0679] | Zivilgesellschaft | Civil society | 民间社会
-- [0680] | Zivilisten | Civilians | 平民百姓.
-- [0681] | Zoll-Jahresbericht | Customs annual report | 关税年度报告
-- [0682] | Zollkonflikt | Customs conflict | 关税冲突
-- [0683] | Zug | Train | 火车
-- [0684] | Zukunftsallianzen | Future Alliances | 未来的远征者
-- [0685] | zurück | back | 退回去
-- [0686] | zurückverlangten | This is the case in the United Kingdom, the Netherlands and the United Kingdom. | 要求退回原位
-- [0687] | Zurückweisung | Rejection | 拒绝
-- [0688] | ändern | change | 改变.
-- [0689] | Ätna | Etna | 埃特纳.
-- [0690] | Überblick | Overview | 概览
-- [0691] | Überflutungen | Floods | 洪水泛滥
-- [0692] | übernimmt | Takes over | 接管公司
-- [0693] | überziehen | Cover | 穿戴整齐
+- id | count | de | en | zh
+- [0000] | 53 | in | in | . . .
+- [0001] | 34 | der | of the | - ... ... ...
+- [0002] | 29 | und | and | ...而且... ...
+- [0003] | 25 | für | for | - ... 为...
+- [0004] | 24 | die | the | - - - -
+- [0005] | 14 | auf | on the | . . .
+- [0006] | 13 | Alabali-Radovan | Alabali Radovan | 阿拉巴利 -拉多万
+- [0007] | 12 | mit | with | ...是... ...
+- [0008] | 12 | nach | after | . . . . .
+- [0009] | 11 | bei | in the case of: | . . . .
+- [0010] | 10 | Polen | Poland | 波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人.
+- [0011] | 9 | - | - No, no, no, no, no, no, no. | - - -
+- [0012] | 9 | an | to | 印在... ...
+- [0013] | 9 | Deutschland | Germany | 德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国.
+- [0014] | 9 | von | from | 作者:
+- [0015] | 8 | Entwicklungsministerin | Minister for Development | 发展部部长
+- [0016] | 8 | im | In the | . . .
+- [0017] | 8 | Russland | Russia | 俄罗斯
+- [0018] | 8 | Wie | How | 如何... ...如何... ...如何...
+- [0019] | 7 | Israel | Israel | 以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列.
+- [0020] | 7 | Tote | Dead | 死人
+- [0021] | 7 | Ukraine | Ukraine | 乌克兰
+- [0022] | 7 | zur | to the | ...到... ...
+- [0023] | 6 | als | as | ...当... ...
+- [0024] | 6 | gegen | against | 被告人... ...
+- [0025] | 6 | Hamburg | Hamburg | 汉堡
+- [0026] | 6 | Nawrocki | Nawrocki | 纳瓦基
+- [0027] | 6 | Präsidentenwahl | Presidential election | 总统选举
+- [0028] | 6 | Reem | Reem | Reem Reem
+- [0029] | 6 | vor | before | ...前... ...
+- [0030] | 6 | Wadephul | Wadephul | Wadephul.
+- [0031] | 6 | wird | will | . . . . . .
+- [0032] | 5 | AfD | AfD | AfD
+- [0033] | 5 | Das | The | 这个... This...
+- [0034] | 5 | Demokratie | Democracy | 民主政体
+- [0035] | 5 | doch | but | 是的,是的,是的.
+- [0036] | 5 | ein | a | 一,二,三,四,三,四,四,四
+- [0037] | 5 | Eine | One | 一个... ...一个...
+- [0038] | 5 | Hamburger | Hamburger | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}汉堡包 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Burgers.
+- [0039] | 5 | ist | is | . . . . .
+- [0040] | 5 | Südkorea | South Korea | 韩国人,韩国人,韩国人,韩国人,韩国人,韩国人
+- [0041] | 5 | vom | of the | ...来自... ...
+- [0042] | 5 | Was | What | 什么?
+- [0043] | 5 | will | want | ...我... ...
+- [0044] | 5 | zu | to | ...到... ...
+- [0045] | 4 | am | Date | 是... ...
+- [0046] | 4 | aus | from | . . . .
+- [0047] | 4 | China | China | 中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國.
+- [0048] | 4 | den | the | . . . .
+- [0049] | 4 | gewinnt | wins | 赢了
+- [0050] | 4 | mehr | more | 更多
+- [0051] | 4 | Merz | Merz | 梅爾茲
+- [0052] | 4 | neue | new | 新的...
+- [0053] | 4 | nicht | not | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不.
+- [0054] | 4 | zum | to the | ...到... ...
+- [0055] | 4 | zwischen | between | ...在... ...
+- [0056] | 3 | Angriff | Attack | 进攻!
+- [0057] | 3 | auch | also | 也同样如此
+- [0058] | 3 | Außenminister | Minister for Foreign Affairs | Foreign Secretary, Foreign Secretary, Foreign Secretary
+- [0059] | 3 | Baerbock | Baerbock | Baerbock.
+- [0060] | 3 | beim | at the | . . . .
+- [0061] | 3 | Brand | Fire | Brand Brand Brand.
+- [0062] | 3 | Chaos | Chaos | 乱七八糟的
+- [0063] | 3 | Deutsche | German | 德国佬
+- [0064] | 3 | Druck | Pressure | 壓力
+- [0065] | 3 | ESA | ESA | Easy Easy East
+- [0066] | 3 | Europa | Europe | 欧洲,欧洲,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,
+- [0067] | 3 | Gaza | Gaza | 加沙
+- [0068] | 3 | Gesellschaft | Society | 社交圈
+- [0069] | 3 | Gewitter | Thunderstorms | 雷暴雨
+- [0070] | 3 | Globale | Global | 全球化
+- [0071] | 3 | Grenzkontrollen | Border controls | 边境管制
+- [0072] | 3 | Kinder | Children | 孩子们
+- [0073] | 3 | kritisiert | Criticism | 批評人
+- [0074] | 3 | Lage | Situation | 情况危急
+- [0075] | 3 | Lösungen | Solutions | 解决之道
+- [0076] | 3 | nimmt | Takes | 接受... ...
+- [0077] | 3 | plant | Plans | 计划生育计划
+- [0078] | 3 | Präsident | President | 总统
+- [0079] | 3 | tritt | Steps | 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊
+- [0080] | 3 | Ukraine-Liveblog | Ukraine live blog | 乌克兰历史博客
+- [0081] | 3 | Umbruch | Change | 改道了
+- [0082] | 3 | USA | USA | 美国,美国,美国,美国,美国,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美
+- [0083] | 3 | Verletzte | Injured | 受伤的伤员
+- [0084] | 3 | Welt | World | 世界
+- [0085] | 3 | werden | will be | ...你将... ...
+- [0086] | 3 | wieder | again | 又来一次
+- [0087] | 3 | Zukunft | Future | 未来
+- [0088] | 3 | über | on | - - - -
+- [0089] | 2 | -Minuten-Podcast | -Minute podcast | - 分钟播音员播音员
+- [0090] | 2 | Abschlussbericht | Final report | 结束报告
+- [0091] | 2 | aller | all | 每个人
+- [0092] | 2 | anderer | other | 另一方是...
+- [0093] | 2 | Angola | Angola | 安哥拉
+- [0094] | 2 | Angriffe | Attacks | 攻击
+- [0095] | 2 | aufgehoben | repealed | 保留了它
+- [0096] | 2 | Aufhebung | Repeal | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不!
+- [0097] | 2 | Bayern | Bavaria | 巴伐利亚人
+- [0098] | 2 | Besserer | Better | 更好的是
+- [0099] | 2 | bestimmen | Determine | 决定权在谁身上
+- [0100] | 2 | bezieht | with respect to: | references.
+- [0101] | 2 | Bonn | Bonn | 波恩
+- [0102] | 2 | Brücken | Bridges | 桥梁
+- [0103] | 2 | Bundesentwicklungsministerin | Federal Minister for Development | 联邦发展部长
+- [0104] | 2 | Büro | Office | 办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室,办公室
+- [0105] | 2 | Cabinda | Cabinda | 卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达,卡宾达
+- [0106] | 2 | Catherine | Catherine | 凯萨琳
+- [0107] | 2 | Christen | Christians | 基督教徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒,基督徒.
+- [0108] | 2 | Cyberattacken | Cyberattacks | 网络攻击
+- [0109] | 2 | dem | The | ...他... ...
+- [0110] | 2 | DIN-Normen | DIN standards | DIN -Normen
+- [0111] | 2 | Dobrindt | Dobrindt | 杜布列特
+- [0112] | 2 | Drei | Three | 3个
+- [0113] | 2 | Einladung | Invitation | 邀请函
+- [0114] | 2 | Elbvertiefung | Deepening of the Elbe | 低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,低血糖,高血糖,高血糖,高血糖,高血肿,高血肿.
+- [0115] | 2 | Erklärung | Declaration | 解釋一下
+- [0116] | 2 | es | it | ...它... ...
+- [0117] | 2 | Euro | Euro | 欧元
+- [0118] | 2 | europäische | European | 欧洲,欧洲,欧洲,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟.
+- [0119] | 2 | Feuer | Fire | 着火了
+- [0120] | 2 | Frankreichs | France | 法國人
+- [0121] | 2 | Friedensgutachten | Peace Reports | 和平评估
+- [0122] | 2 | Gazastreifen | Gaza | 加沙地带
+- [0123] | 2 | gerettete | Saved | 救了人
+- [0124] | 2 | gestorben | Died | 死了
+- [0125] | 2 | Gesundheit | Health | - 健康 - 健康 - 健康
+- [0126] | 2 | Guterres | Guterres | 善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的,善良的
+- [0127] | 2 | hat | has | ...他... ...
+- [0128] | 2 | hilft | Helps | 幫了大忙
+- [0129] | 2 | immer | always | 总是这样
+- [0130] | 2 | Istanbul | Istanbul | 伊斯坦布尔
+- [0131] | 2 | Johann | Johann | 约翰·约翰
+- [0132] | 2 | Jury | Jury | 陪审员
+- [0133] | 2 | kann | can | . . . . .
+- [0134] | 2 | KI | AI | 人工智慧
+- [0135] | 2 | KM-Podcast | KM podcast | KM -Podcast
+- [0136] | 2 | knapp | Short | 差一点
+- [0137] | 2 | Kommission | Commission | 委员会
+- [0138] | 2 | Krankenhaus | Hospital | 医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院
+- [0139] | 2 | Kritik | Criticism | 批評?
+- [0140] | 2 | Landes | Country | 国家
+- [0141] | 2 | Leyen | Leyen | Leyen Leyen
+- [0142] | 2 | Libyen | Libya | 利比亚
+- [0143] | 2 | liegt | in the case of: | 躺着躺着
+- [0144] | 2 | Mascha | Masha | Mascha.
+- [0145] | 2 | Menschen | People | 人类
+- [0146] | 2 | Millionen | Millions | 数百万美元
+- [0147] | 2 | Ministerin | Minister | 国务卿
+- [0148] | 2 | Mitzeichnung | Co-signation | 记录在案
+- [0149] | 2 | Montag | Monday | 星期一
+- [0150] | 2 | multilaterale | Multilateral | 多边形,多边形
+- [0151] | 2 | muss | must: | 不得不这么做
+- [0152] | 2 | nachhaltige | sustainable | 可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的,可持续的, 可持续的,可持续的,可持续的的,
+- [0153] | 2 | Nachhaltigkeit | Sustainability | 可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性,可持续性.
+- [0154] | 2 | Nahost | Middle East | 中东地区
+- [0155] | 2 | NASA-Chef | NASA Chief | 太空总署局长
+- [0156] | 2 | Netanjahu | Netanyahu | 内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡.
+- [0157] | 2 | neuer | new | 新的,新的,新的的,新的的
+- [0158] | 2 | Newsletter | Newsletter | 新闻记者
+- [0159] | 2 | Nietzard | Nietzard | 尼采德 (Nietzard)
+- [0160] | 2 | Opfer | Victims | 牺牲品
+- [0161] | 2 | Pandemieabkommen | Pandemic agreements | 流行性大流行病协议
+- [0162] | 2 | Politik | Policy | 政治
+- [0163] | 2 | Preis | Price | 代价是...
+- [0164] | 2 | publica | publica | 出版社
+- [0165] | 2 | radikale | Radical | 激进的激进分子
+- [0166] | 2 | Raketenbau | Rocket construction | 火箭制造厂
+- [0167] | 2 | re | re | re re
+- [0168] | 2 | Rechtskonservativer | Legal-conservative | 法律保守主义者
+- [0169] | 2 | Rechtsnationalist | Legal nationalist | 右翼民族主义者
+- [0170] | 2 | rechtswidrig | Illegal | 非法的
+- [0171] | 2 | Regierung | Government | 政府... 政府...
+- [0172] | 2 | Reichweitenbeschränkung | Range restriction | 射程限制
+- [0173] | 2 | Russell | Russell | 罗素
+- [0174] | 2 | russische | Russian | 俄国佬
+- [0175] | 2 | Sanktionen | Penalties | 制裁
+- [0176] | 2 | Scheideweg | Crossroads | 十字路口
+- [0177] | 2 | Schilinski | Shilinsky | 薛林斯基
+- [0178] | 2 | Schutz | Protection | 保护措施
+- [0179] | 2 | Schwimmbecken | Swimming pools | 游泳!
+- [0180] | 2 | SDGs | SDGs | SDGs
+- [0181] | 2 | sich | you | 自我
+- [0182] | 2 | sind | are | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [0183] | 2 | soll | to: | 应为... ...
+- [0184] | 2 | Sozialplan | Social plan | 社会计划
+- [0185] | 2 | sprechen | speech | 说话啊
+- [0186] | 2 | Startschuss | Launch | 发射目标
+- [0187] | 2 | statt | for | 代替它
+- [0188] | 2 | Steel | Steel | 铁球
+- [0189] | 2 | steht | stands | 站立着
+- [0190] | 2 | Stellenabbau | Decreasing the number of jobs | 裁员
+- [0191] | 2 | Studie | Study | 研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究
+- [0192] | 2 | Syrien | Syria | 叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚.
+- [0193] | 2 | Süden | South | 南面,南面
+- [0194] | 2 | teils | Partially | 一部分是部分的
+- [0195] | 2 | Thyssenkrupp | Thyssenkrupp | 泰森库普
+- [0196] | 2 | Tiefe | Depth | 深度
+- [0197] | 2 | Traum | Dream | 梦境
+- [0198] | 2 | trifft | meets | 打中了
+- [0199] | 2 | Trotz | Despite | 纵使如此
+- [0200] | 2 | Tusk | Tusk | Tusk Tusk
+- [0201] | 2 | tägliche | daily | 每天都有
+- [0202] | 2 | Umgang | How to deal with them | 管理方式
+- [0203] | 2 | UN | UN | 联合国
+- [0204] | 2 | UN-Generalsekretär | UN Secretary-General | 联合国秘书长
+- [0205] | 2 | UN-Generalversammlung | UN General Assembly | 联合国大会
+- [0206] | 2 | Unabhängigkeit | Independence | 独立自主
+- [0207] | 2 | Unabhängigkeitskampf | The struggle for independence | 独立斗争
+- [0208] | 2 | UNICEF-Exekutivdirektorin | UNICEF Executive Director | 儿童基金会执行主任
+- [0209] | 2 | verantwortungsvoller | responsible | 负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的,负责任的
+- [0210] | 2 | Verdächtiger | Suspect | 嫌犯是嫌犯
+- [0211] | 2 | vorn | front | 前面
+- [0212] | 2 | Waffenexporte | Arms exports | 武器出口
+- [0213] | 2 | Wahl | Election | 选择权在他们手里
+- [0214] | 2 | Weg | Move | 消失无踪
+- [0215] | 2 | wegen | for | 因为... ...因为...
+- [0216] | 2 | Wetter | Weather | 天气预报
+- [0217] | 2 | wirbt | advertises | 逆流而上
+- [0218] | 2 | Wirtschaftssanktionen | Economic sanctions | 经济制裁
+- [0219] | 2 | Wo | Where | 在哪里?
+- [0220] | 2 | Women | Women | 女孩儿们
+- [0221] | 2 | Zurückweisungen | Rejections | 拒绝
+- [0222] | 2 | Zusammenarbeit | Cooperation | 合作
+- [0223] | 2 | Zwei | Two | 二...
+- [0224] | 2 | – | – | \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ >
+- [0225] | 1 | A | A | A
+- [0226] | 1 | abgebaut | Degraded | 被拆散了
+- [0227] | 1 | Absprachen | Agreements | 协议书
+- [0228] | 1 | Achtstundentag | Eight-hour day | 8天之内
+- [0229] | 1 | Aktien | Shares | 股票
+- [0230] | 1 | allem | All | 所有东西
+- [0231] | 1 | Amazons | Amazon | 亚马逊州
+- [0232] | 1 | Amtszimmer | Office | 办公室办公室
+- [0233] | 1 | andere | Other | 其它方面呢?
+- [0234] | 1 | Annalena | Annalena | 安娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜娜
+- [0235] | 1 | Apfelbäume | Apple trees | 苹果苹果
+- [0236] | 1 | Arbeit | Work | 工作上的事
+- [0237] | 1 | Asche | Ash | 尘埃落定
+- [0238] | 1 | Asien | Asia | 亚洲,亚洲,亚洲,亚洲,亚洲,亚洲,亚洲,亚洲,亚洲,亚洲,亚洲和亚洲.
+- [0239] | 1 | Asylsuchenden | Asylum seekers | 寻求庇护的人
+- [0240] | 1 | Asylsuchender | Asylum seekers | 寻求庇护者
+- [0241] | 1 | Atlas | Atlas | 阿特拉斯
+- [0242] | 1 | Aufrüstung | Upgrade | 武装起来
+- [0243] | 1 | ausbauen | expand | 扩大范围
+- [0244] | 1 | ausgeweitet | extended | 扩大范围
+- [0245] | 1 | ausgezeichnet | Excellent | 好得不得了
+- [0246] | 1 | Ausschreitungen | Riots | 暴动的发生.
+- [0247] | 1 | Autounfall | Car accident | 车祸
+- [0248] | 1 | außenpolitisch | External policy | 外在政治上,外在,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的,外在的外在的.
+- [0249] | 1 | Band | Volume | 磁带.
+- [0250] | 1 | bedeutet | means | 意思就是...
+- [0251] | 1 | bedroht | Threatened | 威胁到我们
+- [0252] | 1 | beeinflussen | influence | 影响. . .
+- [0253] | 1 | beendet | Finished | 结束,结束
+- [0254] | 1 | bekannt | known | 众所周知
+- [0255] | 1 | bekommt | received | 得到... ...
+- [0256] | 1 | bemängelt | Complaints | 婚前协议
+- [0257] | 1 | beraten | Advising | 咨询意见
+- [0258] | 1 | Berichte | Reports | 报告
+- [0259] | 1 | Berlin | Berlin | 柏林
+- [0260] | 1 | besetzte | staff | 被占领了
+- [0261] | 1 | Besucher | Visitors | 访客们
+- [0262] | 1 | betont | Emphasizes | 着重指出
+- [0263] | 1 | betroffen | affected | 受到影響
+- [0264] | 1 | bezahlen | pay | 付钱给你
+- [0265] | 1 | Beziehungen | Relations | 关系? 关系?
+- [0266] | 1 | Biotech-Start-ups | Biotech start-ups | 生物科技发射程序
+- [0267] | 1 | bis | Until | 直到... ...
+- [0268] | 1 | bisschen | Little | 有一点
+- [0269] | 1 | Blatten | Sheets | 叶子
+- [0270] | 1 | blühen | flowers | 盛开的花朵
+- [0271] | 1 | Borkenkäfer | Bore beetles | 果树甲虫
+- [0272] | 1 | Borna-Virus | Borna virus | 博纳病毒
+- [0273] | 1 | Branchen | Sectors | 业界人士
+- [0274] | 1 | Bravo | Bravo | 布拉沃.
+- [0275] | 1 | Bremerhaven | Bremerhaven | Bremerhaven Bremerhaven.
+- [0276] | 1 | Britische | British | 英国佬
+- [0277] | 1 | Brückeneinsturz | Bridge collapse | 桥梁倒塌
+- [0278] | 1 | Brückeneinstürzen | Bridge collapses | 桥梁倒塌
+- [0279] | 1 | Brüssel | Brussels | Brussels Brussels, Brussels, Brussels, Brussels, Brussels, Brussels, Brussels, Brussels.
+- [0280] | 1 | Bundeskanzler | Federal Chancellor | 德国总理
+- [0281] | 1 | Bundespolizeipräsident | Federal Police President | 州警署长
+- [0282] | 1 | Bundestag | Bundestag | 联邦日
+- [0283] | 1 | Bus | Bus | 公交车
+- [0284] | 1 | Bücherstube | Bookroom | 书房,书房,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店,书店
+- [0285] | 1 | Bürger | Citizens | 市民们
+- [0286] | 1 | Bürgerforschungsprojekt | Citizens' research project | 公民研究项目
+- [0287] | 1 | Causa | Causa | 卡萨卡
+- [0288] | 1 | Champions | Champions | 冠军们
+- [0289] | 1 | Champions-League-Finale | Champions League finale | 冠军League决赛
+- [0290] | 1 | Conference | Conference | 会议
+- [0291] | 1 | Constantin | Constantin | 康斯坦丁
+- [0292] | 1 | CSU | CSU | CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU,CSU.
+- [0293] | 1 | CSU-Landesgruppenchef | Head of CSU Country Group | CSU省委长
+- [0294] | 1 | Delivery | Delivery | 迪利韦里
+- [0295] | 1 | dementiert | Deactivated | 否认
+- [0296] | 1 | Demo | Demo | 示威游行
+- [0297] | 1 | des | of the | - ... ...
+- [0298] | 1 | deutlich | Clear | 清楚了吗?
+- [0299] | 1 | Deutschrap | German Rap | 德文的拉瑞普
+- [0300] | 1 | Dialog | Dialogue | 对话
+- [0301] | 1 | diesen | the | ...这个... ...
+- [0302] | 1 | dos | dos | dos
+- [0303] | 1 | drehen | Rotate | 转啊转啊转
+- [0304] | 1 | dringend | urgent | 急事
+- [0305] | 1 | Drohnenangriff | Drone attack | 无人机攻击
+- [0306] | 1 | durch | by | ...通过... ...通过...
+- [0307] | 1 | Dutzende | Dozens | 数十人
+- [0308] | 1 | DW-Interview | DW interview | DW 访问
+- [0309] | 1 | Dänemarks | Denmark | 丹麦人
+- [0310] | 1 | dürfen | may: | 允许我... ...
+- [0311] | 1 | Ehepaar | Couple | 夫妻
+- [0312] | 1 | eigenständiger | self-employed | 独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的,独立的
+- [0313] | 1 | einen | one | 一品脱
+- [0314] | 1 | Einfamilienhaus | Single-family house | 一家之户
+- [0315] | 1 | eingestürzt | Falled | 崩塌了
+- [0316] | 1 | eingewiesen | Introduced | 入院证物
+- [0317] | 1 | Eltern | Parents | 父母
+- [0318] | 1 | entgleist | Derailed | 脱轨了
+- [0319] | 1 | Entlastungen | Discharges | 减轻负担
+- [0320] | 1 | entsteht | is produced | 创造出一个
+- [0321] | 1 | entwickeln | developing | 开发中
+- [0322] | 1 | Entwicklung | Development | 发展
+- [0323] | 1 | erklärt | declared | 解释了这一点
+- [0324] | 1 | Ermittler | Investigator | 调查员
+- [0325] | 1 | erzwingen | Force | 迫不得已
+- [0326] | 1 | erzählt | narrated | 故事讲述了
+- [0327] | 1 | Extra-Fördergelder | Extra funding | 额外的流动资金
+- [0328] | 1 | F | F | F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F,F
+- [0329] | 1 | Fachkräftemangel | Skill shortages | 技能不足
+- [0330] | 1 | Faktencheck | Facts Check | 事实调查
+- [0331] | 1 | Fehlgeburt | Miscarriage | 流产
+- [0332] | 1 | feiert | celebrates | 庆祝一下
+- [0333] | 1 | fest | fixed | 绑紧了
+- [0334] | 1 | festgenommen | Arrested | 被逮捕了
+- [0335] | 1 | Finale | Final | 决赛结束
+- [0336] | 1 | Flugzeuge | Aircraft | 飞机
+- [0337] | 1 | Flut | Flood | 洪水泛滥
+- [0338] | 1 | fordern | demand | 要求... 要求...
+- [0339] | 1 | fordert | Calls | 要求...
+- [0340] | 1 | Forderung | Requirement | 应收款要求
+- [0341] | 1 | forscht | research | 探索者
+- [0342] | 1 | Forschung | Research | 研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究
+- [0343] | 1 | Frankreich | France | 法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国,法国.
+- [0344] | 1 | frei | Free | 自由
+- [0345] | 1 | Freiheit | Freedom | 自由
+- [0346] | 1 | Freiheits-Atlas | Freedom Atlas | 自由之星
+- [0347] | 1 | Freilassung | Release | 释放自由人
+- [0348] | 1 | früher | Previous | 从前的我
+- [0349] | 1 | funktioniert | works | 起作用了
+- [0350] | 1 | ganz | Total | ...整个过程... ...
+- [0351] | 1 | Gaza-Waffenruheplan | Gaza peace plan | 加沙武器休战计划
+- [0352] | 1 | Gefangenenaustausch | Exchange of prisoners | 囚犯交换条件
+- [0353] | 1 | gelingt | Achievements | 成功了
+- [0354] | 1 | genehmigte | Approved by the | 授权书
+- [0355] | 1 | Gericht | Court of Justice | 法庭,法庭,法院,法院,法院,法院,法院,法院,法院,法院,法院等
+- [0356] | 1 | Gerichtsentscheidung | Court decision | 法庭判决书
+- [0357] | 1 | gescheitert | Failed | 失敗了
+- [0358] | 1 | Geschichte | History | 菌 菌
+- [0359] | 1 | Geschwister | Siblings | 兄弟姐妹们 {\cHFFFFFF}{\3cH2F2F2F}{\4cH000000}Her brothers.
+- [0360] | 1 | gesichert | Secured | 安全起见
+- [0361] | 1 | Gesprächen | Conversations | 谈话
+- [0362] | 1 | gesucht | Searched | 被通缉
+- [0363] | 1 | getan | Done | 完成
+- [0364] | 1 | Gewalt | Violence | 暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力
+- [0365] | 1 | gewählt | elected | 当选总统
+- [0366] | 1 | Glyphosat | Glyphosate | 格力法萨 (Glyfasat)
+- [0367] | 1 | Graham | Graham | 格雷厄姆·格雷厄姆
+- [0368] | 1 | gratuliert | Congratulations | 祝贺你
+- [0369] | 1 | Grenze | Boundary | 国界线
+- [0370] | 1 | Greta | Greta | Greta Greta
+- [0371] | 1 | großes | Large | 大块头,大块头,大块头,大块头,大块头
+- [0372] | 1 | Grüne | Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens/Greens | 绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色
+- [0373] | 1 | Grünen | Greens | 绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的
+- [0374] | 1 | gute | good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, good, | 好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好
+- [0375] | 1 | Hagel | Hail | 冰雹
+- [0376] | 1 | Hamas-Geiseln | Hamas hostages | 哈马斯的枪林弹雨
+- [0377] | 1 | Hamburgs | Hamburg | 汉堡
+- [0378] | 1 | Handy-Daten | Mobile phone data | 手机数据
+- [0379] | 1 | harsch | Harsh | 婊子养的
+- [0380] | 1 | Hegseth-Äußerung | Hegseth exterior | Hegsereth Outstanding Hegsth Remotement.
+- [0381] | 1 | helfen | Help | 帮助.
+- [0382] | 1 | Herkunftsländer | Countries of origin | 原籍国
+- [0383] | 1 | Hero | Hero | 希羅
+- [0384] | 1 | Hessen | Hessian | 黑森
+- [0385] | 1 | heute | today | 今天...
+- [0386] | 1 | Hilfe | Help | 救命!
+- [0387] | 1 | Hilfszentrum | Help Centre | 救援中心
+- [0388] | 1 | hin | go | 往西走
+- [0389] | 1 | hinkt | limp | 瘸子
+- [0390] | 1 | hinter | behind | 在后座的后面
+- [0391] | 1 | Hipster | Hipster | 嬉皮士 (Hipster)
+- [0392] | 1 | Hits | Hits | 歌声响起
+- [0393] | 1 | hoch | High | 抬高
+- [0394] | 1 | Hochwasserkatastrophe | Flood disaster | 严重水灾
+- [0395] | 1 | hoffen | hope | 希望是
+- [0396] | 1 | hofft | Hopes | 希望是
+- [0397] | 1 | hohe | high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, high, | 高高在上
+- [0398] | 1 | hohen | high | 高高在上
+- [0399] | 1 | Holzlatte | Wood slat | 木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板,木板
+- [0400] | 1 | Holzwirtschaft | Wood industry | 木材管理
+- [0401] | 1 | Hygge | Hygge | Hygge.
+- [0402] | 1 | hält | Keeps | 稳住,稳住,稳住
+- [0403] | 1 | Händler | Distributors | 经销商.
+- [0404] | 1 | Härte | Hardness | 硬汉子
+- [0405] | 1 | ihre | their | 他们的... 他们的...
+- [0406] | 1 | ihres | of the | 他们的... 他们的... 他们的...
+- [0407] | 1 | Illegale | Illegal | 非法移民
+- [0408] | 1 | Indien | India | 印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度.
+- [0409] | 1 | Industrie | Industry | 工业化
+- [0410] | 1 | Infektion | Infection | 感染
+- [0411] | 1 | Inflation | Inflation | 通貨膨胀
+- [0412] | 1 | Inklusion | Inclusion | 引人注目
+- [0413] | 1 | Investieren | Investing | 投资投资
+- [0414] | 1 | Isabel | Isabel | 伊莎贝尔
+- [0415] | 1 | Israel-Kurs | Israel Course | 以色列课程
+- [0416] | 1 | Israels | Israel | 以色列
+- [0417] | 1 | ja | Yes | 是的
+- [0418] | 1 | Jahre | Years | 多年了
+- [0419] | 1 | Jette | Jette | 杰特
+- [0420] | 1 | Joel | Joel | Joel Joel
+- [0421] | 1 | Jugend | Youth | 年青人
+- [0422] | 1 | Julia | Julia | 朱丽叶.
+- [0423] | 1 | Kaffeepreis | Coffee price | 咖啡价格
+- [0424] | 1 | Kanada | Canada | 加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大,加拿大.
+- [0425] | 1 | Karol | Karol | 卡罗尔
+- [0426] | 1 | Kartellamt | Antitrust Office | 贩毒集团办公室
+- [0427] | 1 | Kartellstrafe | Antitrust | 贩毒集团刑期
+- [0428] | 1 | Kasse | Cashier's account | 收银机,收银机,收银机
+- [0429] | 1 | katastrophal | Disaster | 惨不忍睹
+- [0430] | 1 | keine | none | 无.
+- [0431] | 1 | Kind | Child | 孩子
+- [0432] | 1 | Kindern | Children | 儿童.
+- [0433] | 1 | Kinderrechte | Children's rights | 儿童权利.
+- [0434] | 1 | Klaus | Klaus | Klaus Klaus
+- [0435] | 1 | Klimakrise | Climate crisis | 气候危机
+- [0436] | 1 | Klingbeil | Klingbeil | 叮叮当
+- [0437] | 1 | Klinik | Clinic | 诊所
+- [0438] | 1 | Klinik-Brand | Clinic fire | 医院的桥梁
+- [0439] | 1 | Klitschko | Klitschko | 奇奇科
+- [0440] | 1 | Kläranlagen | Waste water treatment plants | 清理设施
+- [0441] | 1 | Klöckner | Fowls of the species Gallus domesticus | 卷饼机
+- [0442] | 1 | Kommunen | Municipalities | 市政厅
+- [0443] | 1 | kompakt | Compact | 交易完成
+- [0444] | 1 | Konferenz | Conference | 会议
+- [0445] | 1 | Konservativer | Conservative | 保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派,保守派.
+- [0446] | 1 | Kopf-an-Kopf-Rennen | Head-to-head race | 头对头比赛
+- [0447] | 1 | Kosten | Costs | 成本
+- [0448] | 1 | Kraft | Force | 力量
+- [0449] | 1 | Krieg | War | 战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争
+- [0450] | 1 | Krisenzeiten | Times of crisis | 危机时刻
+- [0451] | 1 | kritisch | Critical | 关键时刻
+- [0452] | 1 | Kulturelle | Cultural | 文化的文化.
+- [0453] | 1 | laut | Loud | 大声点
+- [0454] | 1 | Lava | Lava | 岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿,岩漿
+- [0455] | 1 | Le | Le | Le Le
+- [0456] | 1 | League | League | 联盟联盟 (National Alliance)
+- [0457] | 1 | Lebensmittel | Foodstuffs | 食物,食物,食物,食物,食物,食物,食物,食物,食物,食物,食物
+- [0458] | 1 | Lehrer | Teachers | 老师
+- [0459] | 1 | leicht | light | 轻而易举
+- [0460] | 1 | leisten | to the extent that: | 有能力
+- [0461] | 1 | Leitung | Management | 接线员
+- [0462] | 1 | letzte | last | 最近一次
+- [0463] | 1 | Leuchtturm | Lighthouse | 灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔,灯塔
+- [0464] | 1 | Lies | Read | 读读看
+- [0465] | 1 | Lkw-Unfall | Truck accident | 卡车事故
+- [0466] | 1 | locken | lure | 诱饵
+- [0467] | 1 | machen | make | 做... 做...
+- [0468] | 1 | Mann | Man | 老兄
+- [0469] | 1 | Marktbericht | Market report | 市场报告
+- [0470] | 1 | Maximalforderungen | Maximum requirements | 最大限度的挑战
+- [0471] | 1 | Medien | Media | 媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体,媒体
+- [0472] | 1 | mehrere | several | 数不清次数
+- [0473] | 1 | Memorandum | Memorandum | 備忘錄
+- [0474] | 1 | Mensch | Human | 人类
+- [0475] | 1 | Menschenrechte | Human rights | 人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权,人权.
+- [0476] | 1 | Menschenrechtspreis | Human Rights Prize | 人权奖
+- [0477] | 1 | Mentale | Mental | 心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理学,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學,心理學
+- [0478] | 1 | mentalen | mental | 心理学上讲
+- [0479] | 1 | Meter | Meters | 计μ
+- [0480] | 1 | Mexikaner | Mexicans | 墨西哥人
+- [0481] | 1 | Miersch | Miersch | 密尔西比河
+- [0482] | 1 | Migranten | Migrants | 移徙者
+- [0483] | 1 | Migrationspolitik | Migration policy | 移民政策
+- [0484] | 1 | Militär | Military | 军事行动
+- [0485] | 1 | Militäreinsatz | Military operation | 军事行动
+- [0486] | 1 | Militärflughäfen | Military airports | 军事空军基地
+- [0487] | 1 | Milliarden | Billions | 数十亿美元
+- [0488] | 1 | Milliardäre | Billionaires | 亿万富翁们
+- [0489] | 1 | Missbrauchstäter | Abuse offenders | 虐待者被虐待
+- [0490] | 1 | Mitarbeiter | Staff | 员工
+- [0491] | 1 | Munitionsfabriken | Ammunition factories | 弹药工厂
+- [0492] | 1 | Musk-Freund | Musk friend | 穆斯卡之友
+- [0493] | 1 | Musk-Vertrauter | Musk Trustee | 信任穆斯卡的穆斯卡人
+- [0494] | 1 | mutige | Courageous | 勇敢的人
+- [0495] | 1 | Mutterschutz | Parental protection | 产后保护
+- [0496] | 1 | Mäkelä | Mäkelä | 毛骨悚然的
+- [0497] | 1 | Nahost-Liveblog | Middle East live blog | 中东里程碑
+- [0498] | 1 | Nasser | Wet | 納瑟·納賽爾
+- [0499] | 1 | nationalpopulistisch | National populist | 全国民粹主义者
+- [0500] | 1 | NATO | NATO | 北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约,北约.
+- [0501] | 1 | Nawrocki-Sieg | Nawrocki Victory | 纳瓦基 - 胜利
+- [0502] | 1 | Nawrockis | Nawrockis | 纳瓦基斯
+- [0503] | 1 | Nazis | Nazis | 纳粹党
+- [0504] | 1 | nein | yes | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不.
+- [0505] | 1 | Nerds | Nerds | 书呆子们
+- [0506] | 1 | neuen | new | 新的...
+- [0507] | 1 | Neuregelung | New rules | 重新安排
+- [0508] | 1 | Neuwahlen | New elections | 新选举
+- [0509] | 1 | News | News | 新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻
+- [0510] | 1 | Nigeria | Nigeria | 奈及利亞
+- [0511] | 1 | noch | Not yet | 仍然如此
+- [0512] | 1 | nun | now | 现在...
+- [0513] | 1 | nur | only | 只是...
+- [0514] | 1 | oben | Top | 楼上
+- [0515] | 1 | oder | or | 或者...
+- [0516] | 1 | offen | Open | 敞开的门
+- [0517] | 1 | offenbar | apparently | 显然,很明显的,
+- [0518] | 1 | organisiert | Organised | 安排好了吗?
+- [0519] | 1 | Ort | Place | 地点
+- [0520] | 1 | Paris | Paris | 巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎,巴黎.
+- [0521] | 1 | Patchworkfamilien | Patchwork Families | 修补家庭
+- [0522] | 1 | Paul | Paul | 保罗
+- [0523] | 1 | PayPal | PayPal | 佩帕尔 (PayPal)
+- [0524] | 1 | per | per | 通过... ... 通过...
+- [0525] | 1 | polarisierte | polarised | 极化
+- [0526] | 1 | Populismus | Populism | 民粹主义
+- [0527] | 1 | Preisträger | Winners | 获奖者
+- [0528] | 1 | Preisvorgaben | Price targets | 价格定价
+- [0529] | 1 | Prinzessin | Princess | 公主殿下
+- [0530] | 1 | Pro-europäisch | Pro-European | 亲欧洲
+- [0531] | 1 | Problem | Problem | 有问题吗?
+- [0532] | 1 | profitieren | benefit | 获益良多
+- [0533] | 1 | profitiert | benefits | 获益良多
+- [0534] | 1 | Proteste | Protests | 抗议活动
+- [0535] | 1 | Provinz | Province | 省份
+- [0536] | 1 | Prozentdiskussion | Percentage discussion | 百分比讨论
+- [0537] | 1 | Präsidenten | Presidents | 总统
+- [0538] | 1 | Präsidentin | President | 总统阁下
+- [0539] | 1 | Präsidentschaftswahl | Presidential election | 竞选总统
+- [0540] | 1 | prüfen | Check | 核实一下
+- [0541] | 1 | PSG-Sieg | PSG Victory | PSG - 胜利
+- [0542] | 1 | Psychiatrie | Psychiatry | 精神病史
+- [0543] | 1 | Randale | Randal | 边框线
+- [0544] | 1 | Rapper | Rapper | 饒舌歌手
+- [0545] | 1 | Rauer | Rough | 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊 啊
+- [0546] | 1 | reagiert | responds | 回应了
+- [0547] | 1 | rechnet | calculated | 计算结果出来了
+- [0548] | 1 | rechtsextremistisch | extreme right | 极右翼的极权主义分子
+- [0549] | 1 | Rechtsmedizin | Forensic medicine | 法律医学院 法律医学院
+- [0550] | 1 | Rechtsruck | Right turn | 右边车道
+- [0551] | 1 | Rechtsverordnung | Legal regulation | 法律法规
+- [0552] | 1 | Regen | Rain | 雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨,雨
+- [0553] | 1 | Regierungsbank | Government bank | 政府银行
+- [0554] | 1 | Regierungspläne | Government plans | 政府计划
+- [0555] | 1 | Rennen | Race | 跑啊! 跑啊!
+- [0556] | 1 | Rheinland-Pfalz | Rhineland-Palatinate | 莱茵兰草原
+- [0557] | 1 | Richter | Judge | 法官
+- [0558] | 1 | Richtungswahl | Directional choice | 方向拨号
+- [0559] | 1 | Roter | Red | 红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色
+- [0560] | 1 | Russlands | Russia | 俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,以及俄罗斯,以及俄罗斯,以及俄罗斯,都属于俄罗斯.
+- [0561] | 1 | Rügen | Beef and veal | 谎话连篇
+- [0562] | 1 | Saarland | Saarland | 萨尔兰
+- [0563] | 1 | Sabotage | Sabotage | 破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏
+- [0564] | 1 | Sand | Sand | 沙子,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙,沙
+- [0565] | 1 | Santos | Santos | 桑托斯
+- [0566] | 1 | Schaden | Damage | 损害了我们的安全
+- [0567] | 1 | schaltet | Switches | 开机吧
+- [0568] | 1 | scharfen | sharp | 锋利的刀锋
+- [0569] | 1 | Schauer | Showers | 阵雨
+- [0570] | 1 | Schleswig-Holstein | Schleswig-Holstein | Scheiswig Hollstein
+- [0571] | 1 | Schreiber | Writer | 书记员
+- [0572] | 1 | Schuttberg | Schuttberg | 穆斯伯格
+- [0573] | 1 | schwach | weak | 薄弱的.
+- [0574] | 1 | schwer | severe | 很难
+- [0575] | 1 | schwerer | Hepatobiliary disorders | 很重,更重
+- [0576] | 1 | Schäden | Damage | 损害了我们的安全
+- [0577] | 1 | Schüsse | Shots | 枪声
+- [0578] | 1 | Scouarnec | Scouarnec | 斯库鲁尼克 (Scurunec)
+- [0579] | 1 | Segelschiff | Sailing vessel | 帆船
+- [0580] | 1 | sehr | Very | 非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,非常,
+- [0581] | 1 | sein | be | 他的
+- [0582] | 1 | seit | since | 从那时起
+- [0583] | 1 | Selenskyj | Selenskyj | 塞伦斯基
+- [0584] | 1 | Serbien | Serbia | 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚 塞尔维亚
+- [0585] | 1 | sexueller | sexual | 性行为
+- [0586] | 1 | Shangri-La | Shangri-La | 香格里拉
+- [0587] | 1 | Sherlock | Sherlock | 夏洛克 {\fn微软雅黑\b0\fs14\3cH000000\shad1}Sherlock.
+- [0588] | 1 | sichere | safe | 安全起见
+- [0589] | 1 | sichern | Secure | 确保安全
+- [0590] | 1 | Sieger | Winner | 胜利者是胜利者
+- [0591] | 1 | sieht | see | 看见没?
+- [0592] | 1 | Sitzungspräsidentin | President of the sitting | 会议主席
+- [0593] | 1 | Sizilien | Sicily | 西西里岛
+- [0594] | 1 | So | That's what I'm saying. | 所以... So...
+- [0595] | 1 | Social | Social | 社会福利
+- [0596] | 1 | spuckt | Spit | 吐口水
+- [0597] | 1 | Staatskrise | State crisis | 国家危机
+- [0598] | 1 | Staatsschulden | Government debt | 主权债务
+- [0599] | 1 | Stabilität | Stability | 稳定的稳定性.
+- [0600] | 1 | Stahlbranche | Steel industry | 钢铁业
+- [0601] | 1 | steigt | Ascending | 上升
+- [0602] | 1 | Steinmeier | Steinmeier | 石头盒.
+- [0603] | 1 | stellen | The Commission's | 投案?
+- [0604] | 1 | stellt | Sets | 假设...
+- [0605] | 1 | Strömungen | Currents | 洋流
+- [0606] | 1 | Städten | Cities | 城市,城市,城市,城市,城市,城市,城市,城市,城市,城市,城市和城市
+- [0607] | 1 | stärker | Stronger | 更强大
+- [0608] | 1 | stärkere | stronger | 更强大 更强大
+- [0609] | 1 | Sustainability | Sustainability | 稳定性稳定性
+- [0610] | 1 | Südkoreaner | South Koreans | 南韩人
+- [0611] | 1 | Taiwan | Taiwan | 台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾,台湾.
+- [0612] | 1 | Tal | Valley | 山谷.
+- [0613] | 1 | Tatarstan | Tatarstan | 塔施坦
+- [0614] | 1 | Tausende | Thousands | 成千上萬的人
+- [0615] | 1 | teil | Part | 参与其中
+- [0616] | 1 | telefoniert | Telephoned | 电话里讲电话
+- [0617] | 1 | Terrorakt | Terrorism | 恐怖行动
+- [0618] | 1 | Thunberg | Thunberg | Thunberg Thunberg.
+- [0619] | 1 | Ton | Sound | 音响
+- [0620] | 1 | trotzte | Defeat | 反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对,反对和反对
+- [0621] | 1 | Trump | Trump | 特朗普 特朗普
+- [0622] | 1 | Trump-Regierung | Trump administration | 特朗普政府
+- [0623] | 1 | Trzaskowski | Trzaskovsky | Tzaskowski. Tzaskowski.
+- [0624] | 1 | turbulenten | turbulent | 乱流
+- [0625] | 1 | tödlichem | fatal | 致命武器
+- [0626] | 1 | ukrainischen | Ukrainian | 乌克兰人
+- [0627] | 1 | umfassende | In this case, it is not possible to do so. | 全面的,全面的
+- [0628] | 1 | umgehen | Bypassing | 绕着路走
+- [0629] | 1 | Umsetzung | Transposition | 执行情况
+- [0630] | 1 | UN-Vollversammlung | UN General Assembly | 联合国大会全会
+- [0631] | 1 | UNESCO-Welterbestätten | UNESCO World Heritage Sites | UNESCO世界遗产公司 (UNEXCO)
+- [0632] | 1 | Unfall | Accident | 出车祸了
+- [0633] | 1 | Unfälle | Accidents | 意外,意外,意外,意外,意外,意外,意外,意外,意外,意外,意外,意外
+- [0634] | 1 | Universitäten | Universities | 大学里
+- [0635] | 1 | unter | under | . . .
+- [0636] | 1 | Unternehmen | Enterprises | 公司,公司,公司,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业
+- [0637] | 1 | unterwegs | on the road | 在路上
+- [0638] | 1 | US-Botschafter | US Ambassadors | 美国大使
+- [0639] | 1 | US-Märkte | US markets | 美国国务卿
+- [0640] | 1 | US-Senator | US Senator | 美国参议员
+- [0641] | 1 | US-Vermittler | U.S. Mediators | 美国侦探
+- [0642] | 1 | US-Zollstreit | US Customs Dispute | 美国战争,美国战争.
+- [0643] | 1 | US-Äußerung | U.S. outside | 美国的裁军
+- [0644] | 1 | vereint | United | 团结一致
+- [0645] | 1 | verhandeln | Negotiating | 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判
+- [0646] | 1 | Verhandlungen | Negotiations | 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判
+- [0647] | 1 | verkraftet | with a weight of not more than 10 g/m2 and a weight of not more than 10 g/m2 | 撑得住的
+- [0648] | 1 | verletzt | Injured | 你受伤了吗?
+- [0649] | 1 | Verteidigung | Defence | 辩方律师
+- [0650] | 1 | Verteidigungsausgaben | Defence expenditure | 防务支出
+- [0651] | 1 | Verteilzentrum | Distribution centre | 分配中心
+- [0652] | 1 | Vertrauensfrage | Question of confidence | 信任问题
+- [0653] | 1 | viel | much | 很多东西
+- [0654] | 1 | viele | many | 很多
+- [0655] | 1 | Vitali | Vitali | 维塔利
+- [0656] | 1 | vorerst | For the time being | 目前为止
+- [0657] | 1 | Vorwurf | Allegation | 指控我有罪
+- [0658] | 1 | Vorwürfen | Allegations | 怪罪于我
+- [0659] | 1 | Vulkan | Volcano | 瓦肯星人
+- [0660] | 1 | Waffenhilfe | Arms aid | 武器援助
+- [0661] | 1 | Waffenlieferungen | Shipments of arms | 武器供应商
+- [0662] | 1 | Waffenstopp | Weapon stop | 停止武器
+- [0663] | 1 | Wahlsieg | Electoral victory | 选举胜利
+- [0664] | 1 | Waldzustand | Forest status | 森林状态
+- [0665] | 1 | warnen | Warning | 警告:
+- [0666] | 1 | Warnung | Warning | (PHP 4 = 4.2.0)
+- [0667] | 1 | Warum | Why | 为什么?
+- [0668] | 1 | Waschmitteln | Washers | 洗衣液
+- [0669] | 1 | weist | points out that: | 证据确凿
+- [0670] | 1 | Weit | Far | 远的要命
+- [0671] | 1 | weiter | continue | 向前看
+- [0672] | 1 | Welterbetag | World Heritage Day | 世界和平日
+- [0673] | 1 | Weltpremiere | World premiere | 世界首映式
+- [0674] | 1 | Weniger | Less | 少一点
+- [0675] | 1 | Wer | Who | 谁是谁?
+- [0676] | 1 | wertet | rated | 估价.
+- [0677] | 1 | Wetterprognose | Weather forecast | 天气预报
+- [0678] | 1 | widerspricht | contradicts | 反对意见相抵触
+- [0679] | 1 | Wirtschaft | Economy | 經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學,經濟學等
+- [0680] | 1 | wissen | know | 了解
+- [0681] | 1 | Witkoff | Witkoff | Witkoff
+- [0682] | 1 | Wochenstart | Week start | 一周的起步
+- [0683] | 1 | Wokeness | Wokeness | 沃克尼斯沃克涅斯.
+- [0684] | 1 | Wut | Anger | 愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒,愤怒和愤怒
+- [0685] | 1 | wählt | Selects | 选择
+- [0686] | 1 | Würde | I'd like to talk to you about this. | 尊嚴
+- [0687] | 1 | zahlen | pay | 支付.
+- [0688] | 1 | Zeiten | Periods | 时光飞逝
+- [0689] | 1 | zerstört | Destroyed | 被摧毁了
+- [0690] | 1 | zerstörte | destroyed | 被摧毁了
+- [0691] | 1 | Ziemiak | Ziemiak | 齐美克人
+- [0692] | 1 | Zivilgesellschaft | Civil society | 民间社会
+- [0693] | 1 | Zivilisten | Civilians | 平民百姓.
+- [0694] | 1 | Zollkonflikt | Customs conflict | 关税冲突
+- [0695] | 1 | Zug | Train | 火车
+- [0696] | 1 | Zukunftsallianzen | Future Alliances | 未来的远征者
+- [0697] | 1 | zurück | back | 退回去
+- [0698] | 1 | Zurückweisung | Rejection | 拒绝
+- [0699] | 1 | ändern | change | 改变.
+- [0700] | 1 | Ätna | Etna | 埃特纳.
+- [0701] | 1 | Überflutungen | Floods | 洪水泛滥
+- [0702] | 1 | übernimmt | Takes over | 接管公司
+- [0703] | 1 | überziehen | Cover | 穿戴整齐
