@@ -5,172 +5,172 @@ layout: post
 ---
 
 - id | count | es | de | en | example
-- [0000] | 187 | de | von | of | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0001] | 132 | el | den | on | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0002] | 121 | la | die | ed | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0003] | 66 | a | a | a | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0004] | 66 | un | ein | a | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0005] | 55 | coronavirus | Coronavirus | coronavirus | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0006] | 55 | se | se | I know. | El turismo italiano se resiente; España mira expectante
-- [0007] | 44 | del | vom | of the | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0008] | 44 | en | ng | in | Así avanzan las encuestas en Galicia y País Vasco
-- [0009] | 44 | los | die | the | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0010] | 44 | por | durch | by | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0011] | 44 | que | was | that | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0012] | 44 | y | und | and | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0013] | 33 | las | die | the | Así avanzan las encuestas en Galicia y País Vasco
-- [0014] | 33 | para | für | for | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0015] | 33 | una | eine | one | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0016] | 22 | Así | So. | Like this. | Así avanzan las encuestas en Galicia y País Vasco
-- [0017] | 22 | contra | gegen | against | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0018] | 22 | europeos | Europäer | European | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0019] | 22 | expansión | Erweiterung | expansion | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0020] | 22 | nuestros | unsere | ours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0021] | 22 | País | Land | Country | Así avanzan las encuestas en Galicia y País Vasco
-- [0022] | 22 | qué | was? | what | China desvela de qué está hecha la cara oculta de la Luna
-- [0023] | 22 | sus | , | their | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0024] | 22 | Trump | Trump | Trump | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0025] | 22 | Wuhan | Wuhan | Wuhan | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0026] | 22 | “La | B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg, | “The | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0027] | 11 | acuerdos | Vereinbarungen | agreements | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0028] | 11 | Airbnb | Airbnb | Airbnb | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0029] | 11 | al | am | as at | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0030] | 11 | algún | Irgendwelche | some | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0031] | 11 | antes | vorher | before | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0032] | 11 | antiguos | alt | old | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0033] | 11 | anula | storniert | cancels | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0034] | 11 | Arco | Bogen | Arc | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0035] | 11 | avanzan | Vorwärts | They're moving forward. | Así avanzan las encuestas en Galicia y País Vasco
-- [0036] | 11 | barato | preiswert | cheap | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0037] | 11 | Bardem | Bardem | Bardem | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0038] | 11 | cancelara | stornieren | You'll cancel. | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0039] | 11 | cara | Gesicht | face | China desvela de qué está hecha la cara oculta de la Luna
-- [0040] | 11 | cargo | Amtsbezeichnung | position | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0041] | 11 | ceban | Zeban | ceban | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0042] | 11 | Central | Zentral | Central | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0043] | 11 | centros | Zentren | centres | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0044] | 11 | cerrará | Schließen | It'll close. | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0045] | 11 | China | China | China | China desvela de qué está hecha la cara oculta de la Luna
-- [0046] | 11 | Ciudadanos | Bürger | Citizens | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0047] | 11 | claves | Schlüssel | keys | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0048] | 11 | clientes | Kunden | clients | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0049] | 11 | como | wie | as | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0050] | 11 | compraron | gekauft | purchased | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0051] | 11 | con | mit | with | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0052] | 11 | Congreso” | Kongress | Congress” | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0053] | 11 | Consumo | Verbrauch | Consumption | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0054] | 11 | Cortés | Kurz | Cortés | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0055] | 11 | crisis | Krise | crisis | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0056] | 11 | cubrir | Abdeckung | cover | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0057] | 11 | da | da | da | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0058] | 11 | degradado | degradiert | degraded | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0059] | 11 | desvela | Enthüllung | Unveil | China desvela de qué está hecha la cara oculta de la Luna
-- [0060] | 11 | diferente | unterschiedlich | different | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0061] | 11 | dirigentes | Führer | leaders | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0062] | 11 | diálogo | Dialog | dialog | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0063] | 11 | doble | Doppel | double | Seis italianos encerrados por partida doble
-- [0064] | 11 | Domingo | Sonntag | Sunday | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0065] | 11 | Duralex | Duralex | Duralex | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0066] | 11 | Electoral | Wahl | Electoral | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0067] | 11 | encerrados | eingesperrt | locked | Seis italianos encerrados por partida doble
-- [0068] | 11 | encuestas | Erhebungen | surveys | Así avanzan las encuestas en Galicia y País Vasco
-- [0069] | 11 | entender | verstehen | understand | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0070] | 11 | ERC | ERC | ERC | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0071] | 11 | error | Fehler | error | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0072] | 11 | escolares | Schulkinder | School children | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0073] | 11 | escollo | Hölle | sluggishness | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0074] | 11 | España | Spanien | Spain | El turismo italiano se resiente; España mira expectante
-- [0075] | 11 | Especial | Spezial | Special | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0076] | 11 | está | Es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, | She's here. | China desvela de qué está hecha la cara oculta de la Luna
-- [0077] | 11 | euros | EUR | EUR | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0078] | 11 | expectante | Erwartend | expectant | El turismo italiano se resiente; España mira expectante
-- [0079] | 11 | falso | gefälscht | false | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0080] | 11 | fin | Ende | End | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0081] | 11 | Fiscalía | Staatsanwaltschaft | Office of the Prosecutor | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0082] | 11 | Fnac | Fnac | Fnac | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0083] | 11 | Galicia | Galicien | Galicia | Así avanzan las encuestas en Galicia y País Vasco
-- [0084] | 11 | gestionan | Verwaltung | manage | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0085] | 11 | Gobierno | Regierung | Government | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0086] | 11 | gracias | Danke. | Thank you. | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0087] | 11 | gripe” | Helikopter-Grippe | flu” | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0088] | 11 | ha | ha | ha | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0089] | 11 | hasta | bis | up to | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0090] | 11 | hay | Es gibt | There's | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0091] | 11 | hecha | fertig | done | China desvela de qué está hecha la cara oculta de la Luna
-- [0092] | 11 | Hernán | Hernan | Hernán | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0093] | 11 | historia | Geschichte | history | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0094] | 11 | irrompible | unzerbrechlich | unbreakable | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0095] | 11 | italiano | Italienisch | Italian | El turismo italiano se resiente; España mira expectante
-- [0096] | 11 | italianos | Italien | Italian | Seis italianos encerrados por partida doble
-- [0097] | 11 | Japón | Japan | Japan | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0098] | 11 | Javier | Javier | Javier | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0099] | 11 | Junta | Vorstand | Board | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0100] | 11 | jurídica” | Rechts- und Verwaltungsvorschriften | legal system” | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0101] | 11 | Luna | Mond | Moon | China desvela de qué está hecha la cara oculta de la Luna
-- [0102] | 11 | magnitud | Größe | magnitude | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0103] | 11 | Mapa | Karte | Map | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0104] | 11 | marco | Rahmen | frame | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0105] | 11 | marzo | März | March | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0106] | 11 | menores | Minderjährige | Minors | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0107] | 11 | mensualmente | monatlich | monthly | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0108] | 11 | mesa | Tisch | table | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0109] | 11 | migrantes | Migranten | migrants | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0110] | 11 | Milán | Mailand | Milan | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0111] | 11 | ministros | Minister | Ministers | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0112] | 11 | mira | Sieh dir das an. | Look. | El turismo italiano se resiente; España mira expectante
-- [0113] | 11 | mosquitos | Moskitos | mosquitoes | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0114] | 11 | mujer | weiblich | woman | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0115] | 11 | Muntadas | mit einem Quadratmetergewicht von mehr als 200 g | Munts | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0116] | 11 | más | mehr | more | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0117] | 11 | móvil | Mobil | mobile | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0118] | 11 | no | Nein. | no | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0119] | 11 | nombra | Bezeichnung | name | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0120] | 11 | nostalgia | Nostalgie | nostalgia | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0121] | 11 | nuestra | unsere | ours | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0122] | 11 | oculta | versteckt | Hidden | China desvela de qué está hecha la cara oculta de la Luna
-- [0123] | 11 | pagaba | bezahlte | I was paying. | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0124] | 11 | palabras” | Wörter "Bereitschaft" oder "Bereitschaft" | words” | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0125] | 11 | Palestina | Palästina | Palestine | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0126] | 11 | partida | Partie | item | Seis italianos encerrados por partida doble
-- [0127] | 11 | partido | Spiel | match | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0128] | 11 | Pence | Pence | Pence | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0129] | 11 | periodista | Journalist | journalist | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0130] | 11 | plan | Plan | plan | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0131] | 11 | Plácido | Plazid | Placido | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0132] | 11 | positivo | positiv | positive | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0133] | 11 | Presupuestos | Haushaltspläne | Budgets | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0134] | 11 | primer | Erste | first | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0135] | 11 | problema | Problem | problem | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0136] | 11 | pronuncian | Aussprachen | pronounce | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0137] | 11 | querella | Querella | complaint | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0138] | 11 | razón | Grund | reason | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0139] | 11 | Real | Real | Actual | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0140] | 11 | recursos | Ressourcen | resources | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0141] | 11 | representaciones | Darstellungen | representations | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0142] | 11 | resiente; | widerspenstig; | resides; | El turismo italiano se resiente; España mira expectante
-- [0143] | 11 | resolvió | gelöst | resolved | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0144] | 11 | reunirá | gruppiert | meet | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0145] | 11 | salva | salva | save | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0146] | 11 | seguridad | Sicherheit | security | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0147] | 11 | Seis | Sechs | Six | Seis italianos encerrados por partida doble
-- [0148] | 11 | será | wird | It'll be | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0149] | 11 | serán | werden | will be | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0150] | 11 | sociedad | Gesellschaft | society | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0151] | 11 | sueldo | Gehalt | salary | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0152] | 11 | tan | so | So | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0153] | 11 | teatro | Theater | theatre | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0154] | 11 | tobillos | Knöchel | ankles | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0155] | 11 | todos | alle | all | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0156] | 11 | tuitear | twittern | tweet | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0157] | 11 | turismo | Tourismus | tourism | El turismo italiano se resiente; España mira expectante
-- [0158] | 11 | vajilla | Geschirr | crockery | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0159] | 11 | Valencia-Atalanta | Valencia-Atalanta | Valencia-Atalanta | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0160] | 11 | Vasco | Vasco | Basque | Así avanzan las encuestas en Galicia y País Vasco
-- [0161] | 11 | vecinos | Nachbarn | neighbours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0162] | 11 | viajó | Er ist gereist. | He traveled. | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0163] | 11 | vicepresidente | Vizepräsident | Vice-President | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0164] | 11 | vocal | Vokal | vowel | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0165] | 11 | vídeo | Video | video | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0166] | 11 | ¿Por | Wieso? | Why? | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0167] | 11 | “en | HELIOS | “in | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0168] | 11 | “Hoy | Heute | “Today | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0000] | 204 | de | von | of | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0001] | 144 | el | den | on | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0002] | 132 | la | die | ed | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0003] | 72 | a | a | a | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0004] | 72 | un | ein | a | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0005] | 60 | coronavirus | Coronavirus | coronavirus | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0006] | 60 | se | se | I know. | El turismo italiano se resiente; España mira expectante
+- [0007] | 48 | del | vom | of the | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0008] | 48 | en | ng | in | Así avanzan las encuestas en Galicia y País Vasco
+- [0009] | 48 | los | die | the | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0010] | 48 | por | durch | by | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0011] | 48 | que | was | that | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0012] | 48 | y | und | and | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0013] | 36 | las | die | the | Así avanzan las encuestas en Galicia y País Vasco
+- [0014] | 36 | para | für | for | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0015] | 36 | una | eine | one | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0016] | 24 | Así | So. | Like this. | Así avanzan las encuestas en Galicia y País Vasco
+- [0017] | 24 | contra | gegen | against | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0018] | 24 | europeos | Europäer | European | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0019] | 24 | expansión | Erweiterung | expansion | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0020] | 24 | nuestros | unsere | ours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0021] | 24 | País | Land | Country | Así avanzan las encuestas en Galicia y País Vasco
+- [0022] | 24 | qué | was? | what | China desvela de qué está hecha la cara oculta de la Luna
+- [0023] | 24 | sus | , | their | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0024] | 24 | Trump | Trump | Trump | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0025] | 24 | Wuhan | Wuhan | Wuhan | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0026] | 24 | “La | B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg, | “The | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0027] | 12 | acuerdos | Vereinbarungen | agreements | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0028] | 12 | Airbnb | Airbnb | Airbnb | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0029] | 12 | al | am | as at | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0030] | 12 | algún | Irgendwelche | some | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0031] | 12 | antes | vorher | before | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0032] | 12 | antiguos | alt | old | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0033] | 12 | anula | storniert | cancels | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0034] | 12 | Arco | Bogen | Arc | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0035] | 12 | avanzan | Vorwärts | They're moving forward. | Así avanzan las encuestas en Galicia y País Vasco
+- [0036] | 12 | barato | preiswert | cheap | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0037] | 12 | Bardem | Bardem | Bardem | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0038] | 12 | cancelara | stornieren | You'll cancel. | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0039] | 12 | cara | Gesicht | face | China desvela de qué está hecha la cara oculta de la Luna
+- [0040] | 12 | cargo | Amtsbezeichnung | position | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0041] | 12 | ceban | Zeban | ceban | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0042] | 12 | Central | Zentral | Central | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0043] | 12 | centros | Zentren | centres | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0044] | 12 | cerrará | Schließen | It'll close. | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0045] | 12 | China | China | China | China desvela de qué está hecha la cara oculta de la Luna
+- [0046] | 12 | Ciudadanos | Bürger | Citizens | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0047] | 12 | claves | Schlüssel | keys | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0048] | 12 | clientes | Kunden | clients | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0049] | 12 | como | wie | as | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0050] | 12 | compraron | gekauft | purchased | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0051] | 12 | con | mit | with | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0052] | 12 | Congreso” | Kongress | Congress” | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0053] | 12 | Consumo | Verbrauch | Consumption | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0054] | 12 | Cortés | Kurz | Cortés | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0055] | 12 | crisis | Krise | crisis | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0056] | 12 | cubrir | Abdeckung | cover | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0057] | 12 | da | da | da | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0058] | 12 | degradado | degradiert | degraded | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0059] | 12 | desvela | Enthüllung | Unveil | China desvela de qué está hecha la cara oculta de la Luna
+- [0060] | 12 | diferente | unterschiedlich | different | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0061] | 12 | dirigentes | Führer | leaders | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0062] | 12 | diálogo | Dialog | dialog | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0063] | 12 | doble | Doppel | double | Seis italianos encerrados por partida doble
+- [0064] | 12 | Domingo | Sonntag | Sunday | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0065] | 12 | Duralex | Duralex | Duralex | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0066] | 12 | Electoral | Wahl | Electoral | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0067] | 12 | encerrados | eingesperrt | locked | Seis italianos encerrados por partida doble
+- [0068] | 12 | encuestas | Erhebungen | surveys | Así avanzan las encuestas en Galicia y País Vasco
+- [0069] | 12 | entender | verstehen | understand | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0070] | 12 | ERC | ERC | ERC | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0071] | 12 | error | Fehler | error | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0072] | 12 | escolares | Schulkinder | School children | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0073] | 12 | escollo | Hölle | sluggishness | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0074] | 12 | España | Spanien | Spain | El turismo italiano se resiente; España mira expectante
+- [0075] | 12 | Especial | Spezial | Special | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0076] | 12 | está | Es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, | She's here. | China desvela de qué está hecha la cara oculta de la Luna
+- [0077] | 12 | euros | EUR | EUR | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0078] | 12 | expectante | Erwartend | expectant | El turismo italiano se resiente; España mira expectante
+- [0079] | 12 | falso | gefälscht | false | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0080] | 12 | fin | Ende | End | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0081] | 12 | Fiscalía | Staatsanwaltschaft | Office of the Prosecutor | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0082] | 12 | Fnac | Fnac | Fnac | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0083] | 12 | Galicia | Galicien | Galicia | Así avanzan las encuestas en Galicia y País Vasco
+- [0084] | 12 | gestionan | Verwaltung | manage | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0085] | 12 | Gobierno | Regierung | Government | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0086] | 12 | gracias | Danke. | Thank you. | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0087] | 12 | gripe” | Helikopter-Grippe | flu” | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0088] | 12 | ha | ha | ha | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0089] | 12 | hasta | bis | up to | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0090] | 12 | hay | Es gibt | There's | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0091] | 12 | hecha | fertig | done | China desvela de qué está hecha la cara oculta de la Luna
+- [0092] | 12 | Hernán | Hernan | Hernán | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0093] | 12 | historia | Geschichte | history | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0094] | 12 | irrompible | unzerbrechlich | unbreakable | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0095] | 12 | italiano | Italienisch | Italian | El turismo italiano se resiente; España mira expectante
+- [0096] | 12 | italianos | Italien | Italian | Seis italianos encerrados por partida doble
+- [0097] | 12 | Japón | Japan | Japan | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0098] | 12 | Javier | Javier | Javier | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0099] | 12 | Junta | Vorstand | Board | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0100] | 12 | jurídica” | Rechts- und Verwaltungsvorschriften | legal system” | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0101] | 12 | Luna | Mond | Moon | China desvela de qué está hecha la cara oculta de la Luna
+- [0102] | 12 | magnitud | Größe | magnitude | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0103] | 12 | Mapa | Karte | Map | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0104] | 12 | marco | Rahmen | frame | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0105] | 12 | marzo | März | March | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0106] | 12 | menores | Minderjährige | Minors | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0107] | 12 | mensualmente | monatlich | monthly | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0108] | 12 | mesa | Tisch | table | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0109] | 12 | migrantes | Migranten | migrants | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0110] | 12 | Milán | Mailand | Milan | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0111] | 12 | ministros | Minister | Ministers | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0112] | 12 | mira | Sieh dir das an. | Look. | El turismo italiano se resiente; España mira expectante
+- [0113] | 12 | mosquitos | Moskitos | mosquitoes | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0114] | 12 | mujer | weiblich | woman | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0115] | 12 | Muntadas | mit einem Quadratmetergewicht von mehr als 200 g | Munts | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0116] | 12 | más | mehr | more | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0117] | 12 | móvil | Mobil | mobile | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0118] | 12 | no | Nein. | no | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0119] | 12 | nombra | Bezeichnung | name | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0120] | 12 | nostalgia | Nostalgie | nostalgia | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0121] | 12 | nuestra | unsere | ours | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0122] | 12 | oculta | versteckt | Hidden | China desvela de qué está hecha la cara oculta de la Luna
+- [0123] | 12 | pagaba | bezahlte | I was paying. | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0124] | 12 | palabras” | Wörter "Bereitschaft" oder "Bereitschaft" | words” | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0125] | 12 | Palestina | Palästina | Palestine | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0126] | 12 | partida | Partie | item | Seis italianos encerrados por partida doble
+- [0127] | 12 | partido | Spiel | match | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0128] | 12 | Pence | Pence | Pence | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0129] | 12 | periodista | Journalist | journalist | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0130] | 12 | plan | Plan | plan | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0131] | 12 | Plácido | Plazid | Placido | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0132] | 12 | positivo | positiv | positive | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0133] | 12 | Presupuestos | Haushaltspläne | Budgets | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0134] | 12 | primer | Erste | first | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0135] | 12 | problema | Problem | problem | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0136] | 12 | pronuncian | Aussprachen | pronounce | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0137] | 12 | querella | Querella | complaint | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0138] | 12 | razón | Grund | reason | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0139] | 12 | Real | Real | Actual | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0140] | 12 | recursos | Ressourcen | resources | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0141] | 12 | representaciones | Darstellungen | representations | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0142] | 12 | resiente; | widerspenstig; | resides; | El turismo italiano se resiente; España mira expectante
+- [0143] | 12 | resolvió | gelöst | resolved | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0144] | 12 | reunirá | gruppiert | meet | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0145] | 12 | salva | salva | save | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0146] | 12 | seguridad | Sicherheit | security | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0147] | 12 | Seis | Sechs | Six | Seis italianos encerrados por partida doble
+- [0148] | 12 | será | wird | It'll be | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0149] | 12 | serán | werden | will be | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0150] | 12 | sociedad | Gesellschaft | society | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0151] | 12 | sueldo | Gehalt | salary | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0152] | 12 | tan | so | So | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0153] | 12 | teatro | Theater | theatre | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0154] | 12 | tobillos | Knöchel | ankles | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0155] | 12 | todos | alle | all | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0156] | 12 | tuitear | twittern | tweet | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0157] | 12 | turismo | Tourismus | tourism | El turismo italiano se resiente; España mira expectante
+- [0158] | 12 | vajilla | Geschirr | crockery | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0159] | 12 | Valencia-Atalanta | Valencia-Atalanta | Valencia-Atalanta | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0160] | 12 | Vasco | Vasco | Basque | Así avanzan las encuestas en Galicia y País Vasco
+- [0161] | 12 | vecinos | Nachbarn | neighbours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0162] | 12 | viajó | Er ist gereist. | He traveled. | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0163] | 12 | vicepresidente | Vizepräsident | Vice-President | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0164] | 12 | vocal | Vokal | vowel | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0165] | 12 | vídeo | Video | video | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0166] | 12 | ¿Por | Wieso? | Why? | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0167] | 12 | “en | HELIOS | “in | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0168] | 12 | “Hoy | Heute | “Today | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
