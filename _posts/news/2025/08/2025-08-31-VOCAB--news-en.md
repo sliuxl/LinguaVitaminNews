@@ -1,0 +1,623 @@
+---
+title: "English vocab up to 2025-08-31: 616"
+date: 2025-08-31
+layout: post
+---
+
+- id | count | en | de | es | fr | zh | example
+- [0000] | 29 | the | die | 排 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0001] | 21 | of | von | 联 联 年 月 日 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 月 日 月 的 月 月 月 日 月 月 日 月 的 月 月 月 月 日 月 月 月 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0002] | 21 | to | zu | 至 | What to watch this weekend
+- [0003] | 16 | a | a | a a/ | Can Test cricket survive a sticky wicket?
+- [0004] | 16 | in | in der | 内 | The US in brief: Another deadline, another delay
+- [0005] | 15 | for | für | 用于 | The humble tomato salad holds lessons for how to eat well
+- [0006] | 14 | and | und | 和 | Economic data, commodities and markets
+- [0007] | 10 | is | wird | 是 | Hello Kitty’s owner is purring contentedly
+- [0008] | 8 | on | am | 上 年 月 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0009] | 8 | Trump | Trump | 特朗 | What Donald Trump is teaching Harvard
+- [0010] | 6 | are | sie werden | 是 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0011] | 5 | America | Amerika | 美洲美洲 | The trade deal with America shows the limits of the EU’s power
+- [0012] | 5 | at | bei | 至 年 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0013] | 5 | China’s | China | 中国的中国 | Everyone loses in the rage of China’s delivery wars
+- [0014] | 4 | after | nach | 之后 | America is coming after Chinese it accuses of hacking
+- [0015] | 4 | against | dagegen | 日 年 年 年 月 日 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0016] | 4 | Can | Dosen | 能 能够 | Can Test cricket survive a sticky wicket?
+- [0017] | 4 | Donald | Donald | 唐纳德·唐纳德 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0018] | 4 | Germany | Deutschland | 德国 德国 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0019] | 4 | how | Wie | 如何如何 | The humble tomato salad holds lessons for how to eat well
+- [0020] | 4 | markets | Märkte | 市场市场 | Economic data, commodities and markets
+- [0021] | 4 | Minister | Minister | 部长部长,部长 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0022] | 4 | South | Süden | 南南 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0023] | 4 | trade | Handel | 贸易贸易贸易 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0024] | 4 | What | Was ist? | 什么什么是什么 是什么( What) 是什么( What) | What to watch this weekend
+- [0025] | 4 | Who | Wer | 谁是谁 | Who was Cecil Rhodes?
+- [0026] | 4 | with | mit | 与 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0027] | 3 | about | über | 约约约 | What pro wrestlers in Chicago say about America
+- [0028] | 3 | Alabali | Alabali | 阿拉巴利 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0029] | 3 | as | als | 计为 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0030] | 3 | China | China | 中国 中国 中国 中国 中国 中国 中国 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0031] | 3 | cooperation | Zusammenarbeit | 合作合作 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0032] | 3 | Development | Entwicklung | 发展、发展、发展、发展 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0033] | 3 | economic | Wirtschaft | 经济、经济、 经济、 经济、 经济、 经济、 经济、 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0034] | 3 | fight | Kampf | 战斗 | Why did Thailand and Cambodia fight a senseless border war?
+- [0035] | 3 | GOP | VORSCHRIFTEN | 保 制 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0036] | 3 | international | Veröffentlichungen der Europäischen Gemeinschaften | 国际国际 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0037] | 3 | its | und | 其 其 其 其 年 其 其 其 其 其 年 的 其 其 其 其 年 的 其 其 其 其 的 其 其 其 其 其 的 其 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 的 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 其 的 其 的 其 其 的 其 其 的 其 其 的 其 的 其 的 其 其 的 其 其 的 其 的 其 的 其 的 其 的 其 的 的 其 的 的 的 其 的 的 的 的 其 的 的 的 的  的 的 的 的 的 的 的 的 的 的 的 的 的 的 的  的 的 的 的 的 的 的 的 的     的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的     的  的 的 的 的 的 的 的                的          的 的 的 的              的      的 的 的 的 的 的      的 的 的 的 的 的 的   的 的 的  的 的 的     的 的 的 的 的 的 的 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0038] | 3 | more | mehr | 更多 | Ever more Ukrainian women are joining the army
+- [0039] | 3 | Radovan | Radovan | 拉多万 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0040] | 3 | Reem | Reem | Reeem  Reeem  Reeem 雷 Reeem | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0041] | 3 | Senate | Senat | 参议院 参议院 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0042] | 3 | shows | zeigt | 显示显示 | Famine in Gaza shows the failure of Israel’s strategy
+- [0043] | 3 | suspect | Verdächtiger | 可疑嫌疑人 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0044] | 3 | th | n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n | 第 月 月 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0045] | 3 | US | ENTWICKLUNG | 美 美 美 | The US in brief: Another deadline, another delay
+- [0046] | 3 | Why | Warum? | 为什么 | Why did Thailand and Cambodia fight a senseless border war?
+- [0047] | 2 | Africa | Afrika | 非洲 非洲 非洲 非洲 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [0048] | 2 | AI | GESUNDHEITSSCHUTZ | AI AI AI | Who will pay for the trillion-dollar AI boom?
+- [0049] | 2 | all | alle | 全部( 全部) | Scientists want to sequence all animals, fungi and plants on Earth
+- [0050] | 2 | America’s | Amerikas | 美国的美国 | America’s ailing health insurers
+- [0051] | 2 | Another | Noch eins. | 另一个 | The US in brief: Another deadline, another delay
+- [0052] | 2 | attorney | Rechtsanwalt | 律师律师 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0053] | 2 | between | zwischen | 之间 | A savage squabble between China and Europe
+- [0054] | 2 | by | von | 至 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0055] | 2 | calls | Anrufe | 调来电话 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0056] | 2 | campaign | Kampagne | 运动运动 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0057] | 2 | Conference | Konferenz | 缔约国会议会议会议会议会议会议举行会议会议会议举行会议会议举行会议会议举行会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议举行会议举行会议举行会议会议举行会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议会议会议会议会议举行会议举行会议召开 会议举行会议会议会议会议会议会议会议举行会议会议举行会议会议举行会议会议会议会议会议会议召开会议会议举行 会的会议会议会议 举行会议会议会议会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议召开 会的会议 举行 会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议厅会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0058] | 2 | Could | Könnte | 能够 | Could AI tilt the outcome of elections?
+- [0059] | 2 | deadline | Frist | 截止期限 | The US in brief: Another deadline, another delay
+- [0060] | 2 | deal | Abmachung | 发牌 | The trade deal with America shows the limits of the EU’s power
+- [0061] | 2 | Despite | Trotz | 尽管如此,尽管 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0062] | 2 | elections | Wahlen | 选 选 选 选 | Could AI tilt the outcome of elections?
+- [0063] | 2 | Europe | Europa | 欧洲 欧洲 | Europe averts its Trumpian trade nightmare
+- [0064] | 2 | Famer | Famer | 时前 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0065] | 2 | food | Lebensmittel | 食品食品 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0066] | 2 | found | gefunden | 已找到 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0067] | 2 | from | von | 调自 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0068] | 2 | Gaza | Gaza | 加沙 | Famine in Gaza shows the failure of Israel’s strategy
+- [0069] | 2 | German | Deutsch | 德语 德语 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0070] | 2 | Hall | Saal | 厅厅厅厅厅 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0071] | 2 | illegal | illegal | 非法非法 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0072] | 2 | it | Es wird | 其 其 年 , 其 年 , 其 年 , 其 | America is coming after Chinese it accuses of hacking
+- [0073] | 2 | murder | Mord | 谋杀 谋杀 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0074] | 2 | new | neu | 新建新 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0075] | 2 | News | Nachrichten | 新闻新闻新闻新闻 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0076] | 2 | over | Über | 超过 | American governors are split over how to handle Donald Trump
+- [0077] | 2 | Strengthen | Stärker werden | 加强 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0078] | 2 | Sustainability | Nachhaltigkeit | 可持续性 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0079] | 2 | takes | nimmt | 以 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0080] | 2 | Test | Prüfung | 测试测试测试 | Can Test cricket survive a sticky wicket?
+- [0081] | 2 | that | das | ,该数额, | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0082] | 2 | through | bis | 中 中 中 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0083] | 2 | top | nach oben | 顶上 | France’s top general says Russia could attack in five years
+- [0084] | 2 | Trump's | Trumps | 特朗的 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0085] | 2 | Trump’s | Trumps | 特朗普 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0086] | 2 | Ukraine | Ukraine | 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0087] | 2 | urges | Drängen | 敦促 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0088] | 2 | war | Krieg | 战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争 | Why did Thailand and Cambodia fight a senseless border war?
+- [0089] | 2 | was | wurde | 原为 | Who was Cecil Rhodes?
+- [0090] | 2 | will | wird | 会 | Who will pay for the trillion-dollar AI boom?
+- [0091] | 2 | world | Welt | 世界世界 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0092] | 1 | ' | " | ' ' | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0093] | 1 | 'ERIC | „ERIC | 埃里克 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0094] | 1 | 'grind | "Grind" | 'grind 农业 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0095] | 1 | 'He's | Er ist | # 他 # # 他 # # 他 # # He's # He # | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0096] | 1 | 'It's | Es ist | # 这是 # # # It's # # It's # | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0097] | 1 | 'MAGA | MAGA | MAGA( MAGA) | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0098] | 1 | 'Messed | "Gemessen | 先生 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0099] | 1 | 'piling | "Piling" | '铺面 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0100] | 1 | 'too | "zu | '太过 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0101] | 1 | 'vote | „Abstimmung | 投票 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0102] | 1 | -run | - Laufen | - 运行 - 运行 - 运行 - 运行 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0103] | 1 | abandoned | verlassen | 被遗弃的 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0104] | 1 | according | entsprechend | 基底 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0105] | 1 | accuser | Ankläger | 控告人 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0106] | 1 | accuses | wirft vor | 指控 | America is coming after Chinese it accuses of hacking
+- [0107] | 1 | across | gegenüber | 横横 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0108] | 1 | Act' | Rechtsakt" | 法案' | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0109] | 1 | ADAMS | ANPASSUNGEN | 成 成 体 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0110] | 1 | ads | Anzeigen | 广告广告 | Facebook crypto ads lead to dangerous malware scams
+- [0111] | 1 | African | Afrikanisch | 非洲人非洲非洲人 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0112] | 1 | aftermath | Nachwirkungen | 后 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0113] | 1 | agency's | der Agentur | 代理代理机构 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0114] | 1 | Agenda | Tagesordnung | 议程项目议程议程议程议程议程议程 议程议程议程议程议程议程议程议程议程 议程议程议程 议程议程议程议程 议程议程议程 议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0115] | 1 | aggression | Aggression | 侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0116] | 1 | aid | Beihilfen | 援助援助援助组织 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0117] | 1 | ailing | Krankheit | 报应中 | America’s ailing health insurers
+- [0118] | 1 | allow | erlauben | 允许 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0119] | 1 | ally | verbündet | 盟友 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0120] | 1 | also | auch | 并且,还有 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0121] | 1 | amends | ändert | 修正 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0122] | 1 | American | amerikanisch | 美裔美国人 | American governors are split over how to handle Donald Trump
+- [0123] | 1 | an | und | a , a , a , a , a , a | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0124] | 1 | Angela | Angela | 安吉拉 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0125] | 1 | animals | Tiere | 动物 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0126] | 1 | anniversary | Jahrestag | 周年纪念十周年 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0127] | 1 | Anthropic | anthropisch | 人类 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0128] | 1 | anti-Trump | Anti-Trump | 反特朗普 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0129] | 1 | approaching | sich nähern | 接近 | China’s local governments are approaching a fiscal black hole
+- [0130] | 1 | Arkansas | Arkansas | 阿肯色州 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [0131] | 1 | army | Armee | 军 军 军 军 军 | Ever more Ukrainian women are joining the army
+- [0132] | 1 | arrest | Festnahme | 逮捕和逮捕 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0133] | 1 | arrested | Verhaftet | 被捕人数 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [0134] | 1 | arrests | Festnahmen | 逮捕、逮捕、逮捕、 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0135] | 1 | Artificial | Künstliche | 人造 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0136] | 1 | asked | gefragt | 问 问 问 问 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0137] | 1 | attack | Angriff | 攻击攻击 | France’s top general says Russia could attack in five years
+- [0138] | 1 | attack’ | Angriff | " 攻击 " | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0139] | 1 | August | ZEITSCHRIFTEN | 8月 8月(8月) | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0140] | 1 | averts | Abwendungen | 避免置换 | Europe averts its Trumpian trade nightmare
+- [0141] | 1 | baby | Baby | 婴 婴 婴 婴 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0142] | 1 | back | zurück | 后退 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0143] | 1 | banking’s | Banken | 银行银行 | The deeper reason for banking’s retreat
+- [0144] | 1 | bar | bar | 图标栏 | The year of the women’s-sports bar
+- [0145] | 1 | be | werden | be be be 的, 是 | Where will be the Detroit of electric vehicles?
+- [0146] | 1 | beating | Schlagen | 殴打和打打 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0147] | 1 | beers | Bier | 啤酒 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0148] | 1 | benefits | Leistungen | 福利福利 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0149] | 1 | best | am besten | 最佳 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0150] | 1 | Biden | Biden | 拜登 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0151] | 1 | big | groß | 大 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0152] | 1 | Biopolis | Biopolis | 生物生物 | Biopolis – into the microbiome
+- [0153] | 1 | birthday | Geburtstag | 生日生日 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0154] | 1 | black | schwarz | 黑色黑色 | China’s local governments are approaching a fiscal black hole
+- [0155] | 1 | blackouts | Blackouts | 断电 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0156] | 1 | Blockades | Blockaden | 封锁区 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0157] | 1 | bond | Anleihen | 债券债券债券 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0158] | 1 | boom | Hochkonjunktur | 繁荣 | Who will pay for the trillion-dollar AI boom?
+- [0159] | 1 | border | Grenzüberschreitung | 边境边境边境 | Why did Thailand and Cambodia fight a senseless border war?
+- [0160] | 1 | boss | Chef | 老板( 老板) | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0161] | 1 | Braves | Tapferkeit | 勇士 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0162] | 1 | breakthrough | Durchbruch | 中中点 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0163] | 1 | Brett | Brett | 布雷 布雷顿森林机构 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0164] | 1 | brief | kurz | 简简短 | The US in brief: Another deadline, another delay
+- [0165] | 1 | Bronny | Bronny | 布罗尼 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0166] | 1 | build | Bauen | 建设 | How to build a ship for interstellar travel
+- [0167] | 1 | Bukele's | Bukele's | 布克勒的 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0168] | 1 | bullets | Kugeln | 圆圆 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0169] | 1 | Buzbee | Buzbee | 巴斯比 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0170] | 1 | Cambodia | Kambodscha | 柬埔寨 柬埔寨 柬埔寨 | Why did Thailand and Cambodia fight a senseless border war?
+- [0171] | 1 | Canal | Kanal | 运河 | The looming deadline for the Panama Canal ports deal
+- [0172] | 1 | cancer | Krebs | 癌症癌症 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0173] | 1 | capital | Kapital | 资本资本 | Why Italy’s next cultural capital looks like a disaster zone
+- [0174] | 1 | cardiac | Herz | 心脏心脏 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0175] | 1 | Cecil | Cecil | 塞西尔 | Who was Cecil Rhodes?
+- [0176] | 1 | celebration | Feier | 庆祝庆祝活动 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0177] | 1 | chairman | Vorsitzender | 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0178] | 1 | charges | Gebühren | 费用 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0179] | 1 | Chicago | Chicago (Vereinigtes Königreich) | 芝加哥 | What pro wrestlers in Chicago say about America
+- [0180] | 1 | children | Kinder | 儿 儿 儿 儿 儿 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0181] | 1 | Chinese | Chinesisch | 中文 中文 中文 | America is coming after Chinese it accuses of hacking
+- [0182] | 1 | Cincinnati | Cincinnati | 辛辛那提 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0183] | 1 | citizenship | Staatsangehörigkeit | 公民身份公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0184] | 1 | city | Stadt | 城市城市 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0185] | 1 | Closing | Schließung | 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0186] | 1 | Colombia | Kolumbien | 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0187] | 1 | combat | Kampf | 战斗 战斗 | US Space Command is preparing for satellite-on-satellite combat
+- [0188] | 1 | combine | kombinieren | 组合 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0189] | 1 | comeback | Comeback | 返回返回 | “Comrade” is making a comeback in China
+- [0190] | 1 | coming | Ich komme gleich. | 即将到来 | America is coming after Chinese it accuses of hacking
+- [0191] | 1 | Command | Befehl | 命令命令命令 | US Space Command is preparing for satellite-on-satellite combat
+- [0192] | 1 | commodities | Waren | 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 | Economic data, commodities and markets
+- [0193] | 1 | community | Gemeinschaft | 社区社区 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0194] | 1 | companies | Unternehmen | 公司公司 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0195] | 1 | Congress | Tagung | 预防犯罪大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0196] | 1 | connect | verbinden | 连接连接 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0197] | 1 | constitution | Verfassung | 宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0198] | 1 | contentedly | zufrieden | 内容内容满意 | Hello Kitty’s owner is purring contentedly
+- [0199] | 1 | convicted | Verurteilt | 定罪人数 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0200] | 1 | corruption-fighters | Korruptionskämpfer | 腐败问题斗士 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0201] | 1 | corrupts | Korrupte | 腐败 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0202] | 1 | Crackdown | Crackdown | Cracnack 缩进 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0203] | 1 | cricket | Kricket | 板球 | Can Test cricket survive a sticky wicket?
+- [0204] | 1 | crimes | Verbrechen | 罪行 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0205] | 1 | criminal | Strafverbrecher | 刑事犯罪 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0206] | 1 | crypto | Krypto | 加密 | Facebook crypto ads lead to dangerous malware scams
+- [0207] | 1 | cultural | Kultur | 文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、 | Why Italy’s next cultural capital looks like a disaster zone
+- [0208] | 1 | curtain | Vorhang | 窗帘 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0209] | 1 | Cuts | Schnitte | 剪切 | Cuts to food stamps are about to hit in America
+- [0210] | 1 | cynical | zynisch | 玩世不恭 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0211] | 1 | DA | RECHTSSACHE 28/63 — URTEIL | 达 达 达 达 达 达 达 达 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0212] | 1 | dangerous | Gefährlich | 危险 | Facebook crypto ads lead to dangerous malware scams
+- [0213] | 1 | data | Daten | 数据数据数据数据数据 | Economic data, commodities and markets
+- [0214] | 1 | DC | Gleichstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselgenerator | DC DC | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0215] | 1 | dealmaking | Handel und Dienstleistungen | 交易 | Japan’s dealmaking machine revs up
+- [0216] | 1 | deeper | tiefer | 深层 | The deeper reason for banking’s retreat
+- [0217] | 1 | Deion | Deion | 下沉 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0218] | 1 | delay | Verzögerung | 延迟延迟 | The US in brief: Another deadline, another delay
+- [0219] | 1 | delays | Verzögerungen | 延误延误 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0220] | 1 | delivery | Lieferung | 交付 | Everyone loses in the rage of China’s delivery wars
+- [0221] | 1 | Democratic | Demokratisch | 民主民主民主 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0222] | 1 | Democrats | Sozialdemokraten | 民主民主党 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0223] | 1 | Department | Abteilung | 部 部 部 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0224] | 1 | Detroit | Detroit | 底底特律 | Where will be the Detroit of electric vehicles?
+- [0225] | 1 | developing | Entwicklung | 发展中发展中国家 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0226] | 1 | DHS | DHS | DHS 人口与健康调查 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0227] | 1 | did | hat | 确实 | Why did Thailand and Cambodia fight a senseless border war?
+- [0228] | 1 | dignity” | Würde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 尊严” | Why a fling with a foreigner insults China’s “national dignity”
+- [0229] | 1 | disaster | Katastrophe | 灾害和救灾灾害 | Why Italy’s next cultural capital looks like a disaster zone
+- [0230] | 1 | disaster-relief | Katastrophenrelief | 救灾救灾 | America is remaking its disaster-relief system
+- [0231] | 1 | diseases | Krankheiten | 疾病 疾病 疾病 疾病 | Germany remains reliable partner in the fight against global diseases
+- [0232] | 1 | dismantle | demontieren | 拆卸 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0233] | 1 | dissent | Dissens | 异议 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0234] | 1 | does | tut | 具有 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0235] | 1 | double | Doppelt | 双双 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0236] | 1 | drama' | Dramatik" | 戏剧剧 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0237] | 1 | during | während | 期间 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0238] | 1 | Earth | Erde | 地球地球地球 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0239] | 1 | eat | Essen | 食 食 食 食 | The humble tomato salad holds lessons for how to eat well
+- [0240] | 1 | economics | Wirtschaft | 经济学经济学经济学 | What economics can teach foreign-policy types
+- [0241] | 1 | economies | Wirtschaft | 经济经济体 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0242] | 1 | economy | Wirtschaft | 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 | Can pensioners rescue China’s economy?
+- [0243] | 1 | Education | Bildung | 教育 教育教育 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0244] | 1 | El | ENTWICKLUNG | 埃尔 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0245] | 1 | electric | elektrisch | 电动 | Where will be the Detroit of electric vehicles?
+- [0246] | 1 | Elizabeth | Elisabeth | 伊丽莎白 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0247] | 1 | elusive | schwer fassbar | 不详 | Xi Jinping is growing more elusive
+- [0248] | 1 | emerging | sich abzeichnend | 新兴 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0249] | 1 | endorses | unterstützt | 核准书 核准书 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0250] | 1 | energy | Energie | 能源能源 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0251] | 1 | escalate | Eskalation | 升级 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0252] | 1 | ESPN | ESPN | ESTP ESP ESP ESP ESP ESP ESP ESTP ESP ESP ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESP | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0253] | 1 | EU’s | EU-Länder | 欧盟的欧盟 | The trade deal with America shows the limits of the EU’s power
+- [0254] | 1 | Ever | Niemals | 从未 | Ever more Ukrainian women are joining the army
+- [0255] | 1 | Everyone | Jeder | 每个人 | Everyone loses in the rage of China’s delivery wars
+- [0256] | 1 | everywhere | überall | 各地 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0257] | 1 | exact | Genau | 精确 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0258] | 1 | exporters | Ausführer | 出口商 出口商 | China’s exporters shrug off the trade war—for now
+- [0259] | 1 | face | Gesicht | 脸面 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0260] | 1 | Facebook | Facebook | 脸书脸书 | Facebook crypto ads lead to dangerous malware scams
+- [0261] | 1 | failure | Ausfall | 失败失败 | Famine in Gaza shows the failure of Israel’s strategy
+- [0262] | 1 | Famine | Hungersnot | 饥荒 | Famine in Gaza shows the failure of Israel’s strategy
+- [0263] | 1 | Favre | Begünstigt | 法弗罗语Name | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0264] | 1 | feeling | Gefühl | 感觉感觉 | Who’s feeling the pain of Trump’s tariffs?
+- [0265] | 1 | fellow | Stipendiat | 相 相 相 相 相 人 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0266] | 1 | financial | Finanzdienstleistungen | 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 | A fresh retail-trading frenzy is reshaping financial markets
+- [0267] | 1 | firm | Unternehmen | 实数 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0268] | 1 | fiscal | steuerlich | 财政财政 | China’s local governments are approaching a fiscal black hole
+- [0269] | 1 | five | Fünf | 5, 5 5 | France’s top general says Russia could attack in five years
+- [0270] | 1 | flavor | Geschmack | 调味味 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0271] | 1 | fling | Fling | 射击 | Why a fling with a foreigner insults China’s “national dignity”
+- [0272] | 1 | Foreign | Ausländische | 外国 外国 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0273] | 1 | foreign-policy | Außenpolitik | 外交政策 | What economics can teach foreign-policy types
+- [0274] | 1 | foreigner | Ausländer | 外国人 | Why a fling with a foreigner insults China’s “national dignity”
+- [0275] | 1 | formed | gebildet | 已经组成 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0276] | 1 | former | früherer | 原 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0277] | 1 | Fox | Fuchs | 狐狐狸 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0278] | 1 | France’s | Frankreich | 法国 | France’s top general says Russia could attack in five years
+- [0279] | 1 | frenzy | Raserei | 疯狂 | A fresh retail-trading frenzy is reshaping financial markets
+- [0280] | 1 | fresh | frisch | 新鲜 | A fresh retail-trading frenzy is reshaping financial markets
+- [0281] | 1 | funding | Finanzierung | 供资供资 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0282] | 1 | fungi | Pilze | 真菌 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0283] | 1 | game | Spiel | 游戏游戏游戏 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0284] | 1 | general | Allgemeines | 一般一般 | France’s top general says Russia could attack in five years
+- [0285] | 1 | global | global | 全球环球 | Germany remains reliable partner in the fight against global diseases
+- [0286] | 1 | governments | RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSÄM | 政府政府政府政府 | China’s local governments are approaching a fiscal black hole
+- [0287] | 1 | governors | Gouverneure | 省长 省长 | American governors are split over how to handle Donald Trump
+- [0288] | 1 | grinder' | Schleifmaschine" | 研磨机 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0289] | 1 | growing | wächst | 生长中 | Xi Jinping is growing more elusive
+- [0290] | 1 | Growth | Wachstum | 增长 增长 增长 增长 增长 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0291] | 1 | hacking | Hacken | 黑 黑 黑 黑 | America is coming after Chinese it accuses of hacking
+- [0292] | 1 | Hamas | Hamas | 哈马斯 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0293] | 1 | Hamburg | ZEITSCHRIFTEN | 汉堡汉堡 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0294] | 1 | handle | Griff | 控件 | American governors are split over how to handle Donald Trump
+- [0295] | 1 | Harris | Harris. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 哈里斯 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0296] | 1 | Harvard | L 347 vom 20.12.2013, S. 671. | 哈佛 | What Donald Trump is teaching Harvard
+- [0297] | 1 | haul | Ziehen | 拖拉 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0298] | 1 | he | er | 世 世 世 世 世 世 世 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0299] | 1 | health | Gesundheit | 健康健康 健康 健康 健康 健康 健康 健康 健康 健康 健康 | America’s ailing health insurers
+- [0300] | 1 | held | in Erwägung nachstehender Gründe: | 举行 举行 举行 | Ziad Rahbani held a mirror to Lebanese society
+- [0301] | 1 | Helen | Helen | 海伦 海伦 海伦 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [0302] | 1 | Hello | Guten Tag. | 你好 你好 你好 你好 你好 你好 你好 你好 你好 | Hello Kitty’s owner is purring contentedly
+- [0303] | 1 | helping | Hilfe | 帮助帮助 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0304] | 1 | her | sie |  | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0305] | 1 | herself | sich selbst | 本人本人本人 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0306] | 1 | hiking | Wandern | 徒 徒 徒 徒 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [0307] | 1 | his | sein | 排在《公约》 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0308] | 1 | historic | historisch | 历史历史历史 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0309] | 1 | hit | getroffen | 中弹 | Cuts to food stamps are about to hit in America
+- [0310] | 1 | hold | Halten | 搁置搁置 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0311] | 1 | holds | Haltegriffe | 持有的 | The humble tomato salad holds lessons for how to eat well
+- [0312] | 1 | hole | Loch | 空洞 | China’s local governments are approaching a fiscal black hole
+- [0313] | 1 | home-grown | Eigenanbau | 土产 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0314] | 1 | homes | Wohnungen | 居家家庭 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0315] | 1 | humble | bescheiden | 谦卑 | The humble tomato salad holds lessons for how to eat well
+- [0316] | 1 | Hurley | Hurley. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 赫里 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0317] | 1 | ICE | INSGESAMT | 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰  冰 冰 冰 冰 冰 冰   冰 冰 冰   冰  冰   冰      冰  冰      冰 冰 冰   冰           冰    冰       冰            冰 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0318] | 1 | immigrant | Zuwanderer | 移民移民移民 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0319] | 1 | immigrants | Einwanderer | 移民移民移民 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0320] | 1 | immune | Immunantwort | 免疫性 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0321] | 1 | implement | Umsetzung | 执行执行 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0322] | 1 | indefinite | unbestimmt | 无限期 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0323] | 1 | independence | Unabhängigkeit | 独立独立 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0324] | 1 | inning | Inning | 内内 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0325] | 1 | input | Eingabe | 输入输入输入 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0326] | 1 | insults | Beleidigungen | 侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性 | Why a fling with a foreigner insults China’s “national dignity”
+- [0327] | 1 | insurers | Versicherungsunternehmen | 承保人 | America’s ailing health insurers
+- [0328] | 1 | intelligentsia | Intelligenz | 知识分子 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0329] | 1 | interstellar | interstellar | 星际星际际 | How to build a ship for interstellar travel
+- [0330] | 1 | interview | Interview | 面试 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0331] | 1 | into | in die | 与 | Biopolis – into the microbiome
+- [0332] | 1 | invades | Eindringlinge | 入侵入侵 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0333] | 1 | investment | Investitionen | 投资投资投资 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0334] | 1 | Iran’s | Irans | 伊朗 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0335] | 1 | Israel | Israel | 以色列 以色列 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0336] | 1 | Israel’s | Israel | 以 以 以 以 以 | Famine in Gaza shows the failure of Israel’s strategy
+- [0337] | 1 | Italy’s | Italien | 意大利 | Why Italy’s next cultural capital looks like a disaster zone
+- [0338] | 1 | jab | Jab | 以 jab | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0339] | 1 | jail | Gefängnis | 监禁 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0340] | 1 | James | - Ja. - Ja. - Ja. - Ja. | 詹姆斯·詹姆斯 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0341] | 1 | Japan’s | Japans | 日本的日本 | Japan’s dealmaking machine revs up
+- [0342] | 1 | Jerome | Hieronymus | 杰罗姆 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0343] | 1 | Jinping | Jinping. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 近平 | Xi Jinping is growing more elusive
+- [0344] | 1 | Joe | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 乔 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0345] | 1 | Johann | - Ich weiß es nicht. - Ich weiß nicht. | 约翰·约翰 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0346] | 1 | Johannesburg | Johannesburg | 约翰内斯堡 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [0347] | 1 | joining | Beitritt | 合并加入 | Ever more Ukrainian women are joining the army
+- [0348] | 1 | just | nur | 只是 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0349] | 1 | justice | Gerechtigkeit | 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 | A little poetic justice for Donald Trump
+- [0350] | 1 | Kamala | Kamala | 卡马勒acala | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0351] | 1 | KfW | KfW | KfW KfW | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0352] | 1 | Kitty’s | Kätzchen | 珍珠猫的 | Hello Kitty’s owner is purring contentedly
+- [0353] | 1 | launched | gestartet | 启动 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0354] | 1 | launches | Starts | 发射发射 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0355] | 1 | lawfare | Rechts- und Verwaltungsvorschriften | 法律权益 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0356] | 1 | Lawmaker | Rechtsanwältin | 立法者 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0357] | 1 | LA’s | RECHTSSACHEN | LLA的LA | Modular homes are helping LA’s wildfire survivors rebuild
+- [0358] | 1 | lead | Blei | 铅铅 | Facebook crypto ads lead to dangerous malware scams
+- [0359] | 1 | Lebanese | Libanesisch | 黎巴嫩黎巴嫩文 | Ziad Rahbani held a mirror to Lebanese society
+- [0360] | 1 | Lehrer | Lehrer | 元首 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0361] | 1 | leopard | Leopard | 豹型豹 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0362] | 1 | lessons | Unterricht | 经验教训 | The humble tomato salad holds lessons for how to eat well
+- [0363] | 1 | lifting | Heben | 升举 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0364] | 1 | like | Wie z.B. | 类似 | Why Italy’s next cultural capital looks like a disaster zone
+- [0365] | 1 | likens | Gleichnisse | 线 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0366] | 1 | limits | Grenzwerte | 限制限额 | The trade deal with America shows the limits of the EU’s power
+- [0367] | 1 | Linda | Linda | 琳达 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0368] | 1 | links | Verknüpfungen | 链接链接 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0369] | 1 | little | wenig | 小 | A little poetic justice for Donald Trump
+- [0370] | 1 | loan | Darlehen | 贷款贷款贷款 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0371] | 1 | lobbies | Lobbies | 圆圈 | Germany lobbies for sustainability and multilateral solutions
+- [0372] | 1 | local | Ort | 当地当地 | China’s local governments are approaching a fiscal black hole
+- [0373] | 1 | looked | Gesehen | 查看 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0374] | 1 | looks | sieht aus | 外观 | Why Italy’s next cultural capital looks like a disaster zone
+- [0375] | 1 | looming | sich abzeichnend | 正在逼近 | The looming deadline for the Panama Canal ports deal
+- [0376] | 1 | loses | Verluste | 损失 | Everyone loses in the rage of China’s delivery wars
+- [0377] | 1 | low-carb | kohlenhydratarm | 低负载量 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0378] | 1 | machine | Maschine | 机 机 机 机 | Japan’s dealmaking machine revs up
+- [0379] | 1 | major | Haupt | 大专 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0380] | 1 | making | Herstellung | 制造 | “Comrade” is making a comeback in China
+- [0381] | 1 | malware | Malware | 恶意软件 | Facebook crypto ads lead to dangerous malware scams
+- [0382] | 1 | manhunt | Jagd | 搜 捕 人 猎 人 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0383] | 1 | massive | massiv | 大规模 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0384] | 1 | matching | zusammenpassend | 匹配匹配 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0385] | 1 | matter | Gegenstand | 事项 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0386] | 1 | mayors | Bürgermeister | 市长 市长 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0387] | 1 | McMahon | McMahon | 麦克马洪 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0388] | 1 | Michelle | Michelle | 米歇尔 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0389] | 1 | microbiome | Mikrobiom | 微生物 | Biopolis – into the microbiome
+- [0390] | 1 | mid-haircut | Mittelhaarschnitt | 中头发切中 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [0391] | 1 | mirror | Spiegel | 镜镜镜 | Ziad Rahbani held a mirror to Lebanese society
+- [0392] | 1 | mobilize | mobilisieren | 调动调动 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0393] | 1 | Modular | Modular | 模块 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0394] | 1 | most | die meisten | 多数 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0395] | 1 | mother | Mutter | 母 母 母 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0396] | 1 | multilateral | Multilaterale | 多边多边多边 | Germany lobbies for sustainability and multilateral solutions
+- [0397] | 1 | municipal | Gemeinde | 市市市 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0398] | 1 | my | mein | 我的 我的 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0399] | 1 | naturalization | Einbürgerung | 归化入籍 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0400] | 1 | neighbours | Nachbarn | 邻居 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0401] | 1 | next | Nächster | 下一个 | Why Italy’s next cultural capital looks like a disaster zone
+- [0402] | 1 | nightmare | Albtraum | 恶梦恶梦 | Europe averts its Trumpian trade nightmare
+- [0403] | 1 | nominees | Nominierte | 被提名人 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0404] | 1 | now | Jetzt | 现在 | China’s exporters shrug off the trade war—for now
+- [0405] | 1 | Obama | Obama | 奥巴马 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0406] | 1 | Oct | Oktober | 10月 10月 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0407] | 1 | of' | von" | 的 年 月 年 月 年 月 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0408] | 1 | off | aus | 关闭 | China’s exporters shrug off the trade war—for now
+- [0409] | 1 | official | amtlich | 公务 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0410] | 1 | officials | Beamte | 公务官员 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0411] | 1 | on' | auf" | 上' 上' | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0412] | 1 | Opinion | Stellungnahme | 意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0413] | 1 | opportunities | Chancen | 机会机会 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0414] | 1 | opposite | gegenüber | 反对 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0415] | 1 | other | Sonstige | 其他 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0416] | 1 | out' | aus" | 出来 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0417] | 1 | outcome | Ergebnis | 结果结果 | Could AI tilt the outcome of elections?
+- [0418] | 1 | overhaul | Überholung | 大修 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0419] | 1 | owner | Eigentümer | 拥有者( 拥有者) | Hello Kitty’s owner is purring contentedly
+- [0420] | 1 | pain | Schmerzen | 疼痛疼痛 | Who’s feeling the pain of Trump’s tariffs?
+- [0421] | 1 | Palestine | Palästina | 巴勒斯坦 巴勒斯坦 巴勒斯坦 | State swing: recognising Palestine
+- [0422] | 1 | Panama | Panama | 巴拿马 巴拿马 | The looming deadline for the Panama Canal ports deal
+- [0423] | 1 | Parenthood | Elternschaft | 父母亲 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0424] | 1 | Parliament | Europäisches Parlament | 议会 议会 议会 议会 议会 议会 议会 议会 议会 议会 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0425] | 1 | participants | Teilnehmer | 参加者 参加者 参加者 参加者 参加者 参加者 参加者 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0426] | 1 | parting | Trennung | 分离 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0427] | 1 | partner | Partner | 伙伴伙伴 | Germany remains reliable partner in the fight against global diseases
+- [0428] | 1 | partnership | Partnerschaft | 伙伴关系伙伴关系伙伴关系 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0429] | 1 | partnerships | Partnerschaften | 伙伴关系伙伴关系伙伴关系 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0430] | 1 | party | Partei | 缔约方 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0431] | 1 | pay | Bezahlung | 薪资 | Who will pay for the trillion-dollar AI boom?
+- [0432] | 1 | penalties | Sanktionen | 处罚处罚 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0433] | 1 | pensioners | Rentner | 养恤金领取者养恤金领取者 | Can pensioners rescue China’s economy?
+- [0434] | 1 | plan | Plan | 计划计划 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0435] | 1 | Planned | Geplant | 计划计划数 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0436] | 1 | plants | Pflanzen | 工厂工厂 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0437] | 1 | ploy | Beschäftigung | 计谋 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0438] | 1 | poetic | poetisch | 诗诗 | A little poetic justice for Donald Trump
+- [0439] | 1 | politics | Politik | 政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0440] | 1 | ports | Häfen | 港口港口港口港口 | The looming deadline for the Panama Canal ports deal
+- [0441] | 1 | pose | Pose | 装 容 容 容 容 容 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0442] | 1 | posts | Planstellen | 员额员额员额 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0443] | 1 | Powell | Powell | 鲍威尔 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0444] | 1 | power | Leistung | 功电 | The trade deal with America shows the limits of the EU’s power
+- [0445] | 1 | praises | Lobpreisung | 赞美赞美 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0446] | 1 | preparing | Vorbereitung | 准备中 | US Space Command is preparing for satellite-on-satellite combat
+- [0447] | 1 | president | Präsident | 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0448] | 1 | presidential | Präsident | 总统 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0449] | 1 | pressures | Drücke | 压力压力 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0450] | 1 | private | privat | 私立 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0451] | 1 | pro | pro | 现 物 | What pro wrestlers in Chicago say about America
+- [0452] | 1 | process | Prozess | 进程进程 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0453] | 1 | promises | Versprechungen | 承诺承诺承诺 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0454] | 1 | provide | zur Verfügung stellen | 提供 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0455] | 1 | pulls | Ziehungen | 下拉 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [0456] | 1 | purring | schnurren | 扫荡 | Hello Kitty’s owner is purring contentedly
+- [0457] | 1 | quadruple | Vierfach | 三倍 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0458] | 1 | rage | Wut | 愤怒 | Everyone loses in the rage of China’s delivery wars
+- [0459] | 1 | Rahbani | Rahbani | Rahbani( 拉巴尼) | Ziad Rahbani held a mirror to Lebanese society
+- [0460] | 1 | ranking | Rangfolge | 排名排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排列排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排列排排排排排排排排排排排排排排排排排排排排排排排排排排排 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0461] | 1 | rape | Vergewaltigung | 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0462] | 1 | re-election | Wiederwahl | 连选连任 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0463] | 1 | reality | Wirklichkeit | 现实现实 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0464] | 1 | reason | Begründung | 原因原因原因 | The deeper reason for banking’s retreat
+- [0465] | 1 | rebuild | Wiederaufbau | 重建重建 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0466] | 1 | recognising | Anerkennung | 确认承认 | State swing: recognising Palestine
+- [0467] | 1 | Recovery | Rückforderung | 恢复 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0468] | 1 | redistricting | Neueinschränkung | 重新划区 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0469] | 1 | Reds | Rote | 红 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0470] | 1 | release | Freigabe | 释放 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0471] | 1 | released | freigegeben | 释放 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0472] | 1 | reliable | zuverlässig | 可靠 | Germany remains reliable partner in the fight against global diseases
+- [0473] | 1 | remains | bleibt | 遗骸 | Germany remains reliable partner in the fight against global diseases
+- [0474] | 1 | remaking | Neugestaltung | 重建再造 | America is remaking its disaster-relief system
+- [0475] | 1 | renewable | erneuerbar | 可再生 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0476] | 1 | report | Bericht | 报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0477] | 1 | represented | vertreten | 任职人数 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0478] | 1 | Republicans | Republikaner | 共和党人 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0479] | 1 | rescue | Rettung | 营救 | Can pensioners rescue China’s economy?
+- [0480] | 1 | reshaping | Neugestaltung | 重整 | A fresh retail-trading frenzy is reshaping financial markets
+- [0481] | 1 | restores | stellt wieder her | 恢复 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0482] | 1 | retail-trading | Einzelhandel | 零售零售贸易 | A fresh retail-trading frenzy is reshaping financial markets
+- [0483] | 1 | retains | behält | 保留保留 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0484] | 1 | retreat | Rückzug | 撤退后退 | The deeper reason for banking’s retreat
+- [0485] | 1 | reveals | zeigt an | 外露 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0486] | 1 | revs | Drehzahl | revs 复数 | Japan’s dealmaking machine revs up
+- [0487] | 1 | Rhodes | Rhodos | 罗得 | Who was Cecil Rhodes?
+- [0488] | 1 | RNC | RNC | RNNNN  RNNN | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0489] | 1 | roasting | Rösten | 烧烤 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0490] | 1 | Russia | Frankreich | 俄罗斯 俄罗斯 | France’s top general says Russia could attack in five years
+- [0491] | 1 | Russia’s | Russlands | 俄罗斯的俄罗斯 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0492] | 1 | salad | Salat | 沙拉沙拉 | The humble tomato salad holds lessons for how to eat well
+- [0493] | 1 | Salvador | L 347 vom 20.12.2013, S. 671. | 萨尔瓦多 萨尔瓦多 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [0494] | 1 | sanctions | Sanktionen | 制裁制裁 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0495] | 1 | sanctuary | Heiligtum | 避难避难所 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0496] | 1 | Sanders | Schleifmaschinen | 桑德斯 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0497] | 1 | satellite-on-satellite | Satelliten-on-Satellit | 卫星卫星卫星卫星 | US Space Command is preparing for satellite-on-satellite combat
+- [0498] | 1 | savage | Wild | 野蛮 | A savage squabble between China and Europe
+- [0499] | 1 | save | Speichern | 保存保存 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [0500] | 1 | say | sagen | 说 | What pro wrestlers in Chicago say about America
+- [0501] | 1 | says | sagt | 说: | France’s top general says Russia could attack in five years
+- [0502] | 1 | scams | Betrug | 骗骗骗 | Facebook crypto ads lead to dangerous malware scams
+- [0503] | 1 | Scientists | Wissenschaftler | 科学家 科学家 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0504] | 1 | scolds | Schimpfe | 严寒 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0505] | 1 | screen | Bildschirm | 屏幕屏幕 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0506] | 1 | secret | geheim | 密密秘密 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0507] | 1 | senator | Senator | 参议员 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0508] | 1 | senseless | sinnlos | 无理智 | Why did Thailand and Cambodia fight a senseless border war?
+- [0509] | 1 | separating | Trennung | 离职 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0510] | 1 | sequence | Reihenfolge | 序列序列序列 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0511] | 1 | sex | Geschlecht | 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0512] | 1 | Shannon | Shannon (Sänger). - (EN) Herr Präsident, meine Damen und Herren! | 香香香 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0513] | 1 | Sharpe's | Sharpe's | 夏普的 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0514] | 1 | she | sie | 谢 谢 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0515] | 1 | ship | Schiff | 船舶船舶 | How to build a ship for interstellar travel
+- [0516] | 1 | shot | Schuss | 射击 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0517] | 1 | shrug | Zucken | 摇摇 | China’s exporters shrug off the trade war—for now
+- [0518] | 1 | shutdown | Abschaltung | 关闭关闭 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0519] | 1 | side | Seite | 侧侧 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0520] | 1 | since | seit | 自 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0521] | 1 | sites | Standorte | 站 址 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0522] | 1 | society | Gesellschaft | 社会、社会、社会、社会、社会、 | Ziad Rahbani held a mirror to Lebanese society
+- [0523] | 1 | sociological | soziologische | 社会学 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0524] | 1 | soft | weich | 软软 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0525] | 1 | solutions | Lösungen | 解决方案 | Germany lobbies for sustainability and multilateral solutions
+- [0526] | 1 | Space | Raum | 空间空间空间空间空间 | US Space Command is preparing for satellite-on-satellite combat
+- [0527] | 1 | split | aufgeteilt | 拆分 | American governors are split over how to handle Donald Trump
+- [0528] | 1 | squabble | squabble | 二次曲线 | A savage squabble between China and Europe
+- [0529] | 1 | stamps | Stempel | 邮票邮票 | Cuts to food stamps are about to hit in America
+- [0530] | 1 | start | Anfang | 开始 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0531] | 1 | starting | Beginn | 开始 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [0532] | 1 | State | Mitgliedstaat | 状态状态状态状态状态状态 | State swing: recognising Palestine
+- [0533] | 1 | Statement | Erklärung | 声明声明声明声明声明 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0534] | 1 | sticky | klebrig | 粘粘性 | Can Test cricket survive a sticky wicket?
+- [0535] | 1 | story | Geschichte | 故事故事故事 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0536] | 1 | strategic | strategische | 战略战略战略 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0537] | 1 | strategy | Strategie | 战略战略战略战略 | Famine in Gaza shows the failure of Israel’s strategy
+- [0538] | 1 | stronger | stärker | 更强 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0539] | 1 | Sudan | Sudan | 苏丹 苏丹 苏丹 苏丹 苏丹 苏丹 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0540] | 1 | survive | überleben | 活 活 活 活 | Can Test cricket survive a sticky wicket?
+- [0541] | 1 | survivors | Überlebende | 幸存者幸存者 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0542] | 1 | sustainable | nachhaltig | 可持续的可持续 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0543] | 1 | swimsuits | Badeanzüge | 泳衣 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0544] | 1 | swing | Schaukeln | 摇摆 | State swing: recognising Palestine
+- [0545] | 1 | Syria | Syrien | 叙利亚 叙利亚 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0546] | 1 | system | System | 系统系统系统 | America is remaking its disaster-relief system
+- [0547] | 1 | system' | System" | 系统系统 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [0548] | 1 | Taiwan | Taiwan | 台台 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0549] | 1 | targeting | Zielerreichung | 目标目标 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0550] | 1 | tariff | Tarif | 关税关税关税 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [0551] | 1 | tariffs | Tarife | 关税关税 | Who’s feeling the pain of Trump’s tariffs?
+- [0552] | 1 | teach | Unterricht | 教学 | What economics can teach foreign-policy types
+- [0553] | 1 | teaching | Unterricht | 教学 | What Donald Trump is teaching Harvard
+- [0554] | 1 | telecoms | Telekommunikation | 电信 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0555] | 1 | Tennessee | Tennessee | 田田 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0556] | 1 | terror | Terror | 恐怖主义恐怖主义 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0557] | 1 | Thailand | Thailand | 泰国 泰国 泰国 泰国 | Why did Thailand and Cambodia fight a senseless border war?
+- [0558] | 1 | this | diese | 这笔 | What to watch this weekend
+- [0559] | 1 | threatening | bedrohlich | 威胁 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0560] | 1 | threatens | droht | 威胁 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0561] | 1 | tied | gebunden | 捆绑 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0562] | 1 | ties | Verbindungen | 连结 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0563] | 1 | tilt | Neigung | 倾斜倾斜 | Could AI tilt the outcome of elections?
+- [0564] | 1 | Tom | Tom | 汤姆 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0565] | 1 | tomato | Tomaten/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser) | 番茄 | The humble tomato salad holds lessons for how to eat well
+- [0566] | 1 | Tony | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein! | 托尼 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [0567] | 1 | travel | Reise | 旅费 旅费 旅费 | How to build a ship for interstellar travel
+- [0568] | 1 | trillion-dollar | Billion Dollar | 万亿美元 | Who will pay for the trillion-dollar AI boom?
+- [0569] | 1 | Trumpian | Trumpian | 特朗普语Name | Europe averts its Trumpian trade nightmare
+- [0570] | 1 | TV | Fernsehen | 电视电视电视电视 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0571] | 1 | types | Typen | 类型类型 | What economics can teach foreign-policy types
+- [0572] | 1 | Ukraine’s | Ukraine | 乌克兰 乌克兰 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0573] | 1 | Ukrainian | Ukrainisch | 乌克兰语乌克兰语Name | Ever more Ukrainian women are joining the army
+- [0574] | 1 | UN | UN | 联合国 联合国 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0575] | 1 | Uncovering | Entdecken | 发现覆盖 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0576] | 1 | unveils | Enthüllungen | 揭幕揭幕 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0577] | 1 | up | nach oben | 上上 | Japan’s dealmaking machine revs up
+- [0578] | 1 | urging | Dringend | 促请 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0579] | 1 | Uribe | Uribe | 乌里韦 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0580] | 1 | vehicles | Fahrzeuge | 车辆车辆 | Where will be the Detroit of electric vehicles?
+- [0581] | 1 | Video | Video | 视频视频视频视频视频 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [0582] | 1 | viral | virale | 病毒 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0583] | 1 | visit | Besuch | 访问访问访问 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [0584] | 1 | voting | Abstimmungen | 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 票 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 票 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 的表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决     表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决      表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决  表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0585] | 1 | Wadephul | Wadephul | 韦phul | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0586] | 1 | want | wollen | 需要 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0587] | 1 | wants | will | 需要的 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [0588] | 1 | warrior' | Krieger" | 战士 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0589] | 1 | wars | Kriege | 战争战争的战争、战争和战争的战争 | Everyone loses in the rage of China’s delivery wars
+- [0590] | 1 | war—for | Krieg — für | 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- | China’s exporters shrug off the trade war—for now
+- [0591] | 1 | watch | Uhr | 观察观察 | What to watch this weekend
+- [0592] | 1 | weekend | Wochenende | 周末周末 | What to watch this weekend
+- [0593] | 1 | well | Na schön. | 好 | The humble tomato salad holds lessons for how to eat well
+- [0594] | 1 | Whatley | Was soll ich sagen? | 简 简 利 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0595] | 1 | when | wenn | 何时 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0596] | 1 | Where | Dabei ist | 何处处 | Where will be the Detroit of electric vehicles?
+- [0597] | 1 | Who’s | Wer ist es? | 谁是谁的 | Who’s feeling the pain of Trump’s tariffs?
+- [0598] | 1 | wicket | Wicket | 阴道 | Can Test cricket survive a sticky wicket?
+- [0599] | 1 | wild | wild | 野 野 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [0600] | 1 | wildfire | Waldbrände | 野火 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0601] | 1 | women | Frauen | 妇女 妇女 | Ever more Ukrainian women are joining the army
+- [0602] | 1 | women’s-sports | Frauen-Sport | 妇女体育 | The year of the women’s-sports bar
+- [0603] | 1 | worth | im Wert von | 价值价值 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0604] | 1 | wrestlers | Ringer | 摔跤手 | What pro wrestlers in Chicago say about America
+- [0605] | 1 | Xi | WISSENSCHAFT | 习 习 习 习 | Xi Jinping is growing more elusive
+- [0606] | 1 | year | Jahr | 年份 | The year of the women’s-sports bar
+- [0607] | 1 | years | Jahre | 年份 | France’s top general says Russia could attack in five years
+- [0608] | 1 | Ziad | Ziad | Ziad 齐亚德 | Ziad Rahbani held a mirror to Lebanese society
+- [0609] | 1 | Zille | Zille | Zille 齐 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [0610] | 1 | zone | Zone | 区域 | Why Italy’s next cultural capital looks like a disaster zone
+- [0611] | 1 | Álvaro | Álvaro | 阿尔瓦罗 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0612] | 1 | – | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - ~ ~ ~ ~ ~ | Biopolis – into the microbiome
+- [0613] | 1 | ‘targeted | „gezielt | `目标 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0614] | 1 | “Comrade” | ,Genossen , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , | “同志” | “Comrade” is making a comeback in China
+- [0615] | 1 | “national | Landesweit | “国家 | Why a fling with a foreigner insults China’s “national dignity”
