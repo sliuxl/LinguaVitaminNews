@@ -1,1160 +1,1396 @@
 ---
-title: "German vocab up to 2025-08-31: 1153"
+title: "German vocab up to 2025-08-31: 1389"
 date: 2025-08-31
 layout: post
 ---
 
 - id | count | de | en | zh | example
-- [0000] | 83 | in | in | . . . | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0001] | 48 | der | of the | - ... ... ... | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
-- [0002] | 45 | für | for | - ... 为... | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
-- [0003] | 44 | von | from | 作者: | Europas Hotellerie fordert Schadenersatz von Booking.com
-- [0004] | 35 | mit | with | ...是... ... | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0005] | 31 | und | and | ...而且... ... | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0006] | 30 | auf | on the | . . . | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
-- [0007] | 24 | Alabali | Alabali | Alabali, Alabali, Alabali, Alabali, Alabali, Alabali, Alabali, Alabali. | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0008] | 24 | mehr | more | 更多 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0009] | 24 | Radovan | Radovan | 拉多万 (Radovian) | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0010] | 23 | Deutschland | Germany | 德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国. | Warum die Geburtenrate in Deutschland immer weiter sinkt
-- [0011] | 23 | die | the | - - - - | Kommt 2026 kein Flüssiggas aus Katar in die EU?
-- [0012] | 22 | über | on | - - - - | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0013] | 20 | an | to | 印在... ... | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
-- [0014] | 20 | im | In the | . . . | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0015] | 19 | zu | to | ...到... ... | Bundesentwicklungsministerin Reem Alabali Radovan zu Gaza:
-- [0016] | 18 | nach | after | . . . . . | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0017] | 17 | vor | before | ...前... ... | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
-- [0018] | 16 | Entwicklungsministerin | Minister for Development | 发展部部长 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0019] | 16 | Gaza | Gaza | 加沙 | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
-- [0020] | 15 | zur | to the | ...到... ... | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0021] | 13 | als | as | ...当... ... | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0022] | 13 | zum | to the | ...到... ... | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0023] | 12 | das | the | 那个... | Bolivien: Machtkampf um das weiße Gold
-- [0024] | 12 | ein | a | 一,二,三,四,三,四,四,四 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0025] | 11 | des | of the | - ... ... | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
-- [0026] | 11 | wird | will | . . . . . . | Anna Elendt wird Weltmeisterin über 100 Meter Brust
-- [0027] | 10 | - | - No, no, no, no, no, no, no. | - - - | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0028] | 10 | bei | in the case of: | . . . . | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0029] | 10 | fordert | Calls | 要求... | Europas Hotellerie fordert Schadenersatz von Booking.com
-- [0030] | 10 | gegen | against | 被告人... ... | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0031] | 10 | nicht | not | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不. | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
-- [0032] | 10 | Trump | Trump | 特朗普 特朗普 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
-- [0033] | 10 | will | want | ...我... ... | Wie Schwarz-Rot das Bürgergeld kürzen will
-- [0034] | 10 | Zusammenarbeit | Cooperation | 合作 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
-- [0035] | 9 | Außenminister | Minister for Foreign Affairs | Foreign Secretary, Foreign Secretary, Foreign Secretary | Außenminister warnt vor Isolation Israels
-- [0036] | 9 | EuGH | Court of Justice | EURUGE | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
-- [0037] | 9 | Syrien | Syria | 叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚. | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
-- [0038] | 8 | aus | from | . . . . | Kommt 2026 kein Flüssiggas aus Katar in die EU?
-- [0039] | 8 | ist | is | . . . . . | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
-- [0040] | 8 | Lage | Situation | 情况危急 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0041] | 8 | muss | must: | 不得不这么做 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
-- [0042] | 8 | Reem | Reem | Reem Reem | Bundesentwicklungsministerin Reem Alabali Radovan zu Gaza:
-- [0043] | 8 | ukrainische | Ukrainian | 乌克兰 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
-- [0044] | 8 | um | for | . . . . | Bolivien: Machtkampf um das weiße Gold
-- [0045] | 7 | afrikanischen | African | 非洲国家 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0046] | 7 | Bahn | Rail | 铁路公司 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
-- [0047] | 7 | beim | at the | . . . . | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0048] | 7 | den | the | . . . . | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
-- [0049] | 7 | deutschen | German | 德国佬 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0050] | 7 | EU-Handelsabkommen | EU trade agreements | 欧盟贸易协定 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0051] | 7 | ins | In the case of: | ...在... ... | Biopolis – Reise ins Mikrobiom
-- [0052] | 7 | Isolation | Isolation | 孤立 | Außenminister warnt vor Isolation Israels
-- [0053] | 7 | Israel | Israel | 以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列. | Bundesregierung fordert von Israel mehr Hilfslieferungen über Landweg
-- [0054] | 7 | kommt | coming | 来吧. | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
-- [0055] | 7 | neue | new | 新的... | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
-- [0056] | 7 | Staaten | States | 国家 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0057] | 7 | Was | What | 什么? | Donald Trumps Zölle: Was ist der aktuelle Stand?
-- [0058] | 7 | Wie | How | 如何... ...如何... ...如何... | Wie Schwarz-Rot das Bürgergeld kürzen will
-- [0059] | 6 | Afrika | Africa | 非洲 | Vereinte Nationen warnen vor mehr Hunger in Afrika
-- [0060] | 6 | Ende | End | 结局是: | Kommt das Ende des Lenin-Kults in Putins Russland?
-- [0061] | 6 | erneut | again | 再一次 | Deutschland fliegt erneut Hilfsgüter nach Gaza
-- [0062] | 6 | immer | always | 总是这样 | Warum die Geburtenrate in Deutschland immer weiter sinkt
-- [0063] | 6 | Israels | Israel | 以色列 | Außenminister warnt vor Isolation Israels
-- [0064] | 6 | kaum | Hardly | 很少见 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
-- [0065] | 6 | Nahost-Liveblog | Middle East live blog | 中东里程碑 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
-- [0066] | 6 | setzt | Sets | 坐下吧 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
-- [0067] | 6 | Südafrika | South Africa | 南非 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
-- [0068] | 6 | Wadephul | Wadephul | Wadephul. | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
-- [0069] | 6 | weiter | continue | 向前看 | Warum die Geburtenrate in Deutschland immer weiter sinkt
-- [0070] | 6 | Zölle | Customs duties | 关税是关税 | Donald Trumps Zölle: Was ist der aktuelle Stand?
-- [0071] | 5 | ab | from | 从下到下 | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0072] | 5 | Bundesregierung | Federal Government | 联邦政府 | Bundesregierung fordert von Israel mehr Hilfslieferungen über Landweg
-- [0073] | 5 | dem | The | ...他... ... | Nahost-Liveblog: ++ Deutschland wirft erneut Hilfsgüter über dem Gazastreifen ab   ++
-- [0074] | 5 | Deutsche | German | 德国佬 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0075] | 5 | durch | by | ...通过... ...通过... | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0076] | 5 | EU | EU | 欧盟 | Kommt 2026 kein Flüssiggas aus Katar in die EU?
-- [0077] | 5 | Geflüchtete | Refugees | 被吓跑的 | Söder fordert Bürgergeld-Stopp für ukrainische Geflüchtete
-- [0078] | 5 | jetzt | now | 现在 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
-- [0079] | 5 | Russland | Russia | 俄罗斯 | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0080] | 5 | sind | are | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
-- [0081] | 5 | Treffen | Meetings | 见面吧 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0082] | 5 | Trumps | Trump's | Trumps Trumps | Donald Trumps Zölle: Was ist der aktuelle Stand?
-- [0083] | 5 | Ukraine-Liveblog | Ukraine live blog | 乌克兰历史博客 | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
-- [0084] | 5 | warnt | Warning | 警告: | Außenminister warnt vor Isolation Israels
-- [0085] | 5 | Warum | Why | 为什么? | Warum die Geburtenrate in Deutschland immer weiter sinkt
-- [0086] | 5 | – | – | \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ > | Biopolis – Reise ins Mikrobiom
-- [0087] | 4 | -Entwicklungsminister | Minister for Development | - 发展部部长 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0088] | 4 | Agenda | Agenda | 议程 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
-- [0089] | 4 | aktuellen | current | 现在的情况是... | Entwicklungsministerin Reem Alabali Radovan zur aktuellen Lage in Syrien:
-- [0090] | 4 | alle | all | 每个人 | Künstliche Intelligenz: Müssen wir bald alle coden können?
-- [0091] | 4 | Anna | Anna | 安娜 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
-- [0092] | 4 | Bahnstrecke | Railway line | 火车站 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
-- [0093] | 4 | Bedeutung | Meaning | 重要性? | Deutsch als Fremdsprache weltweit von großer Bedeutung
-- [0094] | 4 | Biopolis | Biopolis | Biopolis 生物警察. | Biopolis – Reise ins Mikrobiom
-- [0095] | 4 | Brust | Chest | 胸部 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
-- [0096] | 4 | Bundesentwicklungsministerin | Federal Minister for Development | 联邦发展部长 | Bundesentwicklungsministerin Reem Alabali Radovan zu Gaza:
-- [0097] | 4 | Bundeskabinett | Federal Cabinet | 联邦拘留所 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0098] | 4 | Bürgergeld | Citizen's money | 公民津贴 | Wie Schwarz-Rot das Bürgergeld kürzen will
-- [0099] | 4 | Dahlmeier | Dahlmeier | Dahlmeier | Deutschland trauert um Laura Dahlmeier
-- [0100] | 4 | Deutsch | German | 德文的 | Deutsch als Fremdsprache weltweit von großer Bedeutung
-- [0101] | 4 | Deutscher | German | 德国佬 | Deutscher Florian Lipowitz wird Tour-Dritter
-- [0102] | 4 | einem | a | 一個人... | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0103] | 4 | Elendt | Wretched | 可怜虫 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
-- [0104] | 4 | Energien | Energy | 能源 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0105] | 4 | erneuerbare | renewable | 可再生能源 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0106] | 4 | Ernährungssicherheit | Food security | 粮食安全 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0107] | 4 | europäischen | European | 欧洲的欧洲国家 | Startschuss für europäischen Ukraine-Wiederaufbaufonds
-- [0108] | 4 | Florian | Florian | Florian? | Deutscher Florian Lipowitz wird Tour-Dritter
-- [0109] | 4 | Fremdsprache | Foreign language | 说外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的 | Deutsch als Fremdsprache weltweit von großer Bedeutung
-- [0110] | 4 | führt | lead | 领导者 | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
-- [0111] | 4 | G | G | G. G. | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0112] | 4 | Gazastreifen | Gaza | 加沙地带 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
-- [0113] | 4 | geben | give | 发牌吧 | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
-- [0114] | 4 | Geburtenrate | Birth rate | 出生率 | Warum die Geburtenrate in Deutschland immer weiter sinkt
-- [0115] | 4 | Gespräche | Conversations | 谈话 | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
-- [0116] | 4 | Gewalt | Violence | 暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力 | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
-- [0117] | 4 | Globale | Global | 全球化 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0118] | 4 | großer | Large | 大块头,大块头,大块头,大块头,大块头 | Deutsch als Fremdsprache weltweit von großer Bedeutung
-- [0119] | 4 | Hamas | Hamas | 哈马斯 | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
-- [0120] | 4 | Handelsbeziehungen | Trade relations | 贸易关系 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0121] | 4 | hilft | Helps | 幫了大忙 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0122] | 4 | innen | inside | 内心深处 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0123] | 4 | internationale | international | 国际刑警组织 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
-- [0124] | 4 | kann | can | . . . . . | Mit einem Junior-Depot kann man für den Nachwuchs sparen
-- [0125] | 4 | KfW-Kredit | KfW credit | -KFW医院 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0126] | 4 | Laura | Laura | 劳拉 | Deutschland trauert um Laura Dahlmeier
-- [0127] | 4 | leitet | Headed | 领导者 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0128] | 4 | Lipowitz | Lipowitz | 利普维茨 (Lizzowitz) | Deutscher Florian Lipowitz wird Tour-Dritter
-- [0129] | 4 | Marktbericht | Market report | 市场报告 | Marktbericht: DAX macht Boden gut
-- [0130] | 4 | Menschen | People | 人类 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
-- [0131] | 4 | Merz | Merz | 梅爾茲 | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
-- [0132] | 4 | Meter | Meters | 计μ | Anna Elendt wird Weltmeisterin über 100 Meter Brust
-- [0133] | 4 | Mikrobiom | Microbiome | 微生物 | Biopolis – Reise ins Mikrobiom
-- [0134] | 4 | Papst | Pope | 教皇陛下 | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
-- [0135] | 4 | Partnerschaft | Partnership | 合作伙伴关系 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
-- [0136] | 4 | Partnerschaften | Partnerships | 伙伴关系 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0137] | 4 | Ratifizierung | Ratification | 批准书 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0138] | 4 | Reise | Travel | 旅行 | Biopolis – Reise ins Mikrobiom
-- [0139] | 4 | Roma | Roma | 罗马人 | Weimer erinnert an NS-Völkermord an Sinti und Roma
-- [0140] | 4 | Sachsen-Anhalt | Saxony-Anhalt | 撒克逊人的立场 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
-- [0141] | 4 | Sicherer | Safer | 更安全 | EuGH: Sicherer Herkunftsstaat muss für alle sicher sein
-- [0142] | 4 | sichern | Secure | 确保安全 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0143] | 4 | SOFI-Report | SOFI Report | SOFI报告 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0144] | 4 | Startschuss | Launch | 发射目标 | Startschuss für europäischen Ukraine-Wiederaufbaufonds
-- [0145] | 4 | strategische | strategic | 战略性的 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
-- [0146] | 4 | stärken | Strengthen | 加强了它 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
-- [0147] | 4 | Suedlink | Southlink | Sudmink Suedlink | Suedlink transportiert Ökostrom nach Süden
-- [0148] | 4 | südafrikanischen | South African | 南非南非人 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0149] | 4 | Süden | South | 南面,南面 | Suedlink transportiert Ökostrom nach Süden
-- [0150] | 4 | Tour-Dritter | Tour third | 巡演者 | Deutscher Florian Lipowitz wird Tour-Dritter
-- [0151] | 4 | transportiert | transported | 运输工具 | Suedlink transportiert Ökostrom nach Süden
-- [0152] | 4 | trauert | grieving | 哀悼的悲伤. | Deutschland trauert um Laura Dahlmeier
-- [0153] | 4 | Ukraine-Wiederaufbaufonds | Ukraine Reconstruction Fund | 乌克兰重建基金 | Startschuss für europäischen Ukraine-Wiederaufbaufonds
-- [0154] | 4 | Umsetzung | Transposition | 执行情况 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
-- [0155] | 4 | UN-Bericht | UN report | 联合国报告 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0156] | 4 | Union | Union | 联盟 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0157] | 4 | unsicheren | insecure | 不确定性 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0158] | 4 | Unternehmen | Enterprises | 公司,公司,公司,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0159] | 4 | verlässliche | reliable | 可靠的人 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
-- [0160] | 4 | verstärkte | increased | 加强了 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
-- [0161] | 4 | vom | of the | ...来自... ... | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
-- [0162] | 4 | Wachstumschancen | Growth opportunities | 增长机会 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
-- [0163] | 4 | Waffen | Weapons | 武器 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
-- [0164] | 4 | Weltjugendtreffen | World Youth Meeting | 世界青年大会 | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
-- [0165] | 4 | Weltmeisterin | World Champion | 世界冠軍 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
-- [0166] | 4 | weltweit | World | 全球化 | Deutsch als Fremdsprache weltweit von großer Bedeutung
-- [0167] | 4 | weltweiten | Global | 全球化 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
-- [0168] | 4 | werden | will be | ...你将... ... | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
-- [0169] | 4 | wieder | again | 又来一次 | Jetzt sind wieder Perseiden am Nachthimmel zu sehen
-- [0170] | 4 | Wiederaufbau | Reconstruction | 重建,重建,重建,重建,重建,重建,重建,重建,重建,重建,重建,重建,重建和重建. | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
-- [0171] | 4 | Wirtschaftliche | Economic | 经济体 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
-- [0172] | 4 | Zeiten | Periods | 时光飞逝 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
-- [0173] | 4 | Ägypten | Egypt | 埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及和埃及. | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
-- [0174] | 4 | Ökostrom | Green electricity | 生态流 | Suedlink transportiert Ökostrom nach Süden
-- [0175] | 3 | AfD | AfD | AfD | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0176] | 3 | am | Date | 是... ... | Deutsche sitzen im Schnitt zehn Stunden am Tag
-- [0177] | 3 | ARD-Sommerinterview | ARD Summer Interview | Summer Summer interview. | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
-- [0178] | 3 | Aufnahme | Recording | 录音带 | Debatte über Aufnahme von Kindern aus Nahost
-- [0179] | 3 | Banaszak | Banaszak | Banaszak. | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
-- [0180] | 3 | Bayreuther | Bayreuther | 巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚. | Bayreuther Festspiele beginnen
-- [0181] | 3 | beginnen | Start | 开始工作吧 | Bayreuther Festspiele beginnen
-- [0182] | 3 | bis | Until | 直到... ... | Migration: Polen verlängert Grenzkontrollen bis Anfang Oktober
-- [0183] | 3 | darf | may: | 允许... ... | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
-- [0184] | 3 | Deutsches | German | 德国人 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
-- [0185] | 3 | EuGH-Urteil | ECJ judgment | EUREUG 部分. | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
-- [0186] | 3 | Euro | Euro | 欧元 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
-- [0187] | 3 | Europäischer | European | 欧罗巴比亚. | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
-- [0188] | 3 | Festspiele | Festival | 赌局很硬的 | Bayreuther Festspiele beginnen
-- [0189] | 3 | Folgen | Consequences | 随之而来 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
-- [0190] | 3 | fordern | demand | 要求... 要求... | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
-- [0191] | 3 | Frankreichs | France | 法國人 | Isolation hinter Gittern: Frankreichs radikales Haftregime
-- [0192] | 3 | Gefahr | Danger | 危险 危险 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
-- [0193] | 3 | Geld | Money | 钱 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
-- [0194] | 3 | Gerichtshof | Court of Justice | 法庭 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
-- [0195] | 3 | haben“ | have | 与世隔绝 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
-- [0196] | 3 | Hamburg-Berlin | Hamburg-Berlin | Berlin汉堡. | Hamburg-Berlin: Was kommt auf die Fahrgäste der Bahn zu?
-- [0197] | 3 | Herkunftsländer | Countries of origin | 原籍国 | EuGH schärft Kriterien für sichere Herkunftsländer
-- [0198] | 3 | Hilfsgüter | Auxiliary goods | 援助品. | Deutschland fliegt erneut Hilfsgüter nach Gaza
-- [0199] | 3 | Holocaust | Holocaust | 大屠杀 | Rumänien will über Holocaust an Roma nicht mehr schweigen
-- [0200] | 3 | humanitäre | Humanitarian aid | 人道主义方面 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
-- [0201] | 3 | Hunger | Hunger | 饥饿. | Vereinte Nationen warnen vor mehr Hunger in Afrika
-- [0202] | 3 | Häusliche | Domestic | 家庭成员 | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
-- [0203] | 3 | Jahre | Years | 多年了 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
-- [0204] | 3 | Jahren | Years | 多年了 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
-- [0205] | 3 | Katastrophe | Disaster | 灾难 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
-- [0206] | 3 | Kindern | Children | 儿童. | Debatte über Aufnahme von Kindern aus Nahost
-- [0207] | 3 | Klimawandel | Climate change | 气候变化 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
-- [0208] | 3 | kompakt | Compact | 交易完成 | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0209] | 3 | laut | Loud | 大声点 | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
-- [0210] | 3 | macht | power | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}这样 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Sometimes, {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080} | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
-- [0211] | 3 | meldet | Reported | 报告情况 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
-- [0212] | 3 | Nahost | Middle East | 中东地区 | Debatte über Aufnahme von Kindern aus Nahost
-- [0213] | 3 | News | News | 新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻 | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0214] | 3 | Osten | East | 东边 | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
-- [0215] | 3 | Präsident | President | 总统 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
-- [0216] | 3 | Rechte | Rights | 右边,右边 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
-- [0217] | 3 | Reichweite | Range | 射程范围 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
-- [0218] | 3 | Rumänien | Romania | 罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚. | Rumänien will über Holocaust an Roma nicht mehr schweigen
-- [0219] | 3 | schweigen | silent | 沉默不言 | Rumänien will über Holocaust an Roma nicht mehr schweigen
-- [0220] | 3 | sein | be | 他的 | EuGH: Sicherer Herkunftsstaat muss für alle sicher sein
-- [0221] | 3 | Selenskyj | Selenskyj | 塞伦斯基 | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
-- [0222] | 3 | sich | you | 自我 | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
-- [0223] | 3 | sichere | safe | 安全起见 | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
-- [0224] | 3 | sinkt | Lowers | 下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉 | Warum die Geburtenrate in Deutschland immer weiter sinkt
-- [0225] | 3 | Stand | Status | 待命状态 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
-- [0226] | 3 | startet | Starts | 发射程序已启动 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
-- [0227] | 3 | steigen | rise | 爬升 | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
-- [0228] | 3 | Street | Street | 街道上. | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
-- [0229] | 3 | Söder | Söder | 出问题了 出问题了 出问题了 出问题了 出问题了 | Söder fordert Bürgergeld-Stopp für ukrainische Geflüchtete
-- [0230] | 3 | Tesla | Tesla | 泰斯拉 | Tesla stellt Musk riesiges Aktienpaket in Aussicht
-- [0231] | 3 | TikTok | TikTok | 滴答 | Gefakte KI-Umfragen bei TikTok voller Rassismus
-- [0232] | 3 | Titandioxid | Titanium dioxide | 泰坦二氧化合物 | EuGH: Titandioxid darf nicht als krebserregend bezeichnet werden
-- [0233] | 3 | Tote | Dead | 死人 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
-- [0234] | 3 | Trotz | Despite | 纵使如此 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
-- [0235] | 3 | Ukraine | Ukraine | 乌克兰 | Ukraine: "Großangelegtes Korruptionssystem" aufgedeckt
-- [0236] | 3 | Unterstützung | Support | 支持者. | Außenminister Wadephul sichert Palästinensern Unterstützung zu
-- [0237] | 3 | verändert | Changed | 改变. | Wie der Klimawandel das Bergsteigen verändert
-- [0238] | 3 | viele | many | 很多 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
-- [0239] | 3 | wegen | for | 因为... ...因为... | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
-- [0240] | 3 | Wetter | Weather | 天气预报 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
-- [0241] | 3 | Wir | We | 我们... ... | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
-- [0242] | 3 | „Die | "The | ...他们... ... | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
-- [0243] | 2 | Abgasskandal | Exhaust gas scandal | 废气丑闻 | EuGH mahnt angemessene Entschädigung im Abgasskandal an
-- [0244] | 2 | Abschiebung | Deportation | 移位. | Afghanische Geflüchtete im Iran: Abschiebung ins Ungewisse
-- [0245] | 2 | Andersens | Andersens | Andersens. Andersens. | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
-- [0246] | 2 | Anfang | Start | 从头开始 | Migration: Polen verlängert Grenzkontrollen bis Anfang Oktober
-- [0247] | 2 | angemessene | appropriate | 适宜的. | EuGH mahnt angemessene Entschädigung im Abgasskandal an
-- [0248] | 2 | Ankündigung | Announcement | 通知通知 | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
-- [0249] | 2 | Atom-U-Boote | Nuclear submarines | 核潜艇 | News kompakt: Trump bringt Atom-U-Boote in Stellung
-- [0250] | 2 | Atom-U-Booten | Nuclear submarines | 核潜艇 | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
-- [0251] | 2 | Aufarbeitung | Processing | 整理一下 | Coburg und die Aufarbeitung seiner NS-Vergangenheit
-- [0252] | 2 | Aussicht | Prospects | 风景预报 | Tesla stellt Musk riesiges Aktienpaket in Aussicht
-- [0253] | 2 | Austausch | Exchange | 交换条件 | Ukraine-Liveblog: ++ Selenskyj kündigt Austausch von 1.200 Kriegsgefangenen an ++
-- [0254] | 2 | Autobauer | Carmakers | 汽车制造商 | Die deutschen Autobauer geraten ins Schleudern
-- [0255] | 2 | Autopilot-Unfall | Autopilot accident | 自动驾驶事故 | Urteil: Tesla muss wegen Autopilot-Unfall Millionen zahlen
-- [0256] | 2 | bald | soon | 快了 | Künstliche Intelligenz: Müssen wir bald alle coden können?
-- [0257] | 2 | Bangladesch | Bangladesh | 孟加拉国 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0258] | 2 | bedeutet | means | 意思就是... | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
-- [0259] | 2 | beginnt | Starts | 从头开始 | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
-- [0260] | 2 | bekommt | received | 得到... ... | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0261] | 2 | bekräftigen | reaffirm | 重复一遍 | Macron und Merz bekräftigen Zusammenarbeit
-- [0262] | 2 | Bergsteigen | Mountaineering | 攀登山脉 | Wie der Klimawandel das Bergsteigen verändert
-- [0263] | 2 | Berlin | Berlin | 柏林 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
-- [0264] | 2 | Besatzung | Crew | 船员们 | Neue Besatzung an der ISS eingetroffen
-- [0265] | 2 | bezahlbar | Affordable | 可以负担得起的 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
-- [0266] | 2 | bezeichnet | paragraph 1 is replaced by the following: | 叫做... ... | EuGH: Titandioxid darf nicht als krebserregend bezeichnet werden
-- [0267] | 2 | BKA | BKA | BWA (BWA) | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
-- [0268] | 2 | Booking | Booking | '布宜诺斯艾利斯' | Europas Hotellerie fordert Schadenersatz von Booking.com
-- [0269] | 2 | Brand | Fire | Brand Brand Brand. | Unbekannte legen Brand an Datenkabel der Bahn in Sachsen-Anhalt
-- [0270] | 2 | Brandenburg | Brandenburg | Brandenburg | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
-- [0271] | 2 | Brasilien | Brazil | 巴西 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
-- [0272] | 2 | Bum- | Bum- | Bum -bum | Bezahlkarte für Geflüchtete: Wie ein Bum-, Bum-, Bumerang
-- [0273] | 2 | Bürgergeld-Stopp | Citizen money stop | 公民的钱停止了 | Söder fordert Bürgergeld-Stopp für ukrainische Geflüchtete
-- [0274] | 2 | C | C | C. | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
-- [0275] | 2 | CDU-Politikerin | CDU politician | CDU政客 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0276] | 2 | ChatGPT | ChatGPT | CachGPT (ContentGPT) | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
-- [0277] | 2 | Co | Co | Co. Co. | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
-- [0278] | 2 | Coburg | Coburg | Coburg Coburg | Coburg und die Aufarbeitung seiner NS-Vergangenheit
-- [0279] | 2 | com | com | Com | Europas Hotellerie fordert Schadenersatz von Booking.com
-- [0280] | 2 | Community | Community | 社区服务 | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
-- [0281] | 2 | CSD | CSD | CSD (CSD) | Hamburger CSD mit Rekordbeteiligung
-- [0282] | 2 | Datenkabel | Data cable | 数据电缆 | Unbekannte legen Brand an Datenkabel der Bahn in Sachsen-Anhalt
-- [0283] | 2 | Debatte | Debate | 辩论 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0284] | 2 | demonstrieren | Demonstrate | 展示一下 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
-- [0285] | 2 | Drohnenkauf | Drone purchase | 無人機購買 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
-- [0286] | 2 | Drusische | Drusian | 德鲁士语 | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
-- [0287] | 2 | Duda | Duda | 杜达 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
-- [0288] | 2 | Dunkle | Dark | 暗黑使者 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
-- [0289] | 2 | eine | one | 一个... ...一个... ...一个... | Weltjugendtreffen: Mehr als eine Million Jugendliche feiern mit dem Papst
-- [0290] | 2 | einen | one | 一品脱 | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
-- [0291] | 2 | eingetroffen | Arrived | 到达了 | Neue Besatzung an der ISS eingetroffen
-- [0292] | 2 | Einsatz | Mission | 下注吧 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
-- [0293] | 2 | El | El | El... El... | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
-- [0294] | 2 | Elfenbeinküste | Ivory Coast | 科特迪瓦的科特迪瓦 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
-- [0295] | 2 | Entschädigung | Compensation | 赔偿金 | EuGH mahnt angemessene Entschädigung im Abgasskandal an
-- [0296] | 2 | Entwicklung | Development | 发展 | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
-- [0297] | 2 | erreicht | Achieved | 达到了目标 | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
-- [0298] | 2 | ertrunken | drowned | 淹死了 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
-- [0299] | 2 | Es | It | . . . | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
-- [0300] | 2 | Fahrgäste | Passengers | 乘客们 | Hamburg-Berlin: Was kommt auf die Fahrgäste der Bahn zu?
-- [0301] | 2 | Faktencheck | Facts Check | 事实调查 | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
-- [0302] | 2 | Fed-Vorstandsmitglied | Fed board member | 联调局局长 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
-- [0303] | 2 | feiern | Celebrate | 庆祝一下 | Weltjugendtreffen: Mehr als eine Million Jugendliche feiern mit dem Papst
-- [0304] | 2 | festgenommen | Arrested | 被逮捕了 | Mehr als 1.000 illegale Minenarbeiter in Südafrika festgenommen
-- [0305] | 2 | fliegt | flying | 飞翔 | Deutschland fliegt erneut Hilfsgüter nach Gaza
-- [0306] | 2 | Fortschritt | Progress | 进展中 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0307] | 2 | Fußball-Bundesliga | Football Bundesliga | 足球联盟 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
-- [0308] | 2 | fünf | five | 5个 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
-- [0309] | 2 | Gefakte | Cactus | 成交了 | Gefakte KI-Umfragen bei TikTok voller Rassismus
-- [0310] | 2 | geht | go | 走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
-- [0311] | 2 | Geiseln | Hostages | 人质呢? | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
-- [0312] | 2 | Gemischte | Mixed | 混合的混合物. | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
-- [0313] | 2 | geraten | advice | 猜猜看 | Die deutschen Autobauer geraten ins Schleudern
-- [0314] | 2 | Geschäfte | Operations | 生意上的事 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
-- [0315] | 2 | gestärkt | Strengthened | 强度增强了 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
-- [0316] | 2 | gibt | there | 分配给... | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
-- [0317] | 2 | Gittern | Grids | 铁丝网 | Isolation hinter Gittern: Frankreichs radikales Haftregime
-- [0318] | 2 | Grenzkontrollen | Border controls | 边境管制 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
-- [0319] | 2 | H | H | H -H | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
-- [0320] | 2 | Haftregime | Detention regime | 拘留制度 | Isolation hinter Gittern: Frankreichs radikales Haftregime
-- [0321] | 2 | Hamburg | Hamburg | 汉堡 | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
-- [0322] | 2 | Hasina | Hasina | Hasina Hasina | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0323] | 2 | Hausarrest | House arrest | 禁足 | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
-- [0324] | 2 | Herkunftsstaat | Country of origin | 原籍国 | EuGH: Sicherer Herkunftsstaat muss für alle sicher sein
-- [0325] | 2 | Herkunftsstaaten | Country of origin | 原籍国 | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
-- [0326] | 2 | Hilfe | Help | 救命! | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
-- [0327] | 2 | Hilfsgütern | Auxiliary goods | 救援人员 | Nahost-Liveblog: ++ Laut UNRWA warten 6.000 LKW mit Hilfsgütern  ++
-- [0328] | 2 | Hilfslieferungen | Support deliveries | 救济品供应商 | Bundesregierung fordert von Israel mehr Hilfslieferungen über Landweg
-- [0329] | 2 | hinter | behind | 在后座的后面 | Isolation hinter Gittern: Frankreichs radikales Haftregime
-- [0330] | 2 | Hoffnung | Hope | 希望是 | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
-- [0331] | 2 | Hotspots | Hotspots | 热点 | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
-- [0332] | 2 | Härte | Hardness | 硬汉子 | Politiker von Union und SPD fordern mehr Härte bei Bürgergeld
-- [0333] | 2 | Höchststand | Highest level | 最高水平 | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
-- [0334] | 2 | illegale | illegal | 非法的 | Mehr als 1.000 illegale Minenarbeiter in Südafrika festgenommen
-- [0335] | 2 | Inflation | Inflation | 通貨膨胀 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
-- [0336] | 2 | Innenministerium | Ministry of the Interior | 內政部 | Krieg in Nahost: Innenministerium prüft Aufnahme von Kindern aus Gaza und Israel
-- [0337] | 2 | Iran | Iran | 伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗, | Der Iran trocknet aus
-- [0338] | 2 | ISS | ISS | ISS (ISS) | Neue Besatzung an der ISS eingetroffen
-- [0339] | 2 | Italien | Italy | 意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利. | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
-- [0340] | 2 | Jahr | Year | 年复一年 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0341] | 2 | Jemen | Yemen | 也门 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
-- [0342] | 2 | Junior-Depot | Junior depot | 初级禁制令 | Mit einem Junior-Depot kann man für den Nachwuchs sparen
-- [0343] | 2 | Kasachstan | Kazakhstan | 哈萨克斯坦 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
-- [0344] | 2 | kein | none | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不! | Kommt 2026 kein Flüssiggas aus Katar in die EU?
-- [0345] | 2 | KI-Regeln | AI rules | 人工智能规则 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
-- [0346] | 2 | KI-Umfragen | AI surveys | 人工智慧查詢 | Gefakte KI-Umfragen bei TikTok voller Rassismus
-- [0347] | 2 | Klingbeil | Klingbeil | 叮叮当 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
-- [0348] | 2 | Kolumbiens | Colombia | 哥倫比亞隊 | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
-- [0349] | 2 | Kraft | Force | 力量 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
-- [0350] | 2 | krebserregend | carcinogens | 癌癥 | EuGH: Titandioxid darf nicht als krebserregend bezeichnet werden
-- [0351] | 2 | Krieg | War | 战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争 | Krieg in Nahost: Innenministerium prüft Aufnahme von Kindern aus Gaza und Israel
-- [0352] | 2 | Kriegsgefangenen | Prisoners of war | 战俘们 | Ukraine-Liveblog: ++ Selenskyj kündigt Austausch von 1.200 Kriegsgefangenen an ++
-- [0353] | 2 | kündigt | Dismissed | 宣布结束 | Ukraine-Liveblog: ++ Selenskyj kündigt Austausch von 1.200 Kriegsgefangenen an ++
-- [0354] | 2 | Landweg | Land route | 陆路 | Bundesregierung fordert von Israel mehr Hilfslieferungen über Landweg
-- [0355] | 2 | legen | lay | 躺在床上 | Unbekannte legen Brand an Datenkabel der Bahn in Sachsen-Anhalt
-- [0356] | 2 | Leihmüttern | Survivors | 借貸人媽媽們 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
-- [0357] | 2 | Lenin-Kults | Lenin cults | 列宁教堂 | Kommt das Ende des Lenin-Kults in Putins Russland?
-- [0358] | 2 | Lernmittel | Learning tools | 学习用具 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
-- [0359] | 2 | Lkw | Trucks | 卡车 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0360] | 2 | Ländern | Countries | 国家? 国家? | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
-- [0361] | 2 | Machtwille | Power will | 权力的渴望 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
-- [0362] | 2 | Macron | Macron | 麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦克,麦卡伦. | Macron und Merz bekräftigen Zusammenarbeit
-- [0363] | 2 | mahnt | Reminds | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}好吧 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Okay. | EuGH mahnt angemessene Entschädigung im Abgasskandal an
-- [0364] | 2 | man | you | ...你... ... | Mit einem Junior-Depot kann man für den Nachwuchs sparen
-- [0365] | 2 | mehrere | several | 数不清次数 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
-- [0366] | 2 | Migration | Migration | 移民 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
-- [0367] | 2 | Milliarden | Billions | 数十亿美元 | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
-- [0368] | 2 | Minenarbeiter | Mineworkers | 矿工 | Mehr als 1.000 illegale Minenarbeiter in Südafrika festgenommen
-- [0369] | 2 | motivierte | Motivated | 激勵人心的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
-- [0370] | 2 | Märchen | Fairy tales | 童话故事 | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
-- [0371] | 2 | Nachfolger | Successor | 继任者 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
-- [0372] | 2 | Nachthimmel | Night sky | 夜空飞翔 | Jetzt sind wieder Perseiden am Nachthimmel zu sehen
-- [0373] | 2 | Nachwuchs | Young people | 小屁孩 | Mit einem Junior-Depot kann man für den Nachwuchs sparen
-- [0374] | 2 | Nationen | Nations | 国家,国家,国家,国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家. | Vereinte Nationen warnen vor mehr Hunger in Afrika
-- [0375] | 2 | Nawrocki | Nawrocki | 纳瓦基 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
-- [0376] | 2 | neuen | new | 新的... | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
-- [0377] | 2 | Niederlande | Netherlands | 荷兰 | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
-- [0378] | 2 | nominieren | nominate | 提名 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
-- [0379] | 2 | Norden | North | 北边 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
-- [0380] | 2 | NS-Vergangenheit | NS past | NS历史 | Coburg und die Aufarbeitung seiner NS-Vergangenheit
-- [0381] | 2 | Ouattaras | Ouattaras | 瓦拉萨拉萨斯岛 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
-- [0382] | 2 | Palästinensern | Palestinians | 巴勒斯坦人是巴勒斯坦人 | Außenminister Wadephul sichert Palästinensern Unterstützung zu
-- [0383] | 2 | Perseiden | Perseids | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不! | Jetzt sind wieder Perseiden am Nachthimmel zu sehen
-- [0384] | 2 | Polen | Poland | 波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人. | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
-- [0385] | 2 | Polens | Poland | 波兰人 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
-- [0386] | 2 | politisch | political | 政治上来说 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
-- [0387] | 2 | Premierministerin | Prime Minister | 首相女士 Prime Minister. | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0388] | 2 | Proteste | Protests | 抗议活动 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
-- [0389] | 2 | Prozent | Percentage | 百分之百 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
-- [0390] | 2 | Präsidialamt | President's Office | 总务部 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
-- [0391] | 2 | prüft | Checked | 核对过了 | Krieg in Nahost: Innenministerium prüft Aufnahme von Kindern aus Gaza und Israel
-- [0392] | 2 | Putins | Putin's | 普京家族的人 | Kommt das Ende des Lenin-Kults in Putins Russland?
-- [0393] | 2 | radikales | Radical | 激进的激进分子 | Isolation hinter Gittern: Frankreichs radikales Haftregime
-- [0394] | 2 | Rassismus | Racism | 種族歧視 | Gefakte KI-Umfragen bei TikTok voller Rassismus
-- [0395] | 2 | Reaktionen | Reactions | 反应堆. | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
-- [0396] | 2 | Regierungschef | Head of Government | 国务卿 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
-- [0397] | 2 | reisen | travel | 旅行 | Statistisches Bundesamt: Deutsche reisen immer mehr
-- [0398] | 2 | Rom | Rome | 罗马 | Weltjugendtreffen in Rom: Was erwartet die Jugend vom Papst?
-- [0399] | 2 | Rund | Round | 圆形的 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
-- [0400] | 2 | russische | Russian | 俄国佬 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
-- [0401] | 2 | Rücktritt | Resignation | 辞职 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
-- [0402] | 2 | Schleudern | Spinning | 投掷弹弓 | Die deutschen Autobauer geraten ins Schleudern
-- [0403] | 2 | Schmerz | Pain | 痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦. 痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦. | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
-- [0404] | 2 | Schulbedarf | Education needs | 学校的需要 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
-- [0405] | 2 | Sechsjährigen | Six-year-olds | 六岁小孩 | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
-- [0406] | 2 | sehen | see | 看到没? | Jetzt sind wieder Perseiden am Nachthimmel zu sehen
-- [0407] | 2 | Sehnsucht | Longing | 渴望... 渴望... | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
-- [0408] | 2 | seiner | of the | 他的. . . | Coburg und die Aufarbeitung seiner NS-Vergangenheit
-- [0409] | 2 | seit | since | 从那时起 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
-- [0410] | 2 | sicher | safe | 安全起见 | EuGH: Sicherer Herkunftsstaat muss für alle sicher sein
-- [0411] | 2 | sichert | Secured | 确保安全 | Außenminister Wadephul sichert Palästinensern Unterstützung zu
-- [0412] | 2 | sitzen | sitting | 坐下 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0413] | 2 | Sorge | Care | 你担心什么? | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
-- [0414] | 2 | spaltet | Splits | 分裂成两半 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
-- [0415] | 2 | sparen | Save | 节约开支 | Mit einem Junior-Depot kann man für den Nachwuchs sparen
-- [0416] | 2 | SPD | SPD | 社民党 (SPD) | Politiker von Union und SPD fordern mehr Härte bei Bürgergeld
-- [0417] | 2 | Sportlern | Athletes | 运动员们 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
-- [0418] | 2 | Start | Start | 升空了 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
-- [0419] | 2 | Strand | Beach | 海滩 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
-- [0420] | 2 | Streit | Dispute | 打架,打架,打架,打架,打架,打架,打架,打架,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗 | Streit mit Medwedew: Trump setzt Atom-U-Boote in Bewegung
-- [0421] | 2 | Strengere | Stricter | 更严格的,更严格的 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
-- [0422] | 2 | Stunden | Hours | 几个小时 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0423] | 2 | Sturm | Storm | 暴风雪 | Kroaten und Serben gedenken der Militäroperation "Sturm"
-- [0424] | 2 | Sturz | Fall | 摔跤 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
-- [0425] | 2 | Sudan | Sudan | 苏丹 | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
-- [0426] | 2 | Suwaida | Suwaida | Suwaida. | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
-- [0427] | 2 | Südkorea | South Korea | 韩国人,韩国人,韩国人,韩国人,韩国人,韩国人 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
-- [0428] | 2 | Tag | Day | 午安 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0429] | 2 | Teure | Expensive | 亲爱的 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
-- [0430] | 2 | treten | Steps | 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
-- [0431] | 2 | Unbekannte | Unknown | 未知号码 | Unbekannte legen Brand an Datenkabel der Bahn in Sachsen-Anhalt
-- [0432] | 2 | Uribe | Uribe | eurobe | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
-- [0433] | 2 | Urteil | Judgment | 判决书 | Urteil: Tesla muss wegen Autopilot-Unfall Millionen zahlen
-- [0434] | 2 | Verbraucherschützer | Consumer protection | 消费者的消费商. | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
-- [0435] | 2 | Vereinte | United | 联合国 | Vereinte Nationen warnen vor mehr Hunger in Afrika
-- [0436] | 2 | Verlegung | Transfer | 转移了 | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
-- [0437] | 2 | verletzt | Injured | 你受伤了吗? | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0438] | 2 | Verletzte | Injured | 受伤的伤员 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
-- [0439] | 2 | verlängert | prolonged | 延长期限 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
-- [0440] | 2 | verschiebt | Moved | 推遲了 | News kompakt: Trump verschiebt Zölle und verhängt neue Sätze
-- [0441] | 2 | verschärfen | exacerbate | 更糟的是 | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
-- [0442] | 2 | voller | Full | 满地都是 | Gefakte KI-Umfragen bei TikTok voller Rassismus
-- [0443] | 2 | Wachstum | Growth | 经济增长 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
-- [0444] | 2 | Wall | Wall | 墙壁 | Marktbericht: Zoll-Schock an der Wall Street
-- [0445] | 2 | warnen | Warning | 警告: | Vereinte Nationen warnen vor mehr Hunger in Afrika
-- [0446] | 2 | Warnung | Warning | (PHP 4 = 4.2.0) | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
-- [0447] | 2 | Wechsel | Change | 换个话题吧 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
-- [0448] | 2 | weitere | other | 其它... ... | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
-- [0449] | 2 | Welthungerhilfe | World hunger aid | 世界饥饿援助. | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
-- [0450] | 2 | wirft | throws | 投掷. | Nahost-Liveblog: ++ Deutschland wirft erneut Hilfsgüter über dem Gazastreifen ab   ++
-- [0451] | 2 | Wolfsattacke | Wolf Attack | 狼的攻击. | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
-- [0452] | 2 | Zahl | Number | 数字 | Zahl der Asyl-Anträge in Deutschland halbiert sich
-- [0453] | 2 | zahlen | pay | 支付. | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
-- [0454] | 2 | zehn | 10 | 10个 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0455] | 1 | -Bewegung | -Movement | - 移动 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
-- [0456] | 1 | -Jähriger | -year-old | - 年青人 | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
-- [0457] | 1 | -Tage-Woche | -day-week | - 星期日 | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
-- [0458] | 1 | aber | but | 但是... | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
-- [0459] | 1 | ablegen | Store | 放下枪,放下枪 | Hamas will nur für unabhängigen Staat Waffen ablegen
-- [0460] | 1 | Abschuss | Launch | 发射 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
-- [0461] | 1 | Absichtliches | Intentional | 故意的 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
-- [0462] | 1 | Absturz | Crash | 坠机了 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
-- [0463] | 1 | Abwehr | Defense | 防守! | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
-- [0464] | 1 | Abwurf | Discard | 投弹 | Bundeswehr beginnt mit Abwurf von Hilfsgütern über Gazastreifen
-- [0465] | 1 | Afghanen | Afghans | 阿富汗人 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
-- [0466] | 1 | Afghanische | Afghanistan | 阿富汗人 | Afghanische Geflüchtete im Iran: Abschiebung ins Ungewisse
-- [0467] | 1 | Airlines | Airlines | 航空公司 | Verbraucherschützer verklagen Airlines wegen Handgepäck-Gebühren
-- [0468] | 1 | Aktienpaket | Share package | 股票组合 | Tesla stellt Musk riesiges Aktienpaket in Aussicht
-- [0469] | 1 | Aktion | Action | 行动 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
-- [0470] | 1 | aktuelle | Current | 当前情况是... | Donald Trumps Zölle: Was ist der aktuelle Stand?
-- [0471] | 1 | akzeptiert | Accepted | 接受 | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
-- [0472] | 1 | alt | old | 老掉牙了 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
-- [0473] | 1 | Alternativen | Alternatives | 其它选择 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
-- [0474] | 1 | Amazon | Amazon | 亚马逊. 亚马逊. | Amazon enttäuscht mit Wachstum der Cloud-Sparte
-- [0475] | 1 | Angebote | Tenders | 出价 | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
-- [0476] | 1 | Angriffe | Attacks | 攻击 | Trump nennt russische Angriffe auf Ukraine "widerwärtig"
-- [0477] | 1 | Animagic | Animagic | 魔咒 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
-- [0478] | 1 | Anschlag | Attack | 袭击 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
-- [0479] | 1 | Anschläge | Attacks | 袭击 | Was ist über die mutmaßlichen Anschläge auf Bahnanlagen bekannt?
-- [0480] | 1 | Antike | Ancient | 古典音乐 | Von der Antike bis heute: Die Magie der Brunnen
-- [0481] | 1 | Antworten | Answers | 答案是: | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
-- [0482] | 1 | Anwalt | Lawyer | 律师 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
-- [0483] | 1 | Anwendung | Administration | 应用程序 | Digitale Anwendung zeigt Folgen des Klimawandels
-- [0484] | 1 | Apple | Apple | Apple Apple | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
-- [0485] | 1 | Archäologie | Archaeology | 考古学 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
-- [0486] | 1 | Armee | Army | 军队 | Israelische Armee: Ein Trauma ist kein Ausmusterungsgrund mehr
-- [0487] | 1 | Astronomie | Astronomy | 天文学 | Astronomie: Planetenwettlauf morgens im August
-- [0488] | 1 | Asyl-Anträge | Asylum applications | 避难所的避难所 | Zahl der Asyl-Anträge in Deutschland halbiert sich
-- [0489] | 1 | Asylverfahren | Asylum procedures | 庇护程序 | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
-- [0490] | 1 | Aufbruchssignal | Break-out signal | 出发信号 | Syrien: Parlamentswahlen als Aufbruchssignal?
-- [0491] | 1 | aufgedeckt | Revealed | 暴露身份了 | Ukraine: "Großangelegtes Korruptionssystem" aufgedeckt
-- [0492] | 1 | August | August | 奥古斯特 | Astronomie: Planetenwettlauf morgens im August
-- [0493] | 1 | Ausbildungsstart | Start of training | 训练开始 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
-- [0494] | 1 | Auserwählte | Selected | 天选之子 | "Chief of War": Ist dieser Mann der Auserwählte?
-- [0495] | 1 | ausgehungerter | Starved | 饥饿的... | Videos ausgehungerter Geiseln schockieren Israel
-- [0496] | 1 | Ausmusterungsgrund | Expulsion reason | 模式原因之一 | Israelische Armee: Ein Trauma ist kein Ausmusterungsgrund mehr
-- [0497] | 1 | Aussichten | Prospects | 前途无量 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
-- [0498] | 1 | BAföG-Empfänger | BAföG receiver | 帆船捕获者 | Zahl der BAföG-Empfänger auf niedrigstem Stand seit 25 Jahren
-- [0499] | 1 | Bahnanlagen | Railway installations | 铁路公司 | Was ist über die mutmaßlichen Anschläge auf Bahnanlagen bekannt?
-- [0500] | 1 | Bahnsanierung | Refurbishment | 铁路重建 | Folgen der Bahnsanierung: Ein Krankenhaus wird zum Fuhrunternehmen
-- [0501] | 1 | Balkon | Balcony | 阳台 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
-- [0502] | 1 | Ballsaal | Ballroom | 舞厅 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
-- [0503] | 1 | bauen | Building | 建筑工地 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
-- [0504] | 1 | Bayern | Bavaria | 巴伐利亚人 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
-- [0505] | 1 | Bedingungen | Conditions | 条件是... | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
-- [0506] | 1 | bedroht | Threatened | 威胁到我们 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
-- [0507] | 1 | beendet | Finished | 结束,结束 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
-- [0508] | 1 | Begegnung | Meeting | 见过面了 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0509] | 1 | Beifahrer | Passengers | 副驾驶 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0510] | 1 | Beirut | Beirut | 贝鲁特 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
-- [0511] | 1 | bekannt | known | 众所周知 | Was ist über die mutmaßlichen Anschläge auf Bahnanlagen bekannt?
-- [0512] | 1 | Bergleute | Miners | 矿工们 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
-- [0513] | 1 | Bericht | Report | 报告 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
-- [0514] | 1 | Berlins | Berlin | 柏林 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
-- [0515] | 1 | besitzen | own | 擁有它 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
-- [0516] | 1 | besucht | Visited | 探访? | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
-- [0517] | 1 | bewahren | Keep | 保住性命 | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
-- [0518] | 1 | Bewegung | Movement | 动作快 | Streit mit Medwedew: Trump setzt Atom-U-Boote in Bewegung
-- [0519] | 1 | bewertet | evaluated | 评估结果 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
-- [0520] | 1 | Bezahlkarte | Payment card | 付款卡 | Bezahlkarte für Geflüchtete: Wie ein Bum-, Bum-, Bumerang
-- [0521] | 1 | bezwingt | Conquered | 胜利了! | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
-- [0522] | 1 | Bilder | Pictures | 照片,照片,照片,照片,照片,照片,图片 | Vermischtes: Bilder des Tages
-- [0523] | 1 | BKA-Statistik | BKA statistics | BWA统计学 | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
-- [0524] | 1 | bleiben | stay | 留下吧 | Mütter bleiben häufiger für krankes Kind zu Hause
-- [0525] | 1 | Blitzer-Einsatz | Blitzer bet | 闪电行动 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
-- [0526] | 1 | Blue | Blue | Blue Blue | "Summertime" von George Gershwin: Sommerlied in Blue
-- [0527] | 1 | Boden | Soil | 地板 | Marktbericht: DAX macht Boden gut
-- [0528] | 1 | Bolivien | Bolivia | 玻利维亚 | Bolivien: Machtkampf um das weiße Gold
-- [0529] | 1 | Bootsunglück | Boat accident | 船失事 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
-- [0530] | 1 | Borreliose | Lyme Disease | 冠狀動脈病 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
-- [0531] | 1 | Brandanschläge | Fire attacks | 纵火案 | Brandanschläge: Bahnstrecke nach Sabotage wieder freigegeben
-- [0532] | 1 | Brandmauer | Firewall | 防火墙 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0533] | 1 | Brandschäden | Fire damage | 火災的傷亡 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
-- [0534] | 1 | Brandstiftung | Arson | 纵火案 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
-- [0535] | 1 | Brandsätze | Sets of fires | 火药片 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
-- [0536] | 1 | bringt | European | 带来... ... | News kompakt: Trump bringt Atom-U-Boote in Stellung
-- [0537] | 1 | Brosius-Gersdorf | Brosius-Gersdorf | Brouseus-Gersdorf | SPD fordert Union zu Gespräch mit Brosius-Gersdorf auf
-- [0538] | 1 | Brunnen | Well | 喷泉 | Von der Antike bis heute: Die Magie der Brunnen
-- [0539] | 1 | Brücke | Bridge | 桥梁 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0540] | 1 | BSR | BSR | BSR,BSR,BSR,BSR,BR,SR,B,SR,SR,SR,B,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,R,S,S,S,S,S,S,S,S,S和,S,S,S,S,R,S,S,S,S,S,S,R,S,S,S,,,,,,,,S,,,,,,,,,,,,,,S,,S,,,,,,,S,S,,,,S,S,S,,,,,S,,,,,,,,,,,,,S,,,S,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
-- [0541] | 1 | Bumerang | Bumerang | Bumerang Bumerang | Bezahlkarte für Geflüchtete: Wie ein Bum-, Bum-, Bumerang
-- [0542] | 1 | Bundesamt | Federal Office | 联邦办公室 | Statistisches Bundesamt: Deutsche reisen immer mehr
-- [0543] | 1 | Bundestagspräsidentin | President of the Bundestag | 德国总统日 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
-- [0544] | 1 | Bundeswehr | Bundeswehr | 联邦武装部队 | Bundeswehr beginnt mit Abwurf von Hilfsgütern über Gazastreifen
-- [0545] | 1 | Bußgeld | Penalties | 罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
-- [0546] | 1 | Börse | Exchange | 股票交易所 | Marktbericht: Trump-Zölle drücken die Börse
-- [0547] | 1 | Bürgergeld-Zahlungen | Citizen's money payments | 公民津贴的支付额 | Bürgergeld-Zahlungen steigen auf knapp 47 Milliarden Euro
-- [0548] | 1 | B’Av | B-Av | BARTHAV. | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
-- [0549] | 1 | Cannabis | Cannabis | 大麻 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0550] | 1 | Cannabis-Club | Cannabis Club | 大麻俱乐部 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0551] | 1 | CAS | CAS | CASE CASE CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE. | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
-- [0552] | 1 | CAS-Schiedssprüche | CAS claims | CAS暗号 | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
-- [0553] | 1 | Charkiw | Kharkiv | Charkaw | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
-- [0554] | 1 | Chief | Chief | Chief Chief. Chief Chief. | "Chief of War": Ist dieser Mann der Auserwählte?
-- [0555] | 1 | Chile | Chile | 智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利. | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
-- [0556] | 1 | China | China | 中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國. | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0557] | 1 | Christopher | Christopher | Christopher Christopher | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
-- [0558] | 1 | City | City | 城市 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
-- [0559] | 1 | Cloud-Sparte | Cloud division | 云口 | Amazon enttäuscht mit Wachstum der Cloud-Sparte
-- [0560] | 1 | coden | code | coden | Künstliche Intelligenz: Müssen wir bald alle coden können?
-- [0561] | 1 | Comedys | Comedys | Comedys Comings. | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
-- [0562] | 1 | Cranger | Cranger | Cranger是Cranger. | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
-- [0563] | 1 | Crocus | Crocus | Crocus. | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
-- [0564] | 1 | Dating-App | Dating app | 约会应用程序 | Dating-App Tea: Vorsicht, Schmierlappen!
-- [0565] | 1 | DAX | DAX | DAX DAX | Marktbericht: DAX macht Boden gut
-- [0566] | 1 | Day | Day | Day Day | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
-- [0567] | 1 | DDR-Machtsymbol | DDR Power Symbol | 东德力量符号 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
-- [0568] | 1 | de | de | de de | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
-- [0569] | 1 | Deal | Deal | 一言为定 | Israels Regierungschef Netanjahu: "Die Hamas will keinen Deal"
-- [0570] | 1 | decken | cover | 掩护我 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
-- [0571] | 1 | Demo | Demo | 示威游行 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
-- [0572] | 1 | demonstriert | Demonstrated | 展示一下 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
-- [0573] | 1 | Desinformation | Disinformation | 泄露信息 | Faktencheck: Netanjahus Desinformation über Hunger in Gaza
-- [0574] | 1 | deutlich | Clear | 清楚了吗? | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
-- [0575] | 1 | Deutschlands | Germany | 德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国. | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
-- [0576] | 1 | dieser | This | 这个... | "Chief of War": Ist dieser Mann der Auserwählte?
-- [0577] | 1 | Digitale | Digital | 数码数字 | Digitale Anwendung zeigt Folgen des Klimawandels
-- [0578] | 1 | Distanz | Distance | 距离太遠了 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
-- [0579] | 1 | distanziert | distanced | 疏远我 | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
-- [0580] | 1 | Disziplin | Discipline | 紀律 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
-- [0581] | 1 | Dollar | Dollars | 美元 | Fed : Wer ist mächtiger: Trump oder der Dollar?
-- [0582] | 1 | Donald | Donald | 唐纳德 | Donald Trumps Zölle: Was ist der aktuelle Stand?
-- [0583] | 1 | Doppel-Test | Double test | 双重测试 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
-- [0584] | 1 | Doppelpacker | Double packers | 双层包装箱 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
-- [0585] | 1 | Drama | Drama | 戏剧性地讲 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
-- [0586] | 1 | Dresden | Dresden | 德累斯顿 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
-- [0587] | 1 | Drogenhändler | Drug traffickers | 毒品贩子 | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
-- [0588] | 1 | drohen | Threaten | 威胁... 威胁... | Rund um den Globus: Welchen Ländern welche Zölle drohen
-- [0589] | 1 | Drohnen | Drones | 无人机 | Mit niederländischen Tulpennetzen gegen Drohnen
-- [0590] | 1 | Drohnenangriffen | Drone attacks | 无人机攻击 | Ukraine-Liveblog: ++ Russland meldet Tote nach Drohnenangriffen ++
-- [0591] | 1 | drücken | press | 按下按键 | Marktbericht: Trump-Zölle drücken die Börse
-- [0592] | 1 | Dubiose | Dubiosis | 阴性二人组 | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
-- [0593] | 1 | durchsuchen | Browse | 搜身 | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
-- [0594] | 1 | Dynamo | Dynamo | Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo. | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
-- [0595] | 1 | dürfen | may: | 允许我... ... | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
-- [0596] | 1 | ebnet | level | -a -b -b | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
-- [0597] | 1 | Ehemalige | Former | 之前的我 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
-- [0598] | 1 | eher | more | 更像是... | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
-- [0599] | 1 | Eilantrags | Urgent request | 紧急申请 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
-- [0600] | 1 | einige | some | 有些是... | Trump verschiebt Start neuer Zölle um einige Tage
-- [0601] | 1 | Einstellung | Recruitment | 设定设置 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
-- [0602] | 1 | einstiges | former | 从前的你 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0603] | 1 | Einstufung | Classification | 升职了 | EuGH erhöht Hürden für Einstufung sicherer Herkunftsländer
-- [0604] | 1 | Einweg | Disposable | 一次性地走 | Verpackungsmüll: So macht Einweg weiter Probleme
-- [0605] | 1 | empören | Indignant | 气愤不已 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
-- [0606] | 1 | Emsland | Emsland | 艾姆斯兰 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
-- [0607] | 1 | entdeckt | discovered | 被发现了 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
-- [0608] | 1 | Entlassung | Dismissal | 裁员 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
-- [0609] | 1 | entscheiden | Decide | 决定权在他们身上 | Nahost-Liveblog: ++ Merz will bald über Israel-Sanktionen entscheiden ++
-- [0610] | 1 | entscheidet | Decides | 决定权在他们身上 | Europäischer Gerichtshof entscheidet zu sicheren Herkunftsländern
-- [0611] | 1 | entsetzt | Horrified | 令人震惊的. | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
-- [0612] | 1 | enttäuscht | Disappointed | 失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望 | Amazon enttäuscht mit Wachstum der Cloud-Sparte
-- [0613] | 1 | Er | He | 他... | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
-- [0614] | 1 | erfolgreich | successful | 成功 成功 | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
-- [0615] | 1 | erhöht | increased | 增加 | EuGH erhöht Hürden für Einstufung sicherer Herkunftsländer
-- [0616] | 1 | erinnert | Reminds | 提醒一下 | Weimer erinnert an NS-Völkermord an Sinti und Roma
-- [0617] | 1 | Ermittler | Investigator | 调查员 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
-- [0618] | 1 | erneute | Renewed | 再次出现 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
-- [0619] | 1 | Ernte | Harvest | 收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
-- [0620] | 1 | erschüttert | Shattered | 震驚. . . | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
-- [0621] | 1 | erste | First | 第一 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
-- [0622] | 1 | Erster | First | 第1季 第3集 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0623] | 1 | erwartet | Expected | 我期待着... ... | Weltjugendtreffen in Rom: Was erwartet die Jugend vom Papst?
-- [0624] | 1 | Eryn | Eryn | 艾琳 | "Furye" von Kat Eryn Rubik: Zeit für Rache
-- [0625] | 1 | erzielt | Achieved | 成功啦! | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
-- [0626] | 1 | eröffnet | opened | 打开了 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
-- [0627] | 1 | EU-Urteil | EU judgment | 欧盟部分 | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
-- [0628] | 1 | Europas | Europe | 欧洲,欧洲,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟, | Europas Hotellerie fordert Schadenersatz von Booking.com
-- [0629] | 1 | Euroraum | Euro area | 欧元区,欧元区,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟和欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟, | Inflation im Euroraum stabil auf EZB-Zielmarke von 2,0 Prozent
-- [0630] | 1 | Ex-Präsidenten | Ex-Presidents | 前任总统 | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
-- [0631] | 1 | Ex-Staatschef | Former Head of State | 前国务卿 | Zwölf Jahre Hausarrest für Kolumbiens Ex-Staatschef Uribe
-- [0632] | 1 | Exil-Oppositionelle | Exile oppositionists | 流放的上流社会人士 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
-- [0633] | 1 | Explodierende | Exploding | 爆炸了 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0634] | 1 | Explosion | Explosion | 爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸. | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
-- [0635] | 1 | Extremhitze | Extreme heat | 热得不得了 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
-- [0636] | 1 | Extremisten | Extremists | 极端分子 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
-- [0637] | 1 | EZB-Zielmarke | ECB target brand | 欧洲央行的目标牌 | Inflation im Euroraum stabil auf EZB-Zielmarke von 2,0 Prozent
-- [0638] | 1 | Familie | Family | 家人呢? | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
-- [0639] | 1 | Fassungslosigkeit | Absorption | 难以启齿 | Fassungslosigkeit in der Schweiz über US-Zölle
-- [0640] | 1 | fast | almost | 几乎是... | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
-- [0641] | 1 | Fat | Fat | 肥子 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
-- [0642] | 1 | Fed | Fed | 美联储 | Fed : Wer ist mächtiger: Trump oder der Dollar?
-- [0643] | 1 | Femmes | Femmes | Femms | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
-- [0644] | 1 | Ferienstart | Holiday start | 暑假的起点 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
-- [0645] | 1 | Fernsehturm | Television Tower | 电视塔台 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
-- [0646] | 1 | Ferrand-Prévot | Ferrand-Prévot | Ferrand-Prévot | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
-- [0647] | 1 | Fleischpreisen | Meat prices | 肉类价格 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
-- [0648] | 1 | Floris | Floris | 弗洛里斯 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
-- [0649] | 1 | Flugreisen | Air travel | 飞行旅行 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
-- [0650] | 1 | Flüchtlinge | Refugees | 难民 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
-- [0651] | 1 | Flüssiggas | Liquefied petroleum gas | 液态气体 | Kommt 2026 kein Flüssiggas aus Katar in die EU?
-- [0652] | 1 | Flüssigkeit | Liquid | 液体 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
-- [0653] | 1 | Fotos | Photos | 照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
-- [0654] | 1 | France | France | 法兰西丝 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
-- [0655] | 1 | Freiburg | Freiburg | Freeburg | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
-- [0656] | 1 | freigegeben | Released | 自由释放 | Brandanschläge: Bahnstrecke nach Sabotage wieder freigegeben
-- [0657] | 1 | Freiheit | Freedom | 自由 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
-- [0658] | 1 | Freispruch | Acquittal | 无罪释放 | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
-- [0659] | 1 | Frieden | Peace | 和平与否 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
-- [0660] | 1 | Friedhof | Cemetery | 墓地 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
-- [0661] | 1 | Front | Front | 前线 | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
-- [0662] | 1 | Frontalzusammenstoß | Frontal collision | 正面撞击 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
-- [0663] | 1 | Fuchsbandwurm-Infektionen | Foxbandworm infections | 狐狸皮带寄生虫感染 | Parasiten: Immer mehr Fuchsbandwurm-Infektionen
-- [0664] | 1 | Fuhrunternehmen | Cars | 运输公司 | Folgen der Bahnsanierung: Ein Krankenhaus wird zum Fuhrunternehmen
-- [0665] | 1 | Fulda | Fulda | Fulda Fulda | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0666] | 1 | fundamentale | fundamental | 基本的 | Gaza-Krieg: Außenminister Wadephul fordert "fundamentale Änderung"
-- [0667] | 1 | funktionieren | work | 起作用了 | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
-- [0668] | 1 | Furye | Furye | 弗瑞 | "Furye" von Kat Eryn Rubik: Zeit für Rache
-- [0669] | 1 | Futkeu | Futkeu | 福吉欧 (Futkeu Futkeu) | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
-- [0670] | 1 | Fußball-Liga | Football League | 足球迷彩排 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
-- [0671] | 1 | Fußfessel-Technik | Footband technology | 脚环技巧 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
-- [0672] | 1 | Fördermittel | Subsidies | 投入资金 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
-- [0673] | 1 | fürchten | Fear | 害怕恐惧 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
-- [0674] | 1 | Fürth | Forth | Forth | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
-- [0675] | 1 | Ganztag | Full day | 全天候 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
-- [0676] | 1 | Gaza-Krieg | Gaza War | 加沙战争 | Gaza-Krieg: Außenminister Wadephul fordert "fundamentale Änderung"
-- [0677] | 1 | gedenken | remember | 癘拘 | Kroaten und Serben gedenken der Militäroperation "Sturm"
-- [0678] | 1 | gefallene | Falling | 跌落. | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
-- [0679] | 1 | Gefangene | Prisoners | 俘虏们 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
-- [0680] | 1 | Gefährlicher | Dangerous | 更危险,更危险 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
-- [0681] | 1 | Gefälschte | Fake | 假的假的 | Gefälschte Medikamente: Ein weltweites Problem
-- [0682] | 1 | geförderte | of the | 支持的. . . | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
-- [0683] | 1 | gegenüber | compared to | 对面的街区 | Bundesregierung verschärft den Ton gegenüber Israel
-- [0684] | 1 | gekommen | come | 来了 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
-- [0685] | 1 | gemeinsame | Joint | 共同点是: | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0686] | 1 | Generalsanierung | General rehabilitation | {\fnSimHei\bord1\shad1\pos (200,288) }大功告成 {\fnSimHei\bord1\shad1\pos (200,288) }大功告成 {\fnSimHei\bord1\shad1\pos (200,288) }大功告成 | Bahnstrecke Hamburg-Berlin: Generalsanierung - muss das sein?
-- [0687] | 1 | George | George | 乔治 | "Summertime" von George Gershwin: Sommerlied in Blue
-- [0688] | 1 | Gerechtigkeit | Justice | 伸张正义 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
-- [0689] | 1 | Gerichte | Courts | 法庭,法院,法院,法院,法院,法院,法院,法院,法院,法院等 | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
-- [0690] | 1 | Gerichtsbeschluss | Court decision | 法院判决书 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
-- [0691] | 1 | Gershwin | Gershwin | 格什温 | "Summertime" von George Gershwin: Sommerlied in Blue
-- [0692] | 1 | gesichert | Secured | 安全起见 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
-- [0693] | 1 | Gespräch | Conversation | 谈话. | SPD fordert Union zu Gespräch mit Brosius-Gersdorf auf
-- [0694] | 1 | gestellten | Total | 假扮的假人 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
-- [0695] | 1 | gestorben | Died | 死了 | US-Regisseur Robert Wilson mit 83 Jahren gestorben
-- [0696] | 1 | Gesundheit | Health | - 健康 - 健康 - 健康 | Gefahr für die Gesundheit: Wie schädlich ist Titandioxid?
-- [0697] | 1 | Getreideernte | Cereal harvest | 庄稼的收成 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
-- [0698] | 1 | getötet | Killed | 杀了人 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
-- [0699] | 1 | gewinnt | wins | 赢了 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
-- [0700] | 1 | Gewitter | Thunderstorms | 雷暴雨 | Wetter: Weiter Schauer und Gewitter im Norden
-- [0701] | 1 | Gintautas | Gintautas | 银陶塔 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
-- [0702] | 1 | Globus | Globe | 全球化 | Rund um den Globus: Welchen Ländern welche Zölle drohen
-- [0703] | 1 | Gold | Gold | 金子 | Bolivien: Machtkampf um das weiße Gold
-- [0704] | 1 | Grenze | Boundary | 国界线 | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
-- [0705] | 1 | Grenzen | Boundaries | 限制是有限的 | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
-- [0706] | 1 | Großangelegtes | Large-scale | 大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头 | Ukraine: "Großangelegtes Korruptionssystem" aufgedeckt
-- [0707] | 1 | Gräuel-Videos | Atrocious Videos | 恐怖录像带 | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
-- [0708] | 1 | größere | Larger | 更大的是... | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
-- [0709] | 1 | Grünen | Greens | 绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
-- [0710] | 1 | Grünen-Vorsitzendem | Green Chairman | 绿色领袖. | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
-- [0711] | 1 | grünes | Green | 绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0712] | 1 | gut | Good | 好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好. | Marktbericht: DAX macht Boden gut
-- [0713] | 1 | Gähn | yawning | 打哈欠 | Langeweile: Gähn.
-- [0714] | 1 | haben | have | . . . . | Wieso immer mehr Menschen Nebenjobs haben
-- [0715] | 1 | Haft | Detention | 拘留所 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
-- [0716] | 1 | halbiert | Halved | 一半分解 | Zahl der Asyl-Anträge in Deutschland halbiert sich
-- [0717] | 1 | Hall | Hall | 霍尔 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
-- [0718] | 1 | halten | Keep | 稳住 | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0719] | 1 | Hamas-Geisel | Hamas hostage | 哈马斯之锤 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
-- [0720] | 1 | Hamas-Geiselnahme | Hamas hostage-taking | 哈马斯之战 | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
-- [0721] | 1 | Hamburger | Hamburger | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}汉堡包 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Burgers. | Hamburger CSD mit Rekordbeteiligung
-- [0722] | 1 | Handelspolitik | Commercial policy | 贸易政策 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
-- [0723] | 1 | Handelsroute | Trade route | 贸易路线 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
-- [0724] | 1 | Handgepäck | Hand luggage | 随身行李包 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
-- [0725] | 1 | Handgepäck-Gebühren | Hand baggage charges | 随身行李收藏商 | Verbraucherschützer verklagen Airlines wegen Handgepäck-Gebühren
-- [0726] | 1 | hat | has | ...他... ... | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
-- [0727] | 1 | Haus | House | 房子 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
-- [0728] | 1 | Hause | Home | 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 | Mütter bleiben häufiger für krankes Kind zu Hause
-- [0729] | 1 | heiß | Hot | 火辣的 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
-- [0730] | 1 | Helsinki | Helsinki | 赫爾辛基 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
-- [0731] | 1 | Herkunftsländern | Country of origin | 始发国 | Europäischer Gerichtshof entscheidet zu sicheren Herkunftsländern
-- [0732] | 1 | Herne | Herne | 长毛象 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
-- [0733] | 1 | heute | today | 今天... | Von der Antike bis heute: Die Magie der Brunnen
-- [0734] | 1 | Hindenburgstraße | Hindenburgstraße | Hindenburg 大街. | Straßennamen: Hamburg: Hindenburgstraße bekommt neue Namen
-- [0735] | 1 | Hoffenheim | Hoffenheim | 希望海姆 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
-- [0736] | 1 | Hotellerie | Hotel industry | 酒店酒保 | Europas Hotellerie fordert Schadenersatz von Booking.com
-- [0737] | 1 | Hotels | Hotels | 宾馆 | Mehr als 10.000 Hotels klagen gegen Booking.com
-- [0738] | 1 | Hotz | Hotz | Hotz | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
-- [0739] | 1 | Hotzo | Hotzo | Hotzo | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
-- [0740] | 1 | HSV | HSV | HSV | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
-- [0741] | 1 | Hubig | Huge | 令人惊叹的. | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
-- [0742] | 1 | Hund | Dog | 狗. | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
-- [0743] | 1 | Hundert | One hundred | 一百元 | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
-- [0744] | 1 | Hunderttausende | Hundreds of thousands | 成百上千的人 | Hunderttausende feiern mit Papst beim Weltjugendtreffen in Rom
-- [0745] | 1 | häufiger | Common | 次数多的是 | Mütter bleiben häufiger für krankes Kind zu Hause
-- [0746] | 1 | höheren | higher | 越高越好 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
-- [0747] | 1 | Hürden | Barriers | 障碍物 | EuGH erhöht Hürden für Einstufung sicherer Herkunftsländer
-- [0748] | 1 | Intelligenz | Intelligence | 聪明人 | Künstliche Intelligenz: Müssen wir bald alle coden können?
-- [0749] | 1 | Internationalen | International | 国际社会 | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
-- [0750] | 1 | internationaler | international | 国际社会 | Außenminister Wadephul warnt Israel vor internationaler Isolation
-- [0751] | 1 | Internet | Internet | 互联网上 | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
-- [0752] | 1 | Iren | Irish | 爱尔兰人 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
-- [0753] | 1 | isländischem | Iceland | 冰岛语 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
-- [0754] | 1 | isolieren | Insulating | 隔离区被隔离了 | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
-- [0755] | 1 | Israel-Sanktionen | Israel sanctions | 以色列制裁 | Nahost-Liveblog: ++ Merz will bald über Israel-Sanktionen entscheiden ++
-- [0756] | 1 | Israelische | Israeli | 以色列语 | Israelische Armee: Ein Trauma ist kein Ausmusterungsgrund mehr
-- [0757] | 1 | Israelpolitik | Israel policy | 以色列的政策 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
-- [0758] | 1 | Journalisten | Journalists | 记者,记者 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
-- [0759] | 1 | Jugend | Youth | 年青人 | Weltjugendtreffen in Rom: Was erwartet die Jugend vom Papst?
-- [0760] | 1 | Jugendliche | Young people | 青少年? | Weltjugendtreffen: Mehr als eine Million Jugendliche feiern mit dem Papst
-- [0761] | 1 | Justizministerin | Minister for Justice | 司法部长 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
-- [0762] | 1 | Jüngere | Younger | 杨格 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
-- [0763] | 1 | Kaffee | Coffee | 咖啡 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
-- [0764] | 1 | Kaffeediebe | Coffee thieves | 偷咖啡的小偷们 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
-- [0765] | 1 | Kampagne | Campaign | 竞选活动 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
-- [0766] | 1 | Kamtschatka-Beben | Kamchatka quake | Kamchatka的贝壳. | Nach Kamtschatka-Beben: Vulkanausbruch im Osten Russlands
-- [0767] | 1 | Karriereverlauf | Career history | 职业生涯的转折点 | Karriereverlauf: Der Anfang vom Ende
-- [0768] | 1 | Kat | Cat | Kat. Kat. | "Furye" von Kat Eryn Rubik: Zeit für Rache
-- [0769] | 1 | Katar | Qatar | 卡塔尔 | Kommt 2026 kein Flüssiggas aus Katar in die EU?
-- [0770] | 1 | Katastrophale | Catatrophic | 灾难性的后果 | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
-- [0771] | 1 | Keine | None | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不! | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
-- [0772] | 1 | keinen | none | 一个都没有 | Israels Regierungschef Netanjahu: "Die Hamas will keinen Deal"
-- [0773] | 1 | Kind | Child | 孩子 | Mütter bleiben häufiger für krankes Kind zu Hause
-- [0774] | 1 | Kinder | Children | 孩子们 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
-- [0775] | 1 | Kirmes | Fairs | 吉尔梅斯 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
-- [0776] | 1 | Klage | Action | 控方提出诉讼 | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
-- [0777] | 1 | Klageerzwingung | Enforcement of actions | 控诉书上写道: | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
-- [0778] | 1 | klagen | sue | 控告他 | Mehr als 10.000 Hotels klagen gegen Booking.com
-- [0779] | 1 | Klimawandels | Climate change | 气候变化 | Digitale Anwendung zeigt Folgen des Klimawandels
-- [0780] | 1 | Klöckner | Fowls of the species Gallus domesticus | 卷饼机 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
-- [0781] | 1 | KM-Podcast | KM podcast | KM -Podcast | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
-- [0782] | 1 | knapp | Short | 差一点 | Bürgergeld-Zahlungen steigen auf knapp 47 Milliarden Euro
-- [0783] | 1 | knüpft | Linked | - 是的,先生. | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
-- [0784] | 1 | Koch | Chef | 厨子 | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
-- [0785] | 1 | Konzerne | Groupings | 公司 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
-- [0786] | 1 | Korruption | Corruption | 贪污腐败 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
-- [0787] | 1 | Korruptionsskandal | Corruption scandal | 腐败丑闻 | Ukraine-Liveblog: ++ Korruptionsskandal bei ukrainischem Drohnenkauf ++
-- [0788] | 1 | Korruptionssystem | Corruption system | 腐败制度 | Ukraine: "Großangelegtes Korruptionssystem" aufgedeckt
-- [0789] | 1 | Kosten | Costs | 成本 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0790] | 1 | kracht | Crash | 崩塌了 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0791] | 1 | Krankenhaus | Hospital | 医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院 | Folgen der Bahnsanierung: Ein Krankenhaus wird zum Fuhrunternehmen
-- [0792] | 1 | krankes | Sickness | 病态的,病态的. | Mütter bleiben häufiger für krankes Kind zu Hause
-- [0793] | 1 | Kreuzes | Cross | 十字勋章 | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
-- [0794] | 1 | Kriegsgefangene | Prisoners of war | 战俘们 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
-- [0795] | 1 | Kriminalität | Crime | 犯罪 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
-- [0796] | 1 | Krise | Crisis | 危機 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0797] | 1 | Kriterien | Criteria | 标准 | EuGH schärft Kriterien für sichere Herkunftsländer
-- [0798] | 1 | Kroaten | Croats | 克罗地亚人 | Kroaten und Serben gedenken der Militäroperation "Sturm"
-- [0799] | 1 | Kultserie | Cult series | 邪教连环杀手 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
-- [0800] | 1 | Kultur | Culture | 文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化和文化 | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
-- [0801] | 1 | Kunst | Art | 艺术 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
-- [0802] | 1 | Kupfermine | Copper mine | 铜矿 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
-- [0803] | 1 | Kurswechsel | Change of course | 改变航向 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
-- [0804] | 1 | Königsgrab | King's grave | 王之墓 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
-- [0805] | 1 | können | can | . . . . . | Künstliche Intelligenz: Müssen wir bald alle coden können?
-- [0806] | 1 | könnte | could | ...也许... ...可以... ... | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
-- [0807] | 1 | Künstliche | Artificial | 人工智能 | Künstliche Intelligenz: Müssen wir bald alle coden können?
-- [0808] | 1 | kürzen | abbreviate | 缩减开支 | Wie Schwarz-Rot das Bürgergeld kürzen will
-- [0809] | 1 | Küste | Coast | 海岸线 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
-- [0810] | 1 | Landkreis | County | 县里的人 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [0811] | 1 | Landweg-Zugang | Land-based access | 陆路入口 | Außenminister Wadephul fordert Landweg-Zugang für Gaza
-- [0812] | 1 | Lange | Long | 好久不见 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
-- [0813] | 1 | Langer | Longer | 长远来看 | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
-- [0814] | 1 | Langeweile | Boredom | 无聊透顶 | Langeweile: Gähn.
-- [0815] | 1 | Lautsprecher-Abbau | Loudspeaker removal | 扬声器回收 | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
-- [0816] | 1 | Lautsprecher-Propaganda | Loudspeaker Propaganda | 扬声器宣传 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
-- [0817] | 1 | Leben | Life | 生命 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
-- [0818] | 1 | Lebens | Life | 生活... 生活... | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
-- [0819] | 1 | Lebenszeit | Lifetime | 寿命到此结束 | Zentralafrikanische Republik: Präsident auf Lebenszeit?
-- [0820] | 1 | legale | legal | 合法的 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
-- [0821] | 1 | Leichtflugzeug | Light aircraft | 轻型飞机 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
-- [0822] | 1 | Leo | Leo | Leo | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
-- [0823] | 1 | Licht | Light | 光线很明亮 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0824] | 1 | Linke | Left | 左撇子 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
-- [0825] | 1 | Listen | Lists | 列表. | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
-- [0826] | 1 | Litauens | Lithuania | 立陶宛人 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
-- [0827] | 1 | Lohngerechtigkeitsquote | Wage equalisation rate | 薪酬公平率 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
-- [0828] | 1 | Ludwig | Ludwig | 路德维希 | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
-- [0829] | 1 | lässt | Leaves | ...他... ... 他... | Trump lässt opulenten Ballsaal im Weißen Haus bauen
-- [0830] | 1 | Lünne | Bulbs | 萝卜,萝卜,萝卜 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
-- [0831] | 1 | Machtkampf | Power struggle | 权力斗争 | Bolivien: Machtkampf um das weiße Gold
-- [0832] | 1 | Magie | Magic | 魔法 | Von der Antike bis heute: Die Magie der Brunnen
-- [0833] | 1 | Maja | Maja | Maja. | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
-- [0834] | 1 | Mallorca | Mallorca | Mallorca. | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
-- [0835] | 1 | Manga-Convention | Manga Convention | 曼加集會 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
-- [0836] | 1 | mangelnde | Lack of | 缺席. | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
-- [0837] | 1 | Mann | Man | 老兄 | "Chief of War": Ist dieser Mann der Auserwählte?
-- [0838] | 1 | Marineübung | Marine exercise | 海军演习 | News kompakt: Russland und China halten gemeinsame Marineübung ab
-- [0839] | 1 | Markus | Markus | 马库斯 | Krieg in der Ukraine: Markus Söder will Bürgergeld für ukrainische Geflüchtete streichen
-- [0840] | 1 | Maya | Maya | 玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
-- [0841] | 1 | Medikamente | Medicines | 药物治疗 | Gefälschte Medikamente: Ein weltweites Problem
-- [0842] | 1 | Medwedew | Medvedev | 梅德韦杰夫 | Streit mit Medwedew: Trump setzt Atom-U-Boote in Bewegung
-- [0843] | 1 | mehreren | several | 数个不同的人 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
-- [0844] | 1 | Mehrheit | Majority | 多數人 | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
-- [0845] | 1 | Meloni | Meloni | Meloni | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
-- [0846] | 1 | Mengen | Quantities | 量之多 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
-- [0847] | 1 | Mexiko | Mexico | 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 | Zollstreit: USA und Mexiko wollen weiter verhandeln
-- [0848] | 1 | Militäroperation | Military operation | 军事行动 | Kroaten und Serben gedenken der Militäroperation "Sturm"
-- [0849] | 1 | Million | Million | 一百万 | Weltjugendtreffen: Mehr als eine Million Jugendliche feiern mit dem Papst
-- [0850] | 1 | Millionen | Millions | 数百万美元 | Urteil: Tesla muss wegen Autopilot-Unfall Millionen zahlen
-- [0851] | 1 | Mindestens | Minimum | 至少至少是... ... | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
-- [0852] | 1 | Ministerin | Minister | 国务卿 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
-- [0853] | 1 | Minuten | Minutes | 分钟 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
-- [0854] | 1 | Mitpatient | Co-patient | 和病人一起 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
-- [0855] | 1 | Mitschuld | Co-indebtedness | 参与其中也是罪魁祸首 | US-Geschworene geben Tesla Mitschuld an Autopilot-Unfall
-- [0856] | 1 | Mittelamerika | Central America | 中美洲,中美洲 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
-- [0857] | 1 | Mittelmeer | Mediterranean Sea | 地中海 | Tomaten-Kimchi-Salat mit Tofu : Urlaub vom Mittelmeer
-- [0858] | 1 | Mitternacht | Midnight | 午夜时分 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
-- [0859] | 1 | morgens | morning | 早晨. | Astronomie: Planetenwettlauf morgens im August
-- [0860] | 1 | Motto | Motto | 座右铭 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
-- [0861] | 1 | Museum | Museum | 博物馆 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
-- [0862] | 1 | Musik | Music | 音乐 | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
-- [0863] | 1 | Musk | Musk | 穆斯卡? | Tesla stellt Musk riesiges Aktienpaket in Aussicht
-- [0864] | 1 | mutmaßliche | Suspected | 嫌犯是嫌犯 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
-- [0865] | 1 | mutmaßlichen | Suspected | 嫌犯是嫌犯 | Was ist über die mutmaßlichen Anschläge auf Bahnanlagen bekannt?
-- [0866] | 1 | mächtiger | more powerful | 强大的力量 | Fed : Wer ist mächtiger: Trump oder der Dollar?
-- [0867] | 1 | Mädchen | Girls | 女孩儿们 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
-- [0868] | 1 | möglich | possible | ...可能的... ...可能. | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
-- [0869] | 1 | Müll | Waste | 垃圾,垃圾,垃圾,垃圾,垃圾,垃圾,垃圾,垃圾 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
-- [0870] | 1 | Müssen | Must: | 不得不接受治疗 | Künstliche Intelligenz: Müssen wir bald alle coden können?
-- [0871] | 1 | Mütter | Mothers | 母亲们 {\cHFFFFFF}{\3cH2F2F2F}{\4cH000000}Mothers. | Mütter bleiben häufiger für krankes Kind zu Hause
-- [0872] | 1 | Nachfrage | Demand | 需要什麼? | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
-- [0873] | 1 | Namen | Names | 名字? | Straßennamen: Hamburg: Hindenburgstraße bekommt neue Namen
-- [0874] | 1 | Nebenjobs | Secondary jobs | 兼职工作 | Wieso immer mehr Menschen Nebenjobs haben
-- [0875] | 1 | nehmen | Take | 取走... | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
-- [0876] | 1 | nennt | Names | 叫做... | Trump nennt russische Angriffe auf Ukraine "widerwärtig"
-- [0877] | 1 | Netanjahu | Netanyahu | 内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡. | Israels Regierungschef Netanjahu: "Die Hamas will keinen Deal"
-- [0878] | 1 | Netanjahus | Netanyahus | 内塔尼亚胡 | Faktencheck: Netanjahus Desinformation über Hunger in Gaza
-- [0879] | 1 | Netflix-Hit | Netflix hit | Netflix-Hit | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
-- [0880] | 1 | neu | new | 新的... | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
-- [0881] | 1 | neuer | new | 新的,新的,新的的,新的的 | Trump verschiebt Start neuer Zölle um einige Tage
-- [0882] | 1 | Neues | New | 新的,新的,新的,新的 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
-- [0883] | 1 | Neugeborene | Newborns | 新生儿 | Geburtenrate: Weniger Neugeborene in Deutschland
-- [0884] | 1 | Niederbayern | Lower Bavaria | 下巴伐利亚人 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
-- [0885] | 1 | niederländischen | Netherlands | 荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人. | Mit niederländischen Tulpennetzen gegen Drohnen
-- [0886] | 1 | niedrigstem | lowest | 最低限度的 | Zahl der BAföG-Empfänger auf niedrigstem Stand seit 25 Jahren
-- [0887] | 1 | nimmt | Takes | 接受... ... | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
-- [0888] | 1 | Nordkorea | North Korea | 朝鲜,朝鲜,朝鲜,朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓和北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓和北韓,北韓,北韓和北韓,北韓,北韓,北韓和北韓. | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
-- [0889] | 1 | Notdurft | Necessity | 急诊室 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
-- [0890] | 1 | NS-Völkermord | NS genocide | NS 伏尔加杀人案 | Weimer erinnert an NS-Völkermord an Sinti und Roma
-- [0891] | 1 | Null | Zero | 零分 | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
-- [0892] | 1 | nur | only | 只是... | Hamas will nur für unabhängigen Staat Waffen ablegen
-- [0893] | 1 | näher | Closer | 靠近一點 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
-- [0894] | 1 | Nässe | Wet | 湿润的,湿湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
-- [0895] | 1 | Oberpfalz | Upper Palatinate | 至高无上 | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
-- [0896] | 1 | oder | or | 或者... | Fed : Wer ist mächtiger: Trump oder der Dollar?
-- [0897] | 1 | of | of | * 宇宙一度又烫又稠密 * * Our whole universe was in a hot, dense state * * Our whole universe was in a hot, dense state * | "Chief of War": Ist dieser Mann der Auserwählte?
-- [0898] | 1 | Oktober | October | 十月 | Migration: Polen verlängert Grenzkontrollen bis Anfang Oktober
-- [0899] | 1 | opulenten | opulent | opulened opulents. | Trump lässt opulenten Ballsaal im Weißen Haus bauen
-- [0900] | 1 | Pakistan | Pakistan | 巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦. | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
-- [0901] | 1 | Palantir-Software | Palantir software | Parantir软件 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
-- [0902] | 1 | Paluckas | Paluckas | 普洛普达斯山脉 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
-- [0903] | 1 | Parasiten | Parasites | 寄生虫 | Parasiten: Immer mehr Fuchsbandwurm-Infektionen
-- [0904] | 1 | Parlamentswahlen | Parliamentary elections | 议会选举 | Syrien: Parlamentswahlen als Aufbruchssignal?
-- [0905] | 1 | Pauline | Pauline | 宝琳 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
-- [0906] | 1 | pauschale | flat rate | 假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的的,假的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的 | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
-- [0907] | 1 | Pflegeversicherung | Nursing insurance | 医疗保险 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [0908] | 1 | Planetenwettlauf | Planetary race | 行星赛跑 | Astronomie: Planetenwettlauf morgens im August
-- [0909] | 1 | Podcast | Podcast | 播客播客 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
-- [0910] | 1 | Politiker | Policymakers | 政客们 | Politiker von Union und SPD fordern mehr Härte bei Bürgergeld
-- [0911] | 1 | politische | European | 政治上来说 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
-- [0912] | 1 | Posthume | Posthume | 邮政信箱 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
-- [0913] | 1 | pro | per | - _BAR_ _BAR_ | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [0914] | 1 | Problem | Problem | 有问题吗? | Gefälschte Medikamente: Ein weltweites Problem
-- [0915] | 1 | Probleme | Problems | 有问题吗? | Verpackungsmüll: So macht Einweg weiter Probleme
-- [0916] | 1 | Produktion | Production | 制片人 | Warum Weidmüller auf Produktion in Deutschland setzt
-- [0917] | 1 | Prominenz | Prominence | 名人 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
-- [0918] | 1 | Provinz | Province | 省份 | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
-- [0919] | 1 | Prozessbeginn | Process start | 程序的开始 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
-- [0920] | 1 | Präsidenten | Presidents | 总统 | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
-- [0921] | 1 | prüfen | Check | 核实一下 | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
-- [0922] | 1 | Psychiatrie | Psychiatry | 精神病史 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
-- [0923] | 1 | Pünktlichkeit | Punctuality | 准时 | Bahn: Verkehrsminister Schnieder will mehr Pünktlichkeit
-- [0924] | 1 | Queerfeindliche | Anti-Queen | 仇视魁北克人 | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
-- [0925] | 1 | Querdenken | Cross-thinking | 转过头来思考 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
-- [0926] | 1 | Rache | Revenge | 复仇 | "Furye" von Kat Eryn Rubik: Zeit für Rache
-- [0927] | 1 | rasant | Rapid | 速战速决 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
-- [0928] | 1 | Raser | Raser | 拉瑟. | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
-- [0929] | 1 | Rauswurf | Throwing out | 扔出去 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
-- [0930] | 1 | rechnet | calculated | 计算结果出来了 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
-- [0931] | 1 | rechtsextremistisch | extreme right | 极右翼的极权主义分子 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
-- [0932] | 1 | Reform | Reform | 改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革. | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
-- [0933] | 1 | Region | Region | 区域. 地区. | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
-- [0934] | 1 | Reiche | Rich | 有钱人,有钱人 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
-- [0935] | 1 | Reiseverkehr | Travel | 旅行 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
-- [0936] | 1 | Reizwort | Irritating word | "吸引人"一词 | AfD: Richtungsstreit über das Reizwort "Remigration"
-- [0937] | 1 | Rekordbeteiligung | Record participation | 创纪录的纪录 | Hamburger CSD mit Rekordbeteiligung
-- [0938] | 1 | Rekordquartal | Record quarter | 创纪录的四分卫 | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
-- [0939] | 1 | Remigration | Remigration | 恢复原状,以备不时之需 | AfD: Richtungsstreit über das Reizwort "Remigration"
-- [0940] | 1 | Remis | Remis | 雷米斯 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
-- [0941] | 1 | Reparatur | Repair | 修復它 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
-- [0942] | 1 | Republik | Republic | 共和国 | Zentralafrikanische Republik: Präsident auf Lebenszeit?
-- [0943] | 1 | Richtung | Direction | 方向: | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
-- [0944] | 1 | Richtungsstreit | Dispute over the direction | 方向纠纷 | AfD: Richtungsstreit über das Reizwort "Remigration"
-- [0945] | 1 | riesiges | Huge | 巨大. | Tesla stellt Musk riesiges Aktienpaket in Aussicht
-- [0946] | 1 | Robert | Robert | Robert. Robert. | US-Regisseur Robert Wilson mit 83 Jahren gestorben
-- [0947] | 1 | Roten | Red | 红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色 | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
-- [0948] | 1 | Rubik | Rubik | Rubik | "Furye" von Kat Eryn Rubik: Zeit für Rache
-- [0949] | 1 | ruft | Call | 啊! | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
-- [0950] | 1 | Runde | Round | 转一圈 | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
-- [0951] | 1 | Russlands | Russia | 俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,以及俄罗斯,以及俄罗斯,以及俄罗斯,都属于俄罗斯. | Nach Kamtschatka-Beben: Vulkanausbruch im Osten Russlands
-- [0952] | 1 | rückt | Moved | 向前走 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
-- [0953] | 1 | Saarland | Saarland | 萨尔兰 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
-- [0954] | 1 | Sabotage | Sabotage | 破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏 | Brandanschläge: Bahnstrecke nach Sabotage wieder freigegeben
-- [0955] | 1 | Saison-Vorbereitung | Preparing for the season | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}什么? {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}What? {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080} | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
-- [0956] | 1 | Salvador | Salvador | 萨尔瓦多 | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
-- [0957] | 1 | Samenentnahme | Semen collection | 精子采集 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
-- [0958] | 1 | Saskia | Saskia | Saskia's Saskia. | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
-- [0959] | 1 | Sauberkeit | Cleanliness | 清洁剂 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
-- [0960] | 1 | Schadenersatz | Compensation | 赔偿金 | Europas Hotellerie fordert Schadenersatz von Booking.com
-- [0961] | 1 | Schauer | Showers | 阵雨 | Wetter: Weiter Schauer und Gewitter im Norden
-- [0962] | 1 | scheitert | Failed | 失敗了 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
-- [0963] | 1 | schlagen | beat | 打啊 打啊 打啊 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
-- [0964] | 1 | Schmierlappen | Lubricating cloths | 拖把叶子. | Dating-App Tea: Vorsicht, Schmierlappen!
-- [0965] | 1 | Schnieder | Sneakers | 吸管,吸管,吸管,吸氣,吸氣,吸氣,吸氣,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸 | Bahn: Verkehrsminister Schnieder will mehr Pünktlichkeit
-- [0966] | 1 | Schnitt | Cut | 剪切. | Deutsche sitzen im Schnitt zehn Stunden am Tag
-- [0967] | 1 | schockieren | Shock | 震驚一下 | Videos ausgehungerter Geiseln schockieren Israel
-- [0968] | 1 | Schotten | Scots | 苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人. | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
-- [0969] | 1 | Schulen | Schools | 学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
-- [0970] | 1 | Schusswaffen | Firearms | 枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
-- [0971] | 1 | Schwarz-Rot | Black-red | 黑色红 | Wie Schwarz-Rot das Bürgergeld kürzen will
-- [0972] | 1 | Schweiz | Switzerland | 瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士. | Fassungslosigkeit in der Schweiz über US-Zölle
-- [0973] | 1 | schwer | severe | 很难 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
-- [0974] | 1 | schwächt | Weakened | 削弱了它的力量 | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
-- [0975] | 1 | schädlich | Harmful | 有害的,有害的. | Gefahr für die Gesundheit: Wie schädlich ist Titandioxid?
-- [0976] | 1 | schärft | Sharpened | 发霉了 | EuGH schärft Kriterien für sichere Herkunftsländer
-- [0977] | 1 | schützen | protect | 保护我们 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
-- [0978] | 1 | Sebastian | Sebastian | Sebastian | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
-- [0979] | 1 | Sechs | Six | 6个 | Verkehr: Sechs Verletzte bei Wendemanöver
-- [0980] | 1 | Seeräubern | Pirates | 海盗们 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
-- [0981] | 1 | Selfies | Selfies | 自拍 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
-- [0982] | 1 | Serben | Serbs | 塞尔维亚人 | Kroaten und Serben gedenken der Militäroperation "Sturm"
-- [0983] | 1 | Shein-Unternehmen | Shein companies | Shein公司 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
-- [0984] | 1 | sicheren | safe | 安全起见 | Europäischer Gerichtshof entscheidet zu sicheren Herkunftsländern
-- [0985] | 1 | sieht | see | 看见没? | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
-- [0986] | 1 | Singapur | Singapore | 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
-- [0987] | 1 | Sinnbild | Symbol | 感官影像 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
-- [0988] | 1 | Sinnfrage | Question of purpose | 有道理的问题 | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
-- [0989] | 1 | Sinti | Sinti | Sinti | Weimer erinnert an NS-Völkermord an Sinti und Roma
-- [0990] | 1 | skeptisch | Sceptical | 疑惑症候群 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
-- [0991] | 1 | So | That's what I'm saying. | 所以... So... | Verpackungsmüll: So macht Einweg weiter Probleme
-- [0992] | 1 | Soldaten | Soldiers | 士兵们 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
-- [0993] | 1 | soll | to: | 应为... ... | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
-- [0994] | 1 | Sommerlied | Summer Song | 夏日之歌 | "Summertime" von George Gershwin: Sommerlied in Blue
-- [0995] | 1 | Sommerreise | Summer trip | 夏天的旅行 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
-- [0996] | 1 | Sophie | Sophie | Sophie Sophie | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
-- [0997] | 1 | Soziale | Social | 社会福利 Social Society. | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
-- [0998] | 1 | Sozialleistungen | Social benefits | 福利金 | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
-- [0999] | 1 | Spanien | Spain | 西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙. | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
-- [1000] | 1 | Sportgerichtshof | Sports court | 体育法庭 | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
-- [1001] | 1 | spricht | speech | 说话啊 | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
-- [1002] | 1 | Staat | State | 州政府 | Hamas will nur für unabhängigen Staat Waffen ablegen
-- [1003] | 1 | Staatliche | State | 国有国有国有国 | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
-- [1004] | 1 | Staatsanwaltschaft | Public Prosecutor's Office | 地方检察官办公室 | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
-- [1005] | 1 | Staatsversagens | State failure | 国家失败 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
-- [1006] | 1 | stabil | Stable | 稳定的稳定性. | Inflation im Euroraum stabil auf EZB-Zielmarke von 2,0 Prozent
-- [1007] | 1 | Staffel | Season | 天才理论传 第六季 第10集 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
-- [1008] | 1 | Statistikchefin | Head of Statistics | 统计总监 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
-- [1009] | 1 | Statistisches | Statistical Office of the European Communities | 统计数字 | Statistisches Bundesamt: Deutsche reisen immer mehr
-- [1010] | 1 | Staus | Traffic jams | 堵车 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
-- [1011] | 1 | stehlen | Stealing | 偷窃 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
-- [1012] | 1 | steigert | increased | 提高了. | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
-- [1013] | 1 | stellt | Sets | 假设... | Tesla stellt Musk riesiges Aktienpaket in Aussicht
-- [1014] | 1 | Stellung | Position | 位置? | News kompakt: Trump bringt Atom-U-Boote in Stellung
-- [1015] | 1 | stimmen | vote | -对 -对 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
-- [1016] | 1 | Straßennamen | Road Names | 街道名称. | Straßennamen: Hamburg: Hindenburgstraße bekommt neue Namen
-- [1017] | 1 | streichen | Delete | 粉刷. | Krieg in der Ukraine: Markus Söder will Bürgergeld für ukrainische Geflüchtete streichen
-- [1018] | 1 | Studie | Study | 研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
-- [1019] | 1 | Stunde | Hour | 时辰已到 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
-- [1020] | 1 | Städte | Cities | 城市,城市,城市,城市,城市,城市,城市,城市,城市,城市,城市和城市 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
-- [1021] | 1 | Summertime | Summertime | Summertimes. | "Summertime" von George Gershwin: Sommerlied in Blue
-- [1022] | 1 | Supermärkten | Supermarkets | 超级市场 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
-- [1023] | 1 | Swinemünde | Swine mule | 斯洛伐克的斯洛伐克人 | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
-- [1024] | 1 | syrischer | Syrian | 叙利亚人 | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
-- [1025] | 1 | Sätze | Rates: | 句子 | News kompakt: Trump verschiebt Zölle und verhängt neue Sätze
-- [1026] | 1 | T | T | T. T. | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
-- [1027] | 1 | Tage | Days | 几天 | Trump verschiebt Start neuer Zölle um einige Tage
-- [1028] | 1 | Tages | Day | 有一天... | Vermischtes: Bilder des Tages
-- [1029] | 1 | Tanzperformance | Dance performance | 舞蹈的精髓 | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
-- [1030] | 1 | Tea | Tea | 茶 | Dating-App Tea: Vorsicht, Schmierlappen!
-- [1031] | 1 | Tech-Gewinne | Tech Wins | 技术奖得主 | Marktbericht: Wall Street gibt Tech-Gewinne wieder ab
-- [1032] | 1 | Temperaturen | Temperatures | 温度 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
-- [1033] | 1 | Tempo | Speed | 速度,速度 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
-- [1034] | 1 | Testspiel | Test game | 测试游戏 | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
-- [1035] | 1 | Tiefseehafen | Deep sea port | 海底港 | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
-- [1036] | 1 | Tiefster | Deepest | 最深的,最深的 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
-- [1037] | 1 | Tisha | Tisha | 蒂莎 | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
-- [1038] | 1 | Tod | Death | 死亡 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
-- [1039] | 1 | Tofu | Tofu | 豆腐 | Tomaten-Kimchi-Salat mit Tofu : Urlaub vom Mittelmeer
-- [1040] | 1 | Tomaten-Kimchi-Salat | Tomato kimchi salad | 番茄西红柿沙拉 | Tomaten-Kimchi-Salat mit Tofu : Urlaub vom Mittelmeer
-- [1041] | 1 | Ton | Sound | 音响 | Bundesregierung verschärft den Ton gegenüber Israel
-- [1042] | 1 | tot | Dead | 死了 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
-- [1043] | 1 | Tour | Tour | 巡回演出 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
-- [1044] | 1 | Trauma | Trauma | 创伤,创伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤 | Israelische Armee: Ein Trauma ist kein Ausmusterungsgrund mehr
-- [1045] | 1 | trocknet | Dried | 干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的 | Der Iran trocknet aus
-- [1046] | 1 | Trump-Zölle | Trump duties | 特朗普关税 | Marktbericht: Trump-Zölle drücken die Börse
-- [1047] | 1 | Tulpennetzen | Tulip nets | 郁金香网 | Mit niederländischen Tulpennetzen gegen Drohnen
-- [1048] | 1 | tödlich | Deadly | 致命一击 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
-- [1049] | 1 | Türkei | Turkey | 土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其和土耳其. | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
-- [1050] | 1 | ukrainischem | Ukrainian | 乌克兰人 | Ukraine-Liveblog: ++ Korruptionsskandal bei ukrainischem Drohnenkauf ++
-- [1051] | 1 | unabhängigen | independent | 独立自主 | Hamas will nur für unabhängigen Staat Waffen ablegen
-- [1052] | 1 | unangeleinten | Unhappiness | 无网网的无网网 | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
-- [1053] | 1 | Unbegrenzte | Unlimited | 无限制的 | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
-- [1054] | 1 | Ungarn | Hungary | 匈牙利人 | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
-- [1055] | 1 | Ungewisse | Unknown | 不清楚 | Afghanische Geflüchtete im Iran: Abschiebung ins Ungewisse
-- [1056] | 1 | UNRWA | UNRWA | UNWA UNWA | Nahost-Liveblog: ++ Laut UNRWA warten 6.000 LKW mit Hilfsgütern  ++
-- [1057] | 1 | Urlaub | Holiday | 假期? | Tomaten-Kimchi-Salat mit Tofu : Urlaub vom Mittelmeer
-- [1058] | 1 | Urlaubsinsel | Holiday island | 度假岛 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
-- [1059] | 1 | US-Geschworene | U.S. jurors | 美国盟军 | US-Geschworene geben Tesla Mitschuld an Autopilot-Unfall
-- [1060] | 1 | US-Regisseur | US director | 美国导演 | US-Regisseur Robert Wilson mit 83 Jahren gestorben
-- [1061] | 1 | US-Zollpolitik | US Customs Policy | 美国国务院政策 | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
-- [1062] | 1 | US-Zölle | US customs duties | 美国关税 | Fassungslosigkeit in der Schweiz über US-Zölle
-- [1063] | 1 | USA | USA | 美国,美国,美国,美国,美国,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美 | Zollstreit: USA und Mexiko wollen weiter verhandeln
-- [1064] | 1 | verhandeln | Negotiating | 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 | Zollstreit: USA und Mexiko wollen weiter verhandeln
-- [1065] | 1 | Verhungernlassen | Letting Starvation | 让饿肚子的饿着吧 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
-- [1066] | 1 | verhängt | imposed | 下达了规定 | News kompakt: Trump verschiebt Zölle und verhängt neue Sätze
-- [1067] | 1 | Verkehr | Transport | 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 | Verkehr: Sechs Verletzte bei Wendemanöver
-- [1068] | 1 | Verkehrsminister | Minister for Transport | 交通部部长 | Bahn: Verkehrsminister Schnieder will mehr Pünktlichkeit
-- [1069] | 1 | Verkehrstoten | Road fatalities | 交通死亡 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
-- [1070] | 1 | verklagen | sue | 控告他 | Verbraucherschützer verklagen Airlines wegen Handgepäck-Gebühren
-- [1071] | 1 | Verl | Page 264 | Verl. Verl. | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
-- [1072] | 1 | verliert | loses | 输定了 | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
-- [1073] | 1 | Vermischtes | Mixed | 混淆的混合物 | Vermischtes: Bilder des Tages
-- [1074] | 1 | Vermisste | Missing persons | 失踪人口 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
-- [1075] | 1 | Verpackungsmüll | Packaging waste | 包装垃圾 | Verpackungsmüll: So macht Einweg weiter Probleme
-- [1076] | 1 | verrichtet | Performed | 完成工作 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
-- [1077] | 1 | verschärft | increased | 更糟的是 | Bundesregierung verschärft den Ton gegenüber Israel
-- [1078] | 1 | verschütteten | spilled | 洒得到处都是 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
-- [1079] | 1 | verstanden | Understood | 明白 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
-- [1080] | 1 | Verstärkter | Reinforced | 放大一点 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
-- [1081] | 1 | Video | Video | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}视频 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Video. | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
-- [1082] | 1 | Videos | Videos | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}录像带 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Video video. | Videos ausgehungerter Geiseln schockieren Israel
-- [1083] | 1 | Vilnius | Vilnius | 维尼涅斯 (Vilnius) | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
-- [1084] | 1 | Visums | Visas | 签证 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
-- [1085] | 1 | Vorbereitung | Preparation | 准备就绪 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
-- [1086] | 1 | Vorfälle | Incidents | 事故发生后 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
-- [1087] | 1 | Vorsicht | Caution | 小心,小心 | Dating-App Tea: Vorsicht, Schmierlappen!
-- [1088] | 1 | Vorzeigemodell | Demonstration model | 模范模特儿 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
-- [1089] | 1 | Vorzieheffekt | Preferential effect | 试探效果. | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
-- [1090] | 1 | Vulkanausbruch | Volcanic eruption | 火山爆发 | Nach Kamtschatka-Beben: Vulkanausbruch im Osten Russlands
-- [1091] | 1 | Waffenruhe | Ceasefire | 停火 | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
-- [1092] | 1 | Wahlrechts | Right to vote | 选举权 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
-- [1093] | 1 | Wahrheit | Truth | 真相 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
-- [1094] | 1 | Wahrzeichen | Symbols | 地心引力 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
-- [1095] | 1 | Waldhof | Waldhof | 森林高地 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
-- [1096] | 1 | War | Was | 曾经的我 | "Chief of War": Ist dieser Mann der Auserwählte?
-- [1097] | 1 | warten | Waiting | 等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待. | Nahost-Liveblog: ++ Laut UNRWA warten 6.000 LKW mit Hilfsgütern  ++
-- [1098] | 1 | Washington | Washington | 华盛顿特区 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
-- [1099] | 1 | Wednesday | Wednesday | 週一,週一,週五 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
-- [1100] | 1 | Weg | Move | 消失无踪 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
-- [1101] | 1 | Weidel | Willow | 牧羊人. | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
-- [1102] | 1 | Weidmüller | Weidmüller | 垃圾处理工 | Warum Weidmüller auf Produktion in Deutschland setzt
-- [1103] | 1 | Weimer | Weimer | 惠巴爾 | Weimer erinnert an NS-Völkermord an Sinti und Roma
-- [1104] | 1 | weitergebaut | Other built-up | 继续建造. . . | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
-- [1105] | 1 | weiße | White | 白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色 | Bolivien: Machtkampf um das weiße Gold
-- [1106] | 1 | Weißen | White | 白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
-- [1107] | 1 | welche | which | 哪些人? | Rund um den Globus: Welchen Ländern welche Zölle drohen
-- [1108] | 1 | Welchen | Which | 哪一种? | Rund um den Globus: Welchen Ländern welche Zölle drohen
-- [1109] | 1 | weltweites | World | 全球化 | Gefälschte Medikamente: Ein weltweites Problem
-- [1110] | 1 | Wendemanöver | Turning maneuvers | 转弯,转弯,转弯 | Verkehr: Sechs Verletzte bei Wendemanöver
-- [1111] | 1 | Weniger | Less | 少一点 | Geburtenrate: Weniger Neugeborene in Deutschland
-- [1112] | 1 | Wer | Who | 谁是谁? | Fed : Wer ist mächtiger: Trump oder der Dollar?
-- [1113] | 1 | Werbung | Advertising | 广告业 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
-- [1114] | 1 | Werder | Werder | Wender Wender. | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
-- [1115] | 1 | Westjordanland | West Bank | 西约旦河西岸 | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
-- [1116] | 1 | widerwärtig | Disgusting | 令人作呕 | Trump nennt russische Angriffe auf Ukraine "widerwärtig"
-- [1117] | 1 | Wiederwahl | Re-election | revolution. | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
-- [1118] | 1 | wiederzuerkennen | Recognize | 认清了自己的身份 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
-- [1119] | 1 | Wieso | Why | 为什么? | Wieso immer mehr Menschen Nebenjobs haben
-- [1120] | 1 | Wilson | Wilson | Wilson. | US-Regisseur Robert Wilson mit 83 Jahren gestorben
-- [1121] | 1 | Wind | Wind | 风向 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
-- [1122] | 1 | Wirbel | Whirlpool | 漩涡 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
-- [1123] | 1 | Witkoff | Witkoff | Witkoff | Nahost-Liveblog: ++ Witkoff will in Gazastreifen reisen ++
-- [1124] | 1 | Wohnen | Housing | 生活... 生活... | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
-- [1125] | 1 | Wolfspopulation | Wolf population | 狼的民意调查 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
-- [1126] | 1 | Wolken | Clouds | 云彩 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
-- [1127] | 1 | wollen | want | ...希望... ... | Zollstreit: USA und Mexiko wollen weiter verhandeln
-- [1128] | 1 | Würzburg | Würzburg | 香料汉堡 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
-- [1129] | 1 | Zahlreiche | A large number of | 許多人 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
-- [1130] | 1 | Zahlungen | Payments | 支付. | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
-- [1131] | 1 | Zehntausende | Tens of thousands | 成千上萬的人 | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
-- [1132] | 1 | zeigt | shows | 显示出. . . | Digitale Anwendung zeigt Folgen des Klimawandels
-- [1133] | 1 | Zeit | Time | 时间不多了 | "Furye" von Kat Eryn Rubik: Zeit für Rache
-- [1134] | 1 | Zentralafrikanische | Central African | 中非语 | Zentralafrikanische Republik: Präsident auf Lebenszeit?
-- [1135] | 1 | zieht | Draws | 划啊! | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
-- [1136] | 1 | Zimmer | Room | 房间 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
-- [1137] | 1 | Zoll-Schock | Customs shock | 关税壁垒 | Marktbericht: Zoll-Schock an der Wall Street
-- [1138] | 1 | Zollstreit | Customs dispute | 海关纠纷 | Zollstreit: USA und Mexiko wollen weiter verhandeln
-- [1139] | 1 | Zugang | Access | 访问权限 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
-- [1140] | 1 | Zurück | Prev | 退後 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
-- [1141] | 1 | zurückgetreten | Resignation | 辞职 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
-- [1142] | 1 | Zuständigkeit | Jurisdiction | 管轄權 | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
-- [1143] | 1 | Zwei | Two | 二... | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
-- [1144] | 1 | zweimal | twice | 两次 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
-- [1145] | 1 | Zweitliga-Comeback | Second-liga comeback | 第二联盟的反馈行动 | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
-- [1146] | 1 | Zwölf | Twelve | 十二个 | Zwölf Jahre Hausarrest für Kolumbiens Ex-Staatschef Uribe
-- [1147] | 1 | Zöllen | Customs duties | 关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税 | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
-- [1148] | 1 | Änderung | Amendment | 改变? | Gaza-Krieg: Außenminister Wadephul fordert "fundamentale Änderung"
-- [1149] | 1 | überall | everywhere | 到处都有 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
-- [1150] | 1 | Überfälle | Raids | 抢劫案 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
-- [1151] | 1 | Überwachen | Monitor | 监视着他们 {\fn微软雅黑\b0\fs14\3cH000000\shad1}New them surveillance. | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
-- [1152] | 1 | Überzahl | Overnumber | 人数多的是 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
+- [0000] | 101 | in | in | . . . | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [0001] | 58 | der | of the | - ... ... ... | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
+- [0002] | 56 | für | for | - ... 为... | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
+- [0003] | 56 | von | from | 作者: | Europas Hotellerie fordert Schadenersatz von Booking.com
+- [0004] | 43 | mit | with | ...是... ... | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0005] | 41 | und | and | ...而且... ... | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0006] | 34 | auf | on the | . . . | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
+- [0007] | 33 | die | the | - - - - | Kommt 2026 kein Flüssiggas aus Katar in die EU?
+- [0008] | 30 | Alabali | Alabali | Alabali, Alabali, Alabali, Alabali, Alabali, Alabali, Alabali, Alabali. | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0009] | 30 | Radovan | Radovan | 拉多万 (Radovian) | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0010] | 28 | Deutschland | Germany | 德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国. | Warum die Geburtenrate in Deutschland immer weiter sinkt
+- [0011] | 27 | im | In the | . . . | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [0012] | 27 | über | on | - - - - | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0013] | 25 | mehr | more | 更多 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0014] | 25 | vor | before | ...前... ... | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
+- [0015] | 24 | zu | to | ...到... ... | Bundesentwicklungsministerin Reem Alabali Radovan zu Gaza:
+- [0016] | 23 | an | to | 印在... ... | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
+- [0017] | 23 | nach | after | . . . . . | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0018] | 20 | Entwicklungsministerin | Minister for Development | 发展部部长 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0019] | 20 | Gaza | Gaza | 加沙 | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
+- [0020] | 20 | zur | to the | ...到... ... | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0021] | 17 | gegen | against | 被告人... ... | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0022] | 16 | ein | a | 一,二,三,四,三,四,四,四 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0023] | 16 | zum | to the | ...到... ... | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0024] | 15 | als | as | ...当... ... | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0025] | 14 | - | - No, no, no, no, no, no, no. | - - - | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0026] | 14 | das | the | 那个... | Bolivien: Machtkampf um das weiße Gold
+- [0027] | 14 | wird | will | . . . . . . | Anna Elendt wird Weltmeisterin über 100 Meter Brust
+- [0028] | 13 | des | of the | - ... ... | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
+- [0029] | 13 | Trump | Trump | 特朗普 特朗普 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
+- [0030] | 13 | will | want | ...我... ... | Wie Schwarz-Rot das Bürgergeld kürzen will
+- [0031] | 12 | aus | from | . . . . | Kommt 2026 kein Flüssiggas aus Katar in die EU?
+- [0032] | 12 | den | the | . . . . | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
+- [0033] | 12 | Lage | Situation | 情况危急 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0034] | 12 | Zusammenarbeit | Cooperation | 合作 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
+- [0035] | 11 | bei | in the case of: | . . . . | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [0036] | 11 | fordert | Calls | 要求... | Europas Hotellerie fordert Schadenersatz von Booking.com
+- [0037] | 10 | Außenminister | Minister for Foreign Affairs | Foreign Secretary, Foreign Secretary, Foreign Secretary | Außenminister warnt vor Isolation Israels
+- [0038] | 10 | ins | In the case of: | ...在... ... | Biopolis – Reise ins Mikrobiom
+- [0039] | 10 | nicht | not | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不. | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
+- [0040] | 10 | Reem | Reem | Reem Reem | Bundesentwicklungsministerin Reem Alabali Radovan zu Gaza:
+- [0041] | 10 | Syrien | Syria | 叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚,叙利亚. | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
+- [0042] | 10 | um | for | . . . . | Bolivien: Machtkampf um das weiße Gold
+- [0043] | 9 | EuGH | Court of Justice | EURUGE | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
+- [0044] | 9 | Israel | Israel | 以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列,以色列. | Israel lässt Gaza-Hilfe durch Privat-Unternehmen wieder zu
+- [0045] | 9 | ist | is | . . . . . | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
+- [0046] | 9 | muss | must: | 不得不这么做 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
+- [0047] | 9 | ukrainische | Ukrainian | 乌克兰 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
+- [0048] | 9 | Was | What | 什么? | Lage im Gazastreifen: Was plant Netanjahu, was will Trump?
+- [0049] | 9 | weiter | continue | 向前看 | Warum die Geburtenrate in Deutschland immer weiter sinkt
+- [0050] | 9 | Wie | How | 如何... ...如何... ...如何... | Wie Schwarz-Rot das Bürgergeld kürzen will
+- [0051] | 8 | afrikanischen | African | 非洲国家 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0052] | 8 | beim | at the | . . . . | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0053] | 8 | deutschen | German | 德国佬 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [0054] | 8 | erneut | again | 再一次 | Deutschland fliegt erneut Hilfsgüter nach Gaza
+- [0055] | 8 | EU-Handelsabkommen | EU trade agreements | 欧盟贸易协定 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0056] | 8 | Gazastreifen | Gaza | 加沙地带 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
+- [0057] | 8 | Isolation | Isolation | 孤立 | Außenminister warnt vor Isolation Israels
+- [0058] | 8 | neue | new | 新的... | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
+- [0059] | 8 | setzt | Sets | 坐下吧 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
+- [0060] | 8 | Staaten | States | 国家 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0061] | 7 | Afrika | Africa | 非洲 | Vereinte Nationen warnen vor mehr Hunger in Afrika
+- [0062] | 7 | Bahn | Rail | 铁路公司 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
+- [0063] | 7 | durch | by | ...通过... ...通过... | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0064] | 7 | immer | always | 总是这样 | Warum die Geburtenrate in Deutschland immer weiter sinkt
+- [0065] | 7 | Israels | Israel | 以色列 | Außenminister warnt vor Isolation Israels
+- [0066] | 7 | kaum | Hardly | 很少见 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
+- [0067] | 7 | kommt | coming | 来吧. | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
+- [0068] | 7 | Nahost-Liveblog | Middle East live blog | 中东里程碑 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
+- [0069] | 7 | sich | you | 自我 | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
+- [0070] | 7 | Südafrika | South Africa | 南非 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
+- [0071] | 7 | Ukraine | Ukraine | 乌克兰 | Krieg gegen die Ukraine: Skandinavische Länder kaufen US-Waffen für die Ukraine
+- [0072] | 7 | Wadephul | Wadephul | Wadephul. | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
+- [0073] | 7 | warnt | Warning | 警告: | Außenminister warnt vor Isolation Israels
+- [0074] | 7 | Warum | Why | 为什么? | Warum die Geburtenrate in Deutschland immer weiter sinkt
+- [0075] | 7 | – | – | \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ > | Biopolis – Reise ins Mikrobiom
+- [0076] | 6 | Bürgergeld | Citizen's money | 公民津贴 | Wie Schwarz-Rot das Bürgergeld kürzen will
+- [0077] | 6 | dem | The | ...他... ... | Nahost-Liveblog: ++ Deutschland wirft erneut Hilfsgüter über dem Gazastreifen ab   ++
+- [0078] | 6 | Deutsche | German | 德国佬 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0079] | 6 | Ende | End | 结局是: | Kommt das Ende des Lenin-Kults in Putins Russland?
+- [0080] | 6 | Geflüchtete | Refugees | 被吓跑的 | Söder fordert Bürgergeld-Stopp für ukrainische Geflüchtete
+- [0081] | 6 | Marktbericht | Market report | 市场报告 | Marktbericht: DAX macht Boden gut
+- [0082] | 6 | Russland | Russia | 俄罗斯 | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0083] | 6 | Treffen | Meetings | 见面吧 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0084] | 6 | Trumps | Trump's | Trumps Trumps | Wie sich Trumps Wirtschaftspolitik auswirkt
+- [0085] | 6 | Unternehmen | Enterprises | 公司,公司,公司,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业,企业 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0086] | 6 | Wirtschaftliche | Economic | 经济体 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
+- [0087] | 6 | Zölle | Customs duties | 关税是关税 | Donald Trumps Zölle: Was ist der aktuelle Stand?
+- [0088] | 5 | -Entwicklungsminister | Minister for Development | - 发展部部长 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0089] | 5 | ab | from | 从下到下 | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0090] | 5 | AfD | AfD | AfD | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0091] | 5 | Agenda | Agenda | 议程 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
+- [0092] | 5 | aktuellen | current | 现在的情况是... | Entwicklungsministerin Reem Alabali Radovan zur aktuellen Lage in Syrien:
+- [0093] | 5 | Anna | Anna | 安娜 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
+- [0094] | 5 | Bedeutung | Meaning | 重要性? | Deutsch als Fremdsprache weltweit von großer Bedeutung
+- [0095] | 5 | Biopolis | Biopolis | Biopolis 生物警察. | Biopolis – Reise ins Mikrobiom
+- [0096] | 5 | Brust | Chest | 胸部 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
+- [0097] | 5 | Bundesentwicklungsministerin | Federal Minister for Development | 联邦发展部长 | Bundesentwicklungsministerin Reem Alabali Radovan zu Gaza:
+- [0098] | 5 | Bundeskabinett | Federal Cabinet | 联邦拘留所 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0099] | 5 | Bundesregierung | Federal Government | 联邦政府 | Bundesregierung fordert von Israel mehr Hilfslieferungen über Landweg
+- [0100] | 5 | Dahlmeier | Dahlmeier | Dahlmeier | Deutschland trauert um Laura Dahlmeier
+- [0101] | 5 | Deutsch | German | 德文的 | Deutsch als Fremdsprache weltweit von großer Bedeutung
+- [0102] | 5 | Deutscher | German | 德国佬 | Deutscher Florian Lipowitz wird Tour-Dritter
+- [0103] | 5 | einem | a | 一個人... | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0104] | 5 | Elendt | Wretched | 可怜虫 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
+- [0105] | 5 | Energien | Energy | 能源 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0106] | 5 | erneuerbare | renewable | 可再生能源 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0107] | 5 | Ernährungssicherheit | Food security | 粮食安全 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0108] | 5 | EU | EU | 欧盟 | Kommt 2026 kein Flüssiggas aus Katar in die EU?
+- [0109] | 5 | europäischen | European | 欧洲的欧洲国家 | Startschuss für europäischen Ukraine-Wiederaufbaufonds
+- [0110] | 5 | Florian | Florian | Florian? | Deutscher Florian Lipowitz wird Tour-Dritter
+- [0111] | 5 | Fremdsprache | Foreign language | 说外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的,外语的 | Deutsch als Fremdsprache weltweit von großer Bedeutung
+- [0112] | 5 | führt | lead | 领导者 | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
+- [0113] | 5 | G | G | G. G. | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0114] | 5 | Geburtenrate | Birth rate | 出生率 | Warum die Geburtenrate in Deutschland immer weiter sinkt
+- [0115] | 5 | Gespräche | Conversations | 谈话 | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
+- [0116] | 5 | Globale | Global | 全球化 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0117] | 5 | großer | Large | 大块头,大块头,大块头,大块头,大块头 | Deutsch als Fremdsprache weltweit von großer Bedeutung
+- [0118] | 5 | Hamas | Hamas | 哈马斯 | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
+- [0119] | 5 | Handelsbeziehungen | Trade relations | 贸易关系 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0120] | 5 | Hausarrest | House arrest | 禁足 | Brasiliens Ex-Präsident Bolsonaro muss in Hausarrest
+- [0121] | 5 | hilft | Helps | 幫了大忙 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0122] | 5 | innen | inside | 内心深处 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0123] | 5 | internationale | international | 国际刑警组织 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
+- [0124] | 5 | jetzt | now | 现在 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
+- [0125] | 5 | kann | can | . . . . . | Mit einem Junior-Depot kann man für den Nachwuchs sparen
+- [0126] | 5 | KfW-Kredit | KfW credit | -KFW医院 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0127] | 5 | Laura | Laura | 劳拉 | Deutschland trauert um Laura Dahlmeier
+- [0128] | 5 | leitet | Headed | 领导者 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0129] | 5 | Lipowitz | Lipowitz | 利普维茨 (Lizzowitz) | Deutscher Florian Lipowitz wird Tour-Dritter
+- [0130] | 5 | Menschen | People | 人类 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
+- [0131] | 5 | Merz | Merz | 梅爾茲 | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
+- [0132] | 5 | Meter | Meters | 计μ | Anna Elendt wird Weltmeisterin über 100 Meter Brust
+- [0133] | 5 | Mikrobiom | Microbiome | 微生物 | Biopolis – Reise ins Mikrobiom
+- [0134] | 5 | Partnerschaft | Partnership | 合作伙伴关系 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
+- [0135] | 5 | Partnerschaften | Partnerships | 伙伴关系 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0136] | 5 | Ratifizierung | Ratification | 批准书 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0137] | 5 | Reise | Travel | 旅行 | Biopolis – Reise ins Mikrobiom
+- [0138] | 5 | sichern | Secure | 确保安全 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0139] | 5 | sind | are | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
+- [0140] | 5 | SOFI-Report | SOFI Report | SOFI报告 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0141] | 5 | Startschuss | Launch | 发射目标 | Startschuss für europäischen Ukraine-Wiederaufbaufonds
+- [0142] | 5 | strategische | strategic | 战略性的 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
+- [0143] | 5 | stärken | Strengthen | 加强了它 | Entwicklungsministerin Alabali Radovan in Südafrika: Wirtschaftliche Zusammenarbeit und strategische Partnerschaft stärken
+- [0144] | 5 | südafrikanischen | South African | 南非南非人 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0145] | 5 | Tour-Dritter | Tour third | 巡演者 | Deutscher Florian Lipowitz wird Tour-Dritter
+- [0146] | 5 | trauert | grieving | 哀悼的悲伤. | Deutschland trauert um Laura Dahlmeier
+- [0147] | 5 | Ukraine-Liveblog | Ukraine live blog | 乌克兰历史博客 | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
+- [0148] | 5 | Ukraine-Wiederaufbaufonds | Ukraine Reconstruction Fund | 乌克兰重建基金 | Startschuss für europäischen Ukraine-Wiederaufbaufonds
+- [0149] | 5 | Umsetzung | Transposition | 执行情况 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
+- [0150] | 5 | UN-Bericht | UN report | 联合国报告 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0151] | 5 | Union | Union | 联盟 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0152] | 5 | unsicheren | insecure | 不确定性 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0153] | 5 | verlässliche | reliable | 可靠的人 | Für verlässliche Handelsbeziehungen mit Afrika: Bundeskabinett leitet Ratifizierung von EU-Handelsabkommen mit afrikanischen Staaten ein
+- [0154] | 5 | verstärkte | increased | 加强了 | Deutschland setzt auf verstärkte internationale Zusammenarbeit zur Umsetzung der Agenda 2030
+- [0155] | 5 | vom | of the | ...来自... ... | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
+- [0156] | 5 | Wachstumschancen | Growth opportunities | 增长机会 | Wachstumschancen durch erneuerbare Energien: KfW-Kredit hilft deutschen und südafrikanischen Unternehmen
+- [0157] | 5 | Weltmeisterin | World Champion | 世界冠軍 | Anna Elendt wird Weltmeisterin über 100 Meter Brust
+- [0158] | 5 | weltweit | World | 全球化 | Deutsch als Fremdsprache weltweit von großer Bedeutung
+- [0159] | 5 | weltweiten | Global | 全球化 | Entwicklungsministerin Alabali Radovan zum UN-Bericht zur Lage der weltweiten Ernährungssicherheit ("SOFI-Report")
+- [0160] | 5 | werden | will be | ...你将... ... | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
+- [0161] | 5 | wieder | again | 又来一次 | Israel lässt Gaza-Hilfe durch Privat-Unternehmen wieder zu
+- [0162] | 5 | Wiederaufbau | Reconstruction | 重建,重建,重建,重建,重建,重建,重建,重建,重建,重建,重建,重建,重建和重建. | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
+- [0163] | 5 | Zeiten | Periods | 时光飞逝 | Alabali Radovan beim Treffen der G20-Entwicklungsminister*innen: Globale Partnerschaften sichern in unsicheren Zeiten
+- [0164] | 5 | Ägypten | Egypt | 埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及,埃及和埃及. | Entwicklungsministerin Alabali Radovan führt in Ägypten Gespräche zum Wiederaufbau von Gaza
+- [0165] | 4 | alle | all | 每个人 | Künstliche Intelligenz: Müssen wir bald alle coden können?
+- [0166] | 4 | Aufnahme | Recording | 录音带 | Debatte über Aufnahme von Kindern aus Nahost
+- [0167] | 4 | Bahnstrecke | Railway line | 火车站 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
+- [0168] | 4 | bis | Until | 直到... ... | Strafzölle: Trump droht Medikamentenherstellern mit Zöllen bis zu 250 Prozent
+- [0169] | 4 | darf | may: | 允许... ... | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
+- [0170] | 4 | eine | one | 一个... ...一个... ...一个... | SPD wirft Söder vor, eine "Bürgergeld-Kampagne" anzuzetteln
+- [0171] | 4 | Frankreichs | France | 法國人 | Frankreichs Palästina-Kurs vertieft religiöse Gräben
+- [0172] | 4 | geben | give | 发牌吧 | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
+- [0173] | 4 | Gewalt | Violence | 暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力,暴力 | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
+- [0174] | 4 | Hilfsgüter | Auxiliary goods | 援助品. | Deutschland fliegt erneut Hilfsgüter nach Gaza
+- [0175] | 4 | Kindern | Children | 儿童. | Debatte über Aufnahme von Kindern aus Nahost
+- [0176] | 4 | Klingbeil | Klingbeil | 叮叮当 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
+- [0177] | 4 | kompakt | Compact | 交易完成 | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0178] | 4 | Krah | Krah | 克拉拉 | Spionage-Prozess: Ex-Assistent von AfD-Mann Krah vor Gericht
+- [0179] | 4 | Krieg | War | 战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争 | Krieg gegen die Ukraine: Skandinavische Länder kaufen US-Waffen für die Ukraine
+- [0180] | 4 | laut | Loud | 大声点 | OceanGate: Implosion der "Titan" hätte laut Küstenwache verhindert werden können
+- [0181] | 4 | meldet | Reported | 报告情况 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
+- [0182] | 4 | Nahost | Middle East | 中东地区 | Debatte über Aufnahme von Kindern aus Nahost
+- [0183] | 4 | News | News | 新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻,新闻 | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0184] | 4 | Papst | Pope | 教皇陛下 | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
+- [0185] | 4 | Roma | Roma | 罗马人 | Weimer erinnert an NS-Völkermord an Sinti und Roma
+- [0186] | 4 | Sachsen-Anhalt | Saxony-Anhalt | 撒克逊人的立场 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
+- [0187] | 4 | sein | be | 他的 | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [0188] | 4 | Sicherer | Safer | 更安全 | EuGH: Sicherer Herkunftsstaat muss für alle sicher sein
+- [0189] | 4 | sinkt | Lowers | 下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉,下沉 | Warum die Geburtenrate in Deutschland immer weiter sinkt
+- [0190] | 4 | Spionage-Prozess | espionage process | 间谍程序 | Spionage-Prozess: Ex-Assistent von AfD-Mann Krah vor Gericht
+- [0191] | 4 | Suedlink | Southlink | Sudmink Suedlink | Suedlink transportiert Ökostrom nach Süden
+- [0192] | 4 | Söder | Söder | 出问题了 出问题了 出问题了 出问题了 出问题了 | Söder fordert Bürgergeld-Stopp für ukrainische Geflüchtete
+- [0193] | 4 | Süden | South | 南面,南面 | Suedlink transportiert Ökostrom nach Süden
+- [0194] | 4 | Tesla | Tesla | 泰斯拉 | Tesla stellt Musk riesiges Aktienpaket in Aussicht
+- [0195] | 4 | transportiert | transported | 运输工具 | Suedlink transportiert Ökostrom nach Süden
+- [0196] | 4 | trotz | despite | 纵使如此 | Deutsche Post steigert Gewinn trotz Konjunkturschwäche
+- [0197] | 4 | USA | USA | 美国,美国,美国,美国,美国,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美,美 | USA planen Atomkraftwerke auf dem Mond - geht das überhaupt?
+- [0198] | 4 | Waffen | Weapons | 武器 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
+- [0199] | 4 | wegen | for | 因为... ...因为... | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
+- [0200] | 4 | Weltjugendtreffen | World Youth Meeting | 世界青年大会 | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
+- [0201] | 4 | Ökostrom | Green electricity | 生态流 | Suedlink transportiert Ökostrom nach Süden
+- [0202] | 3 | am | Date | 是... ... | Deutsche sitzen im Schnitt zehn Stunden am Tag
+- [0203] | 3 | ARD-Sommerinterview | ARD Summer Interview | Summer Summer interview. | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
+- [0204] | 3 | Austausch | Exchange | 交换条件 | Ukraine-Liveblog: ++ Selenskyj kündigt Austausch von 1.200 Kriegsgefangenen an ++
+- [0205] | 3 | Banaszak | Banaszak | Banaszak. | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
+- [0206] | 3 | Bangladesch | Bangladesh | 孟加拉国 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0207] | 3 | Bayreuther | Bayreuther | 巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚,巴伐利亚. | Bayreuther Festspiele beginnen
+- [0208] | 3 | beginnen | Start | 开始工作吧 | Bayreuther Festspiele beginnen
+- [0209] | 3 | beginnt | Starts | 从头开始 | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
+- [0210] | 3 | Brand | Fire | Brand Brand Brand. | Feuerwehreinsatz: Mit Batterien beladener Laster auf A71 in Brand geraten
+- [0211] | 3 | Brasiliens | Brazil | 巴西 | Brasiliens Ex-Präsident Bolsonaro muss in Hausarrest
+- [0212] | 3 | CSD | CSD | CSD (CSD) | Hamburger CSD mit Rekordbeteiligung
+- [0213] | 3 | Debatte | Debate | 辩论 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0214] | 3 | Deutsches | German | 德国人 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
+- [0215] | 3 | entdeckt | discovered | 被发现了 | Indien: Jugend entdeckt Spiritualität neu
+- [0216] | 3 | EuGH-Urteil | ECJ judgment | EUREUG 部分. | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
+- [0217] | 3 | Euro | Euro | 欧元 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
+- [0218] | 3 | Europäischer | European | 欧罗巴比亚. | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
+- [0219] | 3 | Ex-Mitarbeiter | Ex-employee | 前雇员 | Staatsschutzverfahren: Spionage-Prozess gegen Ex-Mitarbeiter von AfD-Politiker Krah
+- [0220] | 3 | feiern | Celebrate | 庆祝一下 | Warum Bolsonaro-Anhänger die US-Zölle feiern
+- [0221] | 3 | Festspiele | Festival | 赌局很硬的 | Bayreuther Festspiele beginnen
+- [0222] | 3 | fliegt | flying | 飞翔 | Deutschland fliegt erneut Hilfsgüter nach Gaza
+- [0223] | 3 | Folgen | Consequences | 随之而来 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
+- [0224] | 3 | fordern | demand | 要求... 要求... | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
+- [0225] | 3 | Fortschritt | Progress | 进展中 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0226] | 3 | Gefahr | Danger | 危险 危险 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
+- [0227] | 3 | geht | go | 走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走,走 | USA planen Atomkraftwerke auf dem Mond - geht das überhaupt?
+- [0228] | 3 | Geld | Money | 钱 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
+- [0229] | 3 | geraten | advice | 猜猜看 | Feuerwehreinsatz: Mit Batterien beladener Laster auf A71 in Brand geraten
+- [0230] | 3 | Gerichtshof | Court of Justice | 法庭 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
+- [0231] | 3 | haben“ | have | 与世隔绝 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
+- [0232] | 3 | Hamburg-Berlin | Hamburg-Berlin | Berlin汉堡. | Hamburg-Berlin: Was kommt auf die Fahrgäste der Bahn zu?
+- [0233] | 3 | Hasina | Hasina | Hasina Hasina | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0234] | 3 | Herkunftsländer | Countries of origin | 原籍国 | EuGH schärft Kriterien für sichere Herkunftsländer
+- [0235] | 3 | Holocaust | Holocaust | 大屠杀 | Rumänien will über Holocaust an Roma nicht mehr schweigen
+- [0236] | 3 | humanitäre | Humanitarian aid | 人道主义方面 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
+- [0237] | 3 | Hunger | Hunger | 饥饿. | Vereinte Nationen warnen vor mehr Hunger in Afrika
+- [0238] | 3 | Häusliche | Domestic | 家庭成员 | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
+- [0239] | 3 | Israelische | Israeli | 以色列语 | Israelische Unternehmen in Gazastreifen und Westjordanland: Norwegische Regierung will Staatsfonds auf israelische Firmen prüfen
+- [0240] | 3 | Jahr | Year | 年复一年 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0241] | 3 | Jahre | Years | 多年了 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
+- [0242] | 3 | Jahren | Years | 多年了 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
+- [0243] | 3 | Katastrophe | Disaster | 灾难 | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
+- [0244] | 3 | Klimawandel | Climate change | 气候变化 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
+- [0245] | 3 | Ländern | Countries | 国家? 国家? | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
+- [0246] | 3 | macht | power | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}这样 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Sometimes, {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080} | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
+- [0247] | 3 | mehrere | several | 数不清次数 | Evakuierung: Historische Altstadt nach Gasalarm mehrere Stunden geräumt
+- [0248] | 3 | Netanjahu | Netanyahu | 内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡,内塔尼亚胡. | Israels Regierungschef Netanjahu: "Die Hamas will keinen Deal"
+- [0249] | 3 | Osten | East | 东边 | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
+- [0250] | 3 | Premierministerin | Prime Minister | 首相女士 Prime Minister. | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0251] | 3 | Prozent | Percentage | 百分之百 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
+- [0252] | 3 | Präsident | President | 总统 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
+- [0253] | 3 | Rechte | Rights | 右边,右边 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
+- [0254] | 3 | Reichweite | Range | 射程范围 | Mehr Reichweite: Deutsches Geld für ukrainische Waffen
+- [0255] | 3 | Rumänien | Romania | 罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚,罗马尼亚. | Rumänien will über Holocaust an Roma nicht mehr schweigen
+- [0256] | 3 | schweigen | silent | 沉默不言 | Rumänien will über Holocaust an Roma nicht mehr schweigen
+- [0257] | 3 | Selenskyj | Selenskyj | 塞伦斯基 | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
+- [0258] | 3 | sichere | safe | 安全起见 | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
+- [0259] | 3 | SPD | SPD | 社民党 (SPD) | Politiker von Union und SPD fordern mehr Härte bei Bürgergeld
+- [0260] | 3 | Stand | Status | 待命状态 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
+- [0261] | 3 | startet | Starts | 发射程序已启动 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
+- [0262] | 3 | steigen | rise | 爬升 | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
+- [0263] | 3 | Street | Street | 街道上. | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
+- [0264] | 3 | Stunden | Hours | 几个小时 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0265] | 3 | Sturm | Storm | 暴风雪 | Kroaten und Serben gedenken der Militäroperation "Sturm"
+- [0266] | 3 | Sturz | Fall | 摔跤 | Bangladesch: Kaum Fortschritt nach Sturz von Premierministerin Hasina vor einem Jahr
+- [0267] | 3 | Tag | Day | 午安 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0268] | 3 | TikTok | TikTok | 滴答 | Gefakte KI-Umfragen bei TikTok voller Rassismus
+- [0269] | 3 | Titandioxid | Titanium dioxide | 泰坦二氧化合物 | EuGH: Titandioxid darf nicht als krebserregend bezeichnet werden
+- [0270] | 3 | Tote | Dead | 死人 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
+- [0271] | 3 | Unterstützung | Support | 支持者. | Außenminister Wadephul sichert Palästinensern Unterstützung zu
+- [0272] | 3 | Urteil | Judgment | 判决书 | Bosnien: Milorad Dodik verliert Amt nach Urteil
+- [0273] | 3 | verändert | Changed | 改变. | Wie der Klimawandel das Bergsteigen verändert
+- [0274] | 3 | viele | many | 很多 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
+- [0275] | 3 | Washington | Washington | 华盛顿特区 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
+- [0276] | 3 | Wetter | Weather | 天气预报 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
+- [0277] | 3 | Wir | We | 我们... ... | Banaszak im ARD-Sommerinterview: "Wir geben den Osten nicht auf"
+- [0278] | 3 | wirft | throws | 投掷. | Nahost-Liveblog: ++ Deutschland wirft erneut Hilfsgüter über dem Gazastreifen ab   ++
+- [0279] | 3 | „Die | "The | ...他们... ... | „Die humanitäre Katastrophe muss jetzt ein Ende haben“
+- [0280] | 2 | Abgasskandal | Exhaust gas scandal | 废气丑闻 | EuGH mahnt angemessene Entschädigung im Abgasskandal an
+- [0281] | 2 | Abschiebung | Deportation | 移位. | Afghanische Geflüchtete im Iran: Abschiebung ins Ungewisse
+- [0282] | 2 | Andersens | Andersens | Andersens. Andersens. | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
+- [0283] | 2 | Anfang | Start | 从头开始 | Migration: Polen verlängert Grenzkontrollen bis Anfang Oktober
+- [0284] | 2 | angemessene | appropriate | 适宜的. | EuGH mahnt angemessene Entschädigung im Abgasskandal an
+- [0285] | 2 | Ankündigung | Announcement | 通知通知 | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
+- [0286] | 2 | Atom-U-Boote | Nuclear submarines | 核潜艇 | News kompakt: Trump bringt Atom-U-Boote in Stellung
+- [0287] | 2 | Atom-U-Booten | Nuclear submarines | 核潜艇 | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
+- [0288] | 2 | Aufarbeitung | Processing | 整理一下 | Coburg und die Aufarbeitung seiner NS-Vergangenheit
+- [0289] | 2 | Aussicht | Prospects | 风景预报 | Tesla stellt Musk riesiges Aktienpaket in Aussicht
+- [0290] | 2 | Autobauer | Carmakers | 汽车制造商 | Die deutschen Autobauer geraten ins Schleudern
+- [0291] | 2 | Autopilot-Unfall | Autopilot accident | 自动驾驶事故 | Urteil: Tesla muss wegen Autopilot-Unfall Millionen zahlen
+- [0292] | 2 | Bahnanlagen | Railway installations | 铁路公司 | Krieg gegen die Ukraine: Russland und Ukraine attackieren gegenseitig Bahnanlagen
+- [0293] | 2 | bald | soon | 快了 | Künstliche Intelligenz: Müssen wir bald alle coden können?
+- [0294] | 2 | Bayern | Bavaria | 巴伐利亚人 | Von München zum "Club": FC Bayern verleiht Nachwuchsprofi an den 1. FC Nürnberg
+- [0295] | 2 | bedeutet | means | 意思就是... | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
+- [0296] | 2 | bekommt | received | 得到... ... | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [0297] | 2 | bekräftigen | reaffirm | 重复一遍 | Macron und Merz bekräftigen Zusammenarbeit
+- [0298] | 2 | Bergsteigen | Mountaineering | 攀登山脉 | Wie der Klimawandel das Bergsteigen verändert
+- [0299] | 2 | Berlin | Berlin | 柏林 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
+- [0300] | 2 | Besatzung | Crew | 船员们 | Neue Besatzung an der ISS eingetroffen
+- [0301] | 2 | bezahlbar | Affordable | 可以负担得起的 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
+- [0302] | 2 | bezeichnet | paragraph 1 is replaced by the following: | 叫做... ... | EuGH: Titandioxid darf nicht als krebserregend bezeichnet werden
+- [0303] | 2 | BKA | BKA | BWA (BWA) | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
+- [0304] | 2 | Bolsonaro | Bolsonaro | 布尔桑罗 | Brasiliens Ex-Präsident Bolsonaro muss in Hausarrest
+- [0305] | 2 | Booking | Booking | '布宜诺斯艾利斯' | Europas Hotellerie fordert Schadenersatz von Booking.com
+- [0306] | 2 | Brandenburg | Brandenburg | Brandenburg | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
+- [0307] | 2 | Brasilien | Brazil | 巴西 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
+- [0308] | 2 | Bum- | Bum- | Bum -bum | Bezahlkarte für Geflüchtete: Wie ein Bum-, Bum-, Bumerang
+- [0309] | 2 | Bürgergeld-Stopp | Citizen money stop | 公民的钱停止了 | Söder fordert Bürgergeld-Stopp für ukrainische Geflüchtete
+- [0310] | 2 | C | C | C. | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
+- [0311] | 2 | CDU-Politikerin | CDU politician | CDU政客 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0312] | 2 | ChatGPT | ChatGPT | CachGPT (ContentGPT) | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
+- [0313] | 2 | Co | Co | Co. Co. | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
+- [0314] | 2 | Coburg | Coburg | Coburg Coburg | Coburg und die Aufarbeitung seiner NS-Vergangenheit
+- [0315] | 2 | com | com | Com | Europas Hotellerie fordert Schadenersatz von Booking.com
+- [0316] | 2 | Community | Community | 社区服务 | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
+- [0317] | 2 | Datenkabel | Data cable | 数据电缆 | Unbekannte legen Brand an Datenkabel der Bahn in Sachsen-Anhalt
+- [0318] | 2 | demonstrieren | Demonstrate | 展示一下 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
+- [0319] | 2 | Deutschlands | Germany | 德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国,德国. | Destatis: Bebauung Deutschlands um mehr als 50 Hektar pro Tag gewachsen
+- [0320] | 2 | distanziert | distanced | 疏远我 | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
+- [0321] | 2 | Dresden | Dresden | 德累斯顿 | Dresden: Spionage-Prozess gegen Ex-Mitarbeiter von Krah hat begonnen
+- [0322] | 2 | Drohnenkauf | Drone purchase | 無人機購買 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
+- [0323] | 2 | Drusische | Drusian | 德鲁士语 | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
+- [0324] | 2 | Duda | Duda | 杜达 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
+- [0325] | 2 | Dunkle | Dark | 暗黑使者 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
+- [0326] | 2 | einen | one | 一品脱 | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
+- [0327] | 2 | eingetroffen | Arrived | 到达了 | Neue Besatzung an der ISS eingetroffen
+- [0328] | 2 | Einsatz | Mission | 下注吧 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
+- [0329] | 2 | El | El | El... El... | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
+- [0330] | 2 | Elfenbeinküste | Ivory Coast | 科特迪瓦的科特迪瓦 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
+- [0331] | 2 | Entlassung | Dismissal | 裁员 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
+- [0332] | 2 | Entschädigung | Compensation | 赔偿金 | EuGH mahnt angemessene Entschädigung im Abgasskandal an
+- [0333] | 2 | entsetzt | Horrified | 令人震惊的. | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
+- [0334] | 2 | Entwicklung | Development | 发展 | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
+- [0335] | 2 | erreicht | Achieved | 达到了目标 | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
+- [0336] | 2 | ertrunken | drowned | 淹死了 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
+- [0337] | 2 | Es | It | . . . | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
+- [0338] | 2 | Ex-Präsidenten | Ex-Presidents | 前任总统 | Richter stellt Brasiliens Ex-Präsidenten Bolsonaro unter Hausarrest
+- [0339] | 2 | Ex-Staatschef | Former Head of State | 前国务卿 | News kompakt: Hausarrest für Brasiliens Ex-Staatschef
+- [0340] | 2 | Fahrgäste | Passengers | 乘客们 | Hamburg-Berlin: Was kommt auf die Fahrgäste der Bahn zu?
+- [0341] | 2 | Faktencheck | Facts Check | 事实调查 | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
+- [0342] | 2 | FC | FC | FC FC | Von München zum "Club": FC Bayern verleiht Nachwuchsprofi an den 1. FC Nürnberg
+- [0343] | 2 | Fed-Vorstandsmitglied | Fed board member | 联调局局长 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
+- [0344] | 2 | festgenommen | Arrested | 被逮捕了 | Mehr als 1.000 illegale Minenarbeiter in Südafrika festgenommen
+- [0345] | 2 | Fußball-Bundesliga | Football Bundesliga | 足球联盟 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
+- [0346] | 2 | fünf | five | 5个 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
+- [0347] | 2 | gedenken | remember | 癘拘 | Kroaten und Serben gedenken der Militäroperation "Sturm"
+- [0348] | 2 | Gefakte | Cactus | 成交了 | Gefakte KI-Umfragen bei TikTok voller Rassismus
+- [0349] | 2 | Geiseln | Hostages | 人质呢? | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
+- [0350] | 2 | Gemischte | Mixed | 混合的混合物. | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
+- [0351] | 2 | Geschäfte | Operations | 生意上的事 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
+- [0352] | 2 | gestärkt | Strengthened | 强度增强了 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
+- [0353] | 2 | gewinnt | wins | 赢了 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
+- [0354] | 2 | gibt | there | 分配给... | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
+- [0355] | 2 | Gittern | Grids | 铁丝网 | Isolation hinter Gittern: Frankreichs radikales Haftregime
+- [0356] | 2 | Grenzkontrollen | Border controls | 边境管制 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
+- [0357] | 2 | Gräuel-Videos | Atrocious Videos | 恐怖录像带 | Merz und Wadephul entsetzt über Gräuel-Videos der Hamas
+- [0358] | 2 | H | H | H -H | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
+- [0359] | 2 | Haft | Detention | 拘留所 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
+- [0360] | 2 | Haftregime | Detention regime | 拘留制度 | Isolation hinter Gittern: Frankreichs radikales Haftregime
+- [0361] | 2 | Hamburg | Hamburg | 汉堡 | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
+- [0362] | 2 | Hamburger | Hamburger | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}汉堡包 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Burgers. | Hamburger CSD mit Rekordbeteiligung
+- [0363] | 2 | Handelspolitik | Commercial policy | 贸易政策 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
+- [0364] | 2 | hat | has | ...他... ... | Dresden: Spionage-Prozess gegen Ex-Mitarbeiter von Krah hat begonnen
+- [0365] | 2 | Herkunftsstaat | Country of origin | 原籍国 | EuGH: Sicherer Herkunftsstaat muss für alle sicher sein
+- [0366] | 2 | Herkunftsstaaten | Country of origin | 原籍国 | Was das EuGH-Urteil über "sichere Herkunftsstaaten" bedeutet
+- [0367] | 2 | Hilfe | Help | 救命! | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
+- [0368] | 2 | Hilfsgütern | Auxiliary goods | 救援人员 | Nahost-Liveblog: ++ Laut UNRWA warten 6.000 LKW mit Hilfsgütern  ++
+- [0369] | 2 | Hilfslieferungen | Support deliveries | 救济品供应商 | Bundesregierung fordert von Israel mehr Hilfslieferungen über Landweg
+- [0370] | 2 | hinter | behind | 在后座的后面 | Isolation hinter Gittern: Frankreichs radikales Haftregime
+- [0371] | 2 | Hoffnung | Hope | 希望是 | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
+- [0372] | 2 | Hotspots | Hotspots | 热点 | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
+- [0373] | 2 | Härte | Hardness | 硬汉子 | Politiker von Union und SPD fordern mehr Härte bei Bürgergeld
+- [0374] | 2 | Höchststand | Highest level | 最高水平 | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
+- [0375] | 2 | illegale | illegal | 非法的 | Mehr als 1.000 illegale Minenarbeiter in Südafrika festgenommen
+- [0376] | 2 | Indien | India | 印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度. | Indien: Jugend entdeckt Spiritualität neu
+- [0377] | 2 | Inflation | Inflation | 通貨膨胀 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
+- [0378] | 2 | Innenministerium | Ministry of the Interior | 內政部 | Krieg in Nahost: Innenministerium prüft Aufnahme von Kindern aus Gaza und Israel
+- [0379] | 2 | Iran | Iran | 伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗,伊朗, | Der Iran trocknet aus
+- [0380] | 2 | ISS | ISS | ISS (ISS) | Neue Besatzung an der ISS eingetroffen
+- [0381] | 2 | Italien | Italy | 意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利,意大利. | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
+- [0382] | 2 | Jemen | Yemen | 也门 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
+- [0383] | 2 | Jugend | Youth | 年青人 | Indien: Jugend entdeckt Spiritualität neu
+- [0384] | 2 | Jugendliche | Young people | 青少年? | Rechtsextreme Graue Wölfe nehmen Kinder und Jugendliche ins Visier
+- [0385] | 2 | Junior-Depot | Junior depot | 初级禁制令 | Mit einem Junior-Depot kann man für den Nachwuchs sparen
+- [0386] | 2 | Kasachstan | Kazakhstan | 哈萨克斯坦 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
+- [0387] | 2 | kein | none | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不! | Kommt 2026 kein Flüssiggas aus Katar in die EU?
+- [0388] | 2 | KI-Regeln | AI rules | 人工智能规则 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
+- [0389] | 2 | KI-Umfragen | AI surveys | 人工智慧查詢 | Gefakte KI-Umfragen bei TikTok voller Rassismus
+- [0390] | 2 | Kinder | Children | 孩子们 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
+- [0391] | 2 | Kolumbiens | Colombia | 哥倫比亞隊 | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
+- [0392] | 2 | Kosten | Costs | 成本 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [0393] | 2 | Kraft | Force | 力量 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
+- [0394] | 2 | krebserregend | carcinogens | 癌癥 | EuGH: Titandioxid darf nicht als krebserregend bezeichnet werden
+- [0395] | 2 | Kriegsgefangenen | Prisoners of war | 战俘们 | Ukraine-Liveblog: ++ Selenskyj kündigt Austausch von 1.200 Kriegsgefangenen an ++
+- [0396] | 2 | Kroaten | Croats | 克罗地亚人 | Kroaten und Serben gedenken der Militäroperation "Sturm"
+- [0397] | 2 | Kurswechsel | Change of course | 改变航向 | Klingbeil in Washington: Kurswechsel in der Handelspolitik
+- [0398] | 2 | können | can | . . . . . | Künstliche Intelligenz: Müssen wir bald alle coden können?
+- [0399] | 2 | kündigt | Dismissed | 宣布结束 | Ukraine-Liveblog: ++ Selenskyj kündigt Austausch von 1.200 Kriegsgefangenen an ++
+- [0400] | 2 | Land | Country | 陆地 | Neues Quartier: DFB-Nationalteams trainieren künftig im Weimarer Land
+- [0401] | 2 | Landweg | Land route | 陆路 | Bundesregierung fordert von Israel mehr Hilfslieferungen über Landweg
+- [0402] | 2 | legen | lay | 躺在床上 | Unbekannte legen Brand an Datenkabel der Bahn in Sachsen-Anhalt
+- [0403] | 2 | Leihmüttern | Survivors | 借貸人媽媽們 | Dunkle Geschäfte mit Leihmüttern in Kasachstan
+- [0404] | 2 | Lenin-Kults | Lenin cults | 列宁教堂 | Kommt das Ende des Lenin-Kults in Putins Russland?
+- [0405] | 2 | Lernmittel | Learning tools | 学习用具 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
+- [0406] | 2 | Linke | Left | 左撇子 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
+- [0407] | 2 | Lkw | Trucks | 卡车 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0408] | 2 | Ludwig | Ludwig | 路德维希 | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
+- [0409] | 2 | lässt | Leaves | ...他... ... 他... | Israel lässt Gaza-Hilfe durch Privat-Unternehmen wieder zu
+- [0410] | 2 | Machtwille | Power will | 权力的渴望 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
+- [0411] | 2 | Macron | Macron | 麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯锡,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦肯伦,麦克,麦卡伦. | Macron und Merz bekräftigen Zusammenarbeit
+- [0412] | 2 | mahnt | Reminds | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}好吧 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Okay. | EuGH mahnt angemessene Entschädigung im Abgasskandal an
+- [0413] | 2 | man | you | ...你... ... | Mit einem Junior-Depot kann man für den Nachwuchs sparen
+- [0414] | 2 | Migration | Migration | 移民 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
+- [0415] | 2 | Militäroperation | Military operation | 军事行动 | Kroaten und Serben gedenken der Militäroperation "Sturm"
+- [0416] | 2 | Milliarden | Billions | 数十亿美元 | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
+- [0417] | 2 | Minenarbeiter | Mineworkers | 矿工 | Mehr als 1.000 illegale Minenarbeiter in Südafrika festgenommen
+- [0418] | 2 | motivierte | Motivated | 激勵人心的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的,激勵的 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
+- [0419] | 2 | Musk | Musk | 穆斯卡? | Tesla stellt Musk riesiges Aktienpaket in Aussicht
+- [0420] | 2 | Märchen | Fairy tales | 童话故事 | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
+- [0421] | 2 | Nachfolger | Successor | 继任者 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
+- [0422] | 2 | Nachthimmel | Night sky | 夜空飞翔 | Jetzt sind wieder Perseiden am Nachthimmel zu sehen
+- [0423] | 2 | Nachwuchs | Young people | 小屁孩 | Mit einem Junior-Depot kann man für den Nachwuchs sparen
+- [0424] | 2 | Nationen | Nations | 国家,国家,国家,国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家,非国家. | Vereinte Nationen warnen vor mehr Hunger in Afrika
+- [0425] | 2 | Nawrocki | Nawrocki | 纳瓦基 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
+- [0426] | 2 | nehmen | Take | 取走... | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
+- [0427] | 2 | neu | new | 新的... | Indien: Jugend entdeckt Spiritualität neu
+- [0428] | 2 | neuen | new | 新的... | Häusliche Gewalt erreicht laut dem BKA einen neuen Höchststand
+- [0429] | 2 | Neuer | New | 新的,新的,新的 | Neuer Meeressaurier in Fossil aus Baden-Württemberg entdeckt
+- [0430] | 2 | Neues | New | 新的,新的,新的,新的 | Neues Quartier: DFB-Nationalteams trainieren künftig im Weimarer Land
+- [0431] | 2 | Niederlande | Netherlands | 荷兰 | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
+- [0432] | 2 | nominieren | nominate | 提名 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
+- [0433] | 2 | Norden | North | 北边 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
+- [0434] | 2 | NS-Vergangenheit | NS past | NS历史 | Coburg und die Aufarbeitung seiner NS-Vergangenheit
+- [0435] | 2 | Ouattaras | Ouattaras | 瓦拉萨拉萨斯岛 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
+- [0436] | 2 | Palästinensern | Palestinians | 巴勒斯坦人是巴勒斯坦人 | Außenminister Wadephul sichert Palästinensern Unterstützung zu
+- [0437] | 2 | Perseiden | Perseids | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不! | Jetzt sind wieder Perseiden am Nachthimmel zu sehen
+- [0438] | 2 | planen | plan | 计划生育计划 | USA planen Atomkraftwerke auf dem Mond - geht das überhaupt?
+- [0439] | 2 | Polen | Poland | 波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人,波兰人. | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
+- [0440] | 2 | Polens | Poland | 波兰人 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
+- [0441] | 2 | politisch | political | 政治上来说 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
+- [0442] | 2 | pro | per | - _BAR_ _BAR_ | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0443] | 2 | Problem | Problem | 有问题吗? | Gefälschte Medikamente: Ein weltweites Problem
+- [0444] | 2 | Proteste | Protests | 抗议活动 | Proteste in Brasilien gegen Trumps politisch motivierte Zölle
+- [0445] | 2 | Präsidialamt | President's Office | 总务部 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
+- [0446] | 2 | prüfen | Check | 核实一下 | Israelische Unternehmen in Gazastreifen und Westjordanland: Norwegische Regierung will Staatsfonds auf israelische Firmen prüfen
+- [0447] | 2 | prüft | Checked | 核对过了 | Krieg in Nahost: Innenministerium prüft Aufnahme von Kindern aus Gaza und Israel
+- [0448] | 2 | Putins | Putin's | 普京家族的人 | Kommt das Ende des Lenin-Kults in Putins Russland?
+- [0449] | 2 | radikales | Radical | 激进的激进分子 | Isolation hinter Gittern: Frankreichs radikales Haftregime
+- [0450] | 2 | Rassismus | Racism | 種族歧視 | Gefakte KI-Umfragen bei TikTok voller Rassismus
+- [0451] | 2 | Reaktionen | Reactions | 反应堆. | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
+- [0452] | 2 | Rechtsextreme | Right-wing extremes | 极右翼的女权主义者 | Rechtsextreme Graue Wölfe nehmen Kinder und Jugendliche ins Visier
+- [0453] | 2 | Regierungschef | Head of Government | 国务卿 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
+- [0454] | 2 | reisen | travel | 旅行 | Statistisches Bundesamt: Deutsche reisen immer mehr
+- [0455] | 2 | Reizwort | Irritating word | "吸引人"一词 | AfD: Richtungsstreit über das Reizwort "Remigration"
+- [0456] | 2 | Rekordbeteiligung | Record participation | 创纪录的纪录 | Hamburger CSD mit Rekordbeteiligung
+- [0457] | 2 | Remigration | Remigration | 恢复原状,以备不时之需 | AfD: Richtungsstreit über das Reizwort "Remigration"
+- [0458] | 2 | Richter | Judge | 法官 | Rapper Sean "Diddy" Combs bleibt in Haft - Richter gegen Entlassung
+- [0459] | 2 | Richtungsstreit | Dispute over the direction | 方向纠纷 | AfD: Richtungsstreit über das Reizwort "Remigration"
+- [0460] | 2 | Rom | Rome | 罗马 | Weltjugendtreffen in Rom: Was erwartet die Jugend vom Papst?
+- [0461] | 2 | Rund | Round | 圆形的 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
+- [0462] | 2 | russische | Russian | 俄国佬 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
+- [0463] | 2 | Rücktritt | Resignation | 辞职 | Rücktritt von Fed-Vorstandsmitglied - Trump kann Nachfolger nominieren
+- [0464] | 2 | Schleudern | Spinning | 投掷弹弓 | Die deutschen Autobauer geraten ins Schleudern
+- [0465] | 2 | Schmerz | Pain | 痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦. 痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦,痛苦. | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
+- [0466] | 2 | Schulbedarf | Education needs | 学校的需要 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
+- [0467] | 2 | schützen | protect | 保护我们 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
+- [0468] | 2 | Sechsjährigen | Six-year-olds | 六岁小孩 | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
+- [0469] | 2 | sehen | see | 看到没? | Jetzt sind wieder Perseiden am Nachthimmel zu sehen
+- [0470] | 2 | Sehnsucht | Longing | 渴望... 渴望... | H. C. Andersens Märchen: Sehnsucht, Schmerz und Hoffnung
+- [0471] | 2 | seiner | of the | 他的. . . | Coburg und die Aufarbeitung seiner NS-Vergangenheit
+- [0472] | 2 | seit | since | 从那时起 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
+- [0473] | 2 | Serben | Serbs | 塞尔维亚人 | Kroaten und Serben gedenken der Militäroperation "Sturm"
+- [0474] | 2 | sicher | safe | 安全起见 | EuGH: Sicherer Herkunftsstaat muss für alle sicher sein
+- [0475] | 2 | sichert | Secured | 确保安全 | Außenminister Wadephul sichert Palästinensern Unterstützung zu
+- [0476] | 2 | sitzen | sitting | 坐下 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0477] | 2 | soll | to: | 应为... ... | EU-Zolldeal mit den USA: Wer soll die Energieimporte bezahlen?
+- [0478] | 2 | Sorge | Care | 你担心什么? | Drusische Community in Deutschland in Sorge vor Entwicklung in Syrien
+- [0479] | 2 | spaltet | Splits | 分裂成两半 | Präsident Ouattaras Machtwille spaltet Elfenbeinküste erneut
+- [0480] | 2 | Spanien | Spain | 西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙,西班牙. | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
+- [0481] | 2 | sparen | Save | 节约开支 | Mit einem Junior-Depot kann man für den Nachwuchs sparen
+- [0482] | 2 | Sportlern | Athletes | 运动员们 | Europäischer Gerichtshof: Rechte von Sportlern in der EU gestärkt
+- [0483] | 2 | Start | Start | 升空了 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
+- [0484] | 2 | steigert | increased | 提高了. | Deutsche Post steigert Gewinn trotz Konjunkturschwäche
+- [0485] | 2 | stellt | Sets | 假设... | Tesla stellt Musk riesiges Aktienpaket in Aussicht
+- [0486] | 2 | Strafzölle | Penalties | 惩罚性关税 | Strafzölle: Trump droht Medikamentenherstellern mit Zöllen bis zu 250 Prozent
+- [0487] | 2 | Strand | Beach | 海滩 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
+- [0488] | 2 | Streit | Dispute | 打架,打架,打架,打架,打架,打架,打架,打架,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗,争斗 | Streit mit Medwedew: Trump setzt Atom-U-Boote in Bewegung
+- [0489] | 2 | Strengere | Stricter | 更严格的,更严格的 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
+- [0490] | 2 | Sudan | Sudan | 苏丹 | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
+- [0491] | 2 | Suwaida | Suwaida | Suwaida. | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
+- [0492] | 2 | Südkorea | South Korea | 韩国人,韩国人,韩国人,韩国人,韩国人,韩国人 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
+- [0493] | 2 | Teure | Expensive | 亲爱的 | Teure Lernmittel: Schulbedarf für viele "kaum bezahlbar"
+- [0494] | 2 | tot | Dead | 死了 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
+- [0495] | 2 | treten | Steps | 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 踢啊 | Strengere KI-Regeln für ChatGPT und Co. treten in Kraft
+- [0496] | 2 | Türkei | Turkey | 土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其,土耳其和土耳其. | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
+- [0497] | 2 | Unbekannte | Unknown | 未知号码 | Unbekannte legen Brand an Datenkabel der Bahn in Sachsen-Anhalt
+- [0498] | 2 | Uribe | Uribe | eurobe | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
+- [0499] | 2 | Urlaub | Holiday | 假期? | Wirtschaftliche Lage in der Türkei: Wenn der Urlaub unerschwinglich wird
+- [0500] | 2 | US-Zölle | US customs duties | 美国关税 | Warum Bolsonaro-Anhänger die US-Zölle feiern
+- [0501] | 2 | Verbraucherschützer | Consumer protection | 消费者的消费商. | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
+- [0502] | 2 | Vereinte | United | 联合国 | Vereinte Nationen warnen vor mehr Hunger in Afrika
+- [0503] | 2 | verklagen | sue | 控告他 | Elon Musk: Aktionäre verklagen Tesla wegen angeblicher Falschangaben zu Robotaxis
+- [0504] | 2 | Verlegung | Transfer | 转移了 | Gemischte Reaktionen auf Trumps Ankündigung zur Verlegung von Atom-U-Booten
+- [0505] | 2 | verletzt | Injured | 你受伤了吗? | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0506] | 2 | Verletzte | Injured | 受伤的伤员 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
+- [0507] | 2 | verliert | loses | 输定了 | Bosnien: Milorad Dodik verliert Amt nach Urteil
+- [0508] | 2 | verlängert | prolonged | 延长期限 | Migration: Polen verlängert Grenzkontrollen - Folgen für Brandenburg
+- [0509] | 2 | verschiebt | Moved | 推遲了 | News kompakt: Trump verschiebt Zölle und verhängt neue Sätze
+- [0510] | 2 | verschärfen | exacerbate | 更糟的是 | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
+- [0511] | 2 | voller | Full | 满地都是 | Gefakte KI-Umfragen bei TikTok voller Rassismus
+- [0512] | 2 | Wachstum | Growth | 经济增长 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
+- [0513] | 2 | Wall | Wall | 墙壁 | Marktbericht: Zoll-Schock an der Wall Street
+- [0514] | 2 | warnen | Warning | 警告: | Vereinte Nationen warnen vor mehr Hunger in Afrika
+- [0515] | 2 | Warnung | Warning | (PHP 4 = 4.2.0) | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
+- [0516] | 2 | Wechsel | Change | 换个话题吧 | Wechsel in Polens Präsidialamt: Duda geht, Nawrocki kommt
+- [0517] | 2 | weitere | other | 其它... ... | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
+- [0518] | 2 | Welthungerhilfe | World hunger aid | 世界饥饿援助. | Hotspots der Welthungerhilfe: Gaza, Sudan, Syrien
+- [0519] | 2 | weltweites | World | 全球化 | Gefälschte Medikamente: Ein weltweites Problem
+- [0520] | 2 | wenn | if: | 当... 当... | Vom Sofa ins Raubtiergehege - wenn Haustiere Zootiere retten
+- [0521] | 2 | Wer | Who | 谁是谁? | EU-Zolldeal mit den USA: Wer soll die Energieimporte bezahlen?
+- [0522] | 2 | Westjordanland | West Bank | 西约旦河西岸 | Israelische Unternehmen in Gazastreifen und Westjordanland: Norwegische Regierung will Staatsfonds auf israelische Firmen prüfen
+- [0523] | 2 | Wieso | Why | 为什么? | Wieso die Lieferando-Mitarbeiter die Arbeit niederlegen
+- [0524] | 2 | Wolfsattacke | Wolf Attack | 狼的攻击. | Niederlande verschärfen Warnung nach Wolfsattacke auf Sechsjährigen
+- [0525] | 2 | wollen | want | ...希望... ... | Schweizer wollen in Washington über hohen Zollsatz nachverhandeln
+- [0526] | 2 | Zahl | Number | 数字 | Zahl der Asyl-Anträge in Deutschland halbiert sich
+- [0527] | 2 | zahlen | pay | 支付. | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
+- [0528] | 2 | zehn | 10 | 10个 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [0529] | 2 | Zöllen | Customs duties | 关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税,关税 | Strafzölle: Trump droht Medikamentenherstellern mit Zöllen bis zu 250 Prozent
+- [0530] | 1 | 'Ndrangheta | 'Ndrangheta | 'Ndrangheta' | Landeskriminalamt: 'Ndrangheta größte italienische Mafia-Organisation in NRW
+- [0531] | 1 | -Bewegung | -Movement | - 移动 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
+- [0532] | 1 | -Jähriger | -year-old | - 年青人 | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
+- [0533] | 1 | -Podcast | -Podcast | - Podcast | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [0534] | 1 | -Tage-Woche | -day-week | - 星期日 | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
+- [0535] | 1 | A | A | A | Feuerwehreinsatz: Mit Batterien beladener Laster auf A71 in Brand geraten
+- [0536] | 1 | aber | but | 但是... | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
+- [0537] | 1 | Abgeordneter | Member of the European Parliament | 议员先生 | Nach Austausch mit AfD: Union distanziert sich von Abgeordneter Ludwig
+- [0538] | 1 | Abkommen | Agreement | 协议书 | Plastikmüll: Gelingt ein internationales Abkommen?
+- [0539] | 1 | ablegen | Store | 放下枪,放下枪 | Hamas will nur für unabhängigen Staat Waffen ablegen
+- [0540] | 1 | Ablenkungsmanöver | Distraction maneuvers | 分散注意力 | Kommentar zur Bürgergeld-Debatte: Ständig wiederkehrendes Ablenkungsmanöver
+- [0541] | 1 | Abschuss | Launch | 发射 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
+- [0542] | 1 | Absichtliches | Intentional | 故意的 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
+- [0543] | 1 | Absturz | Crash | 坠机了 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
+- [0544] | 1 | Abwehr | Defense | 防守! | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
+- [0545] | 1 | Abwurf | Discard | 投弹 | Bundeswehr beginnt mit Abwurf von Hilfsgütern über Gazastreifen
+- [0546] | 1 | AfD-Mann | AfD man | AfD男 | Spionage-Prozess: Ex-Assistent von AfD-Mann Krah vor Gericht
+- [0547] | 1 | AfD-Politiker | AfD politicians | AfD政客 | Staatsschutzverfahren: Spionage-Prozess gegen Ex-Mitarbeiter von AfD-Politiker Krah
+- [0548] | 1 | Afghanen | Afghans | 阿富汗人 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
+- [0549] | 1 | Afghanische | Afghanistan | 阿富汗人 | Afghanische Geflüchtete im Iran: Abschiebung ins Ungewisse
+- [0550] | 1 | Airlines | Airlines | 航空公司 | Verbraucherschützer verklagen Airlines wegen Handgepäck-Gebühren
+- [0551] | 1 | Aktienpaket | Share package | 股票组合 | Tesla stellt Musk riesiges Aktienpaket in Aussicht
+- [0552] | 1 | Aktion | Action | 行动 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
+- [0553] | 1 | Aktionäre | Shareholders | 股东们 | Elon Musk: Aktionäre verklagen Tesla wegen angeblicher Falschangaben zu Robotaxis
+- [0554] | 1 | aktuelle | Current | 当前情况是... | Donald Trumps Zölle: Was ist der aktuelle Stand?
+- [0555] | 1 | akzeptiert | Accepted | 接受 | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
+- [0556] | 1 | alt | old | 老掉牙了 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
+- [0557] | 1 | Altenpflege | Care for the elderly | 老人看护 | Deutschland: Die Kosten für die Altenpflege explodieren
+- [0558] | 1 | Alternativen | Alternatives | 其它选择 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
+- [0559] | 1 | Altstadt | Old Town | 老城区 | Evakuierung: Historische Altstadt nach Gasalarm mehrere Stunden geräumt
+- [0560] | 1 | Amazon | Amazon | 亚马逊. 亚马逊. | Amazon enttäuscht mit Wachstum der Cloud-Sparte
+- [0561] | 1 | Amt | Office | 办公室 | Bosnien: Milorad Dodik verliert Amt nach Urteil
+- [0562] | 1 | angeblicher | Reported | 據稱是... | Elon Musk: Aktionäre verklagen Tesla wegen angeblicher Falschangaben zu Robotaxis
+- [0563] | 1 | Angebote | Tenders | 出价 | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
+- [0564] | 1 | Angriffe | Attacks | 攻击 | Trump nennt russische Angriffe auf Ukraine "widerwärtig"
+- [0565] | 1 | Animagic | Animagic | 魔咒 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
+- [0566] | 1 | Anschlag | Attack | 袭击 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
+- [0567] | 1 | Anschläge | Attacks | 袭击 | Was ist über die mutmaßlichen Anschläge auf Bahnanlagen bekannt?
+- [0568] | 1 | Antike | Ancient | 古典音乐 | Von der Antike bis heute: Die Magie der Brunnen
+- [0569] | 1 | Antworten | Answers | 答案是: | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
+- [0570] | 1 | Anwalt | Lawyer | 律师 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
+- [0571] | 1 | Anwendung | Administration | 应用程序 | Digitale Anwendung zeigt Folgen des Klimawandels
+- [0572] | 1 | anzuzetteln | to start | 引人注目 | SPD wirft Söder vor, eine "Bürgergeld-Kampagne" anzuzetteln
+- [0573] | 1 | Apple | Apple | Apple Apple | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
+- [0574] | 1 | Arbeit | Work | 工作上的事 | Wieso die Lieferando-Mitarbeiter die Arbeit niederlegen
+- [0575] | 1 | Archäologie | Archaeology | 考古学 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
+- [0576] | 1 | Armee | Army | 军队 | Israelische Armee: Ein Trauma ist kein Ausmusterungsgrund mehr
+- [0577] | 1 | Arten | Species | 种类 | Problem für Deiche und heimische Arten: Nutrias breiten sich aus
+- [0578] | 1 | Astronomie | Astronomy | 天文学 | Astronomie: Planetenwettlauf morgens im August
+- [0579] | 1 | Asyl-Anträge | Asylum applications | 避难所的避难所 | Zahl der Asyl-Anträge in Deutschland halbiert sich
+- [0580] | 1 | Asylverfahren | Asylum procedures | 庇护程序 | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
+- [0581] | 1 | Atomkraftwerke | Nuclear power plants | 核电站 | USA planen Atomkraftwerke auf dem Mond - geht das überhaupt?
+- [0582] | 1 | attackieren | Attack | 攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击,攻击和攻击. | Krieg gegen die Ukraine: Russland und Ukraine attackieren gegenseitig Bahnanlagen
+- [0583] | 1 | Aufbruchssignal | Break-out signal | 出发信号 | Syrien: Parlamentswahlen als Aufbruchssignal?
+- [0584] | 1 | aufgedeckt | Revealed | 暴露身份了 | Ukraine: "Großangelegtes Korruptionssystem" aufgedeckt
+- [0585] | 1 | Aufschläge | Additions | 贴纸贴纸 | Strafzölle für Öl-Käufe: Trump will Aufschläge für Indien noch einmal erhöhen
+- [0586] | 1 | August | August | 奥古斯特 | Astronomie: Planetenwettlauf morgens im August
+- [0587] | 1 | Ausbildungsstart | Start of training | 训练开始 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
+- [0588] | 1 | Auserwählte | Selected | 天选之子 | "Chief of War": Ist dieser Mann der Auserwählte?
+- [0589] | 1 | ausgehungerter | Starved | 饥饿的... | Videos ausgehungerter Geiseln schockieren Israel
+- [0590] | 1 | Ausmusterungsgrund | Expulsion reason | 模式原因之一 | Israelische Armee: Ein Trauma ist kein Ausmusterungsgrund mehr
+- [0591] | 1 | Aussichten | Prospects | 前途无量 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
+- [0592] | 1 | auswirkt | effect | 影响很大 | Wie sich Trumps Wirtschaftspolitik auswirkt
+- [0593] | 1 | Backstress | Backstress | 后备后遗症 | Monate vor Weihnachten: Lebkuchen-Hersteller schon im Backstress
+- [0594] | 1 | Baden-Württemberg | Baden-Württemberg | 巴登 -沃恩特伯格 | Neuer Meeressaurier in Fossil aus Baden-Württemberg entdeckt
+- [0595] | 1 | BAföG-Empfänger | BAföG receiver | 帆船捕获者 | Zahl der BAföG-Empfänger auf niedrigstem Stand seit 25 Jahren
+- [0596] | 1 | Bahnsanierung | Refurbishment | 铁路重建 | Folgen der Bahnsanierung: Ein Krankenhaus wird zum Fuhrunternehmen
+- [0597] | 1 | Balkon | Balcony | 阳台 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
+- [0598] | 1 | Ballsaal | Ballroom | 舞厅 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
+- [0599] | 1 | Bann | Ban | Banner. Banner. | Marktbericht: Börsen ganz im Bann der Zinsen
+- [0600] | 1 | Batterien | Batteries | 电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池,电池 | Feuerwehreinsatz: Mit Batterien beladener Laster auf A71 in Brand geraten
+- [0601] | 1 | bauen | Building | 建筑工地 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
+- [0602] | 1 | Bebauung | Building | 建筑工地 | Destatis: Bebauung Deutschlands um mehr als 50 Hektar pro Tag gewachsen
+- [0603] | 1 | Bedingungen | Conditions | 条件是... | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
+- [0604] | 1 | bedroht | Threatened | 威胁到我们 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
+- [0605] | 1 | beendet | Finished | 结束,结束 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
+- [0606] | 1 | Beendigung | Termination | 结束! | Neue US-Strategie zur Beendigung des Kriegs im Gazastreifen?
+- [0607] | 1 | Begegnung | Meeting | 见过面了 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0608] | 1 | begonnen | Started | 从头开始 | Dresden: Spionage-Prozess gegen Ex-Mitarbeiter von Krah hat begonnen
+- [0609] | 1 | Beifahrer | Passengers | 副驾驶 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0610] | 1 | Beirut | Beirut | 贝鲁特 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
+- [0611] | 1 | bekannt | known | 众所周知 | Was ist über die mutmaßlichen Anschläge auf Bahnanlagen bekannt?
+- [0612] | 1 | beladener | Loaded | 装载器 | Feuerwehreinsatz: Mit Batterien beladener Laster auf A71 in Brand geraten
+- [0613] | 1 | Berentzen | Berentzen | 毛茸茸的贝雷帽 | Paulaner gewinnt im Spezi-Prozess gegen Berentzen
+- [0614] | 1 | Bergleute | Miners | 矿工们 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
+- [0615] | 1 | Bericht | Report | 报告 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
+- [0616] | 1 | Berlins | Berlin | 柏林 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
+- [0617] | 1 | besitzen | own | 擁有它 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
+- [0618] | 1 | bestimmten | In particular: | 特定的特定位置 | USA planen Kaution bei Einreisen aus bestimmten Ländern
+- [0619] | 1 | besucht | Visited | 探访? | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
+- [0620] | 1 | bewahren | Keep | 保住性命 | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
+- [0621] | 1 | Bewegung | Movement | 动作快 | Streit mit Medwedew: Trump setzt Atom-U-Boote in Bewegung
+- [0622] | 1 | bewertet | evaluated | 评估结果 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
+- [0623] | 1 | bezahlen | pay | 付钱给你 | EU-Zolldeal mit den USA: Wer soll die Energieimporte bezahlen?
+- [0624] | 1 | Bezahlkarte | Payment card | 付款卡 | Bezahlkarte für Geflüchtete: Wie ein Bum-, Bum-, Bumerang
+- [0625] | 1 | bezwingt | Conquered | 胜利了! | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
+- [0626] | 1 | Bilder | Pictures | 照片,照片,照片,照片,照片,照片,图片 | Vermischtes: Bilder des Tages
+- [0627] | 1 | BKA-Statistik | BKA statistics | BWA统计学 | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
+- [0628] | 1 | bleiben | stay | 留下吧 | Mütter bleiben häufiger für krankes Kind zu Hause
+- [0629] | 1 | bleibt | Stays | 留下 | Rapper Sean "Diddy" Combs bleibt in Haft - Richter gegen Entlassung
+- [0630] | 1 | Blitzer-Einsatz | Blitzer bet | 闪电行动 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
+- [0631] | 1 | Blue | Blue | Blue Blue | "Summertime" von George Gershwin: Sommerlied in Blue
+- [0632] | 1 | Boden | Soil | 地板 | Marktbericht: DAX macht Boden gut
+- [0633] | 1 | Bolivien | Bolivia | 玻利维亚 | Bolivien: Machtkampf um das weiße Gold
+- [0634] | 1 | Bolsonaro-Anhänger | Bolsonaro pendants | 布尔桑罗的追随者 | Warum Bolsonaro-Anhänger die US-Zölle feiern
+- [0635] | 1 | Bombenfund | Bomb discovery | 发现炸弹的人 | Bombenfund: Erneut Weltkriegsbombe an Dresdner Carolabrücke gefunden
+- [0636] | 1 | Bootsunglück | Boat accident | 船失事 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
+- [0637] | 1 | Borreliose | Lyme Disease | 冠狀動脈病 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
+- [0638] | 1 | Bosnien | Bosnia | 波斯尼亚 | Bosnien: Milorad Dodik verliert Amt nach Urteil
+- [0639] | 1 | Brandanschläge | Fire attacks | 纵火案 | Brandanschläge: Bahnstrecke nach Sabotage wieder freigegeben
+- [0640] | 1 | Brandmauer | Firewall | 防火墙 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0641] | 1 | Brandschäden | Fire damage | 火災的傷亡 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
+- [0642] | 1 | Brandstiftung | Arson | 纵火案 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
+- [0643] | 1 | Brandsätze | Sets of fires | 火药片 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
+- [0644] | 1 | breiten | wide | 宽阔的区域. | Problem für Deiche und heimische Arten: Nutrias breiten sich aus
+- [0645] | 1 | bringt | European | 带来... ... | News kompakt: Trump bringt Atom-U-Boote in Stellung
+- [0646] | 1 | Brosius-Gersdorf | Brosius-Gersdorf | Brouseus-Gersdorf | SPD fordert Union zu Gespräch mit Brosius-Gersdorf auf
+- [0647] | 1 | Brunnen | Well | 喷泉 | Von der Antike bis heute: Die Magie der Brunnen
+- [0648] | 1 | Brustkrebs | Breast cancer | 乳腺癌 | Weltstillwoche: Muttermilch kann vor Brustkrebs schützen
+- [0649] | 1 | Brücke | Bridge | 桥梁 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0650] | 1 | BSR | BSR | BSR,BSR,BSR,BSR,BR,SR,B,SR,SR,SR,B,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,S,R,S,S,S,S,S,S,S,S,S和,S,S,S,S,R,S,S,S,S,S,S,R,S,S,S,,,,,,,,S,,,,,,,,,,,,,,S,,S,,,,,,,S,S,,,,S,S,S,,,,,S,,,,,,,,,,,,,S,,,S,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,S,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
+- [0651] | 1 | Bumerang | Bumerang | Bumerang Bumerang | Bezahlkarte für Geflüchtete: Wie ein Bum-, Bum-, Bumerang
+- [0652] | 1 | Bundesamt | Federal Office | 联邦办公室 | Statistisches Bundesamt: Deutsche reisen immer mehr
+- [0653] | 1 | Bundestagspräsidentin | President of the Bundestag | 德国总统日 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
+- [0654] | 1 | Bundeswehr | Bundeswehr | 联邦武装部队 | Bundeswehr beginnt mit Abwurf von Hilfsgütern über Gazastreifen
+- [0655] | 1 | Bußgeld | Penalties | 罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款,罚款 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
+- [0656] | 1 | Börse | Exchange | 股票交易所 | Marktbericht: Trump-Zölle drücken die Börse
+- [0657] | 1 | Börsen | Exchanges | 股票交易所 | Marktbericht: Börsen ganz im Bann der Zinsen
+- [0658] | 1 | Bürgergeld-Debatte | Citizens' money debate | 公民津贴辩论 | Kommentar zur Bürgergeld-Debatte: Ständig wiederkehrendes Ablenkungsmanöver
+- [0659] | 1 | Bürgergeld-Kampagne | Citizen money campaign | 公民福利运动 | SPD wirft Söder vor, eine "Bürgergeld-Kampagne" anzuzetteln
+- [0660] | 1 | Bürgergeld-Zahlungen | Citizen's money payments | 公民津贴的支付额 | Bürgergeld-Zahlungen steigen auf knapp 47 Milliarden Euro
+- [0661] | 1 | B’Av | B-Av | BARTHAV. | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
+- [0662] | 1 | Cannabis | Cannabis | 大麻 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [0663] | 1 | Cannabis-Club | Cannabis Club | 大麻俱乐部 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [0664] | 1 | Carolabrücke | Carola Bridge | 卡洛大橋 | Bombenfund: Erneut Weltkriegsbombe an Dresdner Carolabrücke gefunden
+- [0665] | 1 | CAS | CAS | CASE CASE CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE, CASE. | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
+- [0666] | 1 | CAS-Schiedssprüche | CAS claims | CAS暗号 | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
+- [0667] | 1 | Charkiw | Kharkiv | Charkaw | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
+- [0668] | 1 | Chief | Chief | Chief Chief. Chief Chief. | "Chief of War": Ist dieser Mann der Auserwählte?
+- [0669] | 1 | Chile | Chile | 智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利,智利. | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
+- [0670] | 1 | China | China | 中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國,中國. | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0671] | 1 | Christopher | Christopher | Christopher Christopher | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
+- [0672] | 1 | City | City | 城市 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
+- [0673] | 1 | Cloud-Sparte | Cloud division | 云口 | Amazon enttäuscht mit Wachstum der Cloud-Sparte
+- [0674] | 1 | Club | Club | Club Club. | Von München zum "Club": FC Bayern verleiht Nachwuchsprofi an den 1. FC Nürnberg
+- [0675] | 1 | coden | code | coden | Künstliche Intelligenz: Müssen wir bald alle coden können?
+- [0676] | 1 | Combs | Combs | Combs (Combs) | Rapper Sean "Diddy" Combs bleibt in Haft - Richter gegen Entlassung
+- [0677] | 1 | Comedys | Comedys | Comedys Comings. | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
+- [0678] | 1 | Cranger | Cranger | Cranger是Cranger. | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
+- [0679] | 1 | Crime | Crime | Crime Crime | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [0680] | 1 | Crocus | Crocus | Crocus. | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
+- [0681] | 1 | dank | thanks | 谢谢 Thank you. | Palantir wächst dank KI-Boom weiter und weiter
+- [0682] | 1 | Dating-App | Dating app | 约会应用程序 | Dating-App Tea: Vorsicht, Schmierlappen!
+- [0683] | 1 | DAX | DAX | DAX DAX | Marktbericht: DAX macht Boden gut
+- [0684] | 1 | Day | Day | Day Day | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
+- [0685] | 1 | DDR-Machtsymbol | DDR Power Symbol | 东德力量符号 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
+- [0686] | 1 | de | de | de de | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
+- [0687] | 1 | Deal | Deal | 一言为定 | Israels Regierungschef Netanjahu: "Die Hamas will keinen Deal"
+- [0688] | 1 | decken | cover | 掩护我 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
+- [0689] | 1 | Deiche | Dikes | Dedee Dedee. | Problem für Deiche und heimische Arten: Nutrias breiten sich aus
+- [0690] | 1 | Demo | Demo | 示威游行 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
+- [0691] | 1 | demonstriert | Demonstrated | 展示一下 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
+- [0692] | 1 | Desinformation | Disinformation | 泄露信息 | Faktencheck: Netanjahus Desinformation über Hunger in Gaza
+- [0693] | 1 | Destatis | Destatis | Destantis. | Destatis: Bebauung Deutschlands um mehr als 50 Hektar pro Tag gewachsen
+- [0694] | 1 | deutlich | Clear | 清楚了吗? | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
+- [0695] | 1 | DFB-Nationalteams | DFB National Teams | DFB国家小组 (DFB National Teague) 队 (DFB) | Neues Quartier: DFB-Nationalteams trainieren künftig im Weimarer Land
+- [0696] | 1 | Diddy | Diddy | 迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪迪 | Rapper Sean "Diddy" Combs bleibt in Haft - Richter gegen Entlassung
+- [0697] | 1 | dieser | This | 这个... | "Chief of War": Ist dieser Mann der Auserwählte?
+- [0698] | 1 | Digitale | Digital | 数码数字 | Digitale Anwendung zeigt Folgen des Klimawandels
+- [0699] | 1 | Distanz | Distance | 距离太遠了 | Debatte über Brandmauer: Begegnung mit AfD – Union auf Distanz zu CDU-Politikerin
+- [0700] | 1 | Disziplin | Discipline | 紀律 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
+- [0701] | 1 | Dodik | Dodik | Dodik Dodik | Bosnien: Milorad Dodik verliert Amt nach Urteil
+- [0702] | 1 | Dollar | Dollars | 美元 | Fed : Wer ist mächtiger: Trump oder der Dollar?
+- [0703] | 1 | Donald | Donald | 唐纳德 | Donald Trumps Zölle: Was ist der aktuelle Stand?
+- [0704] | 1 | Doppel-Test | Double test | 双重测试 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
+- [0705] | 1 | Doppelpacker | Double packers | 双层包装箱 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
+- [0706] | 1 | Drama | Drama | 戏剧性地讲 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
+- [0707] | 1 | Dresdner | Dresdner | Dresdner Dresdner | Bombenfund: Erneut Weltkriegsbombe an Dresdner Carolabrücke gefunden
+- [0708] | 1 | Drogenhändler | Drug traffickers | 毒品贩子 | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
+- [0709] | 1 | drohen | Threaten | 威胁... 威胁... | Rund um den Globus: Welchen Ländern welche Zölle drohen
+- [0710] | 1 | Drohnen | Drones | 无人机 | Mit niederländischen Tulpennetzen gegen Drohnen
+- [0711] | 1 | Drohnenangriffen | Drone attacks | 无人机攻击 | Ukraine-Liveblog: ++ Russland meldet Tote nach Drohnenangriffen ++
+- [0712] | 1 | droht | threatened | 威胁要来了 | Strafzölle: Trump droht Medikamentenherstellern mit Zöllen bis zu 250 Prozent
+- [0713] | 1 | drücken | press | 按下按键 | Marktbericht: Trump-Zölle drücken die Börse
+- [0714] | 1 | Dubiose | Dubiosis | 阴性二人组 | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
+- [0715] | 1 | durchsuchen | Browse | 搜身 | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
+- [0716] | 1 | Dynamo | Dynamo | Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo,Dynamo. | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
+- [0717] | 1 | dürfen | may: | 允许我... ... | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
+- [0718] | 1 | ebnet | level | -a -b -b | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
+- [0719] | 1 | Ehemalige | Former | 之前的我 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
+- [0720] | 1 | eher | more | 更像是... | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
+- [0721] | 1 | Eilantrags | Urgent request | 紧急申请 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
+- [0722] | 1 | einige | some | 有些是... | Trump verschiebt Start neuer Zölle um einige Tage
+- [0723] | 1 | einmal | once | 曾经有过一次 | Strafzölle für Öl-Käufe: Trump will Aufschläge für Indien noch einmal erhöhen
+- [0724] | 1 | Einnahme | Administration | 服药过量 | Medienberichte: Netanjahu strebt Einnahme des ganzen Gazastreifens an
+- [0725] | 1 | Einreisen | Entry | 入境之旅 | USA planen Kaution bei Einreisen aus bestimmten Ländern
+- [0726] | 1 | Einstellung | Recruitment | 设定设置 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
+- [0727] | 1 | einstiges | former | 从前的你 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [0728] | 1 | Einstufung | Classification | 升职了 | EuGH erhöht Hürden für Einstufung sicherer Herkunftsländer
+- [0729] | 1 | Einweg | Disposable | 一次性地走 | Verpackungsmüll: So macht Einweg weiter Probleme
+- [0730] | 1 | Elon | Elon | Elon? | Elon Musk: Aktionäre verklagen Tesla wegen angeblicher Falschangaben zu Robotaxis
+- [0731] | 1 | empören | Indignant | 气愤不已 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
+- [0732] | 1 | Emsland | Emsland | 艾姆斯兰 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
+- [0733] | 1 | Energieimporte | Energy imports | 能源进口 | EU-Zolldeal mit den USA: Wer soll die Energieimporte bezahlen?
+- [0734] | 1 | entscheiden | Decide | 决定权在他们身上 | Nahost-Liveblog: ++ Merz will bald über Israel-Sanktionen entscheiden ++
+- [0735] | 1 | entscheidet | Decides | 决定权在他们身上 | Europäischer Gerichtshof entscheidet zu sicheren Herkunftsländern
+- [0736] | 1 | enttäuscht | Disappointed | 失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望,失望 | Amazon enttäuscht mit Wachstum der Cloud-Sparte
+- [0737] | 1 | Er | He | 他... | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
+- [0738] | 1 | erfasst | Recorded | 被锁定了 | Gewaltige Sturzflut erfasst indische Touristenregion
+- [0739] | 1 | erfolgreich | successful | 成功 成功 | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
+- [0740] | 1 | erhöhen | increase | 增加 | Strafzölle für Öl-Käufe: Trump will Aufschläge für Indien noch einmal erhöhen
+- [0741] | 1 | erhöht | increased | 增加 | EuGH erhöht Hürden für Einstufung sicherer Herkunftsländer
+- [0742] | 1 | erinnert | Reminds | 提醒一下 | Weimer erinnert an NS-Völkermord an Sinti und Roma
+- [0743] | 1 | erlaubt | allowed | 请允许我... | Nahost-Liveblog: ++ Israel erlaubt private Wareneinfuhren in den Gazastreifen ++
+- [0744] | 1 | Ermittler | Investigator | 调查员 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
+- [0745] | 1 | erneute | Renewed | 再次出现 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
+- [0746] | 1 | Ernte | Harvest | 收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割,收割 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
+- [0747] | 1 | erschüttert | Shattered | 震驚. . . | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
+- [0748] | 1 | erste | First | 第一 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
+- [0749] | 1 | Erster | First | 第1季 第3集 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [0750] | 1 | erwartet | Expected | 我期待着... ... | Weltjugendtreffen in Rom: Was erwartet die Jugend vom Papst?
+- [0751] | 1 | Eryn | Eryn | 艾琳 | "Furye" von Kat Eryn Rubik: Zeit für Rache
+- [0752] | 1 | erzielt | Achieved | 成功啦! | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
+- [0753] | 1 | eröffnet | opened | 打开了 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
+- [0754] | 1 | Etgar | Etgar | Etgar Etgar. | Etgar Keret: Eine Schande für mein Land
+- [0755] | 1 | EU-Urteil | EU judgment | 欧盟部分 | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
+- [0756] | 1 | EU-Zolldeal | EU Customs Deal | 欧盟协议 | EU-Zolldeal mit den USA: Wer soll die Energieimporte bezahlen?
+- [0757] | 1 | Eure | Your | 你们的 | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [0758] | 1 | Europas | Europe | 欧洲,欧洲,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟, | Europas Hotellerie fordert Schadenersatz von Booking.com
+- [0759] | 1 | Euroraum | Euro area | 欧元区,欧元区,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟和欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟,欧盟, | Inflation im Euroraum stabil auf EZB-Zielmarke von 2,0 Prozent
+- [0760] | 1 | Evakuierung | Evacuation | 疏散人员 | Evakuierung: Historische Altstadt nach Gasalarm mehrere Stunden geräumt
+- [0761] | 1 | Ex-Assistent | Ex-assistant | 前助手 | Spionage-Prozess: Ex-Assistent von AfD-Mann Krah vor Gericht
+- [0762] | 1 | Ex-Fußball-Weltmeister | Ex-football world champion | 前足球冠军 | Ex-Fußball-Weltmeister Frank Mill ist tot
+- [0763] | 1 | Ex-Präsident | Ex-President | 前任总统 | Brasiliens Ex-Präsident Bolsonaro muss in Hausarrest
+- [0764] | 1 | Exil-Oppositionelle | Exile oppositionists | 流放的上流社会人士 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
+- [0765] | 1 | explodieren | Explode | 爆炸了 | Deutschland: Die Kosten für die Altenpflege explodieren
+- [0766] | 1 | Explodierende | Exploding | 爆炸了 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [0767] | 1 | Explosion | Explosion | 爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸,爆炸. | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
+- [0768] | 1 | Extremhitze | Extreme heat | 热得不得了 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
+- [0769] | 1 | Extremisten | Extremists | 极端分子 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
+- [0770] | 1 | EZB-Zielmarke | ECB target brand | 欧洲央行的目标牌 | Inflation im Euroraum stabil auf EZB-Zielmarke von 2,0 Prozent
+- [0771] | 1 | Falschangaben | False information | 错误的数字. | Elon Musk: Aktionäre verklagen Tesla wegen angeblicher Falschangaben zu Robotaxis
+- [0772] | 1 | Familie | Family | 家人呢? | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
+- [0773] | 1 | Fassungslosigkeit | Absorption | 难以启齿 | Fassungslosigkeit in der Schweiz über US-Zölle
+- [0774] | 1 | fast | almost | 几乎是... | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
+- [0775] | 1 | Fat | Fat | 肥子 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
+- [0776] | 1 | FDP | FDP | FDP (FDP) | Mitgliederbefragung und Fehleranalyse: FDP versucht den Neuanfang
+- [0777] | 1 | Fed | Fed | 美联储 | Fed : Wer ist mächtiger: Trump oder der Dollar?
+- [0778] | 1 | Fehleranalyse | Error analysis | 错误分析 | Mitgliederbefragung und Fehleranalyse: FDP versucht den Neuanfang
+- [0779] | 1 | Femmes | Femmes | Femms | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
+- [0780] | 1 | Ferienstart | Holiday start | 暑假的起点 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
+- [0781] | 1 | Fernsehturm | Television Tower | 电视塔台 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
+- [0782] | 1 | Ferrand-Prévot | Ferrand-Prévot | Ferrand-Prévot | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
+- [0783] | 1 | Feuerwehreinsatz | Fire brigade operation | 消防队部署完毕 | Feuerwehreinsatz: Mit Batterien beladener Laster auf A71 in Brand geraten
+- [0784] | 1 | Finale | Final | 决赛结束 | Weltweites Plastikabkommen: Finale Verhandlungsrunde gestartet
+- [0785] | 1 | Firmen | Companies | 公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司,公司 | Israelische Unternehmen in Gazastreifen und Westjordanland: Norwegische Regierung will Staatsfonds auf israelische Firmen prüfen
+- [0786] | 1 | Fleischpreisen | Meat prices | 肉类价格 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
+- [0787] | 1 | fliehen | Escape | 逃命吧 | Hunderte Menschen fliehen vor Waldbrand in Südkalifornien
+- [0788] | 1 | Floris | Floris | 弗洛里斯 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
+- [0789] | 1 | Flugreisen | Air travel | 飞行旅行 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
+- [0790] | 1 | Flüchtlinge | Refugees | 难民 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
+- [0791] | 1 | Flüssiggas | Liquefied petroleum gas | 液态气体 | Kommt 2026 kein Flüssiggas aus Katar in die EU?
+- [0792] | 1 | Flüssigkeit | Liquid | 液体 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
+- [0793] | 1 | Fossil | Fossil | 化石 | Neuer Meeressaurier in Fossil aus Baden-Württemberg entdeckt
+- [0794] | 1 | Fotos | Photos | 照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片,照片 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
+- [0795] | 1 | Fragen | Questions | 问问题 | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [0796] | 1 | France | France | 法兰西丝 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
+- [0797] | 1 | Frank | Frank | 弗兰克 {\3cH202020}Frank. | Ex-Fußball-Weltmeister Frank Mill ist tot
+- [0798] | 1 | Freiburg | Freiburg | Freeburg | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
+- [0799] | 1 | freigegeben | Released | 自由释放 | Brandanschläge: Bahnstrecke nach Sabotage wieder freigegeben
+- [0800] | 1 | Freiheit | Freedom | 自由 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
+- [0801] | 1 | Freispruch | Acquittal | 无罪释放 | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
+- [0802] | 1 | Frieden | Peace | 和平与否 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
+- [0803] | 1 | Friedhof | Cemetery | 墓地 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
+- [0804] | 1 | Front | Front | 前线 | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
+- [0805] | 1 | Frontalzusammenstoß | Frontal collision | 正面撞击 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
+- [0806] | 1 | Fuchsbandwurm-Infektionen | Foxbandworm infections | 狐狸皮带寄生虫感染 | Parasiten: Immer mehr Fuchsbandwurm-Infektionen
+- [0807] | 1 | Fuhrunternehmen | Cars | 运输公司 | Folgen der Bahnsanierung: Ein Krankenhaus wird zum Fuhrunternehmen
+- [0808] | 1 | Fulda | Fulda | Fulda Fulda | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0809] | 1 | fundamentale | fundamental | 基本的 | Gaza-Krieg: Außenminister Wadephul fordert "fundamentale Änderung"
+- [0810] | 1 | funktionieren | work | 起作用了 | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
+- [0811] | 1 | Furye | Furye | 弗瑞 | "Furye" von Kat Eryn Rubik: Zeit für Rache
+- [0812] | 1 | Futkeu | Futkeu | 福吉欧 (Futkeu Futkeu) | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
+- [0813] | 1 | Fußball-Liga | Football League | 足球迷彩排 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
+- [0814] | 1 | Fußfessel-Technik | Footband technology | 脚环技巧 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
+- [0815] | 1 | Fördermittel | Subsidies | 投入资金 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
+- [0816] | 1 | fürchten | Fear | 害怕恐惧 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
+- [0817] | 1 | Fürth | Forth | Forth | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
+- [0818] | 1 | Füßen | Feet | 脚 | Marktbericht: Zinsbullen scharren mit den Füßen
+- [0819] | 1 | ganz | Total | ...整个过程... ... | Marktbericht: Börsen ganz im Bann der Zinsen
+- [0820] | 1 | ganzen | Total | ...所有那些... ... | Medienberichte: Netanjahu strebt Einnahme des ganzen Gazastreifens an
+- [0821] | 1 | Ganztag | Full day | 全天候 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
+- [0822] | 1 | Gasalarm | Gas alarm | 毒气警报 | Evakuierung: Historische Altstadt nach Gasalarm mehrere Stunden geräumt
+- [0823] | 1 | Gaza-Hilfe | Gaza aid | 加沙援助. | Israel lässt Gaza-Hilfe durch Privat-Unternehmen wieder zu
+- [0824] | 1 | Gaza-Krieg | Gaza War | 加沙战争 | Gaza-Krieg: Außenminister Wadephul fordert "fundamentale Änderung"
+- [0825] | 1 | Gazastreifens | Gaza | 加沙地带 | Medienberichte: Netanjahu strebt Einnahme des ganzen Gazastreifens an
+- [0826] | 1 | gefallene | Falling | 跌落. | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
+- [0827] | 1 | Gefangene | Prisoners | 俘虏们 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
+- [0828] | 1 | gefunden | found | 被发现了 | Bombenfund: Erneut Weltkriegsbombe an Dresdner Carolabrücke gefunden
+- [0829] | 1 | Gefährlicher | Dangerous | 更危险,更危险 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
+- [0830] | 1 | Gefälschte | Fake | 假的假的 | Gefälschte Medikamente: Ein weltweites Problem
+- [0831] | 1 | geförderte | of the | 支持的. . . | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
+- [0832] | 1 | gegenseitig | each other | 相互依存 | Krieg gegen die Ukraine: Russland und Ukraine attackieren gegenseitig Bahnanlagen
+- [0833] | 1 | gegenüber | compared to | 对面的街区 | Bundesregierung verschärft den Ton gegenüber Israel
+- [0834] | 1 | gekommen | come | 来了 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
+- [0835] | 1 | Gelingt | Achievements | 铃声响了 | Plastikmüll: Gelingt ein internationales Abkommen?
+- [0836] | 1 | gemeinsame | Joint | 共同点是: | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0837] | 1 | Generalsanierung | General rehabilitation | {\fnSimHei\bord1\shad1\pos (200,288) }大功告成 {\fnSimHei\bord1\shad1\pos (200,288) }大功告成 {\fnSimHei\bord1\shad1\pos (200,288) }大功告成 | Bahnstrecke Hamburg-Berlin: Generalsanierung - muss das sein?
+- [0838] | 1 | George | George | 乔治 | "Summertime" von George Gershwin: Sommerlied in Blue
+- [0839] | 1 | Gerechtigkeit | Justice | 伸张正义 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
+- [0840] | 1 | Gericht | Court of Justice | 法庭,法庭,法院,法院,法院,法院,法院,法院,法院,法院,法院等 | Spionage-Prozess: Ex-Assistent von AfD-Mann Krah vor Gericht
+- [0841] | 1 | Gerichte | Courts | 法庭,法院,法院,法院,法院,法院,法院,法院,法院,法院等 | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
+- [0842] | 1 | Gerichtsbeschluss | Court decision | 法院判决书 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
+- [0843] | 1 | Gershwin | Gershwin | 格什温 | "Summertime" von George Gershwin: Sommerlied in Blue
+- [0844] | 1 | geräumt | Cleared | 清理完毕 | Evakuierung: Historische Altstadt nach Gasalarm mehrere Stunden geräumt
+- [0845] | 1 | gesichert | Secured | 安全起见 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
+- [0846] | 1 | Gespräch | Conversation | 谈话. | SPD fordert Union zu Gespräch mit Brosius-Gersdorf auf
+- [0847] | 1 | gestartet | started | 发射程序已启动 | Weltweites Plastikabkommen: Finale Verhandlungsrunde gestartet
+- [0848] | 1 | gestellten | Total | 假扮的假人 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
+- [0849] | 1 | gestorben | Died | 死了 | US-Regisseur Robert Wilson mit 83 Jahren gestorben
+- [0850] | 1 | Gesundheit | Health | - 健康 - 健康 - 健康 | Gefahr für die Gesundheit: Wie schädlich ist Titandioxid?
+- [0851] | 1 | Getreideernte | Cereal harvest | 庄稼的收成 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
+- [0852] | 1 | getötet | Killed | 杀了人 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
+- [0853] | 1 | gewachsen | grown | 長大了 長大了 | Destatis: Bebauung Deutschlands um mehr als 50 Hektar pro Tag gewachsen
+- [0854] | 1 | Gewaltige | Huge | 暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的,暴力的 | Gewaltige Sturzflut erfasst indische Touristenregion
+- [0855] | 1 | Gewinn | Profit | 赢家,赢家 | Deutsche Post steigert Gewinn trotz Konjunkturschwäche
+- [0856] | 1 | Gewitter | Thunderstorms | 雷暴雨 | Wetter: Weiter Schauer und Gewitter im Norden
+- [0857] | 1 | Gintautas | Gintautas | 银陶塔 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
+- [0858] | 1 | Globus | Globe | 全球化 | Rund um den Globus: Welchen Ländern welche Zölle drohen
+- [0859] | 1 | Gold | Gold | 金子 | Bolivien: Machtkampf um das weiße Gold
+- [0860] | 1 | Gouverneurin | Governor | 州长 | Moldau: Prorussische Gouverneurin zu Haftstrafe verurteilt
+- [0861] | 1 | Grad | Degree | 华氏度 | Japan meldet Rekordtemperatur von 41,8 Grad
+- [0862] | 1 | Graue | Grey | 灰色的灰色. | Rechtsextreme Graue Wölfe nehmen Kinder und Jugendliche ins Visier
+- [0863] | 1 | Grenze | Boundary | 国界线 | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
+- [0864] | 1 | Grenzen | Boundaries | 限制是有限的 | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
+- [0865] | 1 | Großangelegtes | Large-scale | 大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头,大块头 | Ukraine: "Großangelegtes Korruptionssystem" aufgedeckt
+- [0866] | 1 | Gräben | Digs | 战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕,战壕 | Frankreichs Palästina-Kurs vertieft religiöse Gräben
+- [0867] | 1 | größere | Larger | 更大的是... | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
+- [0868] | 1 | größte | Largest | 最大的,最大的. | Landeskriminalamt: 'Ndrangheta größte italienische Mafia-Organisation in NRW
+- [0869] | 1 | Grünen | Greens | 绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的,绿色的 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
+- [0870] | 1 | Grünen-Vorsitzendem | Green Chairman | 绿色领袖. | Das ARD-Sommerinterview mit Grünen-Vorsitzendem Banaszak im Faktencheck
+- [0871] | 1 | grünes | Green | 绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色,绿色 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [0872] | 1 | gut | Good | 好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好,好. | Marktbericht: DAX macht Boden gut
+- [0873] | 1 | Gähn | yawning | 打哈欠 | Langeweile: Gähn.
+- [0874] | 1 | haben | have | . . . . | Wieso immer mehr Menschen Nebenjobs haben
+- [0875] | 1 | Haftstrafe | Imprisonment | 蹲大牢 | Moldau: Prorussische Gouverneurin zu Haftstrafe verurteilt
+- [0876] | 1 | halbiert | Halved | 一半分解 | Zahl der Asyl-Anträge in Deutschland halbiert sich
+- [0877] | 1 | Hall | Hall | 霍尔 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
+- [0878] | 1 | halten | Keep | 稳住 | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [0879] | 1 | Hamas-Geisel | Hamas hostage | 哈马斯之锤 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
+- [0880] | 1 | Hamas-Geiselnahme | Hamas hostage-taking | 哈马斯之战 | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
+- [0881] | 1 | Handelsroute | Trade route | 贸易路线 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
+- [0882] | 1 | Handgepäck | Hand luggage | 随身行李包 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
+- [0883] | 1 | Handgepäck-Gebühren | Hand baggage charges | 随身行李收藏商 | Verbraucherschützer verklagen Airlines wegen Handgepäck-Gebühren
+- [0884] | 1 | Hass | Hate | 恨之入骨 | Wie rechtsextreme Influencer Hass im Netz schüren
+- [0885] | 1 | Haus | House | 房子 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
+- [0886] | 1 | Hause | Home | 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 家 | Mütter bleiben häufiger für krankes Kind zu Hause
+- [0887] | 1 | Haustiere | Pets | 宠物 | Vom Sofa ins Raubtiergehege - wenn Haustiere Zootiere retten
+- [0888] | 1 | heimische | domestic | 家常便饭 | Problem für Deiche und heimische Arten: Nutrias breiten sich aus
+- [0889] | 1 | heiß | Hot | 火辣的 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
+- [0890] | 1 | Hektar | Hectares | 英亩地 | Destatis: Bebauung Deutschlands um mehr als 50 Hektar pro Tag gewachsen
+- [0891] | 1 | Helsinki | Helsinki | 赫爾辛基 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
+- [0892] | 1 | Herkunftsländern | Country of origin | 始发国 | Europäischer Gerichtshof entscheidet zu sicheren Herkunftsländern
+- [0893] | 1 | Herne | Herne | 长毛象 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
+- [0894] | 1 | heute | today | 今天... | Von der Antike bis heute: Die Magie der Brunnen
+- [0895] | 1 | Hindenburgstraße | Hindenburgstraße | Hindenburg 大街. | Straßennamen: Hamburg: Hindenburgstraße bekommt neue Namen
+- [0896] | 1 | Historische | Historical | 历史悠久 | Evakuierung: Historische Altstadt nach Gasalarm mehrere Stunden geräumt
+- [0897] | 1 | Hitzewelle | Heat wave | 热浪 | Hitzewelle in Spanien fordert Todesopfer
+- [0898] | 1 | Hoffenheim | Hoffenheim | 希望海姆 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
+- [0899] | 1 | hohen | high | 高高在上 | Schweizer wollen in Washington über hohen Zollsatz nachverhandeln
+- [0900] | 1 | Hotellerie | Hotel industry | 酒店酒保 | Europas Hotellerie fordert Schadenersatz von Booking.com
+- [0901] | 1 | Hotels | Hotels | 宾馆 | Mehr als 10.000 Hotels klagen gegen Booking.com
+- [0902] | 1 | Hotz | Hotz | Hotz | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
+- [0903] | 1 | Hotzo | Hotzo | Hotzo | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
+- [0904] | 1 | HSV | HSV | HSV | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
+- [0905] | 1 | Hubig | Huge | 令人惊叹的. | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
+- [0906] | 1 | Hund | Dog | 狗. | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
+- [0907] | 1 | Hundert | One hundred | 一百元 | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
+- [0908] | 1 | Hunderte | Hundreds | 数以百计的人. | Hunderte Menschen fliehen vor Waldbrand in Südkalifornien
+- [0909] | 1 | Hunderttausende | Hundreds of thousands | 成百上千的人 | Hunderttausende feiern mit Papst beim Weltjugendtreffen in Rom
+- [0910] | 1 | hätte | had | 你本来应该... ... | OceanGate: Implosion der "Titan" hätte laut Küstenwache verhindert werden können
+- [0911] | 1 | häufiger | Common | 次数多的是 | Mütter bleiben häufiger für krankes Kind zu Hause
+- [0912] | 1 | höheren | higher | 越高越好 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
+- [0913] | 1 | Hürden | Barriers | 障碍物 | EuGH erhöht Hürden für Einstufung sicherer Herkunftsländer
+- [0914] | 1 | Implosion | Implosion | 内爆装置 | OceanGate: Implosion der "Titan" hätte laut Küstenwache verhindert werden können
+- [0915] | 1 | indische | Indian | 印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度,印度, | Gewaltige Sturzflut erfasst indische Touristenregion
+- [0916] | 1 | Influencer | Influencer | 防腐蚀剂 | Wie rechtsextreme Influencer Hass im Netz schüren
+- [0917] | 1 | Intelligenz | Intelligence | 聪明人 | Künstliche Intelligenz: Müssen wir bald alle coden können?
+- [0918] | 1 | Internationalen | International | 国际社会 | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
+- [0919] | 1 | internationaler | international | 国际社会 | Außenminister Wadephul warnt Israel vor internationaler Isolation
+- [0920] | 1 | internationales | international | 国际社会 | Plastikmüll: Gelingt ein internationales Abkommen?
+- [0921] | 1 | Internet | Internet | 互联网上 | Verbraucherschützer: Dubiose Angebote im Internet nehmen zu
+- [0922] | 1 | Iren | Irish | 爱尔兰人 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
+- [0923] | 1 | isländischem | Iceland | 冰岛语 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
+- [0924] | 1 | isolieren | Insulating | 隔离区被隔离了 | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
+- [0925] | 1 | Israel-Sanktionen | Israel sanctions | 以色列制裁 | Nahost-Liveblog: ++ Merz will bald über Israel-Sanktionen entscheiden ++
+- [0926] | 1 | Israelpolitik | Israel policy | 以色列的政策 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
+- [0927] | 1 | italienische | Italian | 意大利语 | Landeskriminalamt: 'Ndrangheta größte italienische Mafia-Organisation in NRW
+- [0928] | 1 | Japan | Japan | 日本 | Japan meldet Rekordtemperatur von 41,8 Grad
+- [0929] | 1 | Journalisten | Journalists | 记者,记者 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
+- [0930] | 1 | Justizministerin | Minister for Justice | 司法部长 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
+- [0931] | 1 | Jüngere | Younger | 杨格 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
+- [0932] | 1 | Kaffee | Coffee | 咖啡 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
+- [0933] | 1 | Kaffeediebe | Coffee thieves | 偷咖啡的小偷们 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
+- [0934] | 1 | Kampagne | Campaign | 竞选活动 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
+- [0935] | 1 | Kamtschatka-Beben | Kamchatka quake | Kamchatka的贝壳. | Nach Kamtschatka-Beben: Vulkanausbruch im Osten Russlands
+- [0936] | 1 | Karriereverlauf | Career history | 职业生涯的转折点 | Karriereverlauf: Der Anfang vom Ende
+- [0937] | 1 | Kat | Cat | Kat. Kat. | "Furye" von Kat Eryn Rubik: Zeit für Rache
+- [0938] | 1 | Katar | Qatar | 卡塔尔 | Kommt 2026 kein Flüssiggas aus Katar in die EU?
+- [0939] | 1 | Katastrophale | Catatrophic | 灾难性的后果 | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
+- [0940] | 1 | kaufen | buy | 买下它 | Krieg gegen die Ukraine: Skandinavische Länder kaufen US-Waffen für die Ukraine
+- [0941] | 1 | Kaution | Deposit | 保释金 | USA planen Kaution bei Einreisen aus bestimmten Ländern
+- [0942] | 1 | Keine | None | 不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不,不! | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
+- [0943] | 1 | keinen | none | 一个都没有 | Israels Regierungschef Netanjahu: "Die Hamas will keinen Deal"
+- [0944] | 1 | Keret | Keret | Keret Keret | Etgar Keret: Eine Schande für mein Land
+- [0945] | 1 | KI-Boom | AI boom | 人工智能室 | Palantir wächst dank KI-Boom weiter und weiter
+- [0946] | 1 | Kind | Child | 孩子 | Mütter bleiben häufiger für krankes Kind zu Hause
+- [0947] | 1 | Kirmes | Fairs | 吉尔梅斯 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
+- [0948] | 1 | Klage | Action | 控方提出诉讼 | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
+- [0949] | 1 | Klageerzwingung | Enforcement of actions | 控诉书上写道: | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
+- [0950] | 1 | klagen | sue | 控告他 | Mehr als 10.000 Hotels klagen gegen Booking.com
+- [0951] | 1 | Klimawandels | Climate change | 气候变化 | Digitale Anwendung zeigt Folgen des Klimawandels
+- [0952] | 1 | Klöckner | Fowls of the species Gallus domesticus | 卷饼机 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
+- [0953] | 1 | KM-Podcast | KM podcast | KM -Podcast | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
+- [0954] | 1 | knapp | Short | 差一点 | Bürgergeld-Zahlungen steigen auf knapp 47 Milliarden Euro
+- [0955] | 1 | knüpft | Linked | - 是的,先生. | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
+- [0956] | 1 | Koalitionsstreit | Coalition dispute | 联军争执 | Debatte über Bürgergeld: Klingbeil warnt vor Koalitionsstreit
+- [0957] | 1 | Koch | Chef | 厨子 | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
+- [0958] | 1 | Kommentar | Comment | 评论 | Kommentar zur Bürgergeld-Debatte: Ständig wiederkehrendes Ablenkungsmanöver
+- [0959] | 1 | Konjunkturschwäche | Economic weakness | 经济放缓 | Deutsche Post steigert Gewinn trotz Konjunkturschwäche
+- [0960] | 1 | Konzerne | Groupings | 公司 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
+- [0961] | 1 | Korruption | Corruption | 贪污腐败 | Ukrainische Ermittler decken Korruption bei Drohnenkauf auf
+- [0962] | 1 | Korruptionsskandal | Corruption scandal | 腐败丑闻 | Ukraine-Liveblog: ++ Korruptionsskandal bei ukrainischem Drohnenkauf ++
+- [0963] | 1 | Korruptionssystem | Corruption system | 腐败制度 | Ukraine: "Großangelegtes Korruptionssystem" aufgedeckt
+- [0964] | 1 | kracht | Crash | 崩塌了 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0965] | 1 | Krankenhaus | Hospital | 医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院,医院 | Folgen der Bahnsanierung: Ein Krankenhaus wird zum Fuhrunternehmen
+- [0966] | 1 | krankes | Sickness | 病态的,病态的. | Mütter bleiben häufiger für krankes Kind zu Hause
+- [0967] | 1 | Kreuzes | Cross | 十字勋章 | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
+- [0968] | 1 | Kriegs | War | 战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争,战争 | Neue US-Strategie zur Beendigung des Kriegs im Gazastreifen?
+- [0969] | 1 | Kriegsgefangene | Prisoners of war | 战俘们 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
+- [0970] | 1 | Kriminalität | Crime | 犯罪 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
+- [0971] | 1 | Krise | Crisis | 危機 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [0972] | 1 | Kriterien | Criteria | 标准 | EuGH schärft Kriterien für sichere Herkunftsländer
+- [0973] | 1 | Kultserie | Cult series | 邪教连环杀手 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
+- [0974] | 1 | Kultur | Culture | 文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化,文化和文化 | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
+- [0975] | 1 | Kunst | Art | 艺术 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
+- [0976] | 1 | Kupfermine | Copper mine | 铜矿 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
+- [0977] | 1 | Königsgrab | King's grave | 王之墓 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
+- [0978] | 1 | könnte | could | ...也许... ...可以... ... | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
+- [0979] | 1 | künftig | Future | 今后 | Neues Quartier: DFB-Nationalteams trainieren künftig im Weimarer Land
+- [0980] | 1 | Künstliche | Artificial | 人工智能 | Künstliche Intelligenz: Müssen wir bald alle coden können?
+- [0981] | 1 | kürzen | abbreviate | 缩减开支 | Wie Schwarz-Rot das Bürgergeld kürzen will
+- [0982] | 1 | Küste | Coast | 海岸线 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
+- [0983] | 1 | Küstenwache | Coast Guard | 海岸警卫队 | OceanGate: Implosion der "Titan" hätte laut Küstenwache verhindert werden können
+- [0984] | 1 | Landeskriminalamt | National Criminal Office | 国有犯罪集团 | Landeskriminalamt: 'Ndrangheta größte italienische Mafia-Organisation in NRW
+- [0985] | 1 | Landkreis | County | 县里的人 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [0986] | 1 | Landweg-Zugang | Land-based access | 陆路入口 | Außenminister Wadephul fordert Landweg-Zugang für Gaza
+- [0987] | 1 | Lange | Long | 好久不见 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
+- [0988] | 1 | Langer | Longer | 长远来看 | Langer Hausarrest für Kolumbiens Ex-Präsidenten Uribe
+- [0989] | 1 | Langeweile | Boredom | 无聊透顶 | Langeweile: Gähn.
+- [0990] | 1 | Laster | Transporter | 卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车,卡车 | Feuerwehreinsatz: Mit Batterien beladener Laster auf A71 in Brand geraten
+- [0991] | 1 | Lautsprecher-Abbau | Loudspeaker removal | 扬声器回收 | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
+- [0992] | 1 | Lautsprecher-Propaganda | Loudspeaker Propaganda | 扬声器宣传 | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
+- [0993] | 1 | Leben | Life | 生命 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
+- [0994] | 1 | Lebens | Life | 生活... 生活... | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
+- [0995] | 1 | Lebenszeit | Lifetime | 寿命到此结束 | Zentralafrikanische Republik: Präsident auf Lebenszeit?
+- [0996] | 1 | Lebkuchen-Hersteller | Gingerbread producers | 姜饼制造商 | Monate vor Weihnachten: Lebkuchen-Hersteller schon im Backstress
+- [0997] | 1 | legale | legal | 合法的 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
+- [0998] | 1 | Leichtflugzeug | Light aircraft | 轻型飞机 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
+- [0999] | 1 | Leo | Leo | Leo | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
+- [1000] | 1 | Licht | Light | 光线很明亮 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [1001] | 1 | Lieferando-Mitarbeiter | Delivery and delivery staff | 供应国雇员 | Wieso die Lieferando-Mitarbeiter die Arbeit niederlegen
+- [1002] | 1 | Listen | Lists | 列表. | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
+- [1003] | 1 | Litauens | Lithuania | 立陶宛人 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
+- [1004] | 1 | Lohngerechtigkeitsquote | Wage equalisation rate | 薪酬公平率 | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
+- [1005] | 1 | Länder | Countries | 国家? 国家? | Krieg gegen die Ukraine: Skandinavische Länder kaufen US-Waffen für die Ukraine
+- [1006] | 1 | Lünne | Bulbs | 萝卜,萝卜,萝卜 | Bei Lünne: Frontalzusammenstoß im Emsland - mehrere Verletzte
+- [1007] | 1 | Machtkampf | Power struggle | 权力斗争 | Bolivien: Machtkampf um das weiße Gold
+- [1008] | 1 | Mafia-Organisation | Mafia organization | 黑手党组织 | Landeskriminalamt: 'Ndrangheta größte italienische Mafia-Organisation in NRW
+- [1009] | 1 | Magie | Magic | 魔法 | Von der Antike bis heute: Die Magie der Brunnen
+- [1010] | 1 | Maja | Maja | Maja. | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
+- [1011] | 1 | Mallorca | Mallorca | Mallorca. | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
+- [1012] | 1 | Manga-Convention | Manga Convention | 曼加集會 | Animagic: Deutschlands erste Manga-Convention wird 25 Jahre alt
+- [1013] | 1 | mangelnde | Lack of | 缺席. | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
+- [1014] | 1 | Mann | Man | 老兄 | "Chief of War": Ist dieser Mann der Auserwählte?
+- [1015] | 1 | Marineübung | Marine exercise | 海军演习 | News kompakt: Russland und China halten gemeinsame Marineübung ab
+- [1016] | 1 | Markus | Markus | 马库斯 | Krieg in der Ukraine: Markus Söder will Bürgergeld für ukrainische Geflüchtete streichen
+- [1017] | 1 | Maya | Maya | 玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅,玛雅 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
+- [1018] | 1 | Medienberichte | Media Reports | 媒体报道 | Medienberichte: Netanjahu strebt Einnahme des ganzen Gazastreifens an
+- [1019] | 1 | Medikamente | Medicines | 药物治疗 | Gefälschte Medikamente: Ein weltweites Problem
+- [1020] | 1 | Medikamentenherstellern | Drug manufacturers | 药品制造商们 | Strafzölle: Trump droht Medikamentenherstellern mit Zöllen bis zu 250 Prozent
+- [1021] | 1 | Medwedew | Medvedev | 梅德韦杰夫 | Streit mit Medwedew: Trump setzt Atom-U-Boote in Bewegung
+- [1022] | 1 | Meeressaurier | Sea-saurials | 海洋生物 | Neuer Meeressaurier in Fossil aus Baden-Württemberg entdeckt
+- [1023] | 1 | mehreren | several | 数个不同的人 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
+- [1024] | 1 | Mehrheit | Majority | 多數人 | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
+- [1025] | 1 | mein | my | 我的... 我的... | Etgar Keret: Eine Schande für mein Land
+- [1026] | 1 | Meloni | Meloni | Meloni | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
+- [1027] | 1 | Mengen | Quantities | 量之多 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
+- [1028] | 1 | Mexiko | Mexico | 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 墨西哥 | Zollstreit: USA und Mexiko wollen weiter verhandeln
+- [1029] | 1 | Mill | Mill | 米尔 | Ex-Fußball-Weltmeister Frank Mill ist tot
+- [1030] | 1 | Million | Million | 一百万 | Weltjugendtreffen: Mehr als eine Million Jugendliche feiern mit dem Papst
+- [1031] | 1 | Millionen | Millions | 数百万美元 | Urteil: Tesla muss wegen Autopilot-Unfall Millionen zahlen
+- [1032] | 1 | Milorad | Milorad | 米洛拉德 | Bosnien: Milorad Dodik verliert Amt nach Urteil
+- [1033] | 1 | Mindestens | Minimum | 至少至少是... ... | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
+- [1034] | 1 | Ministerin | Minister | 国务卿 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
+- [1035] | 1 | Minuten | Minutes | 分钟 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
+- [1036] | 1 | Mitgliederbefragung | Members' survey | 成员协商 | Mitgliederbefragung und Fehleranalyse: FDP versucht den Neuanfang
+- [1037] | 1 | Mitpatient | Co-patient | 和病人一起 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
+- [1038] | 1 | Mitschuld | Co-indebtedness | 参与其中也是罪魁祸首 | US-Geschworene geben Tesla Mitschuld an Autopilot-Unfall
+- [1039] | 1 | Mittelamerika | Central America | 中美洲,中美洲 | Archäologie in Mittelamerika: Neues Königsgrab der Maya entdeckt
+- [1040] | 1 | Mittelmeer | Mediterranean Sea | 地中海 | Tomaten-Kimchi-Salat mit Tofu : Urlaub vom Mittelmeer
+- [1041] | 1 | Mitternacht | Midnight | 午夜时分 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
+- [1042] | 1 | Moldau | Moldova | 摩爾多瓦 | Moldau: Prorussische Gouverneurin zu Haftstrafe verurteilt
+- [1043] | 1 | Monate | Months | 几个月 | Monate vor Weihnachten: Lebkuchen-Hersteller schon im Backstress
+- [1044] | 1 | Mond | Moon | 月亮 | USA planen Atomkraftwerke auf dem Mond - geht das überhaupt?
+- [1045] | 1 | morgens | morning | 早晨. | Astronomie: Planetenwettlauf morgens im August
+- [1046] | 1 | Motto | Motto | 座右铭 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
+- [1047] | 1 | Museum | Museum | 博物馆 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
+- [1048] | 1 | Musik | Music | 音乐 | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
+- [1049] | 1 | mutmaßliche | Suspected | 嫌犯是嫌犯 | Sachsen-Anhalt: Deutsche Bahn meldet weitere mutmaßliche Brandstiftung an Bahnstrecke
+- [1050] | 1 | mutmaßlichen | Suspected | 嫌犯是嫌犯 | Was ist über die mutmaßlichen Anschläge auf Bahnanlagen bekannt?
+- [1051] | 1 | Muttermilch | Breast milk | 母乳,母乳,母乳,母乳,母乳,母乳,母乳,母乳,母乳,母乳 | Weltstillwoche: Muttermilch kann vor Brustkrebs schützen
+- [1052] | 1 | mächtiger | more powerful | 强大的力量 | Fed : Wer ist mächtiger: Trump oder der Dollar?
+- [1053] | 1 | Mädchen | Girls | 女孩儿们 | Gefährlicher Strand: Mädchen aus Deutschland an isländischem Strand ertrunken
+- [1054] | 1 | möglich | possible | ...可能的... ...可能. | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
+- [1055] | 1 | Müll | Waste | 垃圾,垃圾,垃圾,垃圾,垃圾,垃圾,垃圾,垃圾 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
+- [1056] | 1 | München | Munich | 慕尼黑 | Von München zum "Club": FC Bayern verleiht Nachwuchsprofi an den 1. FC Nürnberg
+- [1057] | 1 | Müssen | Must: | 不得不接受治疗 | Künstliche Intelligenz: Müssen wir bald alle coden können?
+- [1058] | 1 | Mütter | Mothers | 母亲们 {\cHFFFFFF}{\3cH2F2F2F}{\4cH000000}Mothers. | Mütter bleiben häufiger für krankes Kind zu Hause
+- [1059] | 1 | Nachfrage | Demand | 需要什麼? | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
+- [1060] | 1 | nachverhandeln | Renegotiate | 再谈判一次 | Schweizer wollen in Washington über hohen Zollsatz nachverhandeln
+- [1061] | 1 | Nachwuchsprofi | Young professionals | 生兒育女,生兒育女 | Von München zum "Club": FC Bayern verleiht Nachwuchsprofi an den 1. FC Nürnberg
+- [1062] | 1 | Namen | Names | 名字? | Straßennamen: Hamburg: Hindenburgstraße bekommt neue Namen
+- [1063] | 1 | Nebenjobs | Secondary jobs | 兼职工作 | Wieso immer mehr Menschen Nebenjobs haben
+- [1064] | 1 | nennt | Names | 叫做... | Trump nennt russische Angriffe auf Ukraine "widerwärtig"
+- [1065] | 1 | Netanjahus | Netanyahus | 内塔尼亚胡 | Faktencheck: Netanjahus Desinformation über Hunger in Gaza
+- [1066] | 1 | Netflix-Hit | Netflix hit | Netflix-Hit | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
+- [1067] | 1 | Netz | Network | 网络 | Wie rechtsextreme Influencer Hass im Netz schüren
+- [1068] | 1 | Neuanfang | New start | 新的开始 | Mitgliederbefragung und Fehleranalyse: FDP versucht den Neuanfang
+- [1069] | 1 | Neugeborene | Newborns | 新生儿 | Geburtenrate: Weniger Neugeborene in Deutschland
+- [1070] | 1 | Niederbayern | Lower Bavaria | 下巴伐利亚人 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
+- [1071] | 1 | niederlegen | lay down | 放下武器 | Wieso die Lieferando-Mitarbeiter die Arbeit niederlegen
+- [1072] | 1 | niederländischen | Netherlands | 荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人,荷兰人. | Mit niederländischen Tulpennetzen gegen Drohnen
+- [1073] | 1 | niedrigstem | lowest | 最低限度的 | Zahl der BAföG-Empfänger auf niedrigstem Stand seit 25 Jahren
+- [1074] | 1 | nimmt | Takes | 接受... ... | BKA-Statistik: Häusliche Gewalt in Deutschland nimmt zu
+- [1075] | 1 | noch | Not yet | 仍然如此 | Strafzölle für Öl-Käufe: Trump will Aufschläge für Indien noch einmal erhöhen
+- [1076] | 1 | Nordkorea | North Korea | 朝鲜,朝鲜,朝鲜,朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北朝鲜,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓和北韓,北韓,北韓,北韓,北韓,北韓,北韓,北韓和北韓,北韓,北韓和北韓,北韓,北韓,北韓和北韓. | Südkorea beginnt Lautsprecher-Abbau an der Grenze zu Nordkorea
+- [1077] | 1 | Norwegische | Norwegian | 挪威语 | Israelische Unternehmen in Gazastreifen und Westjordanland: Norwegische Regierung will Staatsfonds auf israelische Firmen prüfen
+- [1078] | 1 | Notdurft | Necessity | 急诊室 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
+- [1079] | 1 | NRW | North Rhine-Westphalia | NRW | Landeskriminalamt: 'Ndrangheta größte italienische Mafia-Organisation in NRW
+- [1080] | 1 | NS-Völkermord | NS genocide | NS 伏尔加杀人案 | Weimer erinnert an NS-Völkermord an Sinti und Roma
+- [1081] | 1 | Null | Zero | 零分 | 11KM-Podcast: Von Null auf Hundert: Wie TikTok die Musik verändert
+- [1082] | 1 | nur | only | 只是... | Hamas will nur für unabhängigen Staat Waffen ablegen
+- [1083] | 1 | Nutrias | Nutrias | 核桃子 核桃子 核桃子 | Problem für Deiche und heimische Arten: Nutrias breiten sich aus
+- [1084] | 1 | näher | Closer | 靠近一點 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
+- [1085] | 1 | Nässe | Wet | 湿润的,湿湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的,湿的 | Ernte in Gefahr: Nässe bedroht Getreideernte in Sachsen-Anhalt
+- [1086] | 1 | Nürnberg | Nuremberg | 纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡,纽伦堡. | Von München zum "Club": FC Bayern verleiht Nachwuchsprofi an den 1. FC Nürnberg
+- [1087] | 1 | Oberpfalz | Upper Palatinate | 至高无上 | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
+- [1088] | 1 | OceanGate | OceanGate | Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate, Ocean Gate | OceanGate: Implosion der "Titan" hätte laut Küstenwache verhindert werden können
+- [1089] | 1 | oder | or | 或者... | Fed : Wer ist mächtiger: Trump oder der Dollar?
+- [1090] | 1 | of | of | * 宇宙一度又烫又稠密 * * Our whole universe was in a hot, dense state * * Our whole universe was in a hot, dense state * | "Chief of War": Ist dieser Mann der Auserwählte?
+- [1091] | 1 | Oktober | October | 十月 | Migration: Polen verlängert Grenzkontrollen bis Anfang Oktober
+- [1092] | 1 | opulenten | opulent | opulened opulents. | Trump lässt opulenten Ballsaal im Weißen Haus bauen
+- [1093] | 1 | Pakistan | Pakistan | 巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦,巴基斯坦. | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
+- [1094] | 1 | Palantir | Palantir | 帕兰蒂尔・帕兰蒂尔. | Palantir wächst dank KI-Boom weiter und weiter
+- [1095] | 1 | Palantir-Software | Palantir software | Parantir软件 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
+- [1096] | 1 | Paluckas | Paluckas | 普洛普达斯山脉 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
+- [1097] | 1 | Palästina-Kurs | Palestine Course | 巴勒斯坦课程 | Frankreichs Palästina-Kurs vertieft religiöse Gräben
+- [1098] | 1 | Parasiten | Parasites | 寄生虫 | Parasiten: Immer mehr Fuchsbandwurm-Infektionen
+- [1099] | 1 | Parlamentswahlen | Parliamentary elections | 议会选举 | Syrien: Parlamentswahlen als Aufbruchssignal?
+- [1100] | 1 | Paulaner | Paulaner | Paulaner. | Paulaner gewinnt im Spezi-Prozess gegen Berentzen
+- [1101] | 1 | Pauline | Pauline | 宝琳 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
+- [1102] | 1 | pauschale | flat rate | 假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的,假的的,假的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的,假的的 | 4-Tage-Woche: Warum pauschale Antworten nicht funktionieren
+- [1103] | 1 | Pflegeversicherung | Nursing insurance | 医疗保险 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [1104] | 1 | Planetenwettlauf | Planetary race | 行星赛跑 | Astronomie: Planetenwettlauf morgens im August
+- [1105] | 1 | plant | Plans | 计划生育计划 | Lage im Gazastreifen: Was plant Netanjahu, was will Trump?
+- [1106] | 1 | Plastikabkommen | Plastics agreements | 塑料协议 | Weltweites Plastikabkommen: Finale Verhandlungsrunde gestartet
+- [1107] | 1 | Plastikmüll | Plastic waste | 塑料垃圾堆 | Plastikmüll: Gelingt ein internationales Abkommen?
+- [1108] | 1 | Podcast | Podcast | 播客播客 | Podcast 15 Minuten: Ausbildungsstart, neue Fußfessel-Technik, Borreliose
+- [1109] | 1 | Politiker | Policymakers | 政客们 | Politiker von Union und SPD fordern mehr Härte bei Bürgergeld
+- [1110] | 1 | politische | European | 政治上来说 | Exil-Oppositionelle fordern Einsatz für russische politische Gefangene
+- [1111] | 1 | Post | Post | 邮政信箱 | Deutsche Post steigert Gewinn trotz Konjunkturschwäche
+- [1112] | 1 | Posthume | Posthume | 邮政信箱 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
+- [1113] | 1 | Privat-Unternehmen | Private enterprises | 私人公司 | Israel lässt Gaza-Hilfe durch Privat-Unternehmen wieder zu
+- [1114] | 1 | private | Private | 私人的 | Nahost-Liveblog: ++ Israel erlaubt private Wareneinfuhren in den Gazastreifen ++
+- [1115] | 1 | Probleme | Problems | 有问题吗? | Verpackungsmüll: So macht Einweg weiter Probleme
+- [1116] | 1 | Produktion | Production | 制片人 | Warum Weidmüller auf Produktion in Deutschland setzt
+- [1117] | 1 | Prominenz | Prominence | 名人 | Start mit Prominenz: Klingbeil eröffnet Cranger Kirmes in Herne
+- [1118] | 1 | Prorussische | Pro-Russian | 普罗俄语 | Moldau: Prorussische Gouverneurin zu Haftstrafe verurteilt
+- [1119] | 1 | Provinz | Province | 省份 | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
+- [1120] | 1 | Prozessbeginn | Process start | 程序的开始 | Prozessbeginn nach Anschlag auf die Crocus City Hall in Russland
+- [1121] | 1 | Präsidenten | Presidents | 总统 | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
+- [1122] | 1 | Psychiatrie | Psychiatry | 精神病史 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
+- [1123] | 1 | Pünktlichkeit | Punctuality | 准时 | Bahn: Verkehrsminister Schnieder will mehr Pünktlichkeit
+- [1124] | 1 | Quartier | Quarter | 宿舍 | Neues Quartier: DFB-Nationalteams trainieren künftig im Weimarer Land
+- [1125] | 1 | Queerfeindliche | Anti-Queen | 仇视魁北克人 | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
+- [1126] | 1 | Querdenken | Cross-thinking | 转过头来思考 | Motto: "Frieden und Freiheit": "Querdenken"-Bewegung demonstriert in Berlin
+- [1127] | 1 | Rache | Revenge | 复仇 | "Furye" von Kat Eryn Rubik: Zeit für Rache
+- [1128] | 1 | Rapper | Rapper | 饒舌歌手 | Rapper Sean "Diddy" Combs bleibt in Haft - Richter gegen Entlassung
+- [1129] | 1 | rasant | Rapid | 速战速决 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
+- [1130] | 1 | Raser | Raser | 拉瑟. | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
+- [1131] | 1 | Raubtiergehege | Sheepmeat and goatmeat | 食肉动物的围栏 | Vom Sofa ins Raubtiergehege - wenn Haustiere Zootiere retten
+- [1132] | 1 | Rauswurf | Throwing out | 扔出去 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
+- [1133] | 1 | rechnet | calculated | 计算结果出来了 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
+- [1134] | 1 | rechtsextremistisch | extreme right | 极右翼的极权主义分子 | Einstellung des Eilantrags: AfD Brandenburg ist gesichert rechtsextremistisch
+- [1135] | 1 | Reform | Reform | 改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革,改革. | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
+- [1136] | 1 | Regierung | Government | 政府... 政府... | Israelische Unternehmen in Gazastreifen und Westjordanland: Norwegische Regierung will Staatsfonds auf israelische Firmen prüfen
+- [1137] | 1 | Region | Region | 区域. 地区. | Ukraine-Liveblog: ++ Selenskyj besucht Front in der Region Charkiw ++
+- [1138] | 1 | Reiche | Rich | 有钱人,有钱人 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
+- [1139] | 1 | Reiseverkehr | Travel | 旅行 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
+- [1140] | 1 | Rekordquartal | Record quarter | 创纪录的四分卫 | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
+- [1141] | 1 | Rekordtemperatur | Record temperature | 创纪录的温度 | Japan meldet Rekordtemperatur von 41,8 Grad
+- [1142] | 1 | religiöse | religious | 宗教信仰 | Frankreichs Palästina-Kurs vertieft religiöse Gräben
+- [1143] | 1 | Remis | Remis | 雷米斯 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
+- [1144] | 1 | Reparatur | Repair | 修復它 | Brandsätze an Bahnstrecke: Bahn rechnet mit Reparatur von Brandschäden bis Mitternacht
+- [1145] | 1 | Republik | Republic | 共和国 | Zentralafrikanische Republik: Präsident auf Lebenszeit?
+- [1146] | 1 | retten | Save | 拯救生命 | Vom Sofa ins Raubtiergehege - wenn Haustiere Zootiere retten
+- [1147] | 1 | Richtung | Direction | 方向: | Südkorea beendet Lautsprecher-Propaganda Richtung Norden
+- [1148] | 1 | riesiges | Huge | 巨大. | Tesla stellt Musk riesiges Aktienpaket in Aussicht
+- [1149] | 1 | Robert | Robert | Robert. Robert. | US-Regisseur Robert Wilson mit 83 Jahren gestorben
+- [1150] | 1 | Robotaxis | Robotaxis | 机器人斧头 | Elon Musk: Aktionäre verklagen Tesla wegen angeblicher Falschangaben zu Robotaxis
+- [1151] | 1 | Roten | Red | 红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色,红色 | Hamas knüpft Hilfe des Roten Kreuzes für Geiseln an Bedingungen
+- [1152] | 1 | Rubik | Rubik | Rubik | "Furye" von Kat Eryn Rubik: Zeit für Rache
+- [1153] | 1 | ruft | Call | 啊! | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
+- [1154] | 1 | Runde | Round | 转一圈 | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
+- [1155] | 1 | Russlands | Russia | 俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,俄罗斯,以及俄罗斯,以及俄罗斯,以及俄罗斯,都属于俄罗斯. | Nach Kamtschatka-Beben: Vulkanausbruch im Osten Russlands
+- [1156] | 1 | rückt | Moved | 向前走 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
+- [1157] | 1 | Saarland | Saarland | 萨尔兰 | Cannabis: Erster Cannabis-Club im Saarland bekommt grünes Licht
+- [1158] | 1 | Sabotage | Sabotage | 破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏,破坏 | Brandanschläge: Bahnstrecke nach Sabotage wieder freigegeben
+- [1159] | 1 | Saison-Vorbereitung | Preparing for the season | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}什么? {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}What? {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080} | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
+- [1160] | 1 | Salvador | Salvador | 萨尔瓦多 | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
+- [1161] | 1 | Samenentnahme | Semen collection | 精子采集 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
+- [1162] | 1 | Saskia | Saskia | Saskia's Saskia. | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
+- [1163] | 1 | Sauberkeit | Cleanliness | 清洁剂 | Müll: BSR startet neue Kampagne für mehr Sauberkeit in Berlin
+- [1164] | 1 | Schadenersatz | Compensation | 赔偿金 | Europas Hotellerie fordert Schadenersatz von Booking.com
+- [1165] | 1 | Schande | Shame | 丢人现眼 | Etgar Keret: Eine Schande für mein Land
+- [1166] | 1 | scharren | Scramble | 弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲,弯曲 | Marktbericht: Zinsbullen scharren mit den Füßen
+- [1167] | 1 | Schauer | Showers | 阵雨 | Wetter: Weiter Schauer und Gewitter im Norden
+- [1168] | 1 | scheitert | Failed | 失敗了 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
+- [1169] | 1 | schlagen | beat | 打啊 打啊 打啊 | 2. Fußball-Bundesliga: Fürth und Doppelpacker Futkeu schlagen Dresden: "Sind heiß"
+- [1170] | 1 | Schmierlappen | Lubricating cloths | 拖把叶子. | Dating-App Tea: Vorsicht, Schmierlappen!
+- [1171] | 1 | Schnieder | Sneakers | 吸管,吸管,吸管,吸氣,吸氣,吸氣,吸氣,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸,呼吸 | Bahn: Verkehrsminister Schnieder will mehr Pünktlichkeit
+- [1172] | 1 | Schnitt | Cut | 剪切. | Deutsche sitzen im Schnitt zehn Stunden am Tag
+- [1173] | 1 | schockieren | Shock | 震驚一下 | Videos ausgehungerter Geiseln schockieren Israel
+- [1174] | 1 | schon | already | 啊,是的,是的,是的,是的. | Monate vor Weihnachten: Lebkuchen-Hersteller schon im Backstress
+- [1175] | 1 | Schotten | Scots | 苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人,苏格兰人. | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
+- [1176] | 1 | Schulen | Schools | 学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校,学校 | Schulen: Bericht: Bayern ruft kaum Fördermittel für Ganztag ab
+- [1177] | 1 | Schusswaffen | Firearms | 枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械,枪械 | Extremisten besitzen mehr als 2.500 legale Schusswaffen
+- [1178] | 1 | Schwarz-Rot | Black-red | 黑色红 | Wie Schwarz-Rot das Bürgergeld kürzen will
+- [1179] | 1 | Schweiz | Switzerland | 瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士. | Fassungslosigkeit in der Schweiz über US-Zölle
+- [1180] | 1 | Schweizer | Swiss | 瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士,瑞士. | Schweizer wollen in Washington über hohen Zollsatz nachverhandeln
+- [1181] | 1 | schwer | severe | 很难 | Wetter: Sturm Floris macht Schotten und Iren das Leben schwer
+- [1182] | 1 | schwächt | Weakened | 削弱了它的力量 | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
+- [1183] | 1 | schädlich | Harmful | 有害的,有害的. | Gefahr für die Gesundheit: Wie schädlich ist Titandioxid?
+- [1184] | 1 | schärft | Sharpened | 发霉了 | EuGH schärft Kriterien für sichere Herkunftsländer
+- [1185] | 1 | schüren | Manufacture in which the value of all the materials used does not exceed 50 % of the ex-works price of the product | 激起人们的怒火 | Wie rechtsextreme Influencer Hass im Netz schüren
+- [1186] | 1 | Sean | Sean | Sean | Rapper Sean "Diddy" Combs bleibt in Haft - Richter gegen Entlassung
+- [1187] | 1 | Sebastian | Sebastian | Sebastian | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
+- [1188] | 1 | Sechs | Six | 6个 | Verkehr: Sechs Verletzte bei Wendemanöver
+- [1189] | 1 | Seeräubern | Pirates | 海盗们 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
+- [1190] | 1 | Selfies | Selfies | 自拍 | Werden Selfies und Fotos im Museum zur Gefahr für die Kunst?
+- [1191] | 1 | Shein-Unternehmen | Shein companies | Shein公司 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
+- [1192] | 1 | sicheren | safe | 安全起见 | Europäischer Gerichtshof entscheidet zu sicheren Herkunftsländern
+- [1193] | 1 | sieht | see | 看见没? | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
+- [1194] | 1 | Singapur | Singapore | 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 新加坡 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
+- [1195] | 1 | Sinnbild | Symbol | 感官影像 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
+- [1196] | 1 | Sinnfrage | Question of purpose | 有道理的问题 | Weltjugendtreffen: Papst Leo und die Sinnfrage des Lebens
+- [1197] | 1 | Sinti | Sinti | Sinti | Weimer erinnert an NS-Völkermord an Sinti und Roma
+- [1198] | 1 | Skandinavische | Scandinavian | 斯堪的纳维亚语 | Krieg gegen die Ukraine: Skandinavische Länder kaufen US-Waffen für die Ukraine
+- [1199] | 1 | skeptisch | Sceptical | 疑惑症候群 | Justizministerin Hubig sieht Einsatz von Palantir-Software skeptisch
+- [1200] | 1 | So | That's what I'm saying. | 所以... So... | Verpackungsmüll: So macht Einweg weiter Probleme
+- [1201] | 1 | Sofa | Sofa | 沙发 | Vom Sofa ins Raubtiergehege - wenn Haustiere Zootiere retten
+- [1202] | 1 | Soldaten | Soldiers | 士兵们 | Posthume Samenentnahme: Kinder für Israels gefallene Soldaten
+- [1203] | 1 | Sommerlied | Summer Song | 夏日之歌 | "Summertime" von George Gershwin: Sommerlied in Blue
+- [1204] | 1 | Sommerreise | Summer trip | 夏天的旅行 | Ministerin Reiche auf Sommerreise: Mit Disziplin zum Wachstum
+- [1205] | 1 | Sophie | Sophie | Sophie Sophie | Sophie Koch: "Queerfeindliche Menschen sind in Deutschland nicht die Mehrheit"
+- [1206] | 1 | Soziale | Social | 社会福利 Social Society. | Soziale Gerechtigkeit: Linke fordert Lohngerechtigkeitsquote für geförderte Konzerne
+- [1207] | 1 | Sozialleistungen | Social benefits | 福利金 | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
+- [1208] | 1 | Spezi-Prozess | Specific process | 斯皮兹进程 | Paulaner gewinnt im Spezi-Prozess gegen Berentzen
+- [1209] | 1 | Spiritualität | Spirituality | 精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,還有精神上,精神上,精神上,精神上,精神上,還有精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上,精神上的精神 | Indien: Jugend entdeckt Spiritualität neu
+- [1210] | 1 | Sportgerichtshof | Sports court | 体育法庭 | EuGH-Urteil schwächt Internationalen Sportgerichtshof CAS
+- [1211] | 1 | spricht | speech | 说话啊 | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
+- [1212] | 1 | Staat | State | 州政府 | Hamas will nur für unabhängigen Staat Waffen ablegen
+- [1213] | 1 | Staatliche | State | 国有国有国有国 | Staatliche Gerichte dürfen CAS-Schiedssprüche prüfen
+- [1214] | 1 | Staatsanwaltschaft | Public Prosecutor's Office | 地方检察官办公室 | El Hotzo: Staatsanwaltschaft akzeptiert Freispruch für Sebastian Hotz nicht
+- [1215] | 1 | Staatsfonds | SWFs | 主权财富基金 | Israelische Unternehmen in Gazastreifen und Westjordanland: Norwegische Regierung will Staatsfonds auf israelische Firmen prüfen
+- [1216] | 1 | Staatsschutzverfahren | State protection procedures | 国家保护程序 | Staatsschutzverfahren: Spionage-Prozess gegen Ex-Mitarbeiter von AfD-Politiker Krah
+- [1217] | 1 | Staatsversagens | State failure | 国家失败 | Explosion in Beirut vor fünf Jahren: Sinnbild des Staatsversagens
+- [1218] | 1 | stabil | Stable | 稳定的稳定性. | Inflation im Euroraum stabil auf EZB-Zielmarke von 2,0 Prozent
+- [1219] | 1 | Staffel | Season | 天才理论传 第六季 第10集 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
+- [1220] | 1 | Statistikchefin | Head of Statistics | 统计总监 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
+- [1221] | 1 | Statistisches | Statistical Office of the European Communities | 统计数字 | Statistisches Bundesamt: Deutsche reisen immer mehr
+- [1222] | 1 | Staus | Traffic jams | 堵车 | Reiseverkehr: Lange Staus zu Ferienstart - gibt es Alternativen?
+- [1223] | 1 | stehlen | Stealing | 偷窃 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
+- [1224] | 1 | Stellung | Position | 位置? | News kompakt: Trump bringt Atom-U-Boote in Stellung
+- [1225] | 1 | stimmen | vote | -对 -对 | Jüngere Menschen stimmen höheren Fleischpreisen eher zu
+- [1226] | 1 | Straßennamen | Road Names | 街道名称. | Straßennamen: Hamburg: Hindenburgstraße bekommt neue Namen
+- [1227] | 1 | strebt | Aspires | 追求... 追求... | Medienberichte: Netanjahu strebt Einnahme des ganzen Gazastreifens an
+- [1228] | 1 | streichen | Delete | 粉刷. | Krieg in der Ukraine: Markus Söder will Bürgergeld für ukrainische Geflüchtete streichen
+- [1229] | 1 | Studie | Study | 研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究,研究 | Studie: Deutsche sitzen mehr als zehn Stunden pro Tag
+- [1230] | 1 | Stunde | Hour | 时辰已到 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
+- [1231] | 1 | Sturzflut | Flood | 倾盆大雨 | Gewaltige Sturzflut erfasst indische Touristenregion
+- [1232] | 1 | Städte | Cities | 城市,城市,城市,城市,城市,城市,城市,城市,城市,城市,城市和城市 | Klimawandel in Spanien: Wie sich Städte vor Extremhitze schützen
+- [1233] | 1 | Ständig | Permanent | 總是這樣 | Kommentar zur Bürgergeld-Debatte: Ständig wiederkehrendes Ablenkungsmanöver
+- [1234] | 1 | Summertime | Summertime | Summertimes. | "Summertime" von George Gershwin: Sommerlied in Blue
+- [1235] | 1 | Supermärkten | Supermarkets | 超级市场 | Niederbayern: Kaffeediebe stehlen größere Mengen Kaffee aus Supermärkten
+- [1236] | 1 | Swinemünde | Swine mule | 斯洛伐克的斯洛伐克人 | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
+- [1237] | 1 | syrischer | Syrian | 叙利亚人 | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
+- [1238] | 1 | Sätze | Rates: | 句子 | News kompakt: Trump verschiebt Zölle und verhängt neue Sätze
+- [1239] | 1 | Südkalifornien | Southern California | 南加州南部 | Hunderte Menschen fliehen vor Waldbrand in Südkalifornien
+- [1240] | 1 | T | T | T. T. | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
+- [1241] | 1 | Tage | Days | 几天 | Trump verschiebt Start neuer Zölle um einige Tage
+- [1242] | 1 | Tages | Day | 有一天... | Vermischtes: Bilder des Tages
+- [1243] | 1 | Tanzperformance | Dance performance | 舞蹈的精髓 | Tanzperformance im Westjordanland soll Kultur aus Gaza bewahren
+- [1244] | 1 | Tea | Tea | 茶 | Dating-App Tea: Vorsicht, Schmierlappen!
+- [1245] | 1 | Tech-Gewinne | Tech Wins | 技术奖得主 | Marktbericht: Wall Street gibt Tech-Gewinne wieder ab
+- [1246] | 1 | Teil | Part | 一部分 | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [1247] | 1 | Temperaturen | Temperatures | 温度 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
+- [1248] | 1 | Tempo | Speed | 速度,速度 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
+- [1249] | 1 | Testspiel | Test game | 测试游戏 | Saison-Vorbereitung: Freiburg im Testspiel deutlich gegen den HSV erfolgreich
+- [1250] | 1 | Tiefseehafen | Deep sea port | 海底港 | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
+- [1251] | 1 | Tiefster | Deepest | 最深的,最深的 | Tiefster Stand seit 2021: Türkei meldet Inflation von 33,5 Prozent
+- [1252] | 1 | Tisha | Tisha | 蒂莎 | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
+- [1253] | 1 | Titan | Titanium | Titanic. | OceanGate: Implosion der "Titan" hätte laut Küstenwache verhindert werden können
+- [1254] | 1 | Tod | Death | 死亡 | Von Mitpatient getötet: Tod in Psychiatrie: Familie scheitert mit Klageerzwingung
+- [1255] | 1 | Todesopfer | Victims of death | 死伤惨重 | Hitzewelle in Spanien fordert Todesopfer
+- [1256] | 1 | Tofu | Tofu | 豆腐 | Tomaten-Kimchi-Salat mit Tofu : Urlaub vom Mittelmeer
+- [1257] | 1 | Tomaten-Kimchi-Salat | Tomato kimchi salad | 番茄西红柿沙拉 | Tomaten-Kimchi-Salat mit Tofu : Urlaub vom Mittelmeer
+- [1258] | 1 | Ton | Sound | 音响 | Bundesregierung verschärft den Ton gegenüber Israel
+- [1259] | 1 | Tour | Tour | 巡回演出 | Pauline Ferrand-Prévot gewinnt Tour de France Femmes
+- [1260] | 1 | Touristenregion | Tourist region | 观光客区 | Gewaltige Sturzflut erfasst indische Touristenregion
+- [1261] | 1 | trainieren | Train | 训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练,训练 | Neues Quartier: DFB-Nationalteams trainieren künftig im Weimarer Land
+- [1262] | 1 | Trauma | Trauma | 创伤,创伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤,外伤 | Israelische Armee: Ein Trauma ist kein Ausmusterungsgrund mehr
+- [1263] | 1 | trocknet | Dried | 干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的,干燥的 | Der Iran trocknet aus
+- [1264] | 1 | True | True | 真人真事 | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [1265] | 1 | Trump-Zölle | Trump duties | 特朗普关税 | Marktbericht: Trump-Zölle drücken die Börse
+- [1266] | 1 | Tulpennetzen | Tulip nets | 郁金香网 | Mit niederländischen Tulpennetzen gegen Drohnen
+- [1267] | 1 | tödlich | Deadly | 致命一击 | Landkreis Fulda: Lkw kracht gegen Brücke - Beifahrer tödlich verletzt
+- [1268] | 1 | ukrainischem | Ukrainian | 乌克兰人 | Ukraine-Liveblog: ++ Korruptionsskandal bei ukrainischem Drohnenkauf ++
+- [1269] | 1 | unabhängigen | independent | 独立自主 | Hamas will nur für unabhängigen Staat Waffen ablegen
+- [1270] | 1 | unangeleinten | Unhappiness | 无网网的无网网 | Oberpfalz: Streit um unangeleinten Hund: 71-Jähriger wird verletzt
+- [1271] | 1 | Unbegrenzte | Unlimited | 无限制的 | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
+- [1272] | 1 | unerschwinglich | Unaffordable | 无穷无尽的 | Wirtschaftliche Lage in der Türkei: Wenn der Urlaub unerschwinglich wird
+- [1273] | 1 | Ungarn | Hungary | 匈牙利人 | Ungarn: Maja T. wirft Bundesregierung mangelnde Unterstützung vor
+- [1274] | 1 | Ungewisse | Unknown | 不清楚 | Afghanische Geflüchtete im Iran: Abschiebung ins Ungewisse
+- [1275] | 1 | UNRWA | UNRWA | UNWA UNWA | Nahost-Liveblog: ++ Laut UNRWA warten 6.000 LKW mit Hilfsgütern  ++
+- [1276] | 1 | unter | under | . . . | Richter stellt Brasiliens Ex-Präsidenten Bolsonaro unter Hausarrest
+- [1277] | 1 | unterhaltsam | entertaining | 有趣的是 | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [1278] | 1 | Urlaubsinsel | Holiday island | 度假岛 | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
+- [1279] | 1 | US-Geschworene | U.S. jurors | 美国盟军 | US-Geschworene geben Tesla Mitschuld an Autopilot-Unfall
+- [1280] | 1 | US-Regisseur | US director | 美国导演 | US-Regisseur Robert Wilson mit 83 Jahren gestorben
+- [1281] | 1 | US-Strategie | US strategy | 美国战略 | Neue US-Strategie zur Beendigung des Kriegs im Gazastreifen?
+- [1282] | 1 | US-Waffen | U.S. weapons | 美国武器 | Krieg gegen die Ukraine: Skandinavische Länder kaufen US-Waffen für die Ukraine
+- [1283] | 1 | US-Zollpolitik | US Customs Policy | 美国国务院政策 | US-Zollpolitik für die EU: "Es könnte eine weitere Runde von Zöllen geben"
+- [1284] | 1 | Verbrechen | Crimes | 犯罪 | "Verbrechen"-Podcast – Eure Fragen, Teil 2: Darf True Crime unterhaltsam sein?
+- [1285] | 1 | verhandeln | Negotiating | 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 谈判 | Zollstreit: USA und Mexiko wollen weiter verhandeln
+- [1286] | 1 | Verhandlungsrunde | Round of negotiations | 谈判回合 | Weltweites Plastikabkommen: Finale Verhandlungsrunde gestartet
+- [1287] | 1 | verhindert | Prevents | 阻止了 | OceanGate: Implosion der "Titan" hätte laut Küstenwache verhindert werden können
+- [1288] | 1 | Verhungernlassen | Letting Starvation | 让饿肚子的饿着吧 | Ehemalige Hamas-Geisel über Haft: "Absichtliches Verhungernlassen"
+- [1289] | 1 | verhängt | imposed | 下达了规定 | News kompakt: Trump verschiebt Zölle und verhängt neue Sätze
+- [1290] | 1 | Verkehr | Transport | 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 交通堵塞 | Verkehr: Sechs Verletzte bei Wendemanöver
+- [1291] | 1 | Verkehrsminister | Minister for Transport | 交通部部长 | Bahn: Verkehrsminister Schnieder will mehr Pünktlichkeit
+- [1292] | 1 | Verkehrstoten | Road fatalities | 交通死亡 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
+- [1293] | 1 | Verl | Page 264 | Verl. Verl. | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
+- [1294] | 1 | verleiht | Not less than 10 % but not more than 10 % of the value of the finished product | 體現出優勢 | Von München zum "Club": FC Bayern verleiht Nachwuchsprofi an den 1. FC Nürnberg
+- [1295] | 1 | Vermischtes | Mixed | 混淆的混合物 | Vermischtes: Bilder des Tages
+- [1296] | 1 | Vermisste | Missing persons | 失踪人口 | Bootsunglück vor Jemen: Mindestens 68 Tote, viele Vermisste
+- [1297] | 1 | Verpackungsmüll | Packaging waste | 包装垃圾 | Verpackungsmüll: So macht Einweg weiter Probleme
+- [1298] | 1 | verrichtet | Performed | 完成工作 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
+- [1299] | 1 | verschärft | increased | 更糟的是 | Bundesregierung verschärft den Ton gegenüber Israel
+- [1300] | 1 | verschütteten | spilled | 洒得到处都是 | Kupfermine in Chile: Alle fünf verschütteten Bergleute sind tot
+- [1301] | 1 | verstanden | Understood | 明白 | Gerichtsbeschluss: Fat Comedys Anwalt: "Er hat verstanden"
+- [1302] | 1 | Verstärkter | Reinforced | 放大一点 | Aktion gegen Raser: Verstärkter Blitzer-Einsatz in mehreren Ländern
+- [1303] | 1 | versucht | tried | 试着去尝试 | Mitgliederbefragung und Fehleranalyse: FDP versucht den Neuanfang
+- [1304] | 1 | vertieft | Deepened | 深思熟虑 | Frankreichs Palästina-Kurs vertieft religiöse Gräben
+- [1305] | 1 | verurteilt | Convicted | 判刑 | Moldau: Prorussische Gouverneurin zu Haftstrafe verurteilt
+- [1306] | 1 | Video | Video | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}视频 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Video. | Hamas-Geiselnahme: Ein Video erschüttert Israel zum Tisha B’Av
+- [1307] | 1 | Videos | Videos | {\fn黑体\fs22\bord1\shad0\3aHBE\4aH00\fscx67\fscy66\2cHFFFFFF\3cH808080}录像带 {\fnarial black\fs12\bord1\shad0\4aH00\fscx90\fscy110}Video video. | Videos ausgehungerter Geiseln schockieren Israel
+- [1308] | 1 | Vilnius | Vilnius | 维尼涅斯 (Vilnius) | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
+- [1309] | 1 | Visier | Visor | 瞄准目标 | Rechtsextreme Graue Wölfe nehmen Kinder und Jugendliche ins Visier
+- [1310] | 1 | Visums | Visas | 签证 | Trotz in Aussicht gestellten Visums: Afghanen in Pakistan fürchten Abschiebung
+- [1311] | 1 | Vorbereitung | Preparation | 准备就绪 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
+- [1312] | 1 | Vorfälle | Incidents | 事故发生后 | Kriminalität: Notdurft auf Friedhof verrichtet - mehrere Vorfälle empören
+- [1313] | 1 | Vorsicht | Caution | 小心,小心 | Dating-App Tea: Vorsicht, Schmierlappen!
+- [1314] | 1 | Vorzeigemodell | Demonstration model | 模范模特儿 | Explodierende Kosten bei der deutschen Pflegeversicherung: einstiges Vorzeigemodell in der Krise
+- [1315] | 1 | Vorzieheffekt | Preferential effect | 试探效果. | Vorzieheffekt steigert Nachfrage: Apple erzielt Rekordquartal
+- [1316] | 1 | Vulkanausbruch | Volcanic eruption | 火山爆发 | Nach Kamtschatka-Beben: Vulkanausbruch im Osten Russlands
+- [1317] | 1 | Waffenruhe | Ceasefire | 停火 | Suwaida : Erneut Gewalt in syrischer Provinz Suwaida trotz Waffenruhe
+- [1318] | 1 | Wahlrechts | Right to vote | 选举权 | Bundestagspräsidentin Klöckner fordert erneute Reform des Wahlrechts
+- [1319] | 1 | Wahrheit | Truth | 真相 | Deutsche Israelpolitik: Die Stunde der Wahrheit ist gekommen
+- [1320] | 1 | Wahrzeichen | Symbols | 地心引力 | 60 Jahre Fernsehturm - vom DDR-Machtsymbol zum Wahrzeichen Berlins
+- [1321] | 1 | Waldbrand | Forest fire | 森林大火 | Hunderte Menschen fliehen vor Waldbrand in Südkalifornien
+- [1322] | 1 | Waldhof | Waldhof | 森林高地 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
+- [1323] | 1 | War | Was | 曾经的我 | "Chief of War": Ist dieser Mann der Auserwählte?
+- [1324] | 1 | Wareneinfuhren | Imports of goods | 货物进口商 | Nahost-Liveblog: ++ Israel erlaubt private Wareneinfuhren in den Gazastreifen ++
+- [1325] | 1 | warten | Waiting | 等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待,等待. | Nahost-Liveblog: ++ Laut UNRWA warten 6.000 LKW mit Hilfsgütern  ++
+- [1326] | 1 | Wednesday | Wednesday | 週一,週一,週五 | Netflix-Hit: Staffel 2 der Kultserie "Wednesday" startet
+- [1327] | 1 | Weg | Move | 消失无踪 | Flugreisen: EU ebnet Weg für mehr Flüssigkeit im Handgepäck
+- [1328] | 1 | Weidel | Willow | 牧羊人. | Saskia Ludwig: Union distanziert sich von CDU-Politikerin nach Treffen mit Weidel
+- [1329] | 1 | Weidmüller | Weidmüller | 垃圾处理工 | Warum Weidmüller auf Produktion in Deutschland setzt
+- [1330] | 1 | Weihnachten | Christmas | 圣诞快乐 | Monate vor Weihnachten: Lebkuchen-Hersteller schon im Backstress
+- [1331] | 1 | Weimarer | Weimar | 魏玛 | Neues Quartier: DFB-Nationalteams trainieren künftig im Weimarer Land
+- [1332] | 1 | Weimer | Weimer | 惠巴爾 | Weimer erinnert an NS-Völkermord an Sinti und Roma
+- [1333] | 1 | weitergebaut | Other built-up | 继续建造. . . | Nach Klage: Tiefseehafen in Swinemünde darf weitergebaut werden
+- [1334] | 1 | weiße | White | 白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色,白色 | Bolivien: Machtkampf um das weiße Gold
+- [1335] | 1 | Weißen | White | 白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人,白人 | Trump lässt opulenten Ballsaal im Weißen Haus bauen
+- [1336] | 1 | welche | which | 哪些人? | Rund um den Globus: Welchen Ländern welche Zölle drohen
+- [1337] | 1 | Welchen | Which | 哪一种? | Rund um den Globus: Welchen Ländern welche Zölle drohen
+- [1338] | 1 | Weltkriegsbombe | World War II bomb | 世界大战的炸弹 | Bombenfund: Erneut Weltkriegsbombe an Dresdner Carolabrücke gefunden
+- [1339] | 1 | Weltstillwoche | World Breastfeeding Week | 世界太平周 | Weltstillwoche: Muttermilch kann vor Brustkrebs schützen
+- [1340] | 1 | Wendemanöver | Turning maneuvers | 转弯,转弯,转弯 | Verkehr: Sechs Verletzte bei Wendemanöver
+- [1341] | 1 | Weniger | Less | 少一点 | Geburtenrate: Weniger Neugeborene in Deutschland
+- [1342] | 1 | Werbung | Advertising | 广告业 | Italien: Shein-Unternehmen muss in Italien wegen Werbung Bußgeld zahlen
+- [1343] | 1 | Werder | Werder | Wender Wender. | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
+- [1344] | 1 | widerwärtig | Disgusting | 令人作呕 | Trump nennt russische Angriffe auf Ukraine "widerwärtig"
+- [1345] | 1 | wiederkehrendes | Recurring | 重复的. | Kommentar zur Bürgergeld-Debatte: Ständig wiederkehrendes Ablenkungsmanöver
+- [1346] | 1 | Wiederwahl | Re-election | revolution. | El Salvador: Unbegrenzte Wiederwahl des Präsidenten möglich
+- [1347] | 1 | wiederzuerkennen | Recognize | 认清了自己的身份 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
+- [1348] | 1 | Wilson | Wilson | Wilson. | US-Regisseur Robert Wilson mit 83 Jahren gestorben
+- [1349] | 1 | Wind | Wind | 风向 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
+- [1350] | 1 | Wirbel | Whirlpool | 漩涡 | Rauswurf durch Trump: Wirbel nach Entlassung von Statistikchefin
+- [1351] | 1 | Wirtschaftspolitik | Economic policy | 经济政策 | Wie sich Trumps Wirtschaftspolitik auswirkt
+- [1352] | 1 | Witkoff | Witkoff | Witkoff | Nahost-Liveblog: ++ Witkoff will in Gazastreifen reisen ++
+- [1353] | 1 | Wohnen | Housing | 生活... 生活... | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
+- [1354] | 1 | Wolfspopulation | Wolf population | 狼的民意调查 | Bundesregierung bewertet Wolfspopulation neu - Abschuss rückt näher
+- [1355] | 1 | Wolken | Clouds | 云彩 | Wetter Deutschland: Wolken, Temperaturen, Wind und Aussichten
+- [1356] | 1 | wächst | growing | 长高了 | Palantir wächst dank KI-Boom weiter und weiter
+- [1357] | 1 | Wölfe | Wolves | 狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群,狼群 | Rechtsextreme Graue Wölfe nehmen Kinder und Jugendliche ins Visier
+- [1358] | 1 | Würzburg | Würzburg | 香料汉堡 | Würzburg: Rund 500 Menschen demonstrieren gegen rechte Demo
+- [1359] | 1 | Zahlreiche | A large number of | 許多人 | Zahlreiche Flüchtlinge vor Küste des Jemen ertrunken
+- [1360] | 1 | Zahlungen | Payments | 支付. | Sozialleistungen: Bürgergeld: Zahlungen steigen auf 47 Milliarden Euro
+- [1361] | 1 | Zehntausende | Tens of thousands | 成千上萬的人 | Christopher Street Day: Zehntausende demonstrieren beim CSD in Hamburg
+- [1362] | 1 | zeigt | shows | 显示出. . . | Digitale Anwendung zeigt Folgen des Klimawandels
+- [1363] | 1 | Zeit | Time | 时间不多了 | "Furye" von Kat Eryn Rubik: Zeit für Rache
+- [1364] | 1 | Zentralafrikanische | Central African | 中非语 | Zentralafrikanische Republik: Präsident auf Lebenszeit?
+- [1365] | 1 | zieht | Draws | 划啊! | Asylverfahren: EU-Urteil zieht Grenzen für Listen sicherer Herkunftsländer
+- [1366] | 1 | Zimmer | Room | 房间 | "Wohnen für Hilfe": Zimmer im Grünen mit Balkon, 100 Euro
+- [1367] | 1 | Zinsbullen | Interest rate bulls | 利息警察 | Marktbericht: Zinsbullen scharren mit den Füßen
+- [1368] | 1 | Zinsen | Interest | 利息. | Marktbericht: Börsen ganz im Bann der Zinsen
+- [1369] | 1 | Zoll-Schock | Customs shock | 关税壁垒 | Marktbericht: Zoll-Schock an der Wall Street
+- [1370] | 1 | Zollsatz | Rate of duty | 关税率 | Schweizer wollen in Washington über hohen Zollsatz nachverhandeln
+- [1371] | 1 | Zollstreit | Customs dispute | 海关纠纷 | Zollstreit: USA und Mexiko wollen weiter verhandeln
+- [1372] | 1 | Zootiere | Zoo animals | 動物園動物園 | Vom Sofa ins Raubtiergehege - wenn Haustiere Zootiere retten
+- [1373] | 1 | Zugang | Access | 访问权限 | Nahost-Liveblog: ++ Journalisten fordern Zugang zum Gazastreifen ++
+- [1374] | 1 | Zurück | Prev | 退後 | Ukrainische Kriegsgefangene: Zurück, aber kaum wiederzuerkennen
+- [1375] | 1 | zurückgetreten | Resignation | 辞职 | Vilnius: Litauens Regierungschef Gintautas Paluckas zurückgetreten
+- [1376] | 1 | Zuständigkeit | Jurisdiction | 管轄權 | Meloni spricht dem EuGH nach Urteil Zuständigkeit ab
+- [1377] | 1 | Zwei | Two | 二... | Drama auf Urlaubsinsel: Zwei Tote bei Absturz von Leichtflugzeug auf Mallorca
+- [1378] | 1 | zweimal | twice | 两次 | Vorbereitung: Hoffenheim bezwingt Werder beim Doppel-Test zweimal
+- [1379] | 1 | Zweitliga-Comeback | Second-liga comeback | 第二联盟的反馈行动 | 2. Fußball-Bundesliga: Katastrophale Abwehr: Dynamo verliert bei Zweitliga-Comeback
+- [1380] | 1 | Zwölf | Twelve | 十二个 | Zwölf Jahre Hausarrest für Kolumbiens Ex-Staatschef Uribe
+- [1381] | 1 | Änderung | Amendment | 改变? | Gaza-Krieg: Außenminister Wadephul fordert "fundamentale Änderung"
+- [1382] | 1 | Öl-Käufe | Oil purchases | 石油购买商 | Strafzölle für Öl-Käufe: Trump will Aufschläge für Indien noch einmal erhöhen
+- [1383] | 1 | überall | everywhere | 到处都有 | Tempo 30 fast überall: Keine Verkehrstoten in Helsinki
+- [1384] | 1 | Überblick | Overview | 概览 | Bürgergeld für ukrainische Geflüchtete - ein Überblick
+- [1385] | 1 | Überfälle | Raids | 抢劫案 | Überfälle von Seeräubern auf Handelsroute vor Singapur steigen rasant
+- [1386] | 1 | überhaupt | at all | ...甚至可以說... ... | USA planen Atomkraftwerke auf dem Mond - geht das überhaupt?
+- [1387] | 1 | Überwachen | Monitor | 监视着他们 {\fn微软雅黑\b0\fs14\3cH000000\shad1}New them surveillance. | Frankreichs neue Härte gegen Drogenhändler: Überwachen, durchsuchen, isolieren
+- [1388] | 1 | Überzahl | Overnumber | 人数多的是 | 3. Fußball-Liga: Trotz Überzahl: Waldhof startet mit Remis gegen Verl
