@@ -1,170 +1,931 @@
 ,count,example,word-de,word-en,word-es
-0,85,Mapa de la expansión y claves para entender el coronavirus de Wuhan,von,of,de
-1,60,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",den,on,el
-2,55,Mapa de la expansión y claves para entender el coronavirus de Wuhan,die,ed,la
-3,30,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",a,a,a
-4,30,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,ein,a,un
-5,25,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Coronavirus,coronavirus,coronavirus
-6,25,El turismo italiano se resiente; España mira expectante,se,I know.,se
-7,20,“La magnitud del problema del coronavirus no será diferente a una gripe”,vom,of the,del
-8,20,Así avanzan las encuestas en Galicia y País Vasco,ng,in,en
-9,20,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,die,the,los
-10,20,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",durch,by,por
-11,20,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",was,that,que
-12,20,Mapa de la expansión y claves para entender el coronavirus de Wuhan,und,and,y
-13,15,Así avanzan las encuestas en Galicia y País Vasco,die,the,las
-14,15,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",für,for,para
-15,15,“La magnitud del problema del coronavirus no será diferente a una gripe”,eine,one,una
-16,10,Así avanzan las encuestas en Galicia y País Vasco,So.,Like this.,Así
-17,10,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,gegen,against,contra
-18,10,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Europäer,European,europeos
-19,10,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Erweiterung,expansion,expansión
-20,10,Así gestionan nuestros vecinos europeos la expansión de Airbnb,unsere,ours,nuestros
-21,10,Así avanzan las encuestas en Galicia y País Vasco,Land,Country,País
-22,10,China desvela de qué está hecha la cara oculta de la Luna,was?,what,qué
-23,10,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,",",their,sus
-24,10,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Trump,Trump,Trump
-25,10,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Wuhan,Wuhan,Wuhan
-26,10,“La magnitud del problema del coronavirus no será diferente a una gripe”,"B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg,",“The,“La
-27,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Vereinbarungen,agreements,acuerdos
-28,5,Así gestionan nuestros vecinos europeos la expansión de Airbnb,Airbnb,Airbnb,Airbnb
-29,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,am,as at,al
-30,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Irgendwelche,some,algún
-31,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,vorher,before,antes
-32,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,alt,old,antiguos
-33,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,storniert,cancels,anula
-34,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,Bogen,Arc,Arco
-35,5,Así avanzan las encuestas en Galicia y País Vasco,Vorwärts,They're moving forward.,avanzan
-36,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,preiswert,cheap,barato
-37,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Bardem,Bardem,Bardem
-38,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,stornieren,You'll cancel.,cancelara
-39,5,China desvela de qué está hecha la cara oculta de la Luna,Gesicht,face,cara
-40,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Amtsbezeichnung,position,cargo
-41,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Zeban,ceban,ceban
-42,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Zentral,Central,Central
-43,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Zentren,centres,centros
-44,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Schließen,It'll close.,cerrará
-45,5,China desvela de qué está hecha la cara oculta de la Luna,China,China,China
-46,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Bürger,Citizens,Ciudadanos
-47,5,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Schlüssel,keys,claves
-48,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Kunden,clients,clientes
-49,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",wie,as,como
-50,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,gekauft,purchased,compraron
-51,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,mit,with,con
-52,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Kongress,Congress”,Congreso”
-53,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Verbrauch,Consumption,Consumo
-54,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Kurz,Cortés,Cortés
-55,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Krise,crisis,crisis
-56,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Abdeckung,cover,cubrir
-57,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,da,da,da
-58,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,degradiert,degraded,degradado
-59,5,China desvela de qué está hecha la cara oculta de la Luna,Enthüllung,Unveil,desvela
-60,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,unterschiedlich,different,diferente
-61,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Führer,leaders,dirigentes
-62,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Dialog,dialog,diálogo
-63,5,Seis italianos encerrados por partida doble,Doppel,double,doble
-64,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Sonntag,Sunday,Domingo
-65,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Duralex,Duralex,Duralex
-66,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Wahl,Electoral,Electoral
-67,5,Seis italianos encerrados por partida doble,eingesperrt,locked,encerrados
-68,5,Así avanzan las encuestas en Galicia y País Vasco,Erhebungen,surveys,encuestas
-69,5,Mapa de la expansión y claves para entender el coronavirus de Wuhan,verstehen,understand,entender
-70,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,ERC,ERC,ERC
-71,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Fehler,error,error
-72,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Schulkinder,School children,escolares
-73,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Hölle,sluggishness,escollo
-74,5,El turismo italiano se resiente; España mira expectante,Spanien,Spain,España
-75,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,Spezial,Special,Especial
-76,5,China desvela de qué está hecha la cara oculta de la Luna,"Es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay,",She's here.,está
-77,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,EUR,EUR,euros
-78,5,El turismo italiano se resiente; España mira expectante,Erwartend,expectant,expectante
-79,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,gefälscht,false,falso
-80,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Ende,End,fin
-81,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Staatsanwaltschaft,Office of the Prosecutor,Fiscalía
-82,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Fnac,Fnac,Fnac
-83,5,Así avanzan las encuestas en Galicia y País Vasco,Galicien,Galicia,Galicia
-84,5,Así gestionan nuestros vecinos europeos la expansión de Airbnb,Verwaltung,manage,gestionan
-85,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Regierung,Government,Gobierno
-86,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Danke.,Thank you.,gracias
-87,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,Helikopter-Grippe,flu”,gripe”
-88,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,ha,ha,ha
-89,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,bis,up to,hasta
-90,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Es gibt,There's,hay
-91,5,China desvela de qué está hecha la cara oculta de la Luna,fertig,done,hecha
-92,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Hernan,Hernán,Hernán
-93,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Geschichte,history,historia
-94,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",unzerbrechlich,unbreakable,irrompible
-95,5,El turismo italiano se resiente; España mira expectante,Italienisch,Italian,italiano
-96,5,Seis italianos encerrados por partida doble,Italien,Italian,italianos
-97,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Japan,Japan,Japón
-98,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Javier,Javier,Javier
-99,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Vorstand,Board,Junta
-100,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Rechts- und Verwaltungsvorschriften,legal system”,jurídica”
-101,5,China desvela de qué está hecha la cara oculta de la Luna,Mond,Moon,Luna
-102,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,Größe,magnitude,magnitud
-103,5,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Karte,Map,Mapa
-104,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Rahmen,frame,marco
-105,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,März,March,marzo
-106,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Minderjährige,Minors,menores
-107,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,monatlich,monthly,mensualmente
-108,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Tisch,table,mesa
-109,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Migranten,migrants,migrantes
-110,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Mailand,Milan,Milán
-111,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Minister,Ministers,ministros
-112,5,El turismo italiano se resiente; España mira expectante,Sieh dir das an.,Look.,mira
-113,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Moskitos,mosquitoes,mosquitos
-114,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,weiblich,woman,mujer
-115,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,mit einem Quadratmetergewicht von mehr als 200 g,Munts,Muntadas
-116,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,mehr,more,más
-117,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Mobil,mobile,móvil
-118,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,Nein.,no,no
-119,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Bezeichnung,name,nombra
-120,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Nostalgie,nostalgia,nostalgia
-121,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",unsere,ours,nuestra
-122,5,China desvela de qué está hecha la cara oculta de la Luna,versteckt,Hidden,oculta
-123,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,bezahlte,I was paying.,pagaba
-124,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,"Wörter ""Bereitschaft"" oder ""Bereitschaft""",words”,palabras”
-125,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Palästina,Palestine,Palestina
-126,5,Seis italianos encerrados por partida doble,Partie,item,partida
-127,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Spiel,match,partido
-128,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Pence,Pence,Pence
-129,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Journalist,journalist,periodista
-130,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Plan,plan,plan
-131,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Plazid,Placido,Plácido
-132,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",positiv,positive,positivo
-133,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Haushaltspläne,Budgets,Presupuestos
-134,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Erste,first,primer
-135,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,Problem,problem,problema
-136,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Aussprachen,pronounce,pronuncian
-137,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Querella,complaint,querella
-138,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Grund,reason,razón
-139,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Real,Actual,Real
-140,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Ressourcen,resources,recursos
-141,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Darstellungen,representations,representaciones
-142,5,El turismo italiano se resiente; España mira expectante,widerspenstig;,resides;,resiente;
-143,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,gelöst,resolved,resolvió
-144,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,gruppiert,meet,reunirá
-145,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,salva,save,salva
-146,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Sicherheit,security,seguridad
-147,5,Seis italianos encerrados por partida doble,Sechs,Six,Seis
-148,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,wird,It'll be,será
-149,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,werden,will be,serán
-150,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,Gesellschaft,society,sociedad
-151,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Gehalt,salary,sueldo
-152,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",so,So,tan
-153,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Theater,theatre,teatro
-154,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Knöchel,ankles,tobillos
-155,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,alle,all,todos
-156,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,twittern,tweet,tuitear
-157,5,El turismo italiano se resiente; España mira expectante,Tourismus,tourism,turismo
-158,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Geschirr,crockery,vajilla
-159,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Valencia-Atalanta,Valencia-Atalanta,Valencia-Atalanta
-160,5,Así avanzan las encuestas en Galicia y País Vasco,Vasco,Basque,Vasco
-161,5,Así gestionan nuestros vecinos europeos la expansión de Airbnb,Nachbarn,neighbours,vecinos
-162,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Er ist gereist.,He traveled.,viajó
-163,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Vizepräsident,Vice-President,vicepresidente
-164,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Vokal,vowel,vocal
-165,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Video,video,vídeo
-166,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Wieso?,Why?,¿Por
-167,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,HELIOS,“in,“en
-168,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Heute,“Today,“Hoy
+0,194,Mapa de la expansión y claves para entender el coronavirus de Wuhan,von,of,de
+1,134,Mapa de la expansión y claves para entender el coronavirus de Wuhan,die,ed,la
+2,118,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",den,on,el
+3,64,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",a,a,a
+4,61,Así avanzan las encuestas en Galicia y País Vasco,ng,in,en
+5,56,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,ein,a,un
+6,48,Mapa de la expansión y claves para entender el coronavirus de Wuhan,und,and,y
+7,42,“La magnitud del problema del coronavirus no será diferente a una gripe”,vom,of the,del
+8,42,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",was,that,que
+9,41,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,die,the,los
+10,35,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",durch,by,por
+11,34,El turismo italiano se resiente; España mira expectante,se,I know.,se
+12,32,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",für,for,para
+13,25,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Coronavirus,coronavirus,coronavirus
+14,25,“La magnitud del problema del coronavirus no será diferente a una gripe”,eine,one,una
+15,21,Así avanzan las encuestas en Galicia y País Vasco,die,the,las
+16,19,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,am,as at,al
+17,17,“La magnitud del problema del coronavirus no será diferente a una gripe”,Nein.,no,no
+18,15,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Trump,Trump,Trump
+19,14,¿Por qué los mosquitos se ceban con nuestros tobillos?,mit,with,con
+20,12,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,gegen,against,contra
+21,12,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,",",their,sus
+22,11,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Europäer,European,europeos
+23,11,China desvela de qué está hecha la cara oculta de la Luna,was?,what,qué
+24,10,Así avanzan las encuestas en Galicia y País Vasco,So.,Like this.,Así
+25,10,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Erweiterung,expansion,expansión
+26,10,Así gestionan nuestros vecinos europeos la expansión de Airbnb,unsere,ours,nuestros
+27,10,Así avanzan las encuestas en Galicia y País Vasco,Land,Country,País
+28,10,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Wuhan,Wuhan,Wuhan
+29,10,“La magnitud del problema del coronavirus no será diferente a una gripe”,"B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg,",“The,“La
+30,9,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,bis,up to,hasta
+31,9,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,mehr,more,más
+32,7,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",wie,as,como
+33,7,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,ist,It's,es
+34,7,El turismo italiano se resiente; España mira expectante,Spanien,Spain,España
+35,7,China desvela de qué está hecha la cara oculta de la Luna,"Es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay,",She's here.,está
+36,7,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Regierung,Government,Gobierno
+37,7,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Vorstand,Board,Junta
+38,7,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",unsere,ours,nuestra
+39,7,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Palästina,Palestine,Palestina
+40,7,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,nach,after,tras
+41,6,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Zentren,centres,centros
+42,6,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Verbrauch,Consumption,Consumo
+43,6,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Abdeckung,cover,cubrir
+44,6,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,EUR,EUR,euros
+45,6,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Staatsanwaltschaft,Office of the Prosecutor,Fiscalía
+46,6,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,ha,ha,ha
+47,6,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Es gibt,There's,hay
+48,6,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Geschichte,history,historia
+49,6,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Spiel,match,partido
+50,6,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Plan,plan,plan
+51,6,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Real,Actual,Real
+52,6,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,salva,save,salva
+53,6,Seis italianos encerrados por partida doble,Sechs,Six,Seis
+54,6,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,s,your,su
+55,6,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Video,video,vídeo
+56,6,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Heute,“Today,“Hoy
+57,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Vereinbarungen,agreements,acuerdos
+58,5,Así gestionan nuestros vecinos europeos la expansión de Airbnb,Airbnb,Airbnb,Airbnb
+59,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Irgendwelche,some,algún
+60,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,vorher,before,antes
+61,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,alt,old,antiguos
+62,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,storniert,cancels,anula
+63,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,Bogen,Arc,Arco
+64,5,Así avanzan las encuestas en Galicia y País Vasco,Vorwärts,They're moving forward.,avanzan
+65,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,preiswert,cheap,barato
+66,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Bardem,Bardem,Bardem
+67,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,stornieren,You'll cancel.,cancelara
+68,5,China desvela de qué está hecha la cara oculta de la Luna,Gesicht,face,cara
+69,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Amtsbezeichnung,position,cargo
+70,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Zeban,ceban,ceban
+71,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Zentral,Central,Central
+72,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Schließen,It'll close.,cerrará
+73,5,China desvela de qué está hecha la cara oculta de la Luna,China,China,China
+74,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Bürger,Citizens,Ciudadanos
+75,5,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Schlüssel,keys,claves
+76,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Kunden,clients,clientes
+77,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,gekauft,purchased,compraron
+78,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Kongress,Congress”,Congreso”
+79,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Kurz,Cortés,Cortés
+80,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Krise,crisis,crisis
+81,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,da,da,da
+82,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,degradiert,degraded,degradado
+83,5,China desvela de qué está hecha la cara oculta de la Luna,Enthüllung,Unveil,desvela
+84,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,unterschiedlich,different,diferente
+85,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Führer,leaders,dirigentes
+86,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Dialog,dialog,diálogo
+87,5,Seis italianos encerrados por partida doble,Doppel,double,doble
+88,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Sonntag,Sunday,Domingo
+89,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Duralex,Duralex,Duralex
+90,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Wahl,Electoral,Electoral
+91,5,Seis italianos encerrados por partida doble,eingesperrt,locked,encerrados
+92,5,Así avanzan las encuestas en Galicia y País Vasco,Erhebungen,surveys,encuestas
+93,5,Mapa de la expansión y claves para entender el coronavirus de Wuhan,verstehen,understand,entender
+94,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,ERC,ERC,ERC
+95,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Fehler,error,error
+96,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Schulkinder,School children,escolares
+97,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Hölle,sluggishness,escollo
+98,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,Spezial,Special,Especial
+99,5,El turismo italiano se resiente; España mira expectante,Erwartend,expectant,expectante
+100,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,gefälscht,false,falso
+101,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Ende,End,fin
+102,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Fnac,Fnac,Fnac
+103,5,Así avanzan las encuestas en Galicia y País Vasco,Galicien,Galicia,Galicia
+104,5,Así gestionan nuestros vecinos europeos la expansión de Airbnb,Verwaltung,manage,gestionan
+105,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Danke.,Thank you.,gracias
+106,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,Helikopter-Grippe,flu”,gripe”
+107,5,China desvela de qué está hecha la cara oculta de la Luna,fertig,done,hecha
+108,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Hernan,Hernán,Hernán
+109,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",unzerbrechlich,unbreakable,irrompible
+110,5,El turismo italiano se resiente; España mira expectante,Italienisch,Italian,italiano
+111,5,Seis italianos encerrados por partida doble,Italien,Italian,italianos
+112,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,Japan,Japan,Japón
+113,5,Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”,Javier,Javier,Javier
+114,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Rechts- und Verwaltungsvorschriften,legal system”,jurídica”
+115,5,China desvela de qué está hecha la cara oculta de la Luna,Mond,Moon,Luna
+116,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,Größe,magnitude,magnitud
+117,5,Mapa de la expansión y claves para entender el coronavirus de Wuhan,Karte,Map,Mapa
+118,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Rahmen,frame,marco
+119,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,März,March,marzo
+120,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Minderjährige,Minors,menores
+121,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,monatlich,monthly,mensualmente
+122,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Tisch,table,mesa
+123,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Migranten,migrants,migrantes
+124,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Mailand,Milan,Milán
+125,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Minister,Ministers,ministros
+126,5,El turismo italiano se resiente; España mira expectante,Sieh dir das an.,Look.,mira
+127,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Moskitos,mosquitoes,mosquitos
+128,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,weiblich,woman,mujer
+129,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,mit einem Quadratmetergewicht von mehr als 200 g,Munts,Muntadas
+130,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Mobil,mobile,móvil
+131,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Bezeichnung,name,nombra
+132,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Nostalgie,nostalgia,nostalgia
+133,5,China desvela de qué está hecha la cara oculta de la Luna,versteckt,Hidden,oculta
+134,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,bezahlte,I was paying.,pagaba
+135,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,"Wörter ""Bereitschaft"" oder ""Bereitschaft""",words”,palabras”
+136,5,Seis italianos encerrados por partida doble,Partie,item,partida
+137,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Pence,Pence,Pence
+138,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Journalist,journalist,periodista
+139,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Plazid,Placido,Plácido
+140,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",positiv,positive,positivo
+141,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Haushaltspläne,Budgets,Presupuestos
+142,5,El Gobierno salva el primer escollo de los Presupuestos gracias a ERC,Erste,first,primer
+143,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,Problem,problem,problema
+144,5,50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina,Aussprachen,pronounce,pronuncian
+145,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,Querella,complaint,querella
+146,5,Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error,Grund,reason,razón
+147,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Ressourcen,resources,recursos
+148,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Darstellungen,representations,representaciones
+149,5,El turismo italiano se resiente; España mira expectante,widerspenstig;,resides;,resiente;
+150,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,gelöst,resolved,resolvió
+151,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,gruppiert,meet,reunirá
+152,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,Sicherheit,security,seguridad
+153,5,“La magnitud del problema del coronavirus no será diferente a una gripe”,wird,It'll be,será
+154,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,werden,will be,serán
+155,5,Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”,Gesellschaft,society,sociedad
+156,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Gehalt,salary,sueldo
+157,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",so,So,tan
+158,5,Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara,Theater,theatre,teatro
+159,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Knöchel,ankles,tobillos
+160,5,El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo,alle,all,todos
+161,5,La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes,twittern,tweet,tuitear
+162,5,El turismo italiano se resiente; España mira expectante,Tourismus,tourism,turismo
+163,5,"La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia",Geschirr,crockery,vajilla
+164,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Valencia-Atalanta,Valencia-Atalanta,Valencia-Atalanta
+165,5,Así avanzan las encuestas en Galicia y País Vasco,Vasco,Basque,Vasco
+166,5,Así gestionan nuestros vecinos europeos la expansión de Airbnb,Nachbarn,neighbours,vecinos
+167,5,"Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus",Er ist gereist.,He traveled.,viajó
+168,5,Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus,Vizepräsident,Vice-President,vicepresidente
+169,5,Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido,Vokal,vowel,vocal
+170,5,¿Por qué los mosquitos se ceban con nuestros tobillos?,Wieso?,Why?,¿Por
+171,5,La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”,HELIOS,“in,“en
+172,4,El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas,2,two,dos
+173,4,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Europa,Europe,Europa
+174,4,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,Jumilla,Jumilla,Jumilla
+175,4,"España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento",Mio. EUR,million,millones
+176,4,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,oder,o,o
+177,3,"Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad",Jahre,years,años
+178,3,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,niedrig,low,bajo
+179,3,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Wärme,heat,calor
+180,3,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Stadt,city,ciudad
+181,3,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,ng,lo,lo
+182,3,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,und,and/or,ni
+183,3,Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos,setzt,puts,pone
+184,3,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,Puigdemont,Puigdemont,Puigdemont
+185,3,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,ohne,no,sin
+186,3,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",Du,You,tu
+187,3,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",NUMMER,“No,“No
+188,2,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Aemet,Aemet,Aemet
+189,2,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Air,Air,Air
+190,2,Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà,Mieten,rent,alquiler
+191,2,La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible,Amazon,Amazon,Amazon
+192,2,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",Straße,street,calle
+193,2,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Veränderung,change,cambio
+194,2,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",Auto,car,coche
+195,2,El golpe comercial de Trump a India falla el objetivo del crudo ruso,Kommerzialisierung,commercial,comercial
+196,2,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Konflikt,conflict,conflicto
+197,2,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,wenn,when,cuando
+198,2,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,endgültig,final,definitiva
+199,2,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Jahrzehnte,decades,décadas
+200,2,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Tag,day,día
+201,2,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Energie,energy,energía
+202,2,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Status,State,Estado
+203,2,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Staaten,States,Estados
+204,2,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,Osten,east,este
+205,2,Una transgresión existencial: la experiencia de escuchar ‘heavy metal’,Erfahrung,experience,experiencia
+206,2,El golpe comercial de Trump a India falla el objetivo del crudo ruso,Schlag,hit,golpe
+207,2,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,macht...,It does.,hace
+208,2,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,tun,do,hacer
+209,2,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Mann,man,hombre
+210,2,Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro,Auswirkungen,impact,impacto
+211,2,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,verhindern,prevent,impedir
+212,2,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Komm schon.,He's coming.,llega
+213,2,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",Maria,Maria,María
+214,2,El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay,besser,better,mejor
+215,2,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",weniger,less,menos
+216,2,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,Nachricht,message,mensaje
+217,2,Morir enamorados en verano,Sterben,Dying,Morir
+218,2,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,Mossos,Mossos,Mossos
+219,2,"Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad",Stirb.,Die,Muere
+220,2,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Welt,world,mundo
+221,2,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,Muslime,Muslim,musulmanas
+222,2,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",neu,new,nuevos
+223,2,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Welle,wave,ola
+224,2,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Vater,father,padre
+225,2,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,Teil,part,parte
+226,2,La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible,Strand,beach,playa
+227,2,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,PP,PP,PP
+228,2,El precio de deshumanizar a los inmigrantes,Preis,price,precio
+229,2,Salvador Illa y la revolución pendiente,Revolution,revolution,revolución
+230,2,El riesgo de desquiciar a Flick,Risiko,risk,riesgo
+231,2,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,San,San,San
+232,2,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,zu sein,be,ser
+233,2,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,Ja.,Yes,si
+234,2,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",über,on,sobre
+235,2,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,sozial,Social,social
+236,2,El esfuerzo y el talento,Talent,talent,talento
+237,2,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Vereinigte Staaten,United,Unidos
+238,2,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,sehen,view,ver
+239,2,Morir enamorados en verano,Sommer,summer,verano
+240,2,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Leben,life,vida
+241,2,El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’,Fall,‘case,‘caso
+242,2,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,● El,“The,“El
+243,1,El Ibex abandona su letargo y pone los 15.000 puntos en la diana,Lassen Sie mich los.,Leave.,abandona
+244,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,verlassen,Abandoned,abandonados
+245,1,Llega la clonación de modelos para uniformar y abaratar campañas de moda,Abtasten,cheap,abaratar
+246,1,Las heridas abiertas en los Mossos que dejó la huida de Puigdemont,geöffnet,open,abiertas
+247,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Öffnet,Open,abre
+248,1,"Carles Puigdemont: un mito popular que no se acaba, un político algo acabado",Ende.,It's over.,acaba
+249,1,"Carles Puigdemont: un mito popular que no se acaba, un político algo acabado",fertig,Finished,acabado
+250,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Zugang,access,acceso
+251,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Klimaanlage,conditioning,acondicionado
+252,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,Aquädukt,aqueduct,acueducto
+253,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Vereinbarung,agreement,acuerdo
+254,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Adama,Adama,Adama
+255,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,Teenager,adolescent,adolescente
+256,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Betroffene,affected,afectados
+257,1,El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”,"mit dem Problem konfrontiert werden,",face,afronta
+258,1,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,August,August,agosto
+259,1,"La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial",Landwirtschaft,agriculture,agricultura
+260,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,Wasser,water,agua
+261,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Ertrunken,They drowned.,ahogaron
+262,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,spart,saves,ahorra
+263,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,sparen,save,ahorrar
+264,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Luft,air,aire
+265,1,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Airlines,Airlines,Airlines
+266,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",Bürgermeisterin,mayor,alcaldesa
+267,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,Deutschland,Germany,Alemania
+268,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,Warnungen,alert,alertan
+269,1,"Carles Puigdemont: un mito popular que no se acaba, un político algo acabado",Irgendwas.,something.,algo
+270,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",einige,some,algunas
+271,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Da drüben.,Over there.,allá
+272,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Almeida-Nüsse,Almeida”,Almeida”
+273,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Alonso,Alonso,Alonso
+274,1,El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’,Alternativen,alternatives,alternativas
+275,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",Schüler,pupils,alumnos
+276,1,Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”,Alzan,alzan,alzan
+277,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Amazonas,Amazonas”,Amazonas”
+278,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Bedrohung,threat,amenaza
+279,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",Kumpel.,Dude.,amigo
+280,1,La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles,Vergrößern,enlarge,ampliar
+281,1,He analizado cuatro kits para iniciarse en el cultivo de los bonsáis,analysiert,analyzed,analizado
+282,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,analysiert wurde.,analyzed,analizó
+283,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,Andalusien,Andalusian,andaluza
+284,1,"Andreu Blanes, el atleta de pista que conquistó la catedral del trail",Andreu,Andreu,Andreu
+285,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",Anglada,Anglada,Anglada
+286,1,La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón,Hintergrund,background,antecedentes
+287,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,zuvor gepflückt,before”,antes”
+288,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",Antonio,Antonio,Antonio
+289,1,"Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana",Abschaltungen,blackouts,apagones
+290,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Parkplatz,park,aparca
+291,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,gelernt,Learned,aprendido
+292,1,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,genehmigt,approved,aprobó
+293,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,apathisch,apathetic,apáticos
+294,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,Schrank,cabinet,armario
+295,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,Waffen,weapons,armas
+296,1,Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia,Architekt,architect,arquitecto
+297,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,Start,boot,arrancar
+298,1,El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay,Arroganz,arrogance,arrogancia
+299,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",überrollt,rolled over,arrollado
+300,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzärztin Assistenzärztin,assistant’,asistenta’
+301,1,El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural,Partnerschaft,partnership,asociación
+302,1,"Andreu Blanes, el atleta de pista que conquistó la catedral del trail",Athlet,athlete,atleta
+303,1,Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia,Raubüberfall,robbery,atraco
+304,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Überfahren,run over,atropellada
+305,1,La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón,Anhörung,Hearing,Audiencia
+306,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Autor,author,autor
+307,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Vorwärts,forward,avance
+308,1,En defensa del Avecrem,Averem,Avecrem,Avecrem
+309,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,Ayatolas,ayatolás,ayatolás
+310,1,El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural,Gemeinde,City Council,Ayuntamiento
+311,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Hilfe,Ayuso,Ayuso
+312,1,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,Jahr,year,año
+313,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,Horizon-Jahre,years”,años”
+314,1,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,noch,still.,aún
+315,1,La peregrinación para comer bacalao en un pequeño pueblo de León,Kabeljau,cod,bacalao
+316,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,Badajoz,Badajoz,Badajoz
+317,1,Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà,Baix,Baix,Baix
+318,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",nach unten,get off,bajar
+319,1,Flavita Banana: propósito de septiembre 8,Bananen,Banana,Banana
+320,1,Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos,Banken,banks,bancos
+321,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",Frühlingsspeise,Barbeito,Barbeito
+322,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,Schiff,boat,barco
+323,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Barkos,Barkos,Barkos
+324,1,"Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad",Bayas,Bayers,Bayés
+325,1,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",Ben,Ben,Ben
+326,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,Biomedizin,Biomedical,Biomédica
+327,1,Riki Blanco: matar al padre,Weiß,White,Blanco
+328,1,"Andreu Blanes, el atleta de pista que conquistó la catedral del trail",Weiß,Blanes,Blanes
+329,1,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,Hochzeit,wedding,boda
+330,1,He analizado cuatro kits para iniciarse en el cultivo de los bonsáis,Bonsais,bonsai,bonsáis
+331,1,La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón,gelöscht,deleted,borrado
+332,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Vereinigtes Königreich,British,británica
+333,1,"Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad",Ich habe gesucht.,I was looking.,buscaba
+334,1,El verano de la camiseta con sujetador incorporado: ha nacido un básico,Basis,basic,básico
+335,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",Haare,hair,cabellos
+336,1,"Crema fría de remolacha, calabacín y yogur",Zucchini,zucchini,calabacín
+337,1,Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia,Calatrava,Calatrava,Calatrava
+338,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Camila,Camila,Camila
+339,1,El verano de la camiseta con sujetador incorporado: ha nacido un básico,T-Shirt,T-shirt,camiseta
+340,1,Llega la clonación de modelos para uniformar y abaratar campañas de moda,Kampagnen,campaigns,campañas
+341,1,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",Kanada,Canada,Canadá
+342,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Karan,Carano,Carano
+343,1,"Carles Puigdemont: un mito popular que no se acaba, un político algo acabado",Carles,Carles,Carles
+344,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Carmen,Carmen,Carmen
+345,1,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",Wagen,Cart,carro
+346,1,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,Postkarte,Poster,Cartel
+347,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Zuhause,home,casa
+348,1,Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà,Häuser,houses,casas
+349,1,El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas,Katalanisch,Catalan,catalán
+350,1,"Andreu Blanes, el atleta de pista que conquistó la catedral del trail",Kathedrale,cathedral,catedral
+351,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Cayuco,cayuco,cayuco
+352,1,El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas,Feiern,celebrations,celebraciones
+353,1,El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural,Feiern,celebrate,celebrar
+354,1,El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”,100 Jahre,centennial,centenario
+355,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",zerebrale Erkrankungen und Beschwerden am Verabreichungsort,brain,cerebrales
+356,1,Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro,Gehirn,brain,cerebro
+357,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,Chat,chat,chat
+358,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Chema,Chema,Chema
+359,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Chivite,Chivite,Chivite
+360,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Radfahrer,cyclists,ciclistas
+361,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,Schließen,closes,cierra
+362,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Fünf,five,cinco
+363,1,La clase social del cambio climático,Klasse,class,clase
+364,1,La clase social del cambio climático,Klima,climate,climático
+365,1,Llega la clonación de modelos para uniformar y abaratar campañas de moda,Klonen,cloning,clonación
+366,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Kollaps,collapse,colapso
+367,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",kollektiv,collective,colectivo
+368,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Kolumbien,Colombia,Colombia
+369,1,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Colorectal,colorectal,colorrectal
+370,1,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Kampf,combat,combatir
+371,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Erläuterungen,comments,comentarios
+372,1,La peregrinación para comer bacalao en un pequeño pueblo de León,Essen,eat,comer
+373,1,"Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina",Handel,trade,comercio
+374,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,Nahrung,food,comida
+375,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Provision,commission,comisión
+376,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Auftauchen,Come on in.,comparezcan
+377,1,El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas,Hlaing-Sharing,shares”,comparte”
+378,1,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",Kauf,purchase,compra
+379,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,Kenntnis,knowledge,conocimiento
+380,1,"Kilian Jornet, a la conquista del Oeste",Eroberung,conquest,conquista
+381,1,"Andreu Blanes, el atleta de pista que conquistó la catedral del trail",Eroberte,conquered,conquistó
+382,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Rat,Council,Consejo
+383,1,¿En qué consiste la teoría de la relatividad?,besteht aus,consists,consiste
+384,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,Werden,Convert,Convertirse
+385,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",konvertiert,convert,convirtió
+386,1,Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones,Kosten,cost,coste
+387,1,"Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana",täglich,daily,cotidiana
+388,1,"Crema fría de remolacha, calabacín y yogur",Creme,Cream,Crema
+389,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Croisières,Croisières,Croisières
+390,1,El golpe comercial de Trump a India falla el objetivo del crudo ruso,roh,Crude,crudo
+391,1,Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores,Kritisch,critical,crítico
+392,1,He analizado cuatro kits para iniciarse en el cultivo de los bonsáis,4,four,cuatro
+393,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Konto,account,cuenta
+394,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,Betreuer,carer,cuidador
+395,1,He analizado cuatro kits para iniciarse en el cultivo de los bonsáis,Anbau,cultivation,cultivo
+396,1,El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural,Kultur,cultural,cultural
+397,1,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,erfüllt,fulfilled”,cumplido”
+398,1,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Krebs,cancer,cáncer
+399,1,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,Geheimgefängnis,prison”,cárcel”
+400,1,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Kartelle,cartels,cárteles
+401,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,Wie,How,Cómo
+402,1,El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay,Daban,dar,daban
+403,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,Dakar,Dakar,Dakar
+404,1,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,dan,dan,dan
+405,1,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",Dana,dana,dana
+406,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Daniel,Daniel,Daniel
+407,1,El Gobierno pone bajo la lupa el impacto de los centros de datos,Daten,data,datos
+408,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",beschädigt,damaged,dañados
+409,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Dekadent,Decadent’,Decadente’
+410,1,El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas,Entscheidung,Decision,decisión
+411,1,En defensa del Avecrem,Verteidigung,defence,defensa
+412,1,Las heridas abiertas en los Mossos que dejó la huida de Puigdemont,Sie hat aufgehört.,He left.,dejó
+413,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,Abgelehnt,Reported,Denunciado
+414,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Angebliche Beschwerden,“denunciations”,denuncias”
+415,1,"Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años",Sport,sports,deportivo
+416,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Desata,Untie,desata
+417,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",Ruhen Sie sich aus.,rest”,descansen”
+418,1,Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà,entdecken,discover,descubrir
+419,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,von,from,desde
+420,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,Anlanden,Disembark,Desembarcan
+421,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,Wunsch,desire,deseo
+422,1,El precio de deshumanizar a los inmigrantes,Entmenschlichen,dehumanize,deshumanizar
+423,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,nackt,Naked,desnudo
+424,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Abschied,good-bye.,despedida
+425,1,El riesgo de desquiciar a Flick,Ausflüchten,skim,desquiciar
+426,1,"Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana",Verschlechterung,deterioration,deterioro
+427,1,El Ibex abandona su letargo y pone los 15.000 puntos en la diana,Ziel,target,diana
+428,1,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,sagt,says,dice
+429,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Verstorbener,deceased,difunto
+430,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Rücktritt,Resign,Dimite
+431,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",gab,dar,dio
+432,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Disney,Disney,Disney
+433,1,El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural,Vielfalt,diversity,diversidad
+434,1,Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos,Dividenden,dividends,dividendos
+435,1,El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay,Dokumentation,documentary,documental
+436,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Donald,Donald,Donald
+437,1,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Droge,drug,droga
+438,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Betäubung,drugged,drogado
+439,1,La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles,Dauer,duration,duración
+440,1,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag-Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/,day”,día”
+441,1,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,Dollar,dollars,dólares
+442,1,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,wobei,where,dónde
+443,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,e,e,e
+444,1,Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos,Wirtschaft,economic,económico
+445,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",Bildung,Education,educativo
+446,1,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Armee,Army,Ejército
+447,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,gewählt,elected,elegida
+448,1,Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores,Wähle,choose,elige
+449,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",{\cH00FFFF},They,ellos
+450,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Verzaubert,bewitched,embrujada
+451,1,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,emotional,emotional,emocional
+452,1,Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà,Empordà,Empordà,Empordà
+453,1,Morir enamorados en verano,Verliebt,Lovers,enamorados
+454,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Feind,enemy,enemigo
+455,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",zwischen,between,entre
+456,1,"España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028",Epizentrum,epicenter,epicentro
+457,1,Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia,Ausgeglichenheit,balance,equilibrismos
+458,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Ausrüstung,equipment,equipo
+459,1,"La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial",war,It was,era
+460,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,erotisch,erotic,erótico
+461,1,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,Entkommen,escaped,escapado
+462,1,"Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina",Schaufenster,window window,escaparate
+463,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Schule,School,Escolar
+464,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",Autorin,writer,escritora
+465,1,Una transgresión existencial: la experiencia de escuchar ‘heavy metal’,Zuhören,listen,escuchar
+466,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,das,that,ese
+467,1,El esfuerzo y el talento,Aufwand,effort,esfuerzo
+468,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,Raum,space,espacio
+469,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Spanisch,Spanish,españoles
+470,1,"España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028",Warten Sie.,Wait.,esperan
+471,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Geist,spirit,espíritu
+472,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",ist,This one.,esta
+473,1,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,würde ich...,I'd be,estaría
+474,1,"Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años",Esteban,Esteban,Esteban
+475,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,sind,They're,están
+476,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Eszterhas,Eszterhas,Eszterhas
+477,1,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",Exempfehlt,former commissioner,excomisionado
+478,1,Una transgresión existencial: la experiencia de escuchar ‘heavy metal’,existentiell,existential,existencial
+479,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",Sachverständiger,expert,experto
+480,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,Ausfuhr,export,exportación
+481,1,Límites a la externalización migratoria,Outsourcing,outsourcing,externalización
+482,1,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Ausländer,foreigners,extranjeros
+483,1,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Extreme,extremes,extremas
+484,1,El golpe comercial de Trump a India falla el objetivo del crudo ruso,Fehler,failure,falla
+485,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Familie,family,familia
+486,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,Familie,family,familiar
+487,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Geister,ghosts,fantasmas
+488,1,"Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina",Bitte.,Please.,favor
+489,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,Lieblings-Babylon,favorite’,favorito’
+490,1,Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores,Fed,Fed,Fed
+491,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",Felipe,Felipe,Felipe
+492,1,El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural,Festival,festival,festival
+493,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Register,file,fichar
+494,1,El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”,ficus,ficus,ficus
+495,1,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,Partys,parties,fiestas
+496,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",Philosoph,philosopher,filósofo
+497,1,Flavita Banana: propósito de septiembre 8,Flavita,Flavita,Flavita
+498,1,El riesgo de desquiciar a Flick,Flick,Flick,Flick
+499,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Fonds,funds,fondos
+500,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,Stärkt Styrol,strengthens”,fortalece”
+501,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Fehlschläge,failures,fracasos
+502,1,Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia,Frankreich,France,Francia
+503,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",Freida,Freida,Freida
+504,1,El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’,Bremse,brake,frenar
+505,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",gegenüber,front,frente
+506,1,"Crema fría de remolacha, calabacín y yogur",kalt,cold,fría
+507,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,Stärke,force,fuerza
+508,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",Flucht,leak,fuga
+509,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Fußball,football,fútbol
+510,1,La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón,Garzón,Garzon,Garzón
+511,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,Gaza,Gaza,Gaza
+512,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Menschen,people,gente
+513,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Gina,Gina,Gina
+514,1,Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores,Präsidenten,Governors,gobernadores
+515,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",González,González,González
+516,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Google,Google,Google
+517,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,Grad,degrees,grados
+518,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,Granada,Grenada,Granada
+519,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",schwer,severe,grave
+520,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Wache,Guard,Guardia
+521,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Guinea,Guinea,Guinea
+522,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Drehbuchautor,screenwriter,guionista
+523,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Kermit,Gustavo,Gustavo
+524,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,machen,They do.,hacen
+525,1,He analizado cuatro kits para iniciarse en el cultivo de los bonsáis,He.,He,He
+526,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,Wir...,We've,hemos
+527,1,Las heridas abiertas en los Mossos que dejó la huida de Puigdemont,Wunden,wounds,heridas
+528,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Eisen,Iron,Hierro
+529,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Tochter,daughter,hija
+530,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,Sohn,child,hijo
+531,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,Hiroshima,Hiroshima,Hiroshima
+532,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Geschichten,stories,historias
+533,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Hollywood,Hollywood,Hollywood
+534,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Holocaust,Holocaust,Holocausto
+535,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,Stunden,hours,horas
+536,1,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",im Krankenhaus,hospitalised,hospitalizado
+537,1,"España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028",Hotels,hotels,hoteles
+538,1,Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”,hätte,there would have been,hubiera
+539,1,Las heridas abiertas en los Mossos que dejó la huida de Puigdemont,Flucht,flight,huida
+540,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,humanitäre Hilfe,humanitarian assistance,humanitarias
+541,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,Humor,humor,humor
+542,1,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Leber,liver,hígado
+543,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,IA,AI,IA
+544,1,El Ibex abandona su letargo y pone los 15.000 puntos en la diana,Ibex,Ibex,Ibex
+545,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",ideal,ideal,ideal
+546,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",Identifizierende Person,identity”,identidad”
+547,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,II,II,II
+548,1,Salvador Illa y la revolución pendiente,Illa,Illa,Illa
+549,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",beinhaltet,involves,implica
+550,1,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,erzwungen,imposes,impone
+551,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,Hunger,starvation,inanición
+552,1,El verano de la camiseta con sujetador incorporado: ha nacido un básico,eingebaut,built-in,incorporado
+553,1,El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’,Unabhängigkeit,independence,independentismo
+554,1,El golpe comercial de Trump a India falla el objetivo del crudo ruso,Indien,India,India
+555,1,Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia,entzünden,inflaminate,inflamar
+556,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Ingenieure,engineers,ingenieras
+557,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,Ingenieurwesen,Engineering,Ingeniería
+558,1,He analizado cuatro kits para iniciarse en el cultivo de los bonsáis,Beginn,start,iniciarse
+559,1,El precio de deshumanizar a los inmigrantes,Immigranten,immigrants,inmigrantes
+560,1,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",Versuch,I'm trying.,intento
+561,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Er versuchte es.,He tried.,intentó
+562,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,Internet,Internet,Internet
+563,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Forschung,research,investigación
+564,1,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,Einladung,invitation,invitación
+565,1,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",gehen,Go.,ir
+566,1,"Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana",Iran,Iranian,iraníes
+567,1,La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible,unwiderstehlich,irresistible,irresistible
+568,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Isabel,Isabel,Isabel
+569,1,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,Islamophob,Islamophobic,islamófobo
+570,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,Israel,Israel,Israel
+571,1,El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”,Jacinto,Jacinto,Jacinto
+572,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",Jaime,Jaime,Jaime
+573,1,Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos,Schach,check,jaque
+574,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,Jaen,Jaén,Jaén
+575,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Chef,Chief,jefe
+576,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Joe.,Joe.,Joe
+577,1,"Kilian Jornet, a la conquista del Oeste",Jornet,Jornet,Jornet
+578,1,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",José,José,José
+579,1,Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia,Juden,Jews,judíos
+580,1,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Donnerstag,Thursday,jueves
+581,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Richter,Judge,juez
+582,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",Spielen,Playing,jugando
+583,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,Juni,June,junio
+584,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Keita,Keita,Keita
+585,1,"Kilian Jornet, a la conquista del Oeste",Kilian,Kilian,Kilian
+586,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Kilogramm,kilos,kilos
+587,1,He analizado cuatro kits para iniciarse en el cultivo de los bonsáis,Kits,kits,kits
+588,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Koldo Hlaing,Koldo’,Koldo’
+589,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,LaLiga,LaLiga,LaLiga
+590,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,Lanzarote,Lanzarote,Lanzarote
+591,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,el,le,le
+592,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Gemüse,legumes,legumbres
+593,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",Läsionen,injuries,lesiones
+594,1,El Ibex abandona su letargo y pone los 15.000 puntos en la diana,Lethargie,lethargy,letargo
+595,1,La letra menuda de Europa,Buchstabe,letter,letra
+596,1,La peregrinación para comer bacalao en un pequeño pueblo de León,Löwe,Lion,León
+597,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Pfund,pounds,libras
+598,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,trägt,Take it.,lleva
+599,1,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",tragen,carry,llevar
+600,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,Salbei,cry”,lloran”
+601,1,"Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina",lokal,local,local
+602,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,London,London,Londres
+603,1,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,Lorenzo,Lorenzo,Lorenzo
+604,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,Lasa,slab,losa
+605,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Kampf,struggle,lucha
+606,1,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Lufthansa,Lufthansa,Lufthansa
+607,1,El Gobierno pone bajo la lupa el impacto de los centros de datos,Lupe,magnifying glass,lupa
+608,1,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,Tränen,tears,lágrimas
+609,1,Límites a la externalización migratoria,Grenzwerte,Limits,Límites
+610,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,LIQUIDAMETLLA,L’Ametlla,L’Ametlla
+611,1,Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia,Macron,Macron,Macron
+612,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Mutter,mother,madre
+613,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Madrid,Madrid,Madrid
+614,1,"Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina",Madrylen,Madrid,madrileño
+615,1,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,Maduro,Maduro,Maduro
+616,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Malaria,malaria,malaria
+617,1,"Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana",Übelkeit,malaise,malestar
+618,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Mami.,Mommy,Mami
+619,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,Fleck,stain,mancha
+620,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto",Mandalorian Hlaing,Mandalorian’,Mandalorian’
+621,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Demonstranten,Protesters,Manifestantes
+622,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Villa,mansion,mansión
+623,1,"Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años",Manuel,Manuel,Manuel
+624,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Maps,Maps,Maps
+625,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,Meer,Sea,Mar
+626,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Mari,Mari,Mari
+627,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",Maske,mask,mascarilla
+628,1,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",Maskottchen,pet,mascota
+629,1,Riki Blanco: matar al padre,Töten,kill,matar
+630,1,"España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento",größer,higher,mayor
+631,1,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",Mboko,Mboko,Mboko
+632,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",McFadden,McFadden,McFadden
+633,1,Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro,Meditation,meditation,meditación
+634,1,Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones,Megabrücke,megabridge,megapuente
+635,1,Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones,Meloni,Meloni,Meloni
+636,1,El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”,Styropor-Gedächtnis,memory”,memoria”
+637,1,Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro,seelisch,mental,mental
+638,1,La letra menuda de Europa,winzig,small,menuda
+639,1,Una transgresión existencial: la experiencia de escuchar ‘heavy metal’,Metallmangan,metal’,metal’
+640,1,Límites a la externalización migratoria,Migrationshintergrund,migration,migratoria
+641,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Miles,Thousands,Miles
+642,1,"Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina",n.v.,same,mismo
+643,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",dieselbe Art von Hähnchen,same”,mismo”
+644,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",Geheimnis,mystery,misterio
+645,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Hälfte,half,mitad
+646,1,"Carles Puigdemont: un mito popular que no se acaba, un político algo acabado",Mythos,myth,mito
+647,1,La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles,Mittwoch,Wednesday,miércoles
+648,1,Llega la clonación de modelos para uniformar y abaratar campañas de moda,Mode,fashion,moda
+649,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Modell,model,modelo
+650,1,Llega la clonación de modelos para uniformar y abaratar campañas de moda,Modelle,models,modelos
+651,1,"España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento",Moment,moment,momento
+652,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Houten-Zeit,moment”,momento”
+653,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Sterblich,Mortals,Mortales
+654,1,"La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial",Motor,engine,motor
+655,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",sehr,a lot.,mucho
+656,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,Sie sterben.,They're dying.,Mueren
+657,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,Frauen,women,mujeres
+658,1,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",Mehrzweck-Anwendungen,multi-use,multiusos
+659,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",Sterbend,dying”,muriendo”
+660,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Er ist gestorben.,He's dead.,murió
+661,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Muñoz,Muñoz,Muñoz
+662,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",Arzt,Medical,médica
+663,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Mexiko-Bananen,Mexico’,México’
+664,1,El verano de la camiseta con sujetador incorporado: ha nacido un básico,Geboren,born,nacido
+665,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,Nichts.,nothing.,nada
+666,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,notwendigerweise,necessarily,necesariamente
+667,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,schwarz,black,negro
+668,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Netanyahu,Netanyahu,Netanyahu
+669,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",Kinder,children,niños
+670,1,Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”,Nobel,Nobel,Nobel
+671,1,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Nacht,night,noche
+672,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Normal,normal,normal
+673,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,n,"No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no.",nos
+674,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,Kernenergie,Nuclear,nuclear
+675,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",unsere,ours,nuestras
+676,1,"La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial",neu,new,nueva
+677,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,neu,new,nuevo
+678,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Zahlen,numbers,números
+679,1,El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay,Oase,Oasis,Oasis
+680,1,El golpe comercial de Trump a India falla el objetivo del crudo ruso,Ziel,objective,objetivo
+681,1,"Kilian Jornet, a la conquista del Oeste",West,West,Oeste
+682,1,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Angebot,offer,oferta
+683,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,Reihenfolge,command,orden
+684,1,Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros,Befehl,command,ordena
+685,1,La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón,Befehl,commande,ordene
+686,1,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,andere,other,otra
+687,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,andere,other,otro
+688,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",P,P,P
+689,1,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Patienten,patients,pacientes
+690,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",bezahlt,Paid,pagado
+691,1,"España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento",Zahlung,payment,pago
+692,1,Peridis: el sillón del Palau,Palau,Palau,Palau
+693,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",Palme,Palma,Palma
+694,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",Paquot,Paquot,Paquot
+695,1,"Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa",ng,paras,paras
+696,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,Vergangenheit,past,pasados
+697,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Fußgänger,pedestrians,peatones
+698,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Bitte...,will ask,pedirá
+699,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Pedro,Pedro,Pedro
+700,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome","mit einem Gehalt an Saccharose (einschließlich Invertzucker als Saccharose berechnet) von 5 GHT oder mehr, jedoch nicht mehr als 5 GHT",Hairstyle,Peinado
+701,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",Haare,hair,pelo
+702,1,Salvador Illa y la revolución pendiente,anhängig,outstanding,pendiente
+703,1,Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro,Denken,thought,pensamiento
+704,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Schlimmer,worst,peor
+705,1,La peregrinación para comer bacalao en un pequeño pueblo de León,klein,small,pequeño
+706,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,Kleiderbügel,hanger,percha
+707,1,La peregrinación para comer bacalao en un pequeño pueblo de León,Pilgerfahrt,pilgrimage,peregrinación
+708,1,Peridis: el sillón del Palau,Peridis,Peridis,Peridis
+709,1,"Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años",Journalismus,journalism,periodismo
+710,1,El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural,erlaubt,allows,permite
+711,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",aber,but,pero
+712,1,Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio,Hunde,dogs,perros
+713,1,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,Perseide,Perseids,Perseidas
+714,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Peru,Peru,Perú
+715,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Gewichte,weights,pesas
+716,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Gewicht,weight,peso
+717,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Petro,Petro,Petro
+718,1,La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón,Bitte.,request,pide
+719,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,Stein,stone,piedra
+720,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Denken Sie,Think.,piensa
+721,1,"Andreu Blanes, el atleta de pista que conquistó la catedral del trail",Track,track,pista
+722,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,Strände,beaches,playas
+723,1,La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible,Falten,folding,plegables
+724,1,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,Plenartagung,full session,pleno
+725,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Wir könnten...,We can.,podamos
+726,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,Macht,power,poder
+727,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,Polypen,stowaways,polizones
+728,1,Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones,kontrovers,Controversial,polémico
+729,1,"Carles Puigdemont: un mito popular que no se acaba, un político algo acabado",Politik,political,político
+730,1,"Carles Puigdemont: un mito popular que no se acaba, un político algo acabado",populär,popular,popular
+731,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,Dessert,dessert,postre
+732,1,Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos,Potenzial,potential,potencial
+733,1,Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”,Preise,prizes,premios
+734,1,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Vorbereiten,prepare,prepara
+735,1,"La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial",bereiten,They're getting ready.,preparan
+736,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,Anwesenheit,presence,presencia
+737,1,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,Druck,pressure,presión
+738,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",priorisieren,prioritize,priorizar
+739,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,zutreffend,where applicable,procedente
+740,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,verbietet,ban,prohíbe
+741,1,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,verlängert,prolong,prolonga
+742,1,Flavita Banana: propósito de septiembre 8,Zweck,purpose,propósito
+743,1,Vídeo | ¿Quién protege a los ‘riders’ en Europa?,schützt,protects,protege
+744,1,Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones,Projekt,project,proyecto
+745,1,El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’,Test,test,prueba
+746,1,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Nächstes Mal,Next,próximo
+747,1,"Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad",Psychologe,psychologist,psicólogo
+748,1,La peregrinación para comer bacalao en un pequeño pueblo de León,Dorf,people,pueblo
+749,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,können,may,puedan
+750,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Tür,door,puerta
+751,1,El Ibex abandona su letargo y pone los 15.000 puntos en la diana,Punkte,points,puntos
+752,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",öffentlich,Public,público
+753,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Konkurs,bankruptcy,quiebra
+754,1,"Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad",Ramon,Ramón,Ramón
+755,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,Gründe,reasons,razones
+756,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,abgelehnt,rejects,rechaza
+757,1,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,Ablehnen,reject,rechazar
+758,1,"España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento",erhält,receive,recibe
+759,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",abholen,collect,recoger
+760,1,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,Belohnung,reward,recompensa
+761,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Verbindung wieder herstellen,reconnect,reconectar
+762,1,Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia,erkennen,recognize,reconocer
+763,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",Ausschnitt,cropping,recorte
+764,1,Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones,erholt,recovers,recupera
+765,1,"España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento",Rückforderung,recovery,recuperación
+766,1,Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”,HERAUSGEFÜHRT,to recover”,recuperarnos”
+767,1,"Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años",Referenz,reference,referente
+768,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Ich bin wieder da.,I'm back.,regreso
+769,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Geiseln,hostages,rehenes
+770,1,Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila,Königin,queen,reina
+771,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Königreich,Kingdom,Reino
+772,1,¿En qué consiste la teoría de la relatividad?,Relativität,relativity,relatividad
+773,1,Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia,Uhr,clock,reloj
+774,1,"Crema fría de remolacha, calabacín y yogur",Rote Rüben,beet,remolacha
+775,1,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Verzicht,Resignation,renuncia
+776,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Verteilung,distribution,reparto
+777,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Lösegeld,rescue,rescate
+778,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Wohnsitz,residence,residencia
+779,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Entfernen,withdraw,retirar
+780,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",agame,Take it back.,retome
+781,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",König,King,rey
+782,1,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,beten,pray,rezar
+783,1,Riki Blanco: matar al padre,Riki,Riki,Riki
+784,1,Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia,Sie stehlen,Roban,Roban
+785,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,gebrochen,Broken,roto
+786,1,Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro,RUMÄNIEN,ruminant,rumiante
+787,1,El golpe comercial de Trump a India falla el objetivo del crudo ruso,Russisch,Russian,ruso
+788,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,Beihilferegelung,regimen,régimen
+789,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,Fluss,river,río
+790,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,wissen,know,saber
+791,1,Salvador Illa y la revolución pendiente,Salvador,Salvador,Salvador
+792,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",gerettet werden,save yourself,salvarse
+793,1,Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia,Santiago,Santiago,Santiago
+794,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Sekretärin,Secretary,secretaria
+795,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,Segovia,Segovia,Segovia
+796,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",gefolgt,followed,seguidos
+797,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",Wochen,weeks,semanas
+798,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Senat,Senate,Senado
+799,1,El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’,Urteil,judgment,sentencia
+800,1,Flavita Banana: propósito de septiembre 8,September,September,septiembre
+801,1,"Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana",Trocken,Drought,Sequía
+802,1,"Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad",Ruhe,serenity,serenidad
+803,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",Seve,Seve,Seve
+804,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Geschlecht,Sex,Sexo
+805,1,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",Shelton,Shelton,Shelton
+806,1,Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones,Sizilien,Sicily,Sicilia
+807,1,El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’,Sijena hippoglossus,Sijena’,Sijena’
+808,1,Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro,Ruhe,Silence,silencio
+809,1,La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible,Stühle,chairs,sillas
+810,1,Peridis: el sillón del Palau,Sessel,armchair,sillón
+811,1,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,Sinaloa,Sinaloa,Sinaloa
+812,1,Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà,Einzigartig,unique,singulares
+813,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Synhogarismus,homelessness,sinhogarismo
+814,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Aber...,if not,sino
+815,1,Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”,Einsamkeit,loneliness,soledad
+816,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,Lösung,solution,solución
+817,1,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",Schatten,shadow,sombra
+818,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",sind,are,son
+819,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Star,Star,Star
+820,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,versteigern,auction it,subastarla
+821,1,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,Steig ein.,Get in.,sube
+822,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Nach oben,up,subir
+823,1,El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay,Glück,Luck.,suerte
+824,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Schlaf,sleep,sueño
+825,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",ausreichend,Sufficient,suficientes
+826,1,"Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana",Sie leiden,suffer,sufren
+827,1,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",Selbstmord,suicide,suicidio
+828,1,El verano de la camiseta con sujetador incorporado: ha nacido un básico,BH,bra,sujetador
+829,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’",Überverkauf,Bestsellers,superventas
+830,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,Überlebende,survivors,supervivientes
+831,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",supplico,I beg you.,suplico
+832,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Ihre,Yours.,suya
+833,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Ja.,Yes,sí
+834,1,El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”,Tala,fell,tala
+835,1,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Temperaturen,temperatures,temperaturas
+836,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,haben,have,tener
+837,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,haben,have,tenga
+838,1,Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia,Spannung,voltage,tensión
+839,1,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,angespannt,tense,tenso
+840,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",Ich hatte...,I had,tenía
+841,1,¿En qué consiste la teoría de la relatividad?,Theorie,theory,teoría
+842,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",Thierry,Thierry,Thierry
+843,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,Hast du.,You got it.,tienes
+844,1,A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado,Er hat gespielt.,♪ touched ♪,tocó
+845,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,alle,all,todas
+846,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Alle,all,todo
+847,1,"Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina",Hier.,take,toma
+848,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Arbeitsplatz,Work,trabajo
+849,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",Traditionen,traditions,tradiciones
+850,1,"Andreu Blanes, el atleta de pista que conquistó la catedral del trail",Trail,trail,trail
+851,1,Una transgresión existencial: la experiencia de escuchar ‘heavy metal’,Übertretung,transgression,transgresión
+852,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Transport,transport,transporte
+853,1,El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”,Transplantation,transplantation,trasplante
+854,1,Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”,ng,Treaty,tratado
+855,1,Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet,Behandlung,treat,tratar
+856,1,Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo,Waffenstillstand,truce,tregua
+857,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Drei,Three,Tres
+858,1,La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible,Erfolg,triumphs,triunfa
+859,1,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",Sieger,triumphants,triunfadores
+860,1,La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha,Trick,trick,truco
+861,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Tricks,tricks,trucos
+862,1,Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa,Turkish,Turkish,Turkish
+863,1,"España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028",Tourismus,tourism,turístico
+864,1,Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico,Technisch,Technical,técnico
+865,1,La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte,Ultrarechts,ultra-right,ultraderecha
+866,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Vereinigtes Königreich,United States,Unido
+867,1,Llega la clonación de modelos para uniformar y abaratar campañas de moda,Uniformieren,uniform,uniformar
+868,1,La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén,Universitäten,universities,universidades
+869,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,UPN,UPN,UPN
+870,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Urban,Urban,Urbana
+871,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",Stadtplanung,urban planning,urbanismo
+872,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",USAID,USAID,USAID
+873,1,Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza,Anwendung,use,usarse
+874,1,"Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público",Benutzer,users,usuarios
+875,1,UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado,Uxue,Uxue,Uxue
+876,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea","Okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, ok.",It's going.,va
+877,1,Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores,frei,vacant,vacante
+878,1,Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia,Valencia,Valencia,Valencia
+879,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",Bewertungen,valuations,valoraciones
+880,1,"Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood",Bewertung,valued,valorado
+881,1,"Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”",Velázquez,Velázquez,Velázquez
+882,1,"Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados",verkauft,sold,vendida
+883,1,"Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga",VI,VI,VI
+884,1,Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar,Reisen,They were traveling.,viajaban
+885,1,"Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières",Reisende,Travellers,viajeros
+886,1,"De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá",Victoria,Victoria,Victoria
+887,1,Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa,verbindet,link,vincula
+888,1,"La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial",Wein,wine,vino
+889,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,Wilkings,viscose”,viscosa”
+890,1,Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres,Wohnen,housing,vivienda
+891,1,El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro,Kippen,dump,volcar
+892,1,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,Vox,Vox,Vox
+893,1,Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”,Stimme,voice,voz
+894,1,La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles,Komm zurück.,Come back.,vuelve
+895,1,"Crema fría de remolacha, calabacín y yogur",Joghurt,yogurt,yogur
+896,1,¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números,Ausschalten,Turn it off.,¿Apagar
+897,1,Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?,Wann?,When,¿cuándo
+898,1,¿En qué consiste la teoría de la relatividad?,In?,In,¿En
+899,1,Vídeo | ¿Quién protege a los ‘riders’ en Europa?,Wer?,Who,¿Quién
+900,1,"José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio",Angel,Angel,Ángel
+901,1,Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”,zuletzt,last,últimos
+902,1,Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà,einzigartig,single,únicas
+903,1,Una transgresión existencial: la experiencia de escuchar ‘heavy metal’,Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happyd-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happyd-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-,‘heavy,‘heavy
+904,1,"Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’",Kilos,‘Kilos,‘Kilos
+905,1,"El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’","B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg,",‘The,‘La
+906,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",H-Nr.:,‘Madrid,‘Madrid
+907,1,"Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años",Manolete Hlaing,‘Manolete’,‘Manolete’
+908,1,‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás,"""Mi""",‘My,‘Mi
+909,1,Vídeo | ¿Quién protege a los ‘riders’ en Europa?,Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol,‘riders’,‘riders’
+910,1,Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos,HELIOSHOCK,‘shock’,‘shock’
+911,1,"Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto","""The""",‘The,‘The
+912,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea",HELIOS,“,“
+913,1,L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”,Weißer Broccoli,“White,“blanca
+914,1,El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”,Es war...,“It was,“Era
+915,1,"El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome",Benzyloste,“This,“este
+916,1,"Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”",GALILLADON,“Gallardon,“Gallardón
+917,1,"Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”",Tut es.,“It does,“Hace
+918,1,“Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo,Unser,“Our,“Nuestro
+919,1,Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”,Ziel,“Objective,“Objetivo
+920,1,"Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”",8,“Eight,“Ocho
+921,1,Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga,Benzylpyrata-Siloxan,“pirate”,“pirata”
+922,1,El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas,Benzylrepta,“respects,“respeta
+923,1,Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”,(siehe auch Abschnitt 4.4.),“They’re,“Son
+924,1,Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”,Wir werden es satt haben.,“We’ll be late,“Tardaremos
+925,1,"Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”",EINEN,“One,“Una
+926,1,"Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”",Komm schon.,“Come on,“Vamos
+927,1,"“¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea","HELIOS (EVP-ED, D) Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1107/2009 des Europäischen Parlaments und des Rates über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1107/2009 des Europäischen Parlaments und des Rates (ABl.",“It,“¡Se
+928,1,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,Kommst du?,“Do you come,“¿Vienes
+929,1,“¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación,HELIOS,“,”
