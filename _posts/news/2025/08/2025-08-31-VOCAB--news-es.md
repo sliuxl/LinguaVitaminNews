@@ -1,937 +1,1426 @@
 ---
-title: "Spanish vocab up to 2025-08-31: 930"
+title: "Spanish vocab up to 2025-08-31: 1419"
 date: 2025-08-31
 layout: post
 ---
 
 - id | count | es | de | en | example
-- [0000] | 194 | de | von | of | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0001] | 134 | la | die | ed | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0002] | 118 | el | den | on | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0003] | 64 | a | a | a | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0004] | 61 | en | ng | in | Así avanzan las encuestas en Galicia y País Vasco
-- [0005] | 56 | un | ein | a | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0006] | 48 | y | und | and | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0007] | 42 | del | vom | of the | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0008] | 42 | que | was | that | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0009] | 41 | los | die | the | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0010] | 35 | por | durch | by | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0011] | 34 | se | se | I know. | El turismo italiano se resiente; España mira expectante
-- [0012] | 32 | para | für | for | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0013] | 25 | coronavirus | Coronavirus | coronavirus | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0014] | 25 | una | eine | one | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0015] | 21 | las | die | the | Así avanzan las encuestas en Galicia y País Vasco
-- [0016] | 19 | al | am | as at | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0017] | 17 | no | Nein. | no | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0018] | 15 | Trump | Trump | Trump | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0019] | 14 | con | mit | with | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0020] | 12 | contra | gegen | against | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0021] | 12 | sus | , | their | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0022] | 11 | europeos | Europäer | European | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0023] | 11 | qué | was? | what | China desvela de qué está hecha la cara oculta de la Luna
-- [0024] | 10 | Así | So. | Like this. | Así avanzan las encuestas en Galicia y País Vasco
-- [0025] | 10 | expansión | Erweiterung | expansion | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0026] | 10 | nuestros | unsere | ours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0027] | 10 | País | Land | Country | Así avanzan las encuestas en Galicia y País Vasco
-- [0028] | 10 | Wuhan | Wuhan | Wuhan | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0029] | 10 | “La | B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg, | “The | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0030] | 9 | hasta | bis | up to | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0031] | 9 | más | mehr | more | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0032] | 7 | como | wie | as | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0033] | 7 | es | ist | It's | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0034] | 7 | España | Spanien | Spain | El turismo italiano se resiente; España mira expectante
-- [0035] | 7 | está | Es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, | She's here. | China desvela de qué está hecha la cara oculta de la Luna
-- [0036] | 7 | Gobierno | Regierung | Government | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0037] | 7 | Junta | Vorstand | Board | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0038] | 7 | nuestra | unsere | ours | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0039] | 7 | Palestina | Palästina | Palestine | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0040] | 7 | tras | nach | after | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0041] | 6 | centros | Zentren | centres | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0042] | 6 | Consumo | Verbrauch | Consumption | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0043] | 6 | cubrir | Abdeckung | cover | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0044] | 6 | euros | EUR | EUR | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0045] | 6 | Fiscalía | Staatsanwaltschaft | Office of the Prosecutor | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0046] | 6 | ha | ha | ha | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0047] | 6 | hay | Es gibt | There's | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0048] | 6 | historia | Geschichte | history | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0049] | 6 | partido | Spiel | match | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0050] | 6 | plan | Plan | plan | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0051] | 6 | Real | Real | Actual | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0052] | 6 | salva | salva | save | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0053] | 6 | Seis | Sechs | Six | Seis italianos encerrados por partida doble
-- [0054] | 6 | su | s | your | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0055] | 6 | vídeo | Video | video | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0056] | 6 | “Hoy | Heute | “Today | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0057] | 5 | acuerdos | Vereinbarungen | agreements | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0058] | 5 | Airbnb | Airbnb | Airbnb | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0059] | 5 | algún | Irgendwelche | some | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0060] | 5 | antes | vorher | before | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0061] | 5 | antiguos | alt | old | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0062] | 5 | anula | storniert | cancels | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0063] | 5 | Arco | Bogen | Arc | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0064] | 5 | avanzan | Vorwärts | They're moving forward. | Así avanzan las encuestas en Galicia y País Vasco
-- [0065] | 5 | barato | preiswert | cheap | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0066] | 5 | Bardem | Bardem | Bardem | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0067] | 5 | cancelara | stornieren | You'll cancel. | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0068] | 5 | cara | Gesicht | face | China desvela de qué está hecha la cara oculta de la Luna
-- [0069] | 5 | cargo | Amtsbezeichnung | position | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0070] | 5 | ceban | Zeban | ceban | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0071] | 5 | Central | Zentral | Central | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0072] | 5 | cerrará | Schließen | It'll close. | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0073] | 5 | China | China | China | China desvela de qué está hecha la cara oculta de la Luna
-- [0074] | 5 | Ciudadanos | Bürger | Citizens | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0075] | 5 | claves | Schlüssel | keys | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0076] | 5 | clientes | Kunden | clients | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0077] | 5 | compraron | gekauft | purchased | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0078] | 5 | Congreso” | Kongress | Congress” | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0079] | 5 | Cortés | Kurz | Cortés | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0080] | 5 | crisis | Krise | crisis | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0081] | 5 | da | da | da | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0082] | 5 | degradado | degradiert | degraded | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0083] | 5 | desvela | Enthüllung | Unveil | China desvela de qué está hecha la cara oculta de la Luna
-- [0084] | 5 | diferente | unterschiedlich | different | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0085] | 5 | dirigentes | Führer | leaders | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0086] | 5 | diálogo | Dialog | dialog | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0087] | 5 | doble | Doppel | double | Seis italianos encerrados por partida doble
-- [0088] | 5 | Domingo | Sonntag | Sunday | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0089] | 5 | Duralex | Duralex | Duralex | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0090] | 5 | Electoral | Wahl | Electoral | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0091] | 5 | encerrados | eingesperrt | locked | Seis italianos encerrados por partida doble
-- [0092] | 5 | encuestas | Erhebungen | surveys | Así avanzan las encuestas en Galicia y País Vasco
-- [0093] | 5 | entender | verstehen | understand | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0094] | 5 | ERC | ERC | ERC | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0095] | 5 | error | Fehler | error | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0096] | 5 | escolares | Schulkinder | School children | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0097] | 5 | escollo | Hölle | sluggishness | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0098] | 5 | Especial | Spezial | Special | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0099] | 5 | expectante | Erwartend | expectant | El turismo italiano se resiente; España mira expectante
-- [0100] | 5 | falso | gefälscht | false | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0101] | 5 | fin | Ende | End | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0102] | 5 | Fnac | Fnac | Fnac | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0103] | 5 | Galicia | Galicien | Galicia | Así avanzan las encuestas en Galicia y País Vasco
-- [0104] | 5 | gestionan | Verwaltung | manage | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0105] | 5 | gracias | Danke. | Thank you. | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0106] | 5 | gripe” | Helikopter-Grippe | flu” | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0107] | 5 | hecha | fertig | done | China desvela de qué está hecha la cara oculta de la Luna
-- [0108] | 5 | Hernán | Hernan | Hernán | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0109] | 5 | irrompible | unzerbrechlich | unbreakable | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0110] | 5 | italiano | Italienisch | Italian | El turismo italiano se resiente; España mira expectante
-- [0111] | 5 | italianos | Italien | Italian | Seis italianos encerrados por partida doble
-- [0112] | 5 | Japón | Japan | Japan | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0113] | 5 | Javier | Javier | Javier | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
-- [0114] | 5 | jurídica” | Rechts- und Verwaltungsvorschriften | legal system” | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0115] | 5 | Luna | Mond | Moon | China desvela de qué está hecha la cara oculta de la Luna
-- [0116] | 5 | magnitud | Größe | magnitude | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0117] | 5 | Mapa | Karte | Map | Mapa de la expansión y claves para entender el coronavirus de Wuhan
-- [0118] | 5 | marco | Rahmen | frame | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0119] | 5 | marzo | März | March | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0120] | 5 | menores | Minderjährige | Minors | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0121] | 5 | mensualmente | monatlich | monthly | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0122] | 5 | mesa | Tisch | table | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0123] | 5 | migrantes | Migranten | migrants | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0124] | 5 | Milán | Mailand | Milan | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0125] | 5 | ministros | Minister | Ministers | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0126] | 5 | mira | Sieh dir das an. | Look. | El turismo italiano se resiente; España mira expectante
-- [0127] | 5 | mosquitos | Moskitos | mosquitoes | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0128] | 5 | mujer | weiblich | woman | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0129] | 5 | Muntadas | mit einem Quadratmetergewicht von mehr als 200 g | Munts | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0130] | 5 | móvil | Mobil | mobile | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0131] | 5 | nombra | Bezeichnung | name | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0132] | 5 | nostalgia | Nostalgie | nostalgia | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0133] | 5 | oculta | versteckt | Hidden | China desvela de qué está hecha la cara oculta de la Luna
-- [0134] | 5 | pagaba | bezahlte | I was paying. | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0135] | 5 | palabras” | Wörter "Bereitschaft" oder "Bereitschaft" | words” | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0136] | 5 | partida | Partie | item | Seis italianos encerrados por partida doble
-- [0137] | 5 | Pence | Pence | Pence | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0138] | 5 | periodista | Journalist | journalist | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0139] | 5 | Plácido | Plazid | Placido | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0140] | 5 | positivo | positiv | positive | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0141] | 5 | Presupuestos | Haushaltspläne | Budgets | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0142] | 5 | primer | Erste | first | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
-- [0143] | 5 | problema | Problem | problem | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0144] | 5 | pronuncian | Aussprachen | pronounce | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
-- [0145] | 5 | querella | Querella | complaint | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0146] | 5 | razón | Grund | reason | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
-- [0147] | 5 | recursos | Ressourcen | resources | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0148] | 5 | representaciones | Darstellungen | representations | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0149] | 5 | resiente; | widerspenstig; | resides; | El turismo italiano se resiente; España mira expectante
-- [0150] | 5 | resolvió | gelöst | resolved | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0151] | 5 | reunirá | gruppiert | meet | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0152] | 5 | seguridad | Sicherheit | security | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0153] | 5 | será | wird | It'll be | “La magnitud del problema del coronavirus no será diferente a una gripe”
-- [0154] | 5 | serán | werden | will be | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0155] | 5 | sociedad | Gesellschaft | society | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
-- [0156] | 5 | sueldo | Gehalt | salary | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0157] | 5 | tan | so | So | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0158] | 5 | teatro | Theater | theatre | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
-- [0159] | 5 | tobillos | Knöchel | ankles | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0160] | 5 | todos | alle | all | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
-- [0161] | 5 | tuitear | twittern | tweet | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
-- [0162] | 5 | turismo | Tourismus | tourism | El turismo italiano se resiente; España mira expectante
-- [0163] | 5 | vajilla | Geschirr | crockery | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
-- [0164] | 5 | Valencia-Atalanta | Valencia-Atalanta | Valencia-Atalanta | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0165] | 5 | Vasco | Vasco | Basque | Así avanzan las encuestas en Galicia y País Vasco
-- [0166] | 5 | vecinos | Nachbarn | neighbours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
-- [0167] | 5 | viajó | Er ist gereist. | He traveled. | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
-- [0168] | 5 | vicepresidente | Vizepräsident | Vice-President | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
-- [0169] | 5 | vocal | Vokal | vowel | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
-- [0170] | 5 | ¿Por | Wieso? | Why? | ¿Por qué los mosquitos se ceban con nuestros tobillos?
-- [0171] | 5 | “en | HELIOS | “in | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
-- [0172] | 4 | dos | 2 | two | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
-- [0173] | 4 | Europa | Europa | Europe | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0174] | 4 | Jumilla | Jumilla | Jumilla | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0175] | 4 | millones | Mio. EUR | million | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
-- [0176] | 4 | o | oder | o | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0177] | 3 | años | Jahre | years | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
-- [0178] | 3 | bajo | niedrig | low | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0179] | 3 | calor | Wärme | heat | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0180] | 3 | ciudad | Stadt | city | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0181] | 3 | lo | ng | lo | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0182] | 3 | ni | und | and/or | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0183] | 3 | pone | setzt | puts | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
-- [0184] | 3 | Puigdemont | Puigdemont | Puigdemont | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0185] | 3 | sin | ohne | no | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0186] | 3 | tu | Du | You | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0187] | 3 | “No | NUMMER | “No | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0188] | 2 | Aemet | Aemet | Aemet | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0189] | 2 | Air | Air | Air | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0190] | 2 | alquiler | Mieten | rent | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
-- [0191] | 2 | Amazon | Amazon | Amazon | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
-- [0192] | 2 | calle | Straße | street | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0193] | 2 | cambio | Veränderung | change | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0194] | 2 | coche | Auto | car | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0195] | 2 | comercial | Kommerzialisierung | commercial | El golpe comercial de Trump a India falla el objetivo del crudo ruso
-- [0196] | 2 | conflicto | Konflikt | conflict | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0197] | 2 | cuando | wenn | when | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0198] | 2 | definitiva | endgültig | final | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0199] | 2 | décadas | Jahrzehnte | decades | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0200] | 2 | día | Tag | day | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0201] | 2 | energía | Energie | energy | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0202] | 2 | Estado | Status | State | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0203] | 2 | Estados | Staaten | States | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0204] | 2 | este | Osten | east | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0205] | 2 | experiencia | Erfahrung | experience | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
-- [0206] | 2 | golpe | Schlag | hit | El golpe comercial de Trump a India falla el objetivo del crudo ruso
-- [0207] | 2 | hace | macht... | It does. | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0208] | 2 | hacer | tun | do | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0209] | 2 | hombre | Mann | man | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0210] | 2 | impacto | Auswirkungen | impact | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
-- [0211] | 2 | impedir | verhindern | prevent | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0212] | 2 | llega | Komm schon. | He's coming. | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0213] | 2 | María | Maria | Maria | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0214] | 2 | mejor | besser | better | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
-- [0215] | 2 | menos | weniger | less | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0216] | 2 | mensaje | Nachricht | message | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0217] | 2 | Morir | Sterben | Dying | Morir enamorados en verano
-- [0218] | 2 | Mossos | Mossos | Mossos | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0219] | 2 | Muere | Stirb. | Die | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
-- [0220] | 2 | mundo | Welt | world | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0221] | 2 | musulmanas | Muslime | Muslim | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0222] | 2 | nuevos | neu | new | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0223] | 2 | ola | Welle | wave | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0224] | 2 | padre | Vater | father | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0225] | 2 | parte | Teil | part | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0226] | 2 | playa | Strand | beach | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
-- [0227] | 2 | PP | PP | PP | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0228] | 2 | precio | Preis | price | El precio de deshumanizar a los inmigrantes
-- [0229] | 2 | revolución | Revolution | revolution | Salvador Illa y la revolución pendiente
-- [0230] | 2 | riesgo | Risiko | risk | El riesgo de desquiciar a Flick
-- [0231] | 2 | San | San | San | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0232] | 2 | ser | zu sein | be | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0233] | 2 | si | Ja. | Yes | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0234] | 2 | sobre | über | on | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0235] | 2 | social | sozial | Social | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0236] | 2 | talento | Talent | talent | El esfuerzo y el talento
-- [0237] | 2 | Unidos | Vereinigte Staaten | United | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0238] | 2 | ver | sehen | view | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0239] | 2 | verano | Sommer | summer | Morir enamorados en verano
-- [0240] | 2 | vida | Leben | life | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0241] | 2 | ‘caso | Fall | ‘case | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
-- [0242] | 2 | “El | ● El | “The | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0243] | 1 | abandona | Lassen Sie mich los. | Leave. | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
-- [0244] | 1 | abandonados | verlassen | Abandoned | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0245] | 1 | abaratar | Abtasten | cheap | Llega la clonación de modelos para uniformar y abaratar campañas de moda
-- [0246] | 1 | abiertas | geöffnet | open | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
-- [0247] | 1 | abre | Öffnet | Open | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0248] | 1 | acaba | Ende. | It's over. | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
-- [0249] | 1 | acabado | fertig | Finished | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
-- [0250] | 1 | acceso | Zugang | access | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0251] | 1 | acondicionado | Klimaanlage | conditioning | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0252] | 1 | acueducto | Aquädukt | aqueduct | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0253] | 1 | acuerdo | Vereinbarung | agreement | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0254] | 1 | Adama | Adama | Adama | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0255] | 1 | adolescente | Teenager | adolescent | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0256] | 1 | afectados | Betroffene | affected | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0257] | 1 | afronta | mit dem Problem konfrontiert werden, | face | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
-- [0258] | 1 | agosto | August | August | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0259] | 1 | agricultura | Landwirtschaft | agriculture | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
-- [0260] | 1 | agua | Wasser | water | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0261] | 1 | ahogaron | Ertrunken | They drowned. | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0262] | 1 | ahorra | spart | saves | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0263] | 1 | ahorrar | sparen | save | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0264] | 1 | aire | Luft | air | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0265] | 1 | Airlines | Airlines | Airlines | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0266] | 1 | alcaldesa | Bürgermeisterin | mayor | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0267] | 1 | Alemania | Deutschland | Germany | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0268] | 1 | alertan | Warnungen | alert | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0269] | 1 | algo | Irgendwas. | something. | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
-- [0270] | 1 | algunas | einige | some | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0271] | 1 | allá | Da drüben. | Over there. | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0272] | 1 | Almeida” | Almeida-Nüsse | Almeida” | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0273] | 1 | Alonso | Alonso | Alonso | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0274] | 1 | alternativas | Alternativen | alternatives | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
-- [0275] | 1 | alumnos | Schüler | pupils | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0276] | 1 | alzan | Alzan | alzan | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
-- [0277] | 1 | Amazonas” | Amazonas | Amazonas” | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0278] | 1 | amenaza | Bedrohung | threat | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0279] | 1 | amigo | Kumpel. | Dude. | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0280] | 1 | ampliar | Vergrößern | enlarge | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
-- [0281] | 1 | analizado | analysiert | analyzed | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
-- [0282] | 1 | analizó | analysiert wurde. | analyzed | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0283] | 1 | andaluza | Andalusien | Andalusian | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0284] | 1 | Andreu | Andreu | Andreu | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
-- [0285] | 1 | Anglada | Anglada | Anglada | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0286] | 1 | antecedentes | Hintergrund | background | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
-- [0287] | 1 | antes” | zuvor gepflückt | before” | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0288] | 1 | Antonio | Antonio | Antonio | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0289] | 1 | apagones | Abschaltungen | blackouts | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
-- [0290] | 1 | aparca | Parkplatz | park | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0291] | 1 | aprendido | gelernt | Learned | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0292] | 1 | aprobó | genehmigt | approved | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0293] | 1 | apáticos | apathisch | apathetic | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0294] | 1 | armario | Schrank | cabinet | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0295] | 1 | armas | Waffen | weapons | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0296] | 1 | arquitecto | Architekt | architect | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
-- [0297] | 1 | arrancar | Start | boot | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0298] | 1 | arrogancia | Arroganz | arrogance | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
-- [0299] | 1 | arrollado | überrollt | rolled over | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0300] | 1 | asistenta’ | Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzärztin Assistenzärztin | assistant’ | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0301] | 1 | asociación | Partnerschaft | partnership | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
-- [0302] | 1 | atleta | Athlet | athlete | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
-- [0303] | 1 | atraco | Raubüberfall | robbery | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
-- [0304] | 1 | atropellada | Überfahren | run over | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0305] | 1 | Audiencia | Anhörung | Hearing | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
-- [0306] | 1 | autor | Autor | author | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0307] | 1 | avance | Vorwärts | forward | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0308] | 1 | Avecrem | Averem | Avecrem | En defensa del Avecrem
-- [0309] | 1 | ayatolás | Ayatolas | ayatolás | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0310] | 1 | Ayuntamiento | Gemeinde | City Council | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
-- [0311] | 1 | Ayuso | Hilfe | Ayuso | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0312] | 1 | año | Jahr | year | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0313] | 1 | años” | Horizon-Jahre | years” | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0314] | 1 | aún | noch | still. | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0315] | 1 | bacalao | Kabeljau | cod | La peregrinación para comer bacalao en un pequeño pueblo de León
-- [0316] | 1 | Badajoz | Badajoz | Badajoz | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0317] | 1 | Baix | Baix | Baix | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
-- [0318] | 1 | bajar | nach unten | get off | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0319] | 1 | Banana | Bananen | Banana | Flavita Banana: propósito de septiembre 8
-- [0320] | 1 | bancos | Banken | banks | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
-- [0321] | 1 | Barbeito | Frühlingsspeise | Barbeito | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0322] | 1 | barco | Schiff | boat | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0323] | 1 | Barkos | Barkos | Barkos | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0324] | 1 | Bayés | Bayas | Bayers | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
-- [0325] | 1 | Ben | Ben | Ben | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0326] | 1 | Biomédica | Biomedizin | Biomedical | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0327] | 1 | Blanco | Weiß | White | Riki Blanco: matar al padre
-- [0328] | 1 | Blanes | Weiß | Blanes | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
-- [0329] | 1 | boda | Hochzeit | wedding | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0330] | 1 | bonsáis | Bonsais | bonsai | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
-- [0331] | 1 | borrado | gelöscht | deleted | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
-- [0332] | 1 | británica | Vereinigtes Königreich | British | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0333] | 1 | buscaba | Ich habe gesucht. | I was looking. | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
-- [0334] | 1 | básico | Basis | basic | El verano de la camiseta con sujetador incorporado: ha nacido un básico
-- [0335] | 1 | cabellos | Haare | hair | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0336] | 1 | calabacín | Zucchini | zucchini | Crema fría de remolacha, calabacín y yogur
-- [0337] | 1 | Calatrava | Calatrava | Calatrava | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
-- [0338] | 1 | Camila | Camila | Camila | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0339] | 1 | camiseta | T-Shirt | T-shirt | El verano de la camiseta con sujetador incorporado: ha nacido un básico
-- [0340] | 1 | campañas | Kampagnen | campaigns | Llega la clonación de modelos para uniformar y abaratar campañas de moda
-- [0341] | 1 | Canadá | Kanada | Canada | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0342] | 1 | Carano | Karan | Carano | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0343] | 1 | Carles | Carles | Carles | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
-- [0344] | 1 | Carmen | Carmen | Carmen | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0345] | 1 | carro | Wagen | Cart | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0346] | 1 | Cartel | Postkarte | Poster | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0347] | 1 | casa | Zuhause | home | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0348] | 1 | casas | Häuser | houses | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
-- [0349] | 1 | catalán | Katalanisch | Catalan | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
-- [0350] | 1 | catedral | Kathedrale | cathedral | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
-- [0351] | 1 | cayuco | Cayuco | cayuco | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0352] | 1 | celebraciones | Feiern | celebrations | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
-- [0353] | 1 | celebrar | Feiern | celebrate | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
-- [0354] | 1 | centenario | 100 Jahre | centennial | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
-- [0355] | 1 | cerebrales | zerebrale Erkrankungen und Beschwerden am Verabreichungsort | brain | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0356] | 1 | cerebro | Gehirn | brain | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
-- [0357] | 1 | chat | Chat | chat | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0358] | 1 | Chema | Chema | Chema | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0359] | 1 | Chivite | Chivite | Chivite | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0360] | 1 | ciclistas | Radfahrer | cyclists | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0361] | 1 | cierra | Schließen | closes | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0362] | 1 | cinco | Fünf | five | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0363] | 1 | clase | Klasse | class | La clase social del cambio climático
-- [0364] | 1 | climático | Klima | climate | La clase social del cambio climático
-- [0365] | 1 | clonación | Klonen | cloning | Llega la clonación de modelos para uniformar y abaratar campañas de moda
-- [0366] | 1 | colapso | Kollaps | collapse | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0367] | 1 | colectivo | kollektiv | collective | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0368] | 1 | Colombia | Kolumbien | Colombia | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0369] | 1 | colorrectal | Colorectal | colorectal | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0370] | 1 | combatir | Kampf | combat | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0371] | 1 | comentarios | Erläuterungen | comments | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0372] | 1 | comer | Essen | eat | La peregrinación para comer bacalao en un pequeño pueblo de León
-- [0373] | 1 | comercio | Handel | trade | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
-- [0374] | 1 | comida | Nahrung | food | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0375] | 1 | comisión | Provision | commission | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0376] | 1 | comparezcan | Auftauchen | Come on in. | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0377] | 1 | comparte” | Hlaing-Sharing | shares” | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
-- [0378] | 1 | compra | Kauf | purchase | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0379] | 1 | conocimiento | Kenntnis | knowledge | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0380] | 1 | conquista | Eroberung | conquest | Kilian Jornet, a la conquista del Oeste
-- [0381] | 1 | conquistó | Eroberte | conquered | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
-- [0382] | 1 | Consejo | Rat | Council | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0383] | 1 | consiste | besteht aus | consists | ¿En qué consiste la teoría de la relatividad?
-- [0384] | 1 | Convertirse | Werden | Convert | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0385] | 1 | convirtió | konvertiert | convert | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0386] | 1 | coste | Kosten | cost | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
-- [0387] | 1 | cotidiana | täglich | daily | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
-- [0388] | 1 | Crema | Creme | Cream | Crema fría de remolacha, calabacín y yogur
-- [0389] | 1 | Croisières | Croisières | Croisières | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0390] | 1 | crudo | roh | Crude | El golpe comercial de Trump a India falla el objetivo del crudo ruso
-- [0391] | 1 | crítico | Kritisch | critical | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
-- [0392] | 1 | cuatro | 4 | four | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
-- [0393] | 1 | cuenta | Konto | account | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0394] | 1 | cuidador | Betreuer | carer | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0395] | 1 | cultivo | Anbau | cultivation | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
-- [0396] | 1 | cultural | Kultur | cultural | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
-- [0397] | 1 | cumplido” | erfüllt | fulfilled” | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0398] | 1 | cáncer | Krebs | cancer | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0399] | 1 | cárcel” | Geheimgefängnis | prison” | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0400] | 1 | cárteles | Kartelle | cartels | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0401] | 1 | Cómo | Wie | How | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0402] | 1 | daban | Daban | dar | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
-- [0403] | 1 | Dakar | Dakar | Dakar | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0404] | 1 | dan | dan | dan | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0405] | 1 | dana | Dana | dana | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0406] | 1 | Daniel | Daniel | Daniel | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0407] | 1 | datos | Daten | data | El Gobierno pone bajo la lupa el impacto de los centros de datos
-- [0408] | 1 | dañados | beschädigt | damaged | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0409] | 1 | Decadente’ | Dekadent | Decadent’ | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0410] | 1 | decisión | Entscheidung | Decision | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
-- [0411] | 1 | defensa | Verteidigung | defence | En defensa del Avecrem
-- [0412] | 1 | dejó | Sie hat aufgehört. | He left. | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
-- [0413] | 1 | Denunciado | Abgelehnt | Reported | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0414] | 1 | denuncias” | Angebliche Beschwerden | “denunciations” | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0415] | 1 | deportivo | Sport | sports | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
-- [0416] | 1 | desata | Desata | Untie | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0417] | 1 | descansen” | Ruhen Sie sich aus. | rest” | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0418] | 1 | descubrir | entdecken | discover | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
-- [0419] | 1 | desde | von | from | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0420] | 1 | Desembarcan | Anlanden | Disembark | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0421] | 1 | deseo | Wunsch | desire | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0422] | 1 | deshumanizar | Entmenschlichen | dehumanize | El precio de deshumanizar a los inmigrantes
-- [0423] | 1 | desnudo | nackt | Naked | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0424] | 1 | despedida | Abschied | good-bye. | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0425] | 1 | desquiciar | Ausflüchten | skim | El riesgo de desquiciar a Flick
-- [0426] | 1 | deterioro | Verschlechterung | deterioration | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
-- [0427] | 1 | diana | Ziel | target | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
-- [0428] | 1 | dice | sagt | says | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0429] | 1 | difunto | Verstorbener | deceased | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0430] | 1 | Dimite | Rücktritt | Resign | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0431] | 1 | dio | gab | dar | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0432] | 1 | Disney | Disney | Disney | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0433] | 1 | diversidad | Vielfalt | diversity | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
-- [0434] | 1 | dividendos | Dividenden | dividends | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
-- [0435] | 1 | documental | Dokumentation | documentary | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
-- [0436] | 1 | Donald | Donald | Donald | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0437] | 1 | droga | Droge | drug | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0438] | 1 | drogado | Betäubung | drugged | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0439] | 1 | duración | Dauer | duration | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
-- [0440] | 1 | día” | Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag-Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/ | day” | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0441] | 1 | dólares | Dollar | dollars | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0442] | 1 | dónde | wobei | where | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0443] | 1 | e | e | e | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0444] | 1 | económico | Wirtschaft | economic | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
-- [0445] | 1 | educativo | Bildung | Education | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0446] | 1 | Ejército | Armee | Army | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0447] | 1 | elegida | gewählt | elected | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0448] | 1 | elige | Wähle | choose | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
-- [0449] | 1 | ellos | {\cH00FFFF} | They | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0450] | 1 | embrujada | Verzaubert | bewitched | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0451] | 1 | emocional | emotional | emotional | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0452] | 1 | Empordà | Empordà | Empordà | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
-- [0453] | 1 | enamorados | Verliebt | Lovers | Morir enamorados en verano
-- [0454] | 1 | enemigo | Feind | enemy | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0455] | 1 | entre | zwischen | between | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0456] | 1 | epicentro | Epizentrum | epicenter | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
-- [0457] | 1 | equilibrismos | Ausgeglichenheit | balance | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
-- [0458] | 1 | equipo | Ausrüstung | equipment | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0459] | 1 | era | war | It was | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
-- [0460] | 1 | erótico | erotisch | erotic | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0461] | 1 | escapado | Entkommen | escaped | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0462] | 1 | escaparate | Schaufenster | window window | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
-- [0463] | 1 | Escolar | Schule | School | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0464] | 1 | escritora | Autorin | writer | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0465] | 1 | escuchar | Zuhören | listen | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
-- [0466] | 1 | ese | das | that | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0467] | 1 | esfuerzo | Aufwand | effort | El esfuerzo y el talento
-- [0468] | 1 | espacio | Raum | space | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0469] | 1 | españoles | Spanisch | Spanish | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0470] | 1 | esperan | Warten Sie. | Wait. | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
-- [0471] | 1 | espíritu | Geist | spirit | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0472] | 1 | esta | ist | This one. | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0473] | 1 | estaría | würde ich... | I'd be | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0474] | 1 | Esteban | Esteban | Esteban | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
-- [0475] | 1 | están | sind | They're | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0476] | 1 | Eszterhas | Eszterhas | Eszterhas | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0477] | 1 | excomisionado | Exempfehlt | former commissioner | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0478] | 1 | existencial | existentiell | existential | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
-- [0479] | 1 | experto | Sachverständiger | expert | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0480] | 1 | exportación | Ausfuhr | export | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0481] | 1 | externalización | Outsourcing | outsourcing | Límites a la externalización migratoria
-- [0482] | 1 | extranjeros | Ausländer | foreigners | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0483] | 1 | extremas | Extreme | extremes | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0484] | 1 | falla | Fehler | failure | El golpe comercial de Trump a India falla el objetivo del crudo ruso
-- [0485] | 1 | familia | Familie | family | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0486] | 1 | familiar | Familie | family | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0487] | 1 | fantasmas | Geister | ghosts | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0488] | 1 | favor | Bitte. | Please. | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
-- [0489] | 1 | favorito’ | Lieblings-Babylon | favorite’ | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0490] | 1 | Fed | Fed | Fed | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
-- [0491] | 1 | Felipe | Felipe | Felipe | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0492] | 1 | festival | Festival | festival | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
-- [0493] | 1 | fichar | Register | file | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0494] | 1 | ficus | ficus | ficus | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
-- [0495] | 1 | fiestas | Partys | parties | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0496] | 1 | filósofo | Philosoph | philosopher | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0497] | 1 | Flavita | Flavita | Flavita | Flavita Banana: propósito de septiembre 8
-- [0498] | 1 | Flick | Flick | Flick | El riesgo de desquiciar a Flick
-- [0499] | 1 | fondos | Fonds | funds | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0500] | 1 | fortalece” | Stärkt Styrol | strengthens” | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0501] | 1 | fracasos | Fehlschläge | failures | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0502] | 1 | Francia | Frankreich | France | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
-- [0503] | 1 | Freida | Freida | Freida | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0504] | 1 | frenar | Bremse | brake | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
-- [0505] | 1 | frente | gegenüber | front | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0506] | 1 | fría | kalt | cold | Crema fría de remolacha, calabacín y yogur
-- [0507] | 1 | fuerza | Stärke | force | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0508] | 1 | fuga | Flucht | leak | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0509] | 1 | fútbol | Fußball | football | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0510] | 1 | Garzón | Garzón | Garzon | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
-- [0511] | 1 | Gaza | Gaza | Gaza | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0512] | 1 | gente | Menschen | people | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0513] | 1 | Gina | Gina | Gina | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0514] | 1 | gobernadores | Präsidenten | Governors | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
-- [0515] | 1 | González | González | González | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0516] | 1 | Google | Google | Google | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0517] | 1 | grados | Grad | degrees | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0518] | 1 | Granada | Granada | Grenada | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0519] | 1 | grave | schwer | severe | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0520] | 1 | Guardia | Wache | Guard | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0521] | 1 | Guinea | Guinea | Guinea | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0522] | 1 | guionista | Drehbuchautor | screenwriter | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0523] | 1 | Gustavo | Kermit | Gustavo | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0524] | 1 | hacen | machen | They do. | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0525] | 1 | He | He. | He | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
-- [0526] | 1 | hemos | Wir... | We've | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0527] | 1 | heridas | Wunden | wounds | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
-- [0528] | 1 | Hierro | Eisen | Iron | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0529] | 1 | hija | Tochter | daughter | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0530] | 1 | hijo | Sohn | child | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0531] | 1 | Hiroshima | Hiroshima | Hiroshima | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0532] | 1 | historias | Geschichten | stories | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0533] | 1 | Hollywood | Hollywood | Hollywood | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0534] | 1 | Holocausto | Holocaust | Holocaust | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0535] | 1 | horas | Stunden | hours | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0536] | 1 | hospitalizado | im Krankenhaus | hospitalised | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0537] | 1 | hoteles | Hotels | hotels | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
-- [0538] | 1 | hubiera | hätte | there would have been | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
-- [0539] | 1 | huida | Flucht | flight | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
-- [0540] | 1 | humanitarias | humanitäre Hilfe | humanitarian assistance | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0541] | 1 | humor | Humor | humor | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0542] | 1 | hígado | Leber | liver | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0543] | 1 | IA | IA | AI | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0544] | 1 | Ibex | Ibex | Ibex | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
-- [0545] | 1 | ideal | ideal | ideal | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0546] | 1 | identidad” | Identifizierende Person | identity” | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0547] | 1 | II | II | II | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0548] | 1 | Illa | Illa | Illa | Salvador Illa y la revolución pendiente
-- [0549] | 1 | implica | beinhaltet | involves | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0550] | 1 | impone | erzwungen | imposes | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0551] | 1 | inanición | Hunger | starvation | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0552] | 1 | incorporado | eingebaut | built-in | El verano de la camiseta con sujetador incorporado: ha nacido un básico
-- [0553] | 1 | independentismo | Unabhängigkeit | independence | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
-- [0554] | 1 | India | Indien | India | El golpe comercial de Trump a India falla el objetivo del crudo ruso
-- [0555] | 1 | inflamar | entzünden | inflaminate | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
-- [0556] | 1 | ingenieras | Ingenieure | engineers | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0557] | 1 | Ingeniería | Ingenieurwesen | Engineering | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0558] | 1 | iniciarse | Beginn | start | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
-- [0559] | 1 | inmigrantes | Immigranten | immigrants | El precio de deshumanizar a los inmigrantes
-- [0560] | 1 | intento | Versuch | I'm trying. | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0561] | 1 | intentó | Er versuchte es. | He tried. | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0562] | 1 | Internet | Internet | Internet | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0563] | 1 | investigación | Forschung | research | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0564] | 1 | invitación | Einladung | invitation | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0565] | 1 | ir | gehen | Go. | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0566] | 1 | iraníes | Iran | Iranian | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
-- [0567] | 1 | irresistible | unwiderstehlich | irresistible | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
-- [0568] | 1 | Isabel | Isabel | Isabel | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0569] | 1 | islamófobo | Islamophob | Islamophobic | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0570] | 1 | Israel | Israel | Israel | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0571] | 1 | Jacinto | Jacinto | Jacinto | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
-- [0572] | 1 | Jaime | Jaime | Jaime | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0573] | 1 | jaque | Schach | check | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
-- [0574] | 1 | Jaén | Jaen | Jaén | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0575] | 1 | jefe | Chef | Chief | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0576] | 1 | Joe | Joe. | Joe. | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0577] | 1 | Jornet | Jornet | Jornet | Kilian Jornet, a la conquista del Oeste
-- [0578] | 1 | José | José | José | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0579] | 1 | judíos | Juden | Jews | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
-- [0580] | 1 | jueves | Donnerstag | Thursday | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0581] | 1 | juez | Richter | Judge | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0582] | 1 | jugando | Spielen | Playing | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0583] | 1 | junio | Juni | June | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0584] | 1 | Keita | Keita | Keita | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0585] | 1 | Kilian | Kilian | Kilian | Kilian Jornet, a la conquista del Oeste
-- [0586] | 1 | kilos | Kilogramm | kilos | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0587] | 1 | kits | Kits | kits | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
-- [0588] | 1 | Koldo’ | Koldo Hlaing | Koldo’ | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0589] | 1 | LaLiga | LaLiga | LaLiga | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0590] | 1 | Lanzarote | Lanzarote | Lanzarote | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0591] | 1 | le | el | le | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0592] | 1 | legumbres | Gemüse | legumes | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0593] | 1 | lesiones | Läsionen | injuries | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0594] | 1 | letargo | Lethargie | lethargy | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
-- [0595] | 1 | letra | Buchstabe | letter | La letra menuda de Europa
-- [0596] | 1 | León | Löwe | Lion | La peregrinación para comer bacalao en un pequeño pueblo de León
-- [0597] | 1 | libras | Pfund | pounds | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0598] | 1 | lleva | trägt | Take it. | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0599] | 1 | llevar | tragen | carry | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0600] | 1 | lloran” | Salbei | cry” | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0601] | 1 | local | lokal | local | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
-- [0602] | 1 | Londres | London | London | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0603] | 1 | Lorenzo | Lorenzo | Lorenzo | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0604] | 1 | losa | Lasa | slab | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0605] | 1 | lucha | Kampf | struggle | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0606] | 1 | Lufthansa | Lufthansa | Lufthansa | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0607] | 1 | lupa | Lupe | magnifying glass | El Gobierno pone bajo la lupa el impacto de los centros de datos
-- [0608] | 1 | lágrimas | Tränen | tears | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0609] | 1 | Límites | Grenzwerte | Limits | Límites a la externalización migratoria
-- [0610] | 1 | L’Ametlla | LIQUIDAMETLLA | L’Ametlla | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0611] | 1 | Macron | Macron | Macron | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
-- [0612] | 1 | madre | Mutter | mother | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0613] | 1 | Madrid | Madrid | Madrid | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0614] | 1 | madrileño | Madrylen | Madrid | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
-- [0615] | 1 | Maduro | Maduro | Maduro | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0616] | 1 | malaria | Malaria | malaria | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0617] | 1 | malestar | Übelkeit | malaise | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
-- [0618] | 1 | Mami | Mami. | Mommy | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0619] | 1 | mancha | Fleck | stain | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0620] | 1 | Mandalorian’ | Mandalorian Hlaing | Mandalorian’ | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0621] | 1 | Manifestantes | Demonstranten | Protesters | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0622] | 1 | mansión | Villa | mansion | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0623] | 1 | Manuel | Manuel | Manuel | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
-- [0624] | 1 | Maps | Maps | Maps | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0625] | 1 | Mar | Meer | Sea | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0626] | 1 | Mari | Mari | Mari | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0627] | 1 | mascarilla | Maske | mask | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0628] | 1 | mascota | Maskottchen | pet | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0629] | 1 | matar | Töten | kill | Riki Blanco: matar al padre
-- [0630] | 1 | mayor | größer | higher | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
-- [0631] | 1 | Mboko | Mboko | Mboko | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0632] | 1 | McFadden | McFadden | McFadden | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0633] | 1 | meditación | Meditation | meditation | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
-- [0634] | 1 | megapuente | Megabrücke | megabridge | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
-- [0635] | 1 | Meloni | Meloni | Meloni | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
-- [0636] | 1 | memoria” | Styropor-Gedächtnis | memory” | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
-- [0637] | 1 | mental | seelisch | mental | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
-- [0638] | 1 | menuda | winzig | small | La letra menuda de Europa
-- [0639] | 1 | metal’ | Metallmangan | metal’ | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
-- [0640] | 1 | migratoria | Migrationshintergrund | migration | Límites a la externalización migratoria
-- [0641] | 1 | Miles | Miles | Thousands | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0642] | 1 | mismo | n.v. | same | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
-- [0643] | 1 | mismo” | dieselbe Art von Hähnchen | same” | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0644] | 1 | misterio | Geheimnis | mystery | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0645] | 1 | mitad | Hälfte | half | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0646] | 1 | mito | Mythos | myth | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
-- [0647] | 1 | miércoles | Mittwoch | Wednesday | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
-- [0648] | 1 | moda | Mode | fashion | Llega la clonación de modelos para uniformar y abaratar campañas de moda
-- [0649] | 1 | modelo | Modell | model | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0650] | 1 | modelos | Modelle | models | Llega la clonación de modelos para uniformar y abaratar campañas de moda
-- [0651] | 1 | momento | Moment | moment | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
-- [0652] | 1 | momento” | Houten-Zeit | moment” | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0653] | 1 | Mortales | Sterblich | Mortals | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0654] | 1 | motor | Motor | engine | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
-- [0655] | 1 | mucho | sehr | a lot. | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0656] | 1 | Mueren | Sie sterben. | They're dying. | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0657] | 1 | mujeres | Frauen | women | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0658] | 1 | multiusos | Mehrzweck-Anwendungen | multi-use | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0659] | 1 | muriendo” | Sterbend | dying” | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0660] | 1 | murió | Er ist gestorben. | He's dead. | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0661] | 1 | Muñoz | Muñoz | Muñoz | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0662] | 1 | médica | Arzt | Medical | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0663] | 1 | México’ | Mexiko-Bananen | Mexico’ | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0664] | 1 | nacido | Geboren | born | El verano de la camiseta con sujetador incorporado: ha nacido un básico
-- [0665] | 1 | nada | Nichts. | nothing. | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0666] | 1 | necesariamente | notwendigerweise | necessarily | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0667] | 1 | negro | schwarz | black | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0668] | 1 | Netanyahu | Netanyahu | Netanyahu | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0669] | 1 | niños | Kinder | children | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0670] | 1 | Nobel | Nobel | Nobel | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
-- [0671] | 1 | noche | Nacht | night | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0672] | 1 | normal | Normal | normal | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0673] | 1 | nos | n | No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0674] | 1 | nuclear | Kernenergie | Nuclear | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0675] | 1 | nuestras | unsere | ours | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0676] | 1 | nueva | neu | new | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
-- [0677] | 1 | nuevo | neu | new | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0678] | 1 | números | Zahlen | numbers | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0679] | 1 | Oasis | Oase | Oasis | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
-- [0680] | 1 | objetivo | Ziel | objective | El golpe comercial de Trump a India falla el objetivo del crudo ruso
-- [0681] | 1 | Oeste | West | West | Kilian Jornet, a la conquista del Oeste
-- [0682] | 1 | oferta | Angebot | offer | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0683] | 1 | orden | Reihenfolge | command | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0684] | 1 | ordena | Befehl | command | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
-- [0685] | 1 | ordene | Befehl | commande | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
-- [0686] | 1 | otra | andere | other | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0687] | 1 | otro | andere | other | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0688] | 1 | P | P | P | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0689] | 1 | pacientes | Patienten | patients | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0690] | 1 | pagado | bezahlt | Paid | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0691] | 1 | pago | Zahlung | payment | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
-- [0692] | 1 | Palau | Palau | Palau | Peridis: el sillón del Palau
-- [0693] | 1 | Palma | Palme | Palma | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0694] | 1 | Paquot | Paquot | Paquot | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0695] | 1 | paras | ng | paras | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
-- [0696] | 1 | pasados | Vergangenheit | past | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0697] | 1 | peatones | Fußgänger | pedestrians | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0698] | 1 | pedirá | Bitte... | will ask | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0699] | 1 | Pedro | Pedro | Pedro | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0700] | 1 | Peinado | mit einem Gehalt an Saccharose (einschließlich Invertzucker als Saccharose berechnet) von 5 GHT oder mehr, jedoch nicht mehr als 5 GHT | Hairstyle | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0701] | 1 | pelo | Haare | hair | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0702] | 1 | pendiente | anhängig | outstanding | Salvador Illa y la revolución pendiente
-- [0703] | 1 | pensamiento | Denken | thought | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
-- [0704] | 1 | peor | Schlimmer | worst | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0705] | 1 | pequeño | klein | small | La peregrinación para comer bacalao en un pequeño pueblo de León
-- [0706] | 1 | percha | Kleiderbügel | hanger | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0707] | 1 | peregrinación | Pilgerfahrt | pilgrimage | La peregrinación para comer bacalao en un pequeño pueblo de León
-- [0708] | 1 | Peridis | Peridis | Peridis | Peridis: el sillón del Palau
-- [0709] | 1 | periodismo | Journalismus | journalism | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
-- [0710] | 1 | permite | erlaubt | allows | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
-- [0711] | 1 | pero | aber | but | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0712] | 1 | perros | Hunde | dogs | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
-- [0713] | 1 | Perseidas | Perseide | Perseids | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0714] | 1 | Perú | Peru | Peru | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0715] | 1 | pesas | Gewichte | weights | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0716] | 1 | peso | Gewicht | weight | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0717] | 1 | Petro | Petro | Petro | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0718] | 1 | pide | Bitte. | request | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
-- [0719] | 1 | piedra | Stein | stone | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0720] | 1 | piensa | Denken Sie | Think. | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0721] | 1 | pista | Track | track | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
-- [0722] | 1 | playas | Strände | beaches | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0723] | 1 | plegables | Falten | folding | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
-- [0724] | 1 | pleno | Plenartagung | full session | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0725] | 1 | podamos | Wir könnten... | We can. | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0726] | 1 | poder | Macht | power | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0727] | 1 | polizones | Polypen | stowaways | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0728] | 1 | polémico | kontrovers | Controversial | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
-- [0729] | 1 | político | Politik | political | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
-- [0730] | 1 | popular | populär | popular | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
-- [0731] | 1 | postre | Dessert | dessert | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0732] | 1 | potencial | Potenzial | potential | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
-- [0733] | 1 | premios | Preise | prizes | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
-- [0734] | 1 | prepara | Vorbereiten | prepare | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0735] | 1 | preparan | bereiten | They're getting ready. | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
-- [0736] | 1 | presencia | Anwesenheit | presence | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0737] | 1 | presión | Druck | pressure | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0738] | 1 | priorizar | priorisieren | prioritize | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0739] | 1 | procedente | zutreffend | where applicable | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0740] | 1 | prohíbe | verbietet | ban | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0741] | 1 | prolonga | verlängert | prolong | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0742] | 1 | propósito | Zweck | purpose | Flavita Banana: propósito de septiembre 8
-- [0743] | 1 | protege | schützt | protects | Vídeo | ¿Quién protege a los ‘riders’ en Europa?
-- [0744] | 1 | proyecto | Projekt | project | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
-- [0745] | 1 | prueba | Test | test | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
-- [0746] | 1 | próximo | Nächstes Mal | Next | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0747] | 1 | psicólogo | Psychologe | psychologist | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
-- [0748] | 1 | pueblo | Dorf | people | La peregrinación para comer bacalao en un pequeño pueblo de León
-- [0749] | 1 | puedan | können | may | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0750] | 1 | puerta | Tür | door | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0751] | 1 | puntos | Punkte | points | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
-- [0752] | 1 | público | öffentlich | Public | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0753] | 1 | quiebra | Konkurs | bankruptcy | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0754] | 1 | Ramón | Ramon | Ramón | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
-- [0755] | 1 | razones | Gründe | reasons | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0756] | 1 | rechaza | abgelehnt | rejects | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0757] | 1 | rechazar | Ablehnen | reject | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0758] | 1 | recibe | erhält | receive | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
-- [0759] | 1 | recoger | abholen | collect | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0760] | 1 | recompensa | Belohnung | reward | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0761] | 1 | reconectar | Verbindung wieder herstellen | reconnect | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0762] | 1 | reconocer | erkennen | recognize | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
-- [0763] | 1 | recorte | Ausschnitt | cropping | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0764] | 1 | recupera | erholt | recovers | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
-- [0765] | 1 | recuperación | Rückforderung | recovery | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
-- [0766] | 1 | recuperarnos” | HERAUSGEFÜHRT | to recover” | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
-- [0767] | 1 | referente | Referenz | reference | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
-- [0768] | 1 | regreso | Ich bin wieder da. | I'm back. | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0769] | 1 | rehenes | Geiseln | hostages | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0770] | 1 | reina | Königin | queen | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
-- [0771] | 1 | Reino | Königreich | Kingdom | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0772] | 1 | relatividad | Relativität | relativity | ¿En qué consiste la teoría de la relatividad?
-- [0773] | 1 | reloj | Uhr | clock | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
-- [0774] | 1 | remolacha | Rote Rüben | beet | Crema fría de remolacha, calabacín y yogur
-- [0775] | 1 | renuncia | Verzicht | Resignation | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0776] | 1 | reparto | Verteilung | distribution | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0777] | 1 | rescate | Lösegeld | rescue | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0778] | 1 | residencia | Wohnsitz | residence | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0779] | 1 | retirar | Entfernen | withdraw | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0780] | 1 | retome | agame | Take it back. | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0781] | 1 | rey | König | King | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0782] | 1 | rezar | beten | pray | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0783] | 1 | Riki | Riki | Riki | Riki Blanco: matar al padre
-- [0784] | 1 | Roban | Sie stehlen | Roban | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
-- [0785] | 1 | roto | gebrochen | Broken | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0786] | 1 | rumiante | RUMÄNIEN | ruminant | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
-- [0787] | 1 | ruso | Russisch | Russian | El golpe comercial de Trump a India falla el objetivo del crudo ruso
-- [0788] | 1 | régimen | Beihilferegelung | regimen | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0789] | 1 | río | Fluss | river | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0790] | 1 | saber | wissen | know | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0791] | 1 | Salvador | Salvador | Salvador | Salvador Illa y la revolución pendiente
-- [0792] | 1 | salvarse | gerettet werden | save yourself | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0793] | 1 | Santiago | Santiago | Santiago | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
-- [0794] | 1 | secretaria | Sekretärin | Secretary | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0795] | 1 | Segovia | Segovia | Segovia | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0796] | 1 | seguidos | gefolgt | followed | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0797] | 1 | semanas | Wochen | weeks | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0798] | 1 | Senado | Senat | Senate | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0799] | 1 | sentencia | Urteil | judgment | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
-- [0800] | 1 | septiembre | September | September | Flavita Banana: propósito de septiembre 8
-- [0801] | 1 | Sequía | Trocken | Drought | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
-- [0802] | 1 | serenidad | Ruhe | serenity | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
-- [0803] | 1 | Seve | Seve | Seve | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0804] | 1 | Sexo | Geschlecht | Sex | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0805] | 1 | Shelton | Shelton | Shelton | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0806] | 1 | Sicilia | Sizilien | Sicily | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
-- [0807] | 1 | Sijena’ | Sijena hippoglossus | Sijena’ | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
-- [0808] | 1 | silencio | Ruhe | Silence | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
-- [0809] | 1 | sillas | Stühle | chairs | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
-- [0810] | 1 | sillón | Sessel | armchair | Peridis: el sillón del Palau
-- [0811] | 1 | Sinaloa | Sinaloa | Sinaloa | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0812] | 1 | singulares | Einzigartig | unique | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
-- [0813] | 1 | sinhogarismo | Synhogarismus | homelessness | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0814] | 1 | sino | Aber... | if not | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0815] | 1 | soledad | Einsamkeit | loneliness | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
-- [0816] | 1 | solución | Lösung | solution | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0817] | 1 | sombra | Schatten | shadow | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0818] | 1 | son | sind | are | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0819] | 1 | Star | Star | Star | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0820] | 1 | subastarla | versteigern | auction it | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0821] | 1 | sube | Steig ein. | Get in. | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0822] | 1 | subir | Nach oben | up | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0823] | 1 | suerte | Glück | Luck. | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
-- [0824] | 1 | sueño | Schlaf | sleep | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0825] | 1 | suficientes | ausreichend | Sufficient | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0826] | 1 | sufren | Sie leiden | suffer | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
-- [0827] | 1 | suicidio | Selbstmord | suicide | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0828] | 1 | sujetador | BH | bra | El verano de la camiseta con sujetador incorporado: ha nacido un básico
-- [0829] | 1 | superventas | Überverkauf | Bestsellers | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0830] | 1 | supervivientes | Überlebende | survivors | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0831] | 1 | suplico | supplico | I beg you. | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0832] | 1 | suya | Ihre | Yours. | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0833] | 1 | sí | Ja. | Yes | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0834] | 1 | tala | Tala | fell | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
-- [0835] | 1 | temperaturas | Temperaturen | temperatures | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0836] | 1 | tener | haben | have | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0837] | 1 | tenga | haben | have | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0838] | 1 | tensión | Spannung | voltage | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
-- [0839] | 1 | tenso | angespannt | tense | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0840] | 1 | tenía | Ich hatte... | I had | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0841] | 1 | teoría | Theorie | theory | ¿En qué consiste la teoría de la relatividad?
-- [0842] | 1 | Thierry | Thierry | Thierry | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0843] | 1 | tienes | Hast du. | You got it. | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0844] | 1 | tocó | Er hat gespielt. | ♪ touched ♪ | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
-- [0845] | 1 | todas | alle | all | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0846] | 1 | todo | Alle | all | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0847] | 1 | toma | Hier. | take | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
-- [0848] | 1 | trabajo | Arbeitsplatz | Work | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0849] | 1 | tradiciones | Traditionen | traditions | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0850] | 1 | trail | Trail | trail | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
-- [0851] | 1 | transgresión | Übertretung | transgression | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
-- [0852] | 1 | transporte | Transport | transport | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0853] | 1 | trasplante | Transplantation | transplantation | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
-- [0854] | 1 | tratado | ng | Treaty | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
-- [0855] | 1 | tratar | Behandlung | treat | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
-- [0856] | 1 | tregua | Waffenstillstand | truce | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
-- [0857] | 1 | Tres | Drei | Three | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0858] | 1 | triunfa | Erfolg | triumphs | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
-- [0859] | 1 | triunfadores | Sieger | triumphants | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0860] | 1 | truco | Trick | trick | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
-- [0861] | 1 | trucos | Tricks | tricks | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0862] | 1 | Turkish | Turkish | Turkish | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
-- [0863] | 1 | turístico | Tourismus | tourism | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
-- [0864] | 1 | técnico | Technisch | Technical | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
-- [0865] | 1 | ultraderecha | Ultrarechts | ultra-right | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
-- [0866] | 1 | Unido | Vereinigtes Königreich | United States | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0867] | 1 | uniformar | Uniformieren | uniform | Llega la clonación de modelos para uniformar y abaratar campañas de moda
-- [0868] | 1 | universidades | Universitäten | universities | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
-- [0869] | 1 | UPN | UPN | UPN | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0870] | 1 | Urbana | Urban | Urban | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0871] | 1 | urbanismo | Stadtplanung | urban planning | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0872] | 1 | USAID | USAID | USAID | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0873] | 1 | usarse | Anwendung | use | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
-- [0874] | 1 | usuarios | Benutzer | users | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
-- [0875] | 1 | Uxue | Uxue | Uxue | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
-- [0876] | 1 | va | Okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, ok. | It's going. | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0877] | 1 | vacante | frei | vacant | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
-- [0878] | 1 | Valencia | Valencia | Valencia | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
-- [0879] | 1 | valoraciones | Bewertungen | valuations | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0880] | 1 | valorado | Bewertung | valued | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
-- [0881] | 1 | Velázquez | Velázquez | Velázquez | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
-- [0882] | 1 | vendida | verkauft | sold | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
-- [0883] | 1 | VI | VI | VI | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
-- [0884] | 1 | viajaban | Reisen | They were traveling. | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
-- [0885] | 1 | viajeros | Reisende | Travellers | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
-- [0886] | 1 | Victoria | Victoria | Victoria | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
-- [0887] | 1 | vincula | verbindet | link | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
-- [0888] | 1 | vino | Wein | wine | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
-- [0889] | 1 | viscosa” | Wilkings | viscose” | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0890] | 1 | vivienda | Wohnen | housing | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
-- [0891] | 1 | volcar | Kippen | dump | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
-- [0892] | 1 | Vox | Vox | Vox | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0893] | 1 | voz | Stimme | voice | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
-- [0894] | 1 | vuelve | Komm zurück. | Come back. | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
-- [0895] | 1 | yogur | Joghurt | yogurt | Crema fría de remolacha, calabacín y yogur
-- [0896] | 1 | ¿Apagar | Ausschalten | Turn it off. | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
-- [0897] | 1 | ¿cuándo | Wann? | When | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
-- [0898] | 1 | ¿En | In? | In | ¿En qué consiste la teoría de la relatividad?
-- [0899] | 1 | ¿Quién | Wer? | Who | Vídeo | ¿Quién protege a los ‘riders’ en Europa?
-- [0900] | 1 | Ángel | Angel | Angel | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
-- [0901] | 1 | últimos | zuletzt | last | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
-- [0902] | 1 | únicas | einzigartig | single | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
-- [0903] | 1 | ‘heavy | Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happyd-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happyd-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H- | ‘heavy | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
-- [0904] | 1 | ‘Kilos | Kilos | ‘Kilos | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
-- [0905] | 1 | ‘La | B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg, | ‘The | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
-- [0906] | 1 | ‘Madrid | H-Nr.: | ‘Madrid | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0907] | 1 | ‘Manolete’ | Manolete Hlaing | ‘Manolete’ | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
-- [0908] | 1 | ‘Mi | "Mi" | ‘My | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
-- [0909] | 1 | ‘riders’ | Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol | ‘riders’ | Vídeo | ¿Quién protege a los ‘riders’ en Europa?
-- [0910] | 1 | ‘shock’ | HELIOSHOCK | ‘shock’ | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
-- [0911] | 1 | ‘The | "The" | ‘The | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
-- [0912] | 1 | “ | HELIOS | “ | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0913] | 1 | “blanca | Weißer Broccoli | “White | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
-- [0914] | 1 | “Era | Es war... | “It was | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
-- [0915] | 1 | “este | Benzyloste | “This | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
-- [0916] | 1 | “Gallardón | GALILLADON | “Gallardon | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
-- [0917] | 1 | “Hace | Tut es. | “It does | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
-- [0918] | 1 | “Nuestro | Unser | “Our | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
-- [0919] | 1 | “Objetivo | Ziel | “Objective | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
-- [0920] | 1 | “Ocho | 8 | “Eight | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
-- [0921] | 1 | “pirata” | Benzylpyrata-Siloxan | “pirate” | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
-- [0922] | 1 | “respeta | Benzylrepta | “respects | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
-- [0923] | 1 | “Son | (siehe auch Abschnitt 4.4.) | “They’re | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
-- [0924] | 1 | “Tardaremos | Wir werden es satt haben. | “We’ll be late | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
-- [0925] | 1 | “Una | EINEN | “One | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
-- [0926] | 1 | “Vamos | Komm schon. | “Come on | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
-- [0927] | 1 | “¡Se | HELIOS (EVP-ED, D) Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1107/2009 des Europäischen Parlaments und des Rates über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1107/2009 des Europäischen Parlaments und des Rates (ABl. | “It | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
-- [0928] | 1 | “¿Vienes | Kommst du? | “Do you come | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
-- [0929] | 1 | ” | HELIOS | “ | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
+- [0000] | 316 | de | von | of | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0001] | 206 | la | die | ed | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0002] | 173 | el | den | on | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0003] | 104 | en | ng | in | Así avanzan las encuestas en Galicia y País Vasco
+- [0004] | 88 | a | a | a | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0005] | 75 | un | ein | a | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0006] | 72 | y | und | and | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0007] | 64 | del | vom | of the | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0008] | 61 | los | die | the | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0009] | 59 | que | was | that | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0010] | 52 | por | durch | by | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0011] | 45 | una | eine | one | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0012] | 44 | se | se | I know. | El turismo italiano se resiente; España mira expectante
+- [0013] | 41 | para | für | for | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0014] | 37 | al | am | as at | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0015] | 30 | las | die | the | Así avanzan las encuestas en Galicia y País Vasco
+- [0016] | 28 | con | mit | with | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0017] | 27 | no | Nein. | no | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0018] | 25 | coronavirus | Coronavirus | coronavirus | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0019] | 21 | Trump | Trump | Trump | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0020] | 17 | contra | gegen | against | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0021] | 15 | su | s | your | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [0022] | 14 | más | mehr | more | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0023] | 14 | qué | was? | what | China desvela de qué está hecha la cara oculta de la Luna
+- [0024] | 14 | sus | , | their | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0025] | 13 | es | ist | It's | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0026] | 12 | Así | So. | Like this. | Así avanzan las encuestas en Galicia y País Vasco
+- [0027] | 12 | España | Spanien | Spain | El turismo italiano se resiente; España mira expectante
+- [0028] | 11 | europeos | Europäer | European | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0029] | 11 | hasta | bis | up to | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0030] | 11 | País | Land | Country | Así avanzan las encuestas en Galicia y País Vasco
+- [0031] | 10 | expansión | Erweiterung | expansion | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0032] | 10 | Junta | Vorstand | Board | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0033] | 10 | nuestros | unsere | ours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0034] | 10 | Wuhan | Wuhan | Wuhan | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0035] | 10 | “La | B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg, | “The | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0036] | 9 | como | wie | as | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0037] | 9 | está | Es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, es ist okay, | She's here. | China desvela de qué está hecha la cara oculta de la Luna
+- [0038] | 9 | ha | ha | ha | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0039] | 9 | nuestra | unsere | ours | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0040] | 9 | tras | nach | after | Así ha quedado la capilla de la Mezquita de Córdoba afectada tras el incendio
+- [0041] | 8 | calor | Wärme | heat | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0042] | 8 | centros | Zentren | centres | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0043] | 8 | Gobierno | Regierung | Government | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0044] | 8 | o | oder | o | Chema Alonso: ¿gurú o vendehúmos informático?
+- [0045] | 8 | Palestina | Palästina | Palestine | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0046] | 8 | vídeo | Video | video | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0047] | 7 | euros | EUR | EUR | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0048] | 7 | Fiscalía | Staatsanwaltschaft | Office of the Prosecutor | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0049] | 7 | historia | Geschichte | history | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0050] | 7 | millones | Mio. EUR | million | El fichaje en vano de Reinier Jesus: 30 millones y cero partidos con el Real Madrid
+- [0051] | 7 | ni | und | and/or | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [0052] | 7 | partido | Spiel | match | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0053] | 7 | plan | Plan | plan | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0054] | 7 | Real | Real | Actual | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0055] | 7 | salva | salva | save | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0056] | 7 | Seis | Sechs | Six | Seis italianos encerrados por partida doble
+- [0057] | 7 | ¿Por | Wieso? | Why? | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0058] | 6 | cargo | Amtsbezeichnung | position | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0059] | 6 | claves | Schlüssel | keys | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0060] | 6 | Consumo | Verbrauch | Consumption | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0061] | 6 | crisis | Krise | crisis | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0062] | 6 | cubrir | Abdeckung | cover | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0063] | 6 | dos | 2 | two | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [0064] | 6 | Especial | Spezial | Special | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0065] | 6 | hay | Es gibt | There's | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0066] | 6 | Jumilla | Jumilla | Jumilla | Incomodidad en el PP por el veto al islam en Jumilla
+- [0067] | 6 | lo | ng | lo | El amor ya no es lo que era
+- [0068] | 6 | Mapa | Karte | Map | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0069] | 6 | migrantes | Migranten | migrants | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0070] | 6 | reunirá | gruppiert | meet | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0071] | 6 | sin | ohne | no | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0072] | 6 | teatro | Theater | theatre | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0073] | 6 | turismo | Tourismus | tourism | El turismo italiano se resiente; España mira expectante
+- [0074] | 6 | Vasco | Vasco | Basque | Así avanzan las encuestas en Galicia y País Vasco
+- [0075] | 6 | “Hoy | Heute | “Today | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0076] | 5 | acuerdos | Vereinbarungen | agreements | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0077] | 5 | Airbnb | Airbnb | Airbnb | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0078] | 5 | algún | Irgendwelche | some | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0079] | 5 | antes | vorher | before | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0080] | 5 | antiguos | alt | old | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0081] | 5 | anula | storniert | cancels | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0082] | 5 | Arco | Bogen | Arc | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0083] | 5 | avanzan | Vorwärts | They're moving forward. | Así avanzan las encuestas en Galicia y País Vasco
+- [0084] | 5 | años | Jahre | years | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [0085] | 5 | barato | preiswert | cheap | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0086] | 5 | Bardem | Bardem | Bardem | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0087] | 5 | cancelara | stornieren | You'll cancel. | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0088] | 5 | cara | Gesicht | face | China desvela de qué está hecha la cara oculta de la Luna
+- [0089] | 5 | ceban | Zeban | ceban | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0090] | 5 | Central | Zentral | Central | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0091] | 5 | cerrará | Schließen | It'll close. | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0092] | 5 | China | China | China | China desvela de qué está hecha la cara oculta de la Luna
+- [0093] | 5 | Ciudadanos | Bürger | Citizens | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0094] | 5 | clientes | Kunden | clients | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0095] | 5 | compraron | gekauft | purchased | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0096] | 5 | Congreso” | Kongress | Congress” | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0097] | 5 | Cortés | Kurz | Cortés | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0098] | 5 | da | da | da | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0099] | 5 | degradado | degradiert | degraded | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0100] | 5 | desvela | Enthüllung | Unveil | China desvela de qué está hecha la cara oculta de la Luna
+- [0101] | 5 | diferente | unterschiedlich | different | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0102] | 5 | dirigentes | Führer | leaders | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0103] | 5 | diálogo | Dialog | dialog | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0104] | 5 | doble | Doppel | double | Seis italianos encerrados por partida doble
+- [0105] | 5 | Domingo | Sonntag | Sunday | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0106] | 5 | Duralex | Duralex | Duralex | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0107] | 5 | Electoral | Wahl | Electoral | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0108] | 5 | encerrados | eingesperrt | locked | Seis italianos encerrados por partida doble
+- [0109] | 5 | encuestas | Erhebungen | surveys | Así avanzan las encuestas en Galicia y País Vasco
+- [0110] | 5 | entender | verstehen | understand | Mapa de la expansión y claves para entender el coronavirus de Wuhan
+- [0111] | 5 | ERC | ERC | ERC | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0112] | 5 | error | Fehler | error | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0113] | 5 | escolares | Schulkinder | School children | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0114] | 5 | escollo | Hölle | sluggishness | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0115] | 5 | expectante | Erwartend | expectant | El turismo italiano se resiente; España mira expectante
+- [0116] | 5 | falso | gefälscht | false | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0117] | 5 | fin | Ende | End | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0118] | 5 | Fnac | Fnac | Fnac | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0119] | 5 | Galicia | Galicien | Galicia | Así avanzan las encuestas en Galicia y País Vasco
+- [0120] | 5 | gestionan | Verwaltung | manage | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0121] | 5 | golpe | Schlag | hit | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [0122] | 5 | gracias | Danke. | Thank you. | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0123] | 5 | gripe” | Helikopter-Grippe | flu” | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0124] | 5 | hecha | fertig | done | China desvela de qué está hecha la cara oculta de la Luna
+- [0125] | 5 | Hernán | Hernan | Hernán | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0126] | 5 | irrompible | unzerbrechlich | unbreakable | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0127] | 5 | italiano | Italienisch | Italian | El turismo italiano se resiente; España mira expectante
+- [0128] | 5 | italianos | Italien | Italian | Seis italianos encerrados por partida doble
+- [0129] | 5 | Japón | Japan | Japan | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0130] | 5 | Javier | Javier | Javier | Javier Bardem: “Hoy hay algún Hernán Cortés en el Congreso”
+- [0131] | 5 | jurídica” | Rechts- und Verwaltungsvorschriften | legal system” | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0132] | 5 | Luna | Mond | Moon | China desvela de qué está hecha la cara oculta de la Luna
+- [0133] | 5 | Madrid | Madrid | Madrid | La mejor librería de tebeos del mundo está en un barrio de Madrid
+- [0134] | 5 | magnitud | Größe | magnitude | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0135] | 5 | marco | Rahmen | frame | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0136] | 5 | marzo | März | March | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0137] | 5 | menores | Minderjährige | Minors | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0138] | 5 | mensualmente | monatlich | monthly | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0139] | 5 | mesa | Tisch | table | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0140] | 5 | Milán | Mailand | Milan | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0141] | 5 | ministros | Minister | Ministers | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0142] | 5 | mira | Sieh dir das an. | Look. | El turismo italiano se resiente; España mira expectante
+- [0143] | 5 | mosquitos | Moskitos | mosquitoes | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0144] | 5 | mujer | weiblich | woman | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0145] | 5 | Muntadas | mit einem Quadratmetergewicht von mehr als 200 g | Munts | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0146] | 5 | móvil | Mobil | mobile | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0147] | 5 | nombra | Bezeichnung | name | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0148] | 5 | nostalgia | Nostalgie | nostalgia | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0149] | 5 | oculta | versteckt | Hidden | China desvela de qué está hecha la cara oculta de la Luna
+- [0150] | 5 | pagaba | bezahlte | I was paying. | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0151] | 5 | palabras” | Wörter "Bereitschaft" oder "Bereitschaft" | words” | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0152] | 5 | partida | Partie | item | Seis italianos encerrados por partida doble
+- [0153] | 5 | Pence | Pence | Pence | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0154] | 5 | periodista | Journalist | journalist | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0155] | 5 | Plácido | Plazid | Placido | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0156] | 5 | pone | setzt | puts | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [0157] | 5 | positivo | positiv | positive | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0158] | 5 | Presupuestos | Haushaltspläne | Budgets | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0159] | 5 | primer | Erste | first | El Gobierno salva el primer escollo de los Presupuestos gracias a ERC
+- [0160] | 5 | problema | Problem | problem | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0161] | 5 | pronuncian | Aussprachen | pronounce | 50 antiguos ministros y dirigentes europeos se pronuncian contra el plan de Trump para Palestina
+- [0162] | 5 | querella | Querella | complaint | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0163] | 5 | razón | Grund | reason | Consumo da la razón a los clientes de Fnac que compraron un móvil 575 euros más barato por un error
+- [0164] | 5 | recursos | Ressourcen | resources | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0165] | 5 | representaciones | Darstellungen | representations | Plácido Domingo anula sus representaciones en el Real antes de que el teatro las cancelara
+- [0166] | 5 | resiente; | widerspenstig; | resides; | El turismo italiano se resiente; España mira expectante
+- [0167] | 5 | resolvió | gelöst | resolved | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0168] | 5 | seguridad | Sicherheit | security | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0169] | 5 | ser | zu sein | be | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [0170] | 5 | será | wird | It'll be | “La magnitud del problema del coronavirus no será diferente a una gripe”
+- [0171] | 5 | serán | werden | will be | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0172] | 5 | sociedad | Gesellschaft | society | Especial EL PAÍS en Arco | Muntadas: “La sociedad ha degradado las palabras”
+- [0173] | 5 | son | sind | are | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [0174] | 5 | sueldo | Gehalt | salary | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0175] | 5 | tan | so | So | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0176] | 5 | tobillos | Knöchel | ankles | ¿Por qué los mosquitos se ceban con nuestros tobillos?
+- [0177] | 5 | todos | alle | all | El coronavirus de Wuhan | Japón cerrará todos sus centros escolares hasta fin de marzo
+- [0178] | 5 | tuitear | twittern | tweet | La Fiscalía se querella contra una mujer por tuitear un vídeo falso de menores migrantes
+- [0179] | 5 | vajilla | Geschirr | crockery | La historia de Duralex, una vajilla tan irrompible como nuestra nostalgia
+- [0180] | 5 | Valencia-Atalanta | Valencia-Atalanta | Valencia-Atalanta | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0181] | 5 | vecinos | Nachbarn | neighbours | Así gestionan nuestros vecinos europeos la expansión de Airbnb
+- [0182] | 5 | viajó | Er ist gereist. | He traveled. | Un periodista que viajó a Milán para cubrir el Valencia-Atalanta, positivo por coronavirus
+- [0183] | 5 | vicepresidente | Vizepräsident | Vice-President | Trump nombra al vicepresidente Pence a cargo de la crisis del coronavirus
+- [0184] | 5 | vida | Leben | life | Criminales de por vida: los inmigrantes que cumplieron sus condenas y Trump quiere deportar
+- [0185] | 5 | vocal | Vokal | vowel | Ciudadanos pagaba un sueldo a un vocal de la Junta Electoral Central que resolvió recursos del partido
+- [0186] | 5 | “en | HELIOS | “in | La mesa de diálogo se reunirá mensualmente y los acuerdos serán “en el marco de la seguridad jurídica”
+- [0187] | 4 | bajo | niedrig | low | El Gobierno pone bajo la lupa el impacto de los centros de datos
+- [0188] | 4 | Barcelona | Barcelona | Barcelona | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0189] | 4 | casa | Zuhause | home | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [0190] | 4 | ciudad | Stadt | city | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [0191] | 4 | conflicto | Konflikt | conflict | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0192] | 4 | día | Tag | day | Séptimo día de calor con 13 comunidades  con avisos por temperaturas extremas
+- [0193] | 4 | Europa | Europa | Europe | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [0194] | 4 | Muere | Stirb. | Die | Muere arrollada por una máquina una jornalera marroquí vecina de Jumilla
+- [0195] | 4 | mundo | Welt | world | La mejor librería de tebeos del mundo está en un barrio de Madrid
+- [0196] | 4 | riesgo | Risiko | risk | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [0197] | 4 | si | Ja. | Yes | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0198] | 4 | tu | Du | You | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0199] | 4 | verano | Sommer | summer | Morir enamorados en verano
+- [0200] | 4 | “El | ● El | “The | Samantha Hudson: “El Bosco disfrutaría de mis directos”
+- [0201] | 4 | “No | NUMMER | “No | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0202] | 3 | Aemet | Aemet | Aemet | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
+- [0203] | 3 | andaluza | Andalusien | Andalusian | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [0204] | 3 | cambio | Veränderung | change | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0205] | 3 | comida | Nahrung | food | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [0206] | 3 | cultural | Kultur | cultural | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [0207] | 3 | dan | dan | dan | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0208] | 3 | definitiva | endgültig | final | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0209] | 3 | desde | von | from | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
+- [0210] | 3 | después | nach | after | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [0211] | 3 | décadas | Jahrzehnte | decades | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
+- [0212] | 3 | energía | Energie | energy | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0213] | 3 | Estado | Status | State | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0214] | 3 | Estados | Staaten | States | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0215] | 3 | este | Osten | east | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [0216] | 3 | extremas | Extreme | extremes | Séptimo día de calor con 13 comunidades  con avisos por temperaturas extremas
+- [0217] | 3 | festival | Festival | festival | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
+- [0218] | 3 | fuerza | Stärke | force | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [0219] | 3 | hace | macht... | It does. | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [0220] | 3 | hacer | tun | do | Mareo, confusión... ¿Cuáles son los síntomas y qué hacer ante un golpe de calor?
+- [0221] | 3 | IA | IA | AI | El patio trasero de la IA. Un mapa de la fiebre del oro del siglo XXI
+- [0222] | 3 | impacto | Auswirkungen | impact | El Gobierno pone bajo la lupa el impacto de los centros de datos
+- [0223] | 3 | incendio | Feuer | fire | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [0224] | 3 | Maduro | Maduro | Maduro | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [0225] | 3 | mejor | besser | better | La mejor librería de tebeos del mundo está en un barrio de Madrid
+- [0226] | 3 | menos | weniger | less | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0227] | 3 | mensaje | Nachricht | message | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0228] | 3 | Morir | Sterben | Dying | Morir enamorados en verano
+- [0229] | 3 | Mueren | Sie sterben. | They're dying. | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [0230] | 3 | nuclear | Kernenergie | Nuclear | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [0231] | 3 | nueva | neu | new | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0232] | 3 | nuevos | neu | new | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [0233] | 3 | ola | Welle | wave | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
+- [0234] | 3 | otro | andere | other | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0235] | 3 | parte | Teil | part | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0236] | 3 | PP | PP | PP | Incomodidad en el PP por el veto al islam en Jumilla
+- [0237] | 3 | precio | Preis | price | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [0238] | 3 | próximo | Nächstes Mal | Next | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
+- [0239] | 3 | Puigdemont | Puigdemont | Puigdemont | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0240] | 3 | revolución | Revolution | revolution | La revolución vinícola del Mediterráneo y tres vinos para descubrirla
+- [0241] | 3 | San | San | San | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0242] | 3 | sobre | über | on | Trump se reunirá con Putin en Alaska el viernes 15 para tratar sobre la guerra en Ucrania
+- [0243] | 3 | temperaturas | Temperaturen | temperatures | Séptimo día de calor con 13 comunidades  con avisos por temperaturas extremas
+- [0244] | 3 | Unidos | Vereinigte Staaten | United | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0245] | 3 | vivienda | Wohnen | housing | La vivienda en el sur de Madrid, a debate: negociar o imponer precios
+- [0246] | 3 | ‘caso | Fall | ‘case | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
+- [0247] | 2 | abandonados | verlassen | Abandoned | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
+- [0248] | 2 | advierte | warnen | warns | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [0249] | 2 | afronta | mit dem Problem konfrontiert werden, | face | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0250] | 2 | agua | Wasser | water | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
+- [0251] | 2 | Air | Air | Air | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [0252] | 2 | Alemania | Deutschland | Germany | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [0253] | 2 | alerta | Warnung | alert | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [0254] | 2 | alertan | Warnungen | alert | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0255] | 2 | Alonso | Alonso | Alonso | Chema Alonso: ¿gurú o vendehúmos informático?
+- [0256] | 2 | alquiler | Mieten | rent | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
+- [0257] | 2 | alternativas | Alternativen | alternatives | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
+- [0258] | 2 | alzan | Alzan | alzan | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
+- [0259] | 2 | Amazon | Amazon | Amazon | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
+- [0260] | 2 | antecedentes | Hintergrund | background | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
+- [0261] | 2 | antes” | zuvor gepflückt | before” | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0262] | 2 | aprendido | gelernt | Learned | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0263] | 2 | asociación | Partnerschaft | partnership | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
+- [0264] | 2 | Audiencia | Anhörung | Hearing | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
+- [0265] | 2 | Ayuntamiento | Gemeinde | City Council | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
+- [0266] | 2 | Ayuso | Hilfe | Ayuso | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0267] | 2 | años” | Horizon-Jahre | years” | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0268] | 2 | aún | noch | still. | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0269] | 2 | Badajoz | Badajoz | Badajoz | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
+- [0270] | 2 | Banana | Bananen | Banana | Flavita Banana: propósito de septiembre 9
+- [0271] | 2 | Biomédica | Biomedizin | Biomedical | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0272] | 2 | Blanca | Weiß | White | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [0273] | 2 | Blanco | Weiß | White | Riki Blanco: aquella postal de Barcelona
+- [0274] | 2 | borrado | gelöscht | deleted | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
+- [0275] | 2 | calle | Straße | street | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [0276] | 2 | capilla | Kapelle | chapel | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [0277] | 2 | Cartel | Postkarte | Poster | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0278] | 2 | celebrar | Feiern | celebrate | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
+- [0279] | 2 | centenario | 100 Jahre | centennial | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0280] | 2 | Chema | Chema | Chema | Chema Alonso: ¿gurú o vendehúmos informático?
+- [0281] | 2 | cierra | Schließen | closes | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0282] | 2 | climático | Klima | climate | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0283] | 2 | coche | Auto | car | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0284] | 2 | colapso | Kollaps | collapse | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0285] | 2 | colorrectal | Colorectal | colorectal | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0286] | 2 | comercial | Kommerzialisierung | commercial | El golpe comercial de Trump a India falla el objetivo del crudo ruso
+- [0287] | 2 | comercio | Handel | trade | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0288] | 2 | concierto | Konzert | concert | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0289] | 2 | Consejo | Rat | Council | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0290] | 2 | Convertirse | Werden | Convert | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0291] | 2 | cuando | wenn | when | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [0292] | 2 | cuenta | Konto | account | La cuenta atrás no queda en el Barcelona: más de 50 fichajes siguen sin estar inscritos en la Liga
+- [0293] | 2 | cuidador | Betreuer | carer | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0294] | 2 | cáncer | Krebs | cancer | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0295] | 2 | cómo | wie | how | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0296] | 2 | Córdoba | Córdoba | Córdoba | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [0297] | 2 | dana | Dana | dana | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0298] | 2 | datos | Daten | data | El Gobierno pone bajo la lupa el impacto de los centros de datos
+- [0299] | 2 | diez | 10 | ten | Los diez libros de la semana en ‘Babelia’
+- [0300] | 2 | diversidad | Vielfalt | diversity | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
+- [0301] | 2 | donde | wobei | where | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [0302] | 2 | día” | Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag-Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/Tag/ | day” | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0303] | 2 | dólares | Dollar | dollars | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0304] | 2 | e | e | e | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0305] | 2 | educativo | Bildung | Education | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [0306] | 2 | ejército | Armee | army | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0307] | 2 | enamorados | Verliebt | Lovers | Morir enamorados en verano
+- [0308] | 2 | equipo | Ausrüstung | equipment | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0309] | 2 | era | war | It was | El amor ya no es lo que era
+- [0310] | 2 | escaparate | Schaufenster | window window | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0311] | 2 | Escolar | Schule | School | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0312] | 2 | escritora | Autorin | writer | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [0313] | 2 | especie | Art | species | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0314] | 2 | Esta | Diese | This one. | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0315] | 2 | estar | vorhanden sein | be | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [0316] | 2 | están | sind | They're | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [0317] | 2 | experiencia | Erfahrung | experience | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
+- [0318] | 2 | extranjeros | Ausländer | foreigners | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [0319] | 2 | familiar | Familie | family | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0320] | 2 | favor | Bitte. | Please. | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0321] | 2 | fichaje | Register | fichaje | El fichaje en vano de Reinier Jesus: 30 millones y cero partidos con el Real Madrid
+- [0322] | 2 | ficus | ficus | ficus | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0323] | 2 | Flavita | Flavita | Flavita | Flavita Banana: propósito de septiembre 9
+- [0324] | 2 | frenar | Bremse | brake | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
+- [0325] | 2 | Garzón | Garzón | Garzon | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
+- [0326] | 2 | Gaza | Gaza | Gaza | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0327] | 2 | gente | Menschen | people | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [0328] | 2 | grados | Grad | degrees | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0329] | 2 | Granada | Granada | Grenada | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0330] | 2 | guerra | Krieg | war | Trump se reunirá con Putin en Alaska el viernes 15 para tratar sobre la guerra en Ucrania
+- [0331] | 2 | hemos | Wir... | We've | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0332] | 2 | Hiroshima | Hiroshima | Hiroshima | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0333] | 2 | historias | Geschichten | stories | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [0334] | 2 | hombre | Mann | man | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [0335] | 2 | horas | Stunden | hours | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0336] | 2 | hígado | Leber | liver | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0337] | 2 | impedir | verhindern | prevent | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [0338] | 2 | inanición | Hunger | starvation | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
+- [0339] | 2 | independentismo | Unabhängigkeit | independence | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
+- [0340] | 2 | Ingeniería | Ingenieurwesen | Engineering | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0341] | 2 | inmigrantes | Immigranten | immigrants | Criminales de por vida: los inmigrantes que cumplieron sus condenas y Trump quiere deportar
+- [0342] | 2 | israelí | Israel | Israeli | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0343] | 2 | Jacinto | Jacinto | Jacinto | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0344] | 2 | Jaén | Jaen | Jaén | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0345] | 2 | jefe | Chef | Chief | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0346] | 2 | jueves | Donnerstag | Thursday | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
+- [0347] | 2 | junio | Juni | June | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
+- [0348] | 2 | le | el | le | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0349] | 2 | llega | Komm schon. | He's coming. | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0350] | 2 | lleva | trägt | Take it. | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0351] | 2 | local | lokal | local | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0352] | 2 | lupa | Lupe | magnifying glass | El Gobierno pone bajo la lupa el impacto de los centros de datos
+- [0353] | 2 | L’Ametlla | LIQUIDAMETLLA | L’Ametlla | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0354] | 2 | madrileño | Madrylen | Madrid | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0355] | 2 | mancha | Fleck | stain | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0356] | 2 | Mar | Meer | Sea | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0357] | 2 | María | Maria | Maria | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
+- [0358] | 2 | mayor | größer | higher | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
+- [0359] | 2 | memoria” | Styropor-Gedächtnis | memory” | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0360] | 2 | Mezquita | Moschee | Mosque | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [0361] | 2 | mismo | n.v. | same | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0362] | 2 | mitad | Hälfte | half | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0363] | 2 | moda | Mode | fashion | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0364] | 2 | momento | Moment | moment | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
+- [0365] | 2 | Mossos | Mossos | Mossos | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0366] | 2 | muertos | Tot | dead | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0367] | 2 | musulmanas | Muslime | Muslim | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [0368] | 2 | nada | Nichts. | nothing. | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0369] | 2 | Netanyahu | Netanyahu | Netanyahu | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0370] | 2 | niños | Kinder | children | Claves para fomentar hábitos saludables y la práctica deportiva en niños y adolescentes
+- [0371] | 2 | Nobel | Nobel | Nobel | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
+- [0372] | 2 | noche | Nacht | night | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0373] | 2 | nuevo | neu | new | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0374] | 2 | Oasis | Oase | Oasis | A la espera del concierto de Oasis en Edimburgo
+- [0375] | 2 | ocupados | beschäftigt | Encumbered | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [0376] | 2 | orden | Reihenfolge | command | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [0377] | 2 | ordene | Befehl | commande | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
+- [0378] | 2 | oro | Gold | gold | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0379] | 2 | pacientes | Patienten | patients | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0380] | 2 | padre | Vater | father | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0381] | 2 | pago | Zahlung | payment | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
+- [0382] | 2 | pasados | Vergangenheit | past | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0383] | 2 | paz | Frieden | peace | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [0384] | 2 | película | Film | film | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [0385] | 2 | Peridis | Peridis | Peridis | Peridis: España, una; España, santa
+- [0386] | 2 | permite | erlaubt | allows | El Ayuntamiento no permite a una asociación celebrar un festival por la diversidad cultural
+- [0387] | 2 | perros | Hunde | dogs | Mueren 32 perros por inanición en Badajoz tras ser abandonados sin agua ni comida desde junio
+- [0388] | 2 | personas | Personen | persons | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [0389] | 2 | pide | Bitte. | request | La Fiscalía pide a la Audiencia que ordene el borrado de los antecedentes de Garzón
+- [0390] | 2 | playa | Strand | beach | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
+- [0391] | 2 | playas | Strände | beaches | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0392] | 2 | premios | Preise | prizes | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
+- [0393] | 2 | presencia | Anwesenheit | presence | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0394] | 2 | presión | Druck | pressure | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [0395] | 2 | prolonga | verlängert | prolong | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
+- [0396] | 2 | propósito | Zweck | purpose | Flavita Banana: propósito de septiembre 9
+- [0397] | 2 | prueba | Test | test | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
+- [0398] | 2 | pueblo | Dorf | people | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [0399] | 2 | quiere | will... | He wants to. | Criminales de por vida: los inmigrantes que cumplieron sus condenas y Trump quiere deportar
+- [0400] | 2 | rechaza | abgelehnt | rejects | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0401] | 2 | recibe | erhält | receive | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
+- [0402] | 2 | recompensa | Belohnung | reward | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0403] | 2 | recupera | erholt | recovers | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [0404] | 2 | recuperación | Rückforderung | recovery | España recibe 23.100 millones del plan de recuperación, el mayor pago hasta el momento
+- [0405] | 2 | recuperarnos” | HERAUSGEFÜHRT | to recover” | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
+- [0406] | 2 | regreso | Ich bin wieder da. | I'm back. | El lento regreso de Irán a la vida
+- [0407] | 2 | retirar | Entfernen | withdraw | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0408] | 2 | Riki | Riki | Riki | Riki Blanco: aquella postal de Barcelona
+- [0409] | 2 | sentencia | Urteil | judgment | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
+- [0410] | 2 | septiembre | September | September | Flavita Banana: propósito de septiembre 9
+- [0411] | 2 | Sijena’ | Sijena hippoglossus | Sijena’ | El independentismo prueba alternativas para frenar la sentencia del ‘caso Sijena’
+- [0412] | 2 | silencio | Ruhe | Silence | El inquietante silencio de la opinión pública israelí
+- [0413] | 2 | Sinaloa | Sinaloa | Sinaloa | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0414] | 2 | social | sozial | Social | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
+- [0415] | 2 | sube | Steig ein. | Get in. | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0416] | 2 | supervivientes | Überlebende | survivors | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0417] | 2 | tala | Tala | fell | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0418] | 2 | talento | Talent | talent | El esfuerzo y el talento
+- [0419] | 2 | tienes | Hast du. | You got it. | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0420] | 2 | todas | alle | all | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0421] | 2 | toma | Hier. | take | Un local, un escaparate, un mismo mensaje: el comercio madrileño toma partido a favor de Palestina
+- [0422] | 2 | total | Gesamt | Total | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0423] | 2 | trasplante | Transplantation | transplantation | El trasplante de hígado que salva la vida a pacientes de cáncer colorrectal: “El cambio es como de la noche al día”
+- [0424] | 2 | tratar | Behandlung | treat | Trump se reunirá con Putin en Alaska el viernes 15 para tratar sobre la guerra en Ucrania
+- [0425] | 2 | tregua | Waffenstillstand | truce | Las temperaturas extremas no dan tregua: Aemet prolonga la ola de calor hasta el jueves próximo
+- [0426] | 2 | tres | 3 | three | La revolución vinícola del Mediterráneo y tres vinos para descubrirla
+- [0427] | 2 | técnico | Technisch | Technical | Ayuso lleva al colapso al Consejo Escolar del Estado al retirar de golpe a la mitad de su equipo técnico
+- [0428] | 2 | Ucrania | Ukraine | Ukraine | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [0429] | 2 | universidad | Universität | university | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [0430] | 2 | universidades | Universitäten | universities | La Junta andaluza rechaza de nuevo los grados de IA e Ingeniería Biomédica en las universidades de Granada y Jaén
+- [0431] | 2 | ver | sehen | view | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
+- [0432] | 2 | vincula | verbindet | link | Estados Unidos sube la recompensa por Maduro a 50 millones de dólares y lo vincula con el Cartel de Sinaloa
+- [0433] | 2 | viscosa” | Wilkings | viscose” | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0434] | 2 | vive | Leben | He lives. | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0435] | 2 | voz | Stimme | voice | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
+- [0436] | 2 | últimos | zuletzt | last | Los últimos supervivientes de Hiroshima alertan al mundo del riesgo de otro conflicto nuclear: “No hemos aprendido nada en 80 años”
+- [0437] | 2 | “blanca | Weißer Broccoli | “White | L’Ametlla de Mar cierra todas sus playas por la presencia de una mancha “blanca y viscosa”
+- [0438] | 2 | “Era | Es war... | “It was | El ficus centenario de San Jacinto afronta su tala definitiva: “Era parte de nuestra memoria”
+- [0439] | 2 | “Son | (siehe auch Abschnitt 4.4.) | “They’re | Convertirse en cuidador de un familiar pasados los 80: “Son 24 horas al día y no tienes ni la fuerza ni la energía de antes”
+- [0440] | 2 | “Tardaremos | Wir werden es satt haben. | “We’ll be late | Seis premios Nobel alzan la voz contra Trump: “Tardaremos décadas en recuperarnos”
+- [0441] | 2 | “una | CIAUNA | “a | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [0442] | 2 | ” | HELIOS | “ | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [0443] | 1 | abandona | Lassen Sie mich los. | Leave. | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
+- [0444] | 1 | abaratar | Abtasten | cheap | Llega la clonación de modelos para uniformar y abaratar campañas de moda
+- [0445] | 1 | abiertas | geöffnet | open | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
+- [0446] | 1 | abre | Öffnet | Open | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [0447] | 1 | abrirá | öffnen | open | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0448] | 1 | acaba | Ende. | It's over. | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
+- [0449] | 1 | acabado | fertig | Finished | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
+- [0450] | 1 | acceso | Zugang | access | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [0451] | 1 | acondicionado | Klimaanlage | conditioning | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [0452] | 1 | acueducto | Aquädukt | aqueduct | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
+- [0453] | 1 | acuerdo | Vereinbarung | agreement | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0454] | 1 | Adama | Adama | Adama | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0455] | 1 | adolescente | Teenager | adolescent | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [0456] | 1 | adolescentes | Jugendliche | adolescents | Claves para fomentar hábitos saludables y la práctica deportiva en niños y adolescentes
+- [0457] | 1 | aeropuerto | Flughafen | airport | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [0458] | 1 | afectada | betroffen | affected | Así ha quedado la capilla de la Mezquita de Córdoba afectada tras el incendio
+- [0459] | 1 | afectados | Betroffene | affected | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [0460] | 1 | agencia | Agentur | agency | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [0461] | 1 | agosto | August | August | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
+- [0462] | 1 | agricultura | Landwirtschaft | agriculture | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
+- [0463] | 1 | ahogaron | Ertrunken | They drowned. | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0464] | 1 | ahorra | spart | saves | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [0465] | 1 | ahorrar | sparen | save | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
+- [0466] | 1 | aire | Luft | air | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [0467] | 1 | Airlines | Airlines | Airlines | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [0468] | 1 | alarmas | Alarme | alarms | Probamos los mejores pastilleros con alarmas
+- [0469] | 1 | Alaska | Alaska | Alaska | Trump se reunirá con Putin en Alaska el viernes 15 para tratar sobre la guerra en Ucrania
+- [0470] | 1 | alcaldesa | Bürgermeisterin | mayor | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [0471] | 1 | algo | Irgendwas. | something. | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
+- [0472] | 1 | algunas | einige | some | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [0473] | 1 | aliado | Verbündeter | ally | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0474] | 1 | AliExpress | AliExpress | AliExpress | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [0475] | 1 | alimentos | Lebensmittel | food | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0476] | 1 | allá | Da drüben. | Over there. | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [0477] | 1 | Almeida” | Almeida-Nüsse | Almeida” | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [0478] | 1 | alquilar | mieten | rent | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [0479] | 1 | alto | hoch | high | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [0480] | 1 | alumnos | Schüler | pupils | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [0481] | 1 | Amazonas” | Amazonas | Amazonas” | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [0482] | 1 | amenaza | Bedrohung | threat | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [0483] | 1 | amigo | Kumpel. | Dude. | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0484] | 1 | amor | Liebe | love | El amor ya no es lo que era
+- [0485] | 1 | ampliar | Vergrößern | enlarge | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
+- [0486] | 1 | América | Amerika | Americas | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [0487] | 1 | analizado | analysiert | analyzed | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
+- [0488] | 1 | analizó | analysiert wurde. | analyzed | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [0489] | 1 | Andalucía | Andalusien | Andalusia | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0490] | 1 | Andreu | Andreu | Andreu | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
+- [0491] | 1 | Anglada | Anglada | Anglada | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0492] | 1 | ante | ante | ante | Mareo, confusión... ¿Cuáles son los síntomas y qué hacer ante un golpe de calor?
+- [0493] | 1 | antidroga | Antidroge | drug control | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [0494] | 1 | antiguo | alt | old | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0495] | 1 | Antonio | Antonio | Antonio | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [0496] | 1 | apagones | Abschaltungen | blackouts | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
+- [0497] | 1 | aparca | Parkplatz | park | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [0498] | 1 | Apolo | Apollo | Apollo | Muere Jim Lovell, el astronauta que salvó al Apolo 13
+- [0499] | 1 | apostando | Wetten | betting | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0500] | 1 | aprobó | genehmigt | approved | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [0501] | 1 | apunta | zeigt | aim | El turismo bate otro récord de empleo y apunta al verano con más ocupados de su historia
+- [0502] | 1 | apáticos | apathisch | apathetic | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [0503] | 1 | aquella | die | that | Riki Blanco: aquella postal de Barcelona
+- [0504] | 1 | Archivada | Archiv | Archived | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [0505] | 1 | armario | Schrank | cabinet | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
+- [0506] | 1 | armas | Waffen | weapons | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
+- [0507] | 1 | Armenia | Armenien | Armenia | Los líderes de Armenia y Azerbaiyán firman en la Casa Blanca un preacuerdo de paz
+- [0508] | 1 | arquitecto | Architekt | architect | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
+- [0509] | 1 | arrancar | Start | boot | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
+- [0510] | 1 | arrogancia | Arroganz | arrogance | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
+- [0511] | 1 | arrollada | gerollt | overrun | Muere arrollada por una máquina una jornalera marroquí vecina de Jumilla
+- [0512] | 1 | arrollado | überrollt | rolled over | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0513] | 1 | artes | Künste | arts | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0514] | 1 | Arán | Aran | Arán | Por las laderas donde habita el oso del Valle de Arán
+- [0515] | 1 | asesoró | Beratung | advised | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [0516] | 1 | asistenta’ | Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzarzt Assistenzärztin Assistenzärztin | assistant’ | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [0517] | 1 | astronauta | Astronaut | astronaut | Muere Jim Lovell, el astronauta que salvó al Apolo 13
+- [0518] | 1 | ataques | Krampfanfälle | attacks | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0519] | 1 | atleta | Athlet | athlete | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
+- [0520] | 1 | atracción | Attraktion | attraction | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [0521] | 1 | atraco | Raubüberfall | robbery | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
+- [0522] | 1 | atropellada | Überfahren | run over | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [0523] | 1 | atrás | zurück | back | La cuenta atrás no queda en el Barcelona: más de 50 fichajes siguen sin estar inscritos en la Liga
+- [0524] | 1 | autor | Autor | author | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [0525] | 1 | autorización | Zulassung | authorisation | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [0526] | 1 | avance | Vorwärts | forward | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [0527] | 1 | Avecrem | Averem | Avecrem | En defensa del Avecrem
+- [0528] | 1 | avioneta | Flugzeug | avionet | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [0529] | 1 | avisos | Warnungen | notices | Séptimo día de calor con 13 comunidades  con avisos por temperaturas extremas
+- [0530] | 1 | ayatolás | Ayatolas | ayatolás | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [0531] | 1 | Azerbaiyán | Aserbaidschan | Azerbaijan | Los líderes de Armenia y Azerbaiyán firman en la Casa Blanca un preacuerdo de paz
+- [0532] | 1 | año | Jahr | year | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0533] | 1 | bacalao | Kabeljau | cod | La peregrinación para comer bacalao en un pequeño pueblo de León
+- [0534] | 1 | Baix | Baix | Baix | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
+- [0535] | 1 | bajar | nach unten | get off | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [0536] | 1 | Baker | Baker | Baker | Sherlock se muda: de Baker Street a La Pléiade en París
+- [0537] | 1 | Baltasar | Balthasar | Baltasar | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [0538] | 1 | bancos | Banken | banks | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
+- [0539] | 1 | barbacoa | Grill | barbecue | Diez productos infalibles para organizar una barbacoa inolvidable
+- [0540] | 1 | Barbeito | Frühlingsspeise | Barbeito | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [0541] | 1 | barco | Schiff | boat | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [0542] | 1 | Barkos | Barkos | Barkos | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [0543] | 1 | barrio | Nachbarschaft | neighborhood | La mejor librería de tebeos del mundo está en un barrio de Madrid
+- [0544] | 1 | barrios | Nachbarschaften | neighbourhoods | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [0545] | 1 | bate | Schläger | bat | El turismo bate otro récord de empleo y apunta al verano con más ocupados de su historia
+- [0546] | 1 | Bayés | Bayas | Bayers | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
+- [0547] | 1 | BBVA | BBVA | BBVA | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [0548] | 1 | bebé | Baby | baby | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0549] | 1 | Ben | Ben | Ben | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
+- [0550] | 1 | Benicàssim | Benicàssim | Benicàssim | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [0551] | 1 | Blanes | Weiß | Blanes | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
+- [0552] | 1 | boda | Hochzeit | wedding | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
+- [0553] | 1 | bombardeo | Bombardierung | bombing | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [0554] | 1 | bonsáis | Bonsais | bonsai | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
+- [0555] | 1 | Bosco | Bosco | Bosco | Samantha Hudson: “El Bosco disfrutaría de mis directos”
+- [0556] | 1 | británica | Vereinigtes Königreich | British | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0557] | 1 | buscaba | Ich habe gesucht. | I was looking. | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
+- [0558] | 1 | buscas | Suchen | You're looking. | Si buscas un regalo especial, estos son los 10 vinilos más vendidos de la temporada
+- [0559] | 1 | Buseo | Suche | Buseo | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0560] | 1 | básico | Basis | basic | El verano de la camiseta con sujetador incorporado: ha nacido un básico
+- [0561] | 1 | básicos | Grundlagen | Basics | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0562] | 1 | búsqueda | Suche | search | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [0563] | 1 | cabellos | Haare | hair | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
+- [0564] | 1 | calabacín | Zucchini | zucchini | Crema fría de remolacha, calabacín y yogur
+- [0565] | 1 | Calatrava | Calatrava | Calatrava | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
+- [0566] | 1 | calientan | erhitzen | They warm up. | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [0567] | 1 | caliente | heiß | hot | El Ikea de Shanghái se convierte en un punto caliente para las citas de personas mayores
+- [0568] | 1 | Camila | Camila | Camila | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0569] | 1 | camiseta | T-Shirt | T-shirt | El verano de la camiseta con sujetador incorporado: ha nacido un básico
+- [0570] | 1 | campañas | Kampagnen | campaigns | Llega la clonación de modelos para uniformar y abaratar campañas de moda
+- [0571] | 1 | Canadá | Kanada | Canada | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
+- [0572] | 1 | capitanía | Capitonie | Captainship | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [0573] | 1 | Carano | Karan | Carano | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0574] | 1 | Carles | Carles | Carles | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
+- [0575] | 1 | Carmen | Carmen | Carmen | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [0576] | 1 | carro | Wagen | Cart | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [0577] | 1 | carteles | Plakate | posters | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [0578] | 1 | casas | Häuser | houses | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
+- [0579] | 1 | caso | Fall | case | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [0580] | 1 | caso” | Fall-Aktivierung | case” | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0581] | 1 | Castillo | Schloss | Castle | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0582] | 1 | catalán | Katalanisch | Catalan | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
+- [0583] | 1 | catedral | Kathedrale | cathedral | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
+- [0584] | 1 | causa | Ursache | cause | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [0585] | 1 | cayuco | Cayuco | cayuco | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0586] | 1 | celda | Zelle | cell | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [0587] | 1 | celebraciones | Feiern | celebrations | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
+- [0588] | 1 | centro | Mitte | center | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0589] | 1 | cerca | nah | close | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [0590] | 1 | cerebrales | zerebrale Erkrankungen und Beschwerden am Verabreichungsort | brain | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [0591] | 1 | cerebro | Gehirn | brain | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
+- [0592] | 1 | cero | Null | zero | El fichaje en vano de Reinier Jesus: 30 millones y cero partidos con el Real Madrid
+- [0593] | 1 | chat | Chat | chat | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [0594] | 1 | Chivite | Chivite | Chivite | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [0595] | 1 | Choques | Schocks | Shocks | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [0596] | 1 | ciclistas | Radfahrer | cyclists | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [0597] | 1 | cinco | Fünf | five | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0598] | 1 | cine | Kino | cinema | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [0599] | 1 | Cisjordania | Westjordanland | West Bank | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [0600] | 1 | citas | Termine | appointments | El Ikea de Shanghái se convierte en un punto caliente para las citas de personas mayores
+- [0601] | 1 | clase | Klasse | class | La clase social del cambio climático
+- [0602] | 1 | Clean | Clean | Clean | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [0603] | 1 | climatización | Klimatisierung | air conditioning | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0604] | 1 | clonación | Klonen | cloning | Llega la clonación de modelos para uniformar y abaratar campañas de moda
+- [0605] | 1 | Colapsa | Colapsa | Collapse | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [0606] | 1 | Coldplay | Coldplay | Coldplay | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0607] | 1 | colectivo | kollektiv | collective | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [0608] | 1 | Colgate | Aufhängen | Colgate | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [0609] | 1 | Colombia | Kolumbien | Colombia | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [0610] | 1 | combatir | Kampf | combat | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
+- [0611] | 1 | comentarios | Erläuterungen | comments | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0612] | 1 | comer | Essen | eat | La peregrinación para comer bacalao en un pequeño pueblo de León
+- [0613] | 1 | comerciales | Kommerzialisierung | trade | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [0614] | 1 | comisión | Provision | commission | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [0615] | 1 | comparezcan | Auftauchen | Come on in. | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [0616] | 1 | comparte” | Hlaing-Sharing | shares” | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
+- [0617] | 1 | compartió | geteilt | shared | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0618] | 1 | compañero | Partner | partner | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [0619] | 1 | compra | Kauf | purchase | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [0620] | 1 | comprando | Einkaufen | buying | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [0621] | 1 | comunidades | Gemeinschaften | communities | Séptimo día de calor con 13 comunidades  con avisos por temperaturas extremas
+- [0622] | 1 | condenas | Verurteilungen | convictions | Criminales de por vida: los inmigrantes que cumplieron sus condenas y Trump quiere deportar
+- [0623] | 1 | confiscado | beschlagnahmt | confiscated | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [0624] | 1 | confusión | Verwirrtheit | confusion | Mareo, confusión... ¿Cuáles son los síntomas y qué hacer ante un golpe de calor?
+- [0625] | 1 | conocimiento | Kenntnis | knowledge | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [0626] | 1 | conquista | Eroberung | conquest | Kilian Jornet, a la conquista del Oeste
+- [0627] | 1 | conquistó | Eroberte | conquered | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
+- [0628] | 1 | consiste | besteht aus | consists | ¿En qué consiste la teoría de la relatividad?
+- [0629] | 1 | construir | Bauen | build | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [0630] | 1 | construir” | Bau von Wilkings | build” | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [0631] | 1 | convencionales | typisch | Convention on the Elimination of All Forms of Discrimination against Women | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0632] | 1 | convierte | konvertieren | converts | El Ikea de Shanghái se convierte en un punto caliente para las citas de personas mayores
+- [0633] | 1 | convirtió | konvertiert | convert | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [0634] | 1 | corrupto” | korrupt gerupft | corrupt” | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [0635] | 1 | cortos | kurz | Short | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0636] | 1 | cosas | Dinge | things | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [0637] | 1 | costa | Küste | coast | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [0638] | 1 | coste | Kosten | cost | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
+- [0639] | 1 | costumbres | Gewohnheiten | customs | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [0640] | 1 | cotidiana | täglich | daily | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
+- [0641] | 1 | cotilleo | Kotilleum | cotilleum | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0642] | 1 | creciente | Zunahme | increasing | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [0643] | 1 | Credit | Credit | Credit | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [0644] | 1 | Crema | Creme | Cream | Crema fría de remolacha, calabacín y yogur
+- [0645] | 1 | Criminales | Kriminelle | Criminal | Criminales de por vida: los inmigrantes que cumplieron sus condenas y Trump quiere deportar
+- [0646] | 1 | critica | Kritik | Criticism | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [0647] | 1 | Croisières | Croisières | Croisières | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [0648] | 1 | crudo | roh | Crude | El golpe comercial de Trump a India falla el objetivo del crudo ruso
+- [0649] | 1 | crítico | Kritisch | critical | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
+- [0650] | 1 | cuatro | 4 | four | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
+- [0651] | 1 | cuentas | Konten | accounts | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [0652] | 1 | cuerpos | Körper | bodies | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [0653] | 1 | cuestión | Gegenstand | issue | Con sabor a leche materna: ¿Todo vale en cuestión de helados?
+- [0654] | 1 | cueva | Höhle | cave | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0655] | 1 | cultivo | Anbau | cultivation | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
+- [0656] | 1 | cumplido” | erfüllt | fulfilled” | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [0657] | 1 | cumplieron | Sie haben es geschafft. | they've done it. | Criminales de por vida: los inmigrantes que cumplieron sus condenas y Trump quiere deportar
+- [0658] | 1 | curso | Kurs | course | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [0659] | 1 | cántabra | Kantabra | cantabra | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0660] | 1 | cárcel | Gefängnis | prison | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [0661] | 1 | cárcel” | Geheimgefängnis | prison” | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0662] | 1 | cárteles | Kartelle | cartels | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
+- [0663] | 1 | daban | Daban | dar | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
+- [0664] | 1 | Dakar | Dakar | Dakar | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [0665] | 1 | Daniel | Daniel | Daniel | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [0666] | 1 | dañados | beschädigt | damaged | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
+- [0667] | 1 | debate | Aussprache | debate | La vivienda en el sur de Madrid, a debate: negociar o imponer precios
+- [0668] | 1 | deben | müssen | should | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [0669] | 1 | Decadente’ | Dekadent | Decadent’ | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [0670] | 1 | decisión | Entscheidung | Decision | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
+- [0671] | 1 | Decálogo | Dekalog | Decalogue | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [0672] | 1 | defendió | Er hat sich verteidigt. | defended | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [0673] | 1 | defensa | Verteidigung | defence | En defensa del Avecrem
+- [0674] | 1 | degüella | Kehle | degüella | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [0675] | 1 | deja | Lass mich los. | Let's go. | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [0676] | 1 | dejó | Sie hat aufgehört. | He left. | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
+- [0677] | 1 | dentera | Dentera | tooth | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0678] | 1 | dentífrico | Zahnpasta | toothpaste | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [0679] | 1 | Denunciado | Abgelehnt | Reported | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
+- [0680] | 1 | denuncias” | Angebliche Beschwerden | “denunciations” | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [0681] | 1 | deportaciones | Deportationen | deportations | Trump encuentra en África un salvavidas para su programa de deportaciones exprés de migrantes
+- [0682] | 1 | deportar | deportieren | deport | Criminales de por vida: los inmigrantes que cumplieron sus condenas y Trump quiere deportar
+- [0683] | 1 | deportiva | Sport | sports | Claves para fomentar hábitos saludables y la práctica deportiva en niños y adolescentes
+- [0684] | 1 | deportivo | Sport | sports | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
+- [0685] | 1 | desalojar | Entfernen | evicting | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [0686] | 1 | desata | Desata | Untie | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
+- [0687] | 1 | desbordó | Über Bord | overflowed | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0688] | 1 | descansen” | Ruhen Sie sich aus. | rest” | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [0689] | 1 | descubrimiento | Entdeckung | discovery | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0690] | 1 | descubrir | entdecken | discover | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
+- [0691] | 1 | descubrirla | sie zu entdecken | discover it. | La revolución vinícola del Mediterráneo y tres vinos para descubrirla
+- [0692] | 1 | Desembarcan | Anlanden | Disembark | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [0693] | 1 | deseo | Wunsch | desire | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [0694] | 1 | deshumanizar | Entmenschlichen | dehumanize | El precio de deshumanizar a los inmigrantes
+- [0695] | 1 | desnudo | nackt | Naked | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [0696] | 1 | despedida | Abschied | good-bye. | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0697] | 1 | despide | Abschied | fire. | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [0698] | 1 | desquiciar | Ausflüchten | skim | El riesgo de desquiciar a Flick
+- [0699] | 1 | Destino | Bestimmung | Destination | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [0700] | 1 | detenido | verhaftet | detained | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [0701] | 1 | deterioro | Verschlechterung | deterioration | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
+- [0702] | 1 | diana | Ziel | target | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
+- [0703] | 1 | dice | sagt | says | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0704] | 1 | diferencias | Unterschiede | variances | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0705] | 1 | difunto | Verstorbener | deceased | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0706] | 1 | Dimite | Rücktritt | Resign | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [0707] | 1 | dio | gab | dar | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0708] | 1 | directo | direkt | Direct | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0709] | 1 | director | Direktor | Director | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [0710] | 1 | directos” | direkt gestreckt | direct” | Samantha Hudson: “El Bosco disfrutaría de mis directos”
+- [0711] | 1 | disfrutaría | Ich würde es genießen. | I'd enjoy it. | Samantha Hudson: “El Bosco disfrutaría de mis directos”
+- [0712] | 1 | Disney | Disney | Disney | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0713] | 1 | dispara | Schießen Sie. | Shoot. | El fichaje de Thomas Partey por el Villarreal dispara la polémica
+- [0714] | 1 | dividendos | Dividenden | dividends | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
+- [0715] | 1 | documental | Dokumentation | documentary | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
+- [0716] | 1 | Donald | Donald | Donald | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [0717] | 1 | droga | Droge | drug | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
+- [0718] | 1 | drogado | Betäubung | drugged | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [0719] | 1 | duna | Düne | dune | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [0720] | 1 | duración | Dauer | duration | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
+- [0721] | 1 | dónde | wobei | where | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
+- [0722] | 1 | económico | Wirtschaft | economic | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
+- [0723] | 1 | edad | Alter | age | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0724] | 1 | Edimburgo | Edinburgh | Edinburgh | A la espera del concierto de Oasis en Edimburgo
+- [0725] | 1 | EE | EE | EE | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [0726] | 1 | elegida | gewählt | elected | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [0727] | 1 | elige | Wähle | choose | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
+- [0728] | 1 | ellos | {\cH00FFFF} | They | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [0729] | 1 | eléctrica | elektrisch | electric | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0730] | 1 | embrujada | Verzaubert | bewitched | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0731] | 1 | emocional | emotional | emotional | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
+- [0732] | 1 | empleo | Beschäftigung | employment | El turismo bate otro récord de empleo y apunta al verano con más ocupados de su historia
+- [0733] | 1 | Empordà | Empordà | Empordà | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
+- [0734] | 1 | empresa | Unternehmen | company | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [0735] | 1 | encuentra | gefunden | Find | Trump encuentra en África un salvavidas para su programa de deportaciones exprés de migrantes
+- [0736] | 1 | enemigo | Feind | enemy | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
+- [0737] | 1 | entidad | Unternehmen | entity | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0738] | 1 | entre | zwischen | between | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [0739] | 1 | epicentro | Epizentrum | epicenter | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
+- [0740] | 1 | equilibrismos | Ausgeglichenheit | balance | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
+- [0741] | 1 | erige | erige | erecte | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0742] | 1 | erótico | erotisch | erotic | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [0743] | 1 | escapado | Entkommen | escaped | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0744] | 1 | escrita” | schriftlich Hlaing | written” | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [0745] | 1 | escuchar | Zuhören | listen | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
+- [0746] | 1 | escultor | Bildhauer | sculptor | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [0747] | 1 | ese | das | that | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [0748] | 1 | esfuerzo | Aufwand | effort | El esfuerzo y el talento
+- [0749] | 1 | espacio | Raum | space | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
+- [0750] | 1 | español | Spanisch | Spanish | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [0751] | 1 | españoles | Spanisch | Spanish | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [0752] | 1 | espectros | Spektren | spectra | El teatro de los espectros de Naufus Ramírez-Figueroa
+- [0753] | 1 | espera | Warte. | Wait. | A la espera del concierto de Oasis en Edimburgo
+- [0754] | 1 | esperan | Warten Sie. | Wait. | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
+- [0755] | 1 | espíritu | Geist | spirit | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [0756] | 1 | estaría | würde ich... | I'd be | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0757] | 1 | Esteban | Esteban | Esteban | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
+- [0758] | 1 | esto | Das... | This. | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [0759] | 1 | estos | dies | these | Si buscas un regalo especial, estos son los 10 vinilos más vendidos de la temporada
+- [0760] | 1 | estrecha | eng | narrow | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [0761] | 1 | estrellarse | Abstürzen | crash | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [0762] | 1 | Eszterhas | Eszterhas | Eszterhas | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [0763] | 1 | europeo | Europäer | European | España como verso suelto europeo
+- [0764] | 1 | evita | vermeiden | avoid | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0765] | 1 | excanciller | Ehemaliger Kanzler | ex-canciller | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [0766] | 1 | excomisionado | Exempfehlt | former commissioner | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
+- [0767] | 1 | exiliado | Exil | exiled | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [0768] | 1 | existencial | existentiell | existential | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
+- [0769] | 1 | expatriados | Expats | expatriates | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [0770] | 1 | experto | Sachverständiger | expert | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [0771] | 1 | exportación | Ausfuhr | export | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
+- [0772] | 1 | exprés | Express | Express | Trump encuentra en África un salvavidas para su programa de deportaciones exprés de migrantes
+- [0773] | 1 | externalización | Outsourcing | outsourcing | Límites a la externalización migratoria
+- [0774] | 1 | extiende | erweitert | extend | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [0775] | 1 | extutelados | extutelat | extutelates | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0776] | 1 | falla | Fehler | failure | El golpe comercial de Trump a India falla el objetivo del crudo ruso
+- [0777] | 1 | falta | fehlt | missing | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0778] | 1 | familia | Familie | family | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0779] | 1 | fan | Fan | fan | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0780] | 1 | fantasmas | Geister | ghosts | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0781] | 1 | favorito’ | Lieblings-Babylon | favorite’ | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [0782] | 1 | Fed | Fed | Fed | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
+- [0783] | 1 | felices | glücklich | Happy. | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [0784] | 1 | Felipe | Felipe | Felipe | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0785] | 1 | fenómeno | Phänotyp | phenomenon | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [0786] | 1 | feroz | Sterblich | ferocious. | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [0787] | 1 | festivales | Festivals | festivals | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [0788] | 1 | ficción | Fiktion | fiction | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0789] | 1 | fichajes | Register | fichajes | La cuenta atrás no queda en el Barcelona: más de 50 fichajes siguen sin estar inscritos en la Liga
+- [0790] | 1 | fichar | Register | file | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
+- [0791] | 1 | fiebre | Fieber | fever | El patio trasero de la IA. Un mapa de la fiebre del oro del siglo XXI
+- [0792] | 1 | fiestas | Partys | parties | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [0793] | 1 | filósofo | Philosoph | philosopher | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
+- [0794] | 1 | firma | Unterschrift | signature | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [0795] | 1 | firman | Unterschrift | sign | Los líderes de Armenia y Azerbaiyán firman en la Casa Blanca un preacuerdo de paz
+- [0796] | 1 | Flick | Flick | Flick | El riesgo de desquiciar a Flick
+- [0797] | 1 | fomentar | Förderung | encouraging | Claves para fomentar hábitos saludables y la práctica deportiva en niños y adolescentes
+- [0798] | 1 | fondos | Fonds | funds | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [0799] | 1 | forma | Form | shape | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [0800] | 1 | fortalece” | Stärkt Styrol | strengthens” | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [0801] | 1 | fracasos | Fehlschläge | failures | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [0802] | 1 | Francia | Frankreich | France | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
+- [0803] | 1 | Franja | Gazastreifen | Strip | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0804] | 1 | Freida | Freida | Freida | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [0805] | 1 | Frenesí | Bremsbeläge | Frenzy | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [0806] | 1 | frente | gegenüber | front | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [0807] | 1 | fría | kalt | cold | Crema fría de remolacha, calabacín y yogur
+- [0808] | 1 | frío | kalt | cold | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0809] | 1 | fuga | Flucht | leak | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0810] | 1 | futuro | Zukunft | future | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0811] | 1 | fósil | Fossil | fossil | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [0812] | 1 | fútbol | Fußball | football | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
+- [0813] | 1 | ganga | Schnäppchen | bargain | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [0814] | 1 | Generalitat | Generalitat | Generalitat | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0815] | 1 | geométrico | Geometrisch | geometric | Juego geométrico
+- [0816] | 1 | gestión | Verwaltung | management | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0817] | 1 | Gina | Gina | Gina | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0818] | 1 | Glenn | Glenn | Glenn | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [0819] | 1 | gobernadores | Präsidenten | Governors | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
+- [0820] | 1 | González | González | González | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [0821] | 1 | Google | Google | Google | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [0822] | 1 | grandes | groß | large | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [0823] | 1 | grave | schwer | severe | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0824] | 1 | Guardia | Wache | Guard | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [0825] | 1 | Guinea | Guinea | Guinea | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [0826] | 1 | guionista | Drehbuchautor | screenwriter | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [0827] | 1 | Gustavo | Kermit | Gustavo | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [0828] | 1 | habido | vorhanden | have been | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0829] | 1 | habita | wohn | inhabits | Por las laderas donde habita el oso del Valle de Arán
+- [0830] | 1 | hacen | machen | They do. | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [0831] | 1 | haz | three | ♪ Do ♪ | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [0832] | 1 | He | He. | He | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
+- [0833] | 1 | hecho | Fertig | done | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [0834] | 1 | helados | Eis | ice cream | Con sabor a leche materna: ¿Todo vale en cuestión de helados?
+- [0835] | 1 | heridas | Wunden | wounds | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
+- [0836] | 1 | heridos | Verwundete | Wounded | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0837] | 1 | Hierro | Eisen | Iron | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0838] | 1 | hija | Tochter | daughter | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0839] | 1 | hijo | Sohn | child | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [0840] | 1 | Hollywood | Hollywood | Hollywood | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [0841] | 1 | Holocausto | Holocaust | Holocaust | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0842] | 1 | hora | Uhrzeit | time | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0843] | 1 | hospitalizado | im Krankenhaus | hospitalised | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
+- [0844] | 1 | hoteles | Hotels | hotels | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
+- [0845] | 1 | hubiera | hätte | there would have been | Puigdemont dice que si hace un año no se hubiera escapado de los Mossos “hoy aún estaría en la cárcel”
+- [0846] | 1 | Hudson | Hudson | Hudson | Samantha Hudson: “El Bosco disfrutaría de mis directos”
+- [0847] | 1 | huida | Flucht | flight | Las heridas abiertas en los Mossos que dejó la huida de Puigdemont
+- [0848] | 1 | humanitarias | humanitäre Hilfe | humanitarian assistance | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [0849] | 1 | humor | Humor | humor | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [0850] | 1 | hábitos | Gewohnheiten | habits | Claves para fomentar hábitos saludables y la práctica deportiva en niños y adolescentes
+- [0851] | 1 | I | I | I | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [0852] | 1 | Ibex | Ibex | Ibex | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
+- [0853] | 1 | ideal | ideal | ideal | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
+- [0854] | 1 | identidad” | Identifizierende Person | identity” | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [0855] | 1 | II | II | II | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0856] | 1 | Ikea | Ikea | Ikea | El Ikea de Shanghái se convierte en un punto caliente para las citas de personas mayores
+- [0857] | 1 | Illa | Illa | Illa | Salvador Illa y la revolución pendiente
+- [0858] | 1 | implica | beinhaltet | involves | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [0859] | 1 | impone | erzwungen | imposes | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
+- [0860] | 1 | imponer | aufzwingen | impose | La vivienda en el sur de Madrid, a debate: negociar o imponer precios
+- [0861] | 1 | importará | Importieren | It'll matter. | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [0862] | 1 | Incomodidad | Unbequemlichkeit | Inconvenientness | Incomodidad en el PP por el veto al islam en Jumilla
+- [0863] | 1 | incorporado | eingebaut | built-in | El verano de la camiseta con sujetador incorporado: ha nacido un básico
+- [0864] | 1 | India | Indien | India | El golpe comercial de Trump a India falla el objetivo del crudo ruso
+- [0865] | 1 | infalibles | unfehlbar | infallible | Diez productos infalibles para organizar una barbacoa inolvidable
+- [0866] | 1 | infidelidad | Untreue | infidelity | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [0867] | 1 | Infinity | Infinity | Infinity | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0868] | 1 | inflamar | entzünden | inflaminate | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
+- [0869] | 1 | informe | Bericht | report | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [0870] | 1 | informática | Informatik | computer science | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [0871] | 1 | informático | Computer | computer science | Chema Alonso: ¿gurú o vendehúmos informático?
+- [0872] | 1 | ingenieras | Ingenieure | engineers | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [0873] | 1 | iniciarse | Beginn | start | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
+- [0874] | 1 | inolvidable | unvergesslich | Unforgettable | Diez productos infalibles para organizar una barbacoa inolvidable
+- [0875] | 1 | inquietante | Besorgnis erregend | Disturbing | El inquietante silencio de la opinión pública israelí
+- [0876] | 1 | inscritos | registriert | registered | La cuenta atrás no queda en el Barcelona: más de 50 fichajes siguen sin estar inscritos en la Liga
+- [0877] | 1 | instituciones | Institutionen | institutions | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [0878] | 1 | integración | Integration | integration | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [0879] | 1 | inteligente | clever | Smart. | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [0880] | 1 | intento | Versuch | I'm trying. | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
+- [0881] | 1 | intentó | Er versuchte es. | He tried. | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0882] | 1 | intercambio | Austausch | exchange | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [0883] | 1 | Internet | Internet | Internet | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
+- [0884] | 1 | interrumpe | Brechen Sie die Anwendung nicht ein. | Discontinue | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [0885] | 1 | inversores | Anleger | investors | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [0886] | 1 | investigación | Forschung | research | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [0887] | 1 | investigada | untersucht | investigated | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [0888] | 1 | invitación | Einladung | invitation | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
+- [0889] | 1 | ir | gehen | Go. | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [0890] | 1 | iraníes | Iran | Iranian | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
+- [0891] | 1 | irresistible | unwiderstehlich | irresistible | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
+- [0892] | 1 | Irán | Iran | Iran | El lento regreso de Irán a la vida
+- [0893] | 1 | Isabel | Isabel | Isabel | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0894] | 1 | islam | Islam | Islam | Incomodidad en el PP por el veto al islam en Jumilla
+- [0895] | 1 | islamófobo | Islamophob | Islamophobic | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
+- [0896] | 1 | Israel | Israel | Israel | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
+- [0897] | 1 | israelíes | Israel | Israelis | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [0898] | 1 | Jaime | Jaime | Jaime | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [0899] | 1 | jaque | Schach | check | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
+- [0900] | 1 | Jesus | Jesus. | Jesus | El fichaje en vano de Reinier Jesus: 30 millones y cero partidos con el Real Madrid
+- [0901] | 1 | Jim | Jim. | Jim. | Muere Jim Lovell, el astronauta que salvó al Apolo 13
+- [0902] | 1 | Joe | Joe. | Joe. | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [0903] | 1 | jornalera | Jonglieren | day-care provider | Muere arrollada por una máquina una jornalera marroquí vecina de Jumilla
+- [0904] | 1 | Jornet | Jornet | Jornet | Kilian Jornet, a la conquista del Oeste
+- [0905] | 1 | José | José | José | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
+- [0906] | 1 | judíos | Juden | Jews | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
+- [0907] | 1 | Juego | Spiel | Game | Juego geométrico
+- [0908] | 1 | juez | Richter | Judge | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [0909] | 1 | jugando | Spielen | Playing | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
+- [0910] | 1 | Keita | Keita | Keita | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0911] | 1 | Kid’ | Kidnapping | Kid’ | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [0912] | 1 | Kilian | Kilian | Kilian | Kilian Jornet, a la conquista del Oeste
+- [0913] | 1 | kilos | Kilogramm | kilos | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [0914] | 1 | kits | Kits | kits | He analizado cuatro kits para iniciarse en el cultivo de los bonsáis
+- [0915] | 1 | Koldo’ | Koldo Hlaing | Koldo’ | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [0916] | 1 | Kärcher” | Kärcher Hlaing | Kärcher” | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [0917] | 1 | Lacasa | Lacasa | Lacasa | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [0918] | 1 | laderas | Hänge | slopes | Por las laderas donde habita el oso del Valle de Arán
+- [0919] | 1 | ladrillos | Ziegelsteine | bricks | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [0920] | 1 | LaLiga | LaLiga | LaLiga | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
+- [0921] | 1 | Lanzarote | Lanzarote | Lanzarote | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [0922] | 1 | lata | Dose | can | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [0923] | 1 | Latina | Latina | Latin America | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [0924] | 1 | leche | Milch | milk | Con sabor a leche materna: ¿Todo vale en cuestión de helados?
+- [0925] | 1 | legado | Vermächtnis | legacy | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [0926] | 1 | legumbres | Gemüse | legumes | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [0927] | 1 | lento | langsam | slow | El lento regreso de Irán a la vida
+- [0928] | 1 | lesiones | Läsionen | injuries | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [0929] | 1 | letargo | Lethargie | lethargy | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
+- [0930] | 1 | letra | Buchstabe | letter | La letra menuda de Europa
+- [0931] | 1 | León | Löwe | Lion | La peregrinación para comer bacalao en un pequeño pueblo de León
+- [0932] | 1 | Libra | Pfund | Libra | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [0933] | 1 | libras | Pfund | pounds | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [0934] | 1 | librería | Buchhandlung | library | La mejor librería de tebeos del mundo está en un barrio de Madrid
+- [0935] | 1 | libros | Bücher | books | Los diez libros de la semana en ‘Babelia’
+- [0936] | 1 | Liga | Liga | League | La cuenta atrás no queda en el Barcelona: más de 50 fichajes siguen sin estar inscritos en la Liga
+- [0937] | 1 | lima | Lim | lime | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0938] | 1 | limas | Limetten | limes | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [0939] | 1 | limpia | sauber | clean | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [0940] | 1 | llevar | tragen | carry | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [0941] | 1 | lloran” | Salbei | cry” | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [0942] | 1 | Lobo | Wolf | Wolf | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [0943] | 1 | localidad | Ort | locality | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [0944] | 1 | Londres | London | London | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [0945] | 1 | Lorenzo | Lorenzo | Lorenzo | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
+- [0946] | 1 | losa | Lasa | slab | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [0947] | 1 | Lovell | Lovell | Lovell | Muere Jim Lovell, el astronauta que salvó al Apolo 13
+- [0948] | 1 | Lowry | Lowry | Lowry | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [0949] | 1 | lucha | Kampf | struggle | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [0950] | 1 | Lufthansa | Lufthansa | Lufthansa | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [0951] | 1 | lujo | Luxus | luxury | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [0952] | 1 | lágrimas | Tränen | tears | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
+- [0953] | 1 | líderes | Führer | leaders | Los líderes de Armenia y Azerbaiyán firman en la Casa Blanca un preacuerdo de paz
+- [0954] | 1 | Límites | Grenzwerte | Limits | Límites a la externalización migratoria
+- [0955] | 1 | línea | Zeile | line | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [0956] | 1 | Macron | Macron | Macron | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
+- [0957] | 1 | madre | Mutter | mother | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0958] | 1 | malaria | Malaria | malaria | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [0959] | 1 | malestar | Übelkeit | malaise | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
+- [0960] | 1 | Mami | Mami. | Mommy | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [0961] | 1 | Mandalorian’ | Mandalorian Hlaing | Mandalorian’ | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [0962] | 1 | Manifestantes | Demonstranten | Protesters | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [0963] | 1 | mansión | Villa | mansion | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [0964] | 1 | Manuel | Manuel | Manuel | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
+- [0965] | 1 | Maps | Maps | Maps | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [0966] | 1 | marciales | Krieger | martial | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0967] | 1 | Mareo | Schwindel | Dizziness | Mareo, confusión... ¿Cuáles son los síntomas y qué hacer ante un golpe de calor?
+- [0968] | 1 | Mari | Mari | Mari | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [0969] | 1 | Marqués | Marquis | Marquis | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [0970] | 1 | marroquí | Marokko | Morocco | Muere arrollada por una máquina una jornalera marroquí vecina de Jumilla
+- [0971] | 1 | mascarilla | Maske | mask | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
+- [0972] | 1 | mascota | Maskottchen | pet | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [0973] | 1 | matar | Töten | kill | Riki Blanco: matar al padre
+- [0974] | 1 | materna | mütterlich | Maternal | Con sabor a leche materna: ¿Todo vale en cuestión de helados?
+- [0975] | 1 | mayores | größer | older | El Ikea de Shanghái se convierte en un punto caliente para las citas de personas mayores
+- [0976] | 1 | Mboko | Mboko | Mboko | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
+- [0977] | 1 | McFadden | McFadden | McFadden | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [0978] | 1 | me | itte | me | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [0979] | 1 | Mediaset | Medioset | Mediaset | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [0980] | 1 | medida | Maßnahme | measure | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [0981] | 1 | meditación | Meditation | meditation | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
+- [0982] | 1 | Mediterráneo | Mittelmeerraum | Mediterranean | La revolución vinícola del Mediterráneo y tres vinos para descubrirla
+- [0983] | 1 | megapuente | Megabrücke | megabridge | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
+- [0984] | 1 | mejores | besser | better | Probamos los mejores pastilleros con alarmas
+- [0985] | 1 | Meloni | Meloni | Meloni | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
+- [0986] | 1 | mental | seelisch | mental | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
+- [0987] | 1 | menuda | winzig | small | La letra menuda de Europa
+- [0988] | 1 | mes | Monat | month | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [0989] | 1 | meses | Monate | months | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [0990] | 1 | metal’ | Metallmangan | metal’ | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
+- [0991] | 1 | migratoria | Migrationshintergrund | migration | Límites a la externalización migratoria
+- [0992] | 1 | Milei | Milei | Milei | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [0993] | 1 | Miles | Miles | Thousands | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [0994] | 1 | Mint | Mint | Mint | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [0995] | 1 | mis | n | My | Samantha Hudson: “El Bosco disfrutaría de mis directos”
+- [0996] | 1 | mismo” | dieselbe Art von Hähnchen | same” | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [0997] | 1 | misterio | Geheimnis | mystery | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [0998] | 1 | mito | Mythos | myth | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
+- [0999] | 1 | mixtas | gemischt | mixed | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [1000] | 1 | miércoles | Mittwoch | Wednesday | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
+- [1001] | 1 | modelo | Modell | model | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [1002] | 1 | modelos | Modelle | models | Llega la clonación de modelos para uniformar y abaratar campañas de moda
+- [1003] | 1 | MoMa | MoMa | MoMa | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [1004] | 1 | momento” | Houten-Zeit | moment” | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [1005] | 1 | Morirse | Sterben | Dying | Morirse de tristeza
+- [1006] | 1 | Mortales | Sterblich | Mortals | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [1007] | 1 | motor | Motor | engine | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
+- [1008] | 1 | mucha | sehr | a lot | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1009] | 1 | mucho | sehr | a lot. | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1010] | 1 | muda | stumm | mute | Sherlock se muda: de Baker Street a La Pléiade en París
+- [1011] | 1 | mujeres | Frauen | women | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [1012] | 1 | multiusos | Mehrzweck-Anwendungen | multi-use | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [1013] | 1 | Murcia | Murcia | Murcia | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [1014] | 1 | muriendo” | Sterbend | dying” | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
+- [1015] | 1 | murió | Er ist gestorben. | He's dead. | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [1016] | 1 | museo | Museum | museum | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [1017] | 1 | musicales” | Musikalische Musik (Musik) | musicals” | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1018] | 1 | muy | sehr | very | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [1019] | 1 | Muñoz | Muñoz | Muñoz | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [1020] | 1 | máquina | Maschine | machine | Muere arrollada por una máquina una jornalera marroquí vecina de Jumilla
+- [1021] | 1 | médica | Arzt | Medical | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [1022] | 1 | médico | Arzt | doctor | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [1023] | 1 | México | Mexiko | Mexico | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [1024] | 1 | México’ | Mexiko-Bananen | Mexico’ | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [1025] | 1 | nacido | Geboren | born | El verano de la camiseta con sujetador incorporado: ha nacido un básico
+- [1026] | 1 | nadie” | Niemanden. | no one” | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [1027] | 1 | Nagasaki | Nagasaki | Nagasaki | Nagasaki advierte del riesgo creciente de una guerra nuclear 80 años después de su bombardeo
+- [1028] | 1 | Naufus | Naufus | Naufus | El teatro de los espectros de Naufus Ramírez-Figueroa
+- [1029] | 1 | Navas | Navas | Navas | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [1030] | 1 | nazis | Nazis | Nazis | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [1031] | 1 | neandertales | Neandertal | Neanderthals | Un descubrimiento en la cueva cántabra de El Castillo estrecha aún más las diferencias de los neandertales con nuestra especie
+- [1032] | 1 | necesariamente | notwendigerweise | necessarily | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [1033] | 1 | negociar | Handel | negotiate | La vivienda en el sur de Madrid, a debate: negociar o imponer precios
+- [1034] | 1 | negro | schwarz | black | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [1035] | 1 | ninguna | keine | none | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [1036] | 1 | nombrado | Bezeichnung | appointed | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [1037] | 1 | Nordin | Nordin | Nordin | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [1038] | 1 | norma | Standard | standard | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [1039] | 1 | normal | Normal | normal | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [1040] | 1 | nos | n | No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no. | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [1041] | 1 | nuestras | unsere | ours | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [1042] | 1 | nunca | Niemals | Never | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [1043] | 1 | números | Zahlen | numbers | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [1044] | 1 | objetivo | Ziel | objective | El golpe comercial de Trump a India falla el objetivo del crudo ruso
+- [1045] | 1 | obliga | verpflichtet | obliga | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [1046] | 1 | ocupación | Beschäftigung | occupation | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [1047] | 1 | Oeste | West | West | Kilian Jornet, a la conquista del Oeste
+- [1048] | 1 | oferta | Angebot | offer | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [1049] | 1 | opa | Opa | opa | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [1050] | 1 | operación | Vorhaben | operation | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [1051] | 1 | opinión | Stellungnahme | opinion | El inquietante silencio de la opinión pública israelí
+- [1052] | 1 | oponente | Gegner | opponent | El jefe del ejército israelí, antiguo aliado de Netanyahu, se erige en el oponente más feroz a la ocupación total de Gaza
+- [1053] | 1 | ordena | Befehl | command | Trump ordena al Ejército de Estados Unidos combatir a los cárteles de la droga extranjeros
+- [1054] | 1 | organizar | Organisieren | organize | Diez productos infalibles para organizar una barbacoa inolvidable
+- [1055] | 1 | Oriente | Osten | East | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [1056] | 1 | originó | Ursprung | origin | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [1057] | 1 | oso | Bär | bear | Por las laderas donde habita el oso del Valle de Arán
+- [1058] | 1 | otra | andere | other | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
+- [1059] | 1 | P | P | P | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [1060] | 1 | paga | Bezahlt | Pay | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [1061] | 1 | pagado | bezahlt | Paid | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [1062] | 1 | Palau | Palau | Palau | Peridis: el sillón del Palau
+- [1063] | 1 | palestino | Palästinenser | Palestinian | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [1064] | 1 | palillos | Stäbchen | chopsticks | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [1065] | 1 | Palma | Palme | Palma | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [1066] | 1 | Paquot | Paquot | Paquot | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
+- [1067] | 1 | paras | ng | paras | Este es el carro multiusos que no paras de ver por la calle: para hacer la compra, llevar a tu mascota o ir a la playa
+- [1068] | 1 | parece | Sieht so aus. | It looks like | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [1069] | 1 | Partey | Party | Partey | El fichaje de Thomas Partey por el Villarreal dispara la polémica
+- [1070] | 1 | partidos | Spiele | matches | El fichaje en vano de Reinier Jesus: 30 millones y cero partidos con el Real Madrid
+- [1071] | 1 | París | Paris | Paris | Sherlock se muda: de Baker Street a La Pléiade en París
+- [1072] | 1 | pastilleros | Pförtner | Pastilaires | Probamos los mejores pastilleros con alarmas
+- [1073] | 1 | patio | Hof | patio | El patio trasero de la IA. Un mapa de la fiebre del oro del siglo XXI
+- [1074] | 1 | peatones | Fußgänger | pedestrians | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [1075] | 1 | pedirá | Bitte... | will ask | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [1076] | 1 | Pedro | Pedro | Pedro | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [1077] | 1 | Peinado | mit einem Gehalt an Saccharose (einschließlich Invertzucker als Saccharose berechnet) von 5 GHT oder mehr, jedoch nicht mehr als 5 GHT | Hairstyle | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [1078] | 1 | pelo | Haare | hair | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
+- [1079] | 1 | pendiente | anhängig | outstanding | Salvador Illa y la revolución pendiente
+- [1080] | 1 | pensamiento | Denken | thought | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
+- [1081] | 1 | peor | Schlimmer | worst | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [1082] | 1 | pequeña | klein | small | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [1083] | 1 | pequeño | klein | small | La peregrinación para comer bacalao en un pequeño pueblo de León
+- [1084] | 1 | percha | Kleiderbügel | hanger | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
+- [1085] | 1 | peregrinación | Pilgerfahrt | pilgrimage | La peregrinación para comer bacalao en un pequeño pueblo de León
+- [1086] | 1 | periodismo | Journalismus | journalism | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
+- [1087] | 1 | pero | aber | but | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [1088] | 1 | Perseidas | Perseide | Perseids | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
+- [1089] | 1 | personal | Personal | staff | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [1090] | 1 | Perú | Peru | Peru | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [1091] | 1 | pesas | Gewichte | weights | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [1092] | 1 | peso | Gewicht | weight | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [1093] | 1 | Petro | Petro | Petro | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [1094] | 1 | piedra | Stein | stone | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
+- [1095] | 1 | piensa | Denken Sie | Think. | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1096] | 1 | pisos | Etagen | floors | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [1097] | 1 | pista | Track | track | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
+- [1098] | 1 | pistola | Waffe | gun | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [1099] | 1 | plegables | Falten | folding | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
+- [1100] | 1 | pleno | Plenartagung | full session | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [1101] | 1 | Pléiade | Pléiade | Pléiade | Sherlock se muda: de Baker Street a La Pléiade en París
+- [1102] | 1 | podamos | Wir könnten... | We can. | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [1103] | 1 | poder | Macht | power | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [1104] | 1 | polizones | Polypen | stowaways | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [1105] | 1 | polémica | Kontroverse | Controversy | El fichaje de Thomas Partey por el Villarreal dispara la polémica
+- [1106] | 1 | polémico | kontrovers | Controversial | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
+- [1107] | 1 | político | Politik | political | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
+- [1108] | 1 | popular | populär | popular | Carles Puigdemont: un mito popular que no se acaba, un político algo acabado
+- [1109] | 1 | postal | Postkarten | Postcard | Riki Blanco: aquella postal de Barcelona
+- [1110] | 1 | postre | Dessert | dessert | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [1111] | 1 | potencial | Potenzial | potential | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
+- [1112] | 1 | preacuerdo | Vorvereinbarung | pre-agreement | Los líderes de Armenia y Azerbaiyán firman en la Casa Blanca un preacuerdo de paz
+- [1113] | 1 | precios | Preise | prices | La vivienda en el sur de Madrid, a debate: negociar o imponer precios
+- [1114] | 1 | prepara | Vorbereiten | prepare | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [1115] | 1 | preparan | bereiten | They're getting ready. | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
+- [1116] | 1 | presa | Damm | dam | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [1117] | 1 | preso | Häftling | prisoner | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [1118] | 1 | Presos | Gefangene | Prisoners | Presos del calor
+- [1119] | 1 | priorizar | priorisieren | prioritize | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [1120] | 1 | privada | privat | private | Un alto cargo educativo de la Junta andaluza asesoró este curso a una universidad privada
+- [1121] | 1 | Probamos | Wir haben es versucht. | We tried. | Probamos los mejores pastilleros con alarmas
+- [1122] | 1 | procedente | zutreffend | where applicable | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [1123] | 1 | productos | Erzeugnisse | Outputs | Diez productos infalibles para organizar una barbacoa inolvidable
+- [1124] | 1 | programa | Programm | programme | Trump encuentra en África un salvavidas para su programa de deportaciones exprés de migrantes
+- [1125] | 1 | prohíbe | verbietet | ban | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
+- [1126] | 1 | prorroga | Verlängerung | extension | La Junta de Andalucía prorroga la gestión de pisos de extutelados a una entidad investigada por falta de alimentos básicos y personal
+- [1127] | 1 | protagonizando | Hauptrolle | starring | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [1128] | 1 | protege | schützt | protects | Vídeo | ¿Quién protege a los ‘riders’ en Europa?
+- [1129] | 1 | proyecto | Projekt | project | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
+- [1130] | 1 | práctica | Praxis | practice | Claves para fomentar hábitos saludables y la práctica deportiva en niños y adolescentes
+- [1131] | 1 | psicólogo | Psychologe | psychologist | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
+- [1132] | 1 | puedan | können | may | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
+- [1133] | 1 | puede | kann | may | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [1134] | 1 | puerta | Tür | door | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [1135] | 1 | punto | Punkt | point | El Ikea de Shanghái se convierte en un punto caliente para las citas de personas mayores
+- [1136] | 1 | puntos | Punkte | points | El Ibex abandona su letargo y pone los 15.000 puntos en la diana
+- [1137] | 1 | Putin | Putin | Putin | Trump se reunirá con Putin en Alaska el viernes 15 para tratar sobre la guerra en Ucrania
+- [1138] | 1 | Pérez | Perez | Pérez | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1139] | 1 | pública | öffentlich | public | El inquietante silencio de la opinión pública israelí
+- [1140] | 1 | públicas | öffentlich | public | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [1141] | 1 | público | öffentlich | Public | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [1142] | 1 | público” | öffentlicher Auftraggeber (Administration) | public” | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [1143] | 1 | queda | bleibt | left. | La cuenta atrás no queda en el Barcelona: más de 50 fichajes siguen sin estar inscritos en la Liga
+- [1144] | 1 | quedado | übrig | Remaining | Así ha quedado la capilla de la Mezquita de Córdoba afectada tras el incendio
+- [1145] | 1 | quiebra | Konkurs | bankruptcy | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [1146] | 1 | Quiero | Ich will. | I want to. | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [1147] | 1 | Ramírez-Figueroa | Ramirez-Figurosa | Ramírez-Figueroa | El teatro de los espectros de Naufus Ramírez-Figueroa
+- [1148] | 1 | Ramón | Ramon | Ramón | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
+- [1149] | 1 | razones | Gründe | reasons | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [1150] | 1 | receta | Verschreibung | recipe | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [1151] | 1 | rechazar | Ablehnen | reject | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
+- [1152] | 1 | recoger | abholen | collect | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [1153] | 1 | reconectar | Verbindung wieder herstellen | reconnect | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [1154] | 1 | reconocer | erkennen | recognize | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
+- [1155] | 1 | reconocerá | erkennen | will recognize | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [1156] | 1 | recorte | Ausschnitt | cropping | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [1157] | 1 | recrea | recrea | recreates | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [1158] | 1 | referente | Referenz | reference | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
+- [1159] | 1 | refugio | Unterschlupf | shelter | Un refugio climático en Barcelona: así es la casa de 26.000 ladrillos que evita el frío y el calor sin ninguna climatización
+- [1160] | 1 | regalo | Geschenk | gift | Si buscas un regalo especial, estos son los 10 vinilos más vendidos de la temporada
+- [1161] | 1 | reggae | Reggae | reggae | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [1162] | 1 | rehenes | Geiseln | hostages | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1163] | 1 | reina | Königin | queen | Los fantasmas de la familia real británica: Isabel II intentó reconectar con su difunto padre y la mansión embrujada de la reina Camila
+- [1164] | 1 | Reinier | Reinier | Reinier | El fichaje en vano de Reinier Jesus: 30 millones y cero partidos con el Real Madrid
+- [1165] | 1 | Reino | Königreich | Kingdom | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [1166] | 1 | relatividad | Relativität | relativity | ¿En qué consiste la teoría de la relatividad?
+- [1167] | 1 | reloj | Uhr | clock | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
+- [1168] | 1 | remolacha | Rote Rüben | beet | Crema fría de remolacha, calabacín y yogur
+- [1169] | 1 | renuncia | Verzicht | Resignation | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [1170] | 1 | reparto | Verteilung | distribution | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [1171] | 1 | reputacional | Reputation | Reputational | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [1172] | 1 | Requena | Requena | Requena | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [1173] | 1 | rescate | Lösegeld | rescue | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [1174] | 1 | residencia | Wohnsitz | residence | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1175] | 1 | resistencia” | Reproduzierbarkeit | resistance” | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [1176] | 1 | responsable | verantwortlich | responsible | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [1177] | 1 | retome | agame | Take it back. | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [1178] | 1 | revitaliza | Revitalisierung | revitalizes | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [1179] | 1 | rey | König | King | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [1180] | 1 | rezar | beten | pray | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
+- [1181] | 1 | riesgos | Risiken | risks | Decálogo de riesgos de la opa de BBVA: de la integración informática al golpe reputacional
+- [1182] | 1 | Roban | Sie stehlen | Roban | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
+- [1183] | 1 | robot | Roboter | robot | El robot
+- [1184] | 1 | roto | gebrochen | Broken | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [1185] | 1 | Rototom | Rototom | Rototom | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [1186] | 1 | ruido | Lärm | noise | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [1187] | 1 | rumiante | RUMÄNIEN | ruminant | Del pensamiento rumiante al silencio mental: el impacto de la meditación en el cerebro
+- [1188] | 1 | rusa | Russisch | Russian | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [1189] | 1 | ruso | Russisch | Russian | El golpe comercial de Trump a India falla el objetivo del crudo ruso
+- [1190] | 1 | récord | Rekord | record | El turismo bate otro récord de empleo y apunta al verano con más ocupados de su historia
+- [1191] | 1 | régimen | Beihilferegelung | regimen | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [1192] | 1 | río | Fluss | river | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [1193] | 1 | saber | wissen | know | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [1194] | 1 | sabor | Geschmack | flavor | Con sabor a leche materna: ¿Todo vale en cuestión de helados?
+- [1195] | 1 | saludables | Gesund | healthy | Claves para fomentar hábitos saludables y la práctica deportiva en niños y adolescentes
+- [1196] | 1 | Salvador | Salvador | Salvador | Salvador Illa y la revolución pendiente
+- [1197] | 1 | salvarse | gerettet werden | save yourself | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1198] | 1 | salvavidas | Rettungs- und Rettungsmittel | lifesaver | Trump encuentra en África un salvavidas para su programa de deportaciones exprés de migrantes
+- [1199] | 1 | salvó | Er hat gerettet. | Saved | Muere Jim Lovell, el astronauta que salvó al Apolo 13
+- [1200] | 1 | Samantha | Samantha | Samantha | Samantha Hudson: “El Bosco disfrutaría de mis directos”
+- [1201] | 1 | sanitaria | Gesundheit | health care | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [1202] | 1 | santa | Santa | Saint | Peridis: España, una; España, santa
+- [1203] | 1 | Santiago | Santiago | Santiago | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
+- [1204] | 1 | secretaria | Sekretärin | Secretary | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [1205] | 1 | sector | Sektor | sector | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [1206] | 1 | Segovia | Segovia | Segovia | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
+- [1207] | 1 | seguidores | Follower | followers | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [1208] | 1 | seguidos | gefolgt | followed | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [1209] | 1 | seguirá | weiter | Go on. | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [1210] | 1 | semana | Woche | week | Los diez libros de la semana en ‘Babelia’
+- [1211] | 1 | semanas | Wochen | weeks | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [1212] | 1 | Senado | Senat | Senate | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [1213] | 1 | Sequía | Trocken | Drought | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
+- [1214] | 1 | serenidad | Ruhe | serenity | Muere a los 94 años Ramón Bayés, el psicólogo que buscaba la serenidad
+- [1215] | 1 | servicio | Dienst | service | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [1216] | 1 | Seve | Seve | Seve | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [1217] | 1 | Sexo | Geschlecht | Sex | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [1218] | 1 | Shanghái | Shanghai | Shanghai | El Ikea de Shanghái se convierte en un punto caliente para las citas de personas mayores
+- [1219] | 1 | Shelton | Shelton | Shelton | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
+- [1220] | 1 | Sherlock | Sherlock | Sherlock | Sherlock se muda: de Baker Street a La Pléiade en París
+- [1221] | 1 | Sicilia | Sizilien | Sicily | Meloni recupera el polémico proyecto del megapuente de Sicilia con un coste de 13.500 millones
+- [1222] | 1 | siete | 7 | seven | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [1223] | 1 | siglo | Jahrhundert | century | El patio trasero de la IA. Un mapa de la fiebre del oro del siglo XXI
+- [1224] | 1 | sigue | Weiter. | Go on. | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [1225] | 1 | siguen | weiter | Go on. | La cuenta atrás no queda en el Barcelona: más de 50 fichajes siguen sin estar inscritos en la Liga
+- [1226] | 1 | sillas | Stühle | chairs | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
+- [1227] | 1 | sillón | Sessel | armchair | Peridis: el sillón del Palau
+- [1228] | 1 | singulares | Einzigartig | unique | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
+- [1229] | 1 | sinhogarismo | Synhogarismus | homelessness | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [1230] | 1 | sino | Aber... | if not | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1231] | 1 | siquiera | sogar | even | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1232] | 1 | sirve | dient | It's good. | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [1233] | 1 | soberanía | Souveränität | sovereignty | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [1234] | 1 | soledad | Einsamkeit | loneliness | Cómo saber si la soledad de tu hijo adolescente es elegida o no: “No necesariamente están apáticos o lloran”
+- [1235] | 1 | solo | nur | only | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [1236] | 1 | solución | Lösung | solution | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
+- [1237] | 1 | sombra | Schatten | shadow | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
+- [1238] | 1 | sopa | Suppe | soup | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [1239] | 1 | sorber | sorper | sorber | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [1240] | 1 | soñamos | Wir träumen | We dream | ¿Por qué soñamos?
+- [1241] | 1 | Stage | Stage | Stage | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1242] | 1 | Star | Star | Star | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [1243] | 1 | Stegen | Stegen | Stegen | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [1244] | 1 | Street | Street | Street | Sherlock se muda: de Baker Street a La Pléiade en París
+- [1245] | 1 | subastarla | versteigern | auction it | Denunciado un hombre por arrancar una piedra del acueducto de Segovia y tratar de subastarla en Internet
+- [1246] | 1 | subir | Nach oben | up | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [1247] | 1 | suelto | frei | loose | España como verso suelto europeo
+- [1248] | 1 | suerte | Glück | Luck. | El talento y la arrogancia de Oasis daban para un documental mejor. Por suerte lo hay
+- [1249] | 1 | sueño | Schlaf | sleep | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [1250] | 1 | suficientes | ausreichend | Sufficient | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [1251] | 1 | sufren | Sie leiden | suffer | Sequía, apagones, calor y malestar: los iraníes sufren el deterioro de la vida cotidiana
+- [1252] | 1 | suicidio | Selbstmord | suicide | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
+- [1253] | 1 | Suisse | Suisse | Suisse | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [1254] | 1 | sujetador | BH | bra | El verano de la camiseta con sujetador incorporado: ha nacido un básico
+- [1255] | 1 | Sunsplash | Sunsplash | Sunsplash | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [1256] | 1 | superventas | Überverkauf | Bestsellers | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [1257] | 1 | suplico | supplico | I beg you. | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [1258] | 1 | supuesto | Natürlich. | of course. | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [1259] | 1 | sur | Süd | south | La vivienda en el sur de Madrid, a debate: negociar o imponer precios
+- [1260] | 1 | suya | Ihre | Yours. | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [1261] | 1 | suyo | Ihre | Yours. | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [1262] | 1 | swap’ | Swap-Geschäft | swap’ | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [1263] | 1 | Séptimo | 7. | Seventh | Séptimo día de calor con 13 comunidades  con avisos por temperaturas extremas
+- [1264] | 1 | sí | Ja. | Yes | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1265] | 1 | síntomas | Symptome | symptoms | Mareo, confusión... ¿Cuáles son los síntomas y qué hacer ante un golpe de calor?
+- [1266] | 1 | tapa | Deckel | cap | Un preso degüella a su compañero de celda en la cárcel de Murcia I con la tapa de una lata
+- [1267] | 1 | te | te | you | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [1268] | 1 | tebeos | Tebeos | tebeos | La mejor librería de tebeos del mundo está en un barrio de Madrid
+- [1269] | 1 | techo | Dach | ceiling | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [1270] | 1 | temblar | zittern | ♪ shivering ♪ | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [1271] | 1 | Tempelhof | Tempelhof | Tempelhof | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [1272] | 1 | temporada | Saison | season | Si buscas un regalo especial, estos son los 10 vinilos más vendidos de la temporada
+- [1273] | 1 | tener | haben | have | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
+- [1274] | 1 | tenga | haben | have | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [1275] | 1 | tensión | Spannung | voltage | Macron hace equilibrismos para reconocer a Palestina sin inflamar la tensión con los judíos de Francia
+- [1276] | 1 | tenso | angespannt | tense | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [1277] | 1 | tenía | Ich hatte... | I had | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [1278] | 1 | teoría | Theorie | theory | ¿En qué consiste la teoría de la relatividad?
+- [1279] | 1 | Ter | Ter | Ter | Ter Stegen firma la autorización de su informe médico y recupera la capitanía del Barcelona
+- [1280] | 1 | territorios | Gebiete | territories | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [1281] | 1 | terror” | Schrecken | terror” | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [1282] | 1 | tesis | Thesen | thesis | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [1283] | 1 | Thierry | Thierry | Thierry | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
+- [1284] | 1 | Thomas | Thomas | Thomas | El fichaje de Thomas Partey por el Villarreal dispara la polémica
+- [1285] | 1 | ti | Sie | you | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [1286] | 1 | tocó | Er hat gespielt. | ♪ touched ♪ | A Mari Carmen Muñoz le tocó ese día hacer el reparto de legumbres y murió atropellada en Madrid por un hombre drogado
+- [1287] | 1 | todo | Alle | all | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [1288] | 1 | trabajo | Arbeitsplatz | Work | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [1289] | 1 | tradiciones | Traditionen | traditions | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [1290] | 1 | trail | Trail | trail | Andreu Blanes, el atleta de pista que conquistó la catedral del trail
+- [1291] | 1 | transgresión | Übertretung | transgression | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
+- [1292] | 1 | transporte | Transport | transport | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [1293] | 1 | trasero | Hintern | rear | El patio trasero de la IA. Un mapa de la fiebre del oro del siglo XXI
+- [1294] | 1 | tratado | ng | Treaty | Gustavo Petro: “El espíritu del tratado con Perú es que Colombia tenga acceso al río Amazonas”
+- [1295] | 1 | trayendo | bringen | bringing in | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1296] | 1 | tren | Zug | train | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [1297] | 1 | tributaria | Steuer | tax | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [1298] | 1 | tristeza | Traurigkeit | sadness | Morirse de tristeza
+- [1299] | 1 | triunfa | Erfolg | triumphs | La revolución de sillas plegables para la playa triunfa en Amazon a un precio irresistible
+- [1300] | 1 | triunfadores | Sieger | triumphants | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
+- [1301] | 1 | truco | Trick | trick | La solución definitiva para tener orden en tu armario y ahorrar espacio: el truco de la percha
+- [1302] | 1 | trucos | Tricks | tricks | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [1303] | 1 | Turkish | Turkish | Turkish | Turkish Airlines prepara una oferta por Air Europa tras la renuncia de Lufthansa
+- [1304] | 1 | turística | Tourismus | tourism | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [1305] | 1 | turístico | Tourismus | tourism | España, epicentro turístico: se esperan 775 nuevos hoteles hasta 2028
+- [1306] | 1 | UBS | UBS | UBS | La búsqueda de cuentas nazis en Credit Suisse hace temblar a UBS
+- [1307] | 1 | ultraderecha | Ultrarechts | ultra-right | La ultraderecha impone su mensaje islamófobo en Jumilla: a rezar a otra parte
+- [1308] | 1 | una; | eins; | one; | Peridis: España, una; España, santa
+- [1309] | 1 | Unido | Vereinigtes Königreich | United States | Dimite la secretaria de Estado de sinhogarismo de Reino Unido tras subir 700 libras el alquiler de una vivienda suya en Londres
+- [1310] | 1 | uniformar | Uniformieren | uniform | Llega la clonación de modelos para uniformar y abaratar campañas de moda
+- [1311] | 1 | UPN | UPN | UPN | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [1312] | 1 | Urbana | Urban | Urban | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [1313] | 1 | urbanismo | Stadtplanung | urban planning | Thierry Paquot, filósofo del urbanismo: “Una ciudad sin niños jugando en la calle es una ciudad que está muriendo”
+- [1314] | 1 | USAID | USAID | USAID | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [1315] | 1 | usar | Verwenden | use | La orden de Trump de usar la fuerza contra los carteles extranjeros pone en alerta a Maduro y a México
+- [1316] | 1 | usarse | Anwendung | use | Alemania prohíbe la exportación a Israel de armas que puedan usarse en Gaza
+- [1317] | 1 | uso | Anwendung | use | La alerta sanitaria por el uso del dentífrico Colgate Total Clean Mint se extiende por América Latina
+- [1318] | 1 | usuarios | Benutzer | users | Más allá del coche: trucos de Google Maps para peatones, ciclistas y usuarios de transporte público
+- [1319] | 1 | UU | USA | USA | Trump despide al responsable de la agencia tributaria de EE UU dos meses después de ser nombrado
+- [1320] | 1 | Uxue | Uxue | Uxue | UPN pedirá que María Chivite y Uxue Barkos comparezcan en la comisión del ‘caso Koldo’ en el Senado
+- [1321] | 1 | uñas | Nägel | nails | Esta lima de uñas eléctrica sirve para tu bebé y para ti si te dan dentera las limas convencionales
+- [1322] | 1 | va | Okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, okay, ok. | It's going. | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [1323] | 1 | vacante | frei | vacant | Trump elige a un crítico con la Fed para cubrir la vacante en la junta de gobernadores
+- [1324] | 1 | vale | Okay. | Okay. | Con sabor a leche materna: ¿Todo vale en cuestión de helados?
+- [1325] | 1 | Valencia | Valencia | Valencia | Roban un reloj de 100.000 euros al arquitecto Santiago Calatrava en un atraco en Valencia
+- [1326] | 1 | valenciana | Valentin | valencian | Mueren dos personas al estrellarse una avioneta en la localidad valenciana de Requena
+- [1327] | 1 | Valle | Tal | Valley | Por las laderas donde habita el oso del Valle de Arán
+- [1328] | 1 | valoraciones | Bewertungen | valuations | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
+- [1329] | 1 | valorado | Bewertung | valued | Sexo, millones y dos fracasos seguidos: el regreso de Joe Eszterhas, el guionista mejor pagado y peor valorado de Hollywood
+- [1330] | 1 | vano | Vergeblich | vain | El fichaje en vano de Reinier Jesus: 30 millones y cero partidos con el Real Madrid
+- [1331] | 1 | varado | getäuscht | stranded | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [1332] | 1 | varios | Verschiedenes | Miscellaneous | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [1333] | 1 | vecina | Nachbarin | neighbor | Muere arrollada por una máquina una jornalera marroquí vecina de Jumilla
+- [1334] | 1 | velero | Segelboot | sailboat | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [1335] | 1 | Velázquez | Velázquez | Velázquez | Pedro Velázquez, jefe de la Guardia Urbana: “No es normal que no podamos recoger algunas denuncias”
+- [1336] | 1 | vendehúmos | Ventahumos | We sell humos | Chema Alonso: ¿gurú o vendehúmos informático?
+- [1337] | 1 | vendida | verkauft | sold | Más de 11.000 valoraciones: esta es la mascarilla para el pelo más vendida de Amazon, ideal para cabellos dañados
+- [1338] | 1 | vendidos | verkauft | sold | Si buscas un regalo especial, estos son los 10 vinilos más vendidos de la temporada
+- [1339] | 1 | veraniegos | Sommerbirnen | summer | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [1340] | 1 | veranos | Sommer | summers | Destino Rototom Sunsplash: el festival reggae de Benicàssim que recrea los felices veranos de pueblo
+- [1341] | 1 | verso | vers | verse | España como verso suelto europeo
+- [1342] | 1 | veto | Veto | veto | Incomodidad en el PP por el veto al islam en Jumilla
+- [1343] | 1 | VI | VI | VI | Jaime Anglada, amigo del rey Felipe VI, grave tras ser arrollado en Palma por un coche que se dio a la fuga
+- [1344] | 1 | viajaban | Reisen | They were traveling. | Desembarcan en Lanzarote por razones humanitarias 49 polizones que viajaban en un barco procedente de Dakar
+- [1345] | 1 | viajar | Reisen | travel | Choques de costumbres con la comida al viajar: deja en paz los palillos y haz ruido al sorber la sopa
+- [1346] | 1 | viajeros | Reisende | Travellers | Miles de viajeros de todo el mundo, entre ellos españoles, afectados por la quiebra de Star Croisières
+- [1347] | 1 | Victoria | Victoria | Victoria | De Victoria Mboko a Ben Shelton, dos nuevos triunfadores bajo la sombra de Canadá
+- [1348] | 1 | viernes | Freitag | Friday | Trump se reunirá con Putin en Alaska el viernes 15 para tratar sobre la guerra en Ucrania
+- [1349] | 1 | Villarreal | Villarreal | Villarreal | El fichaje de Thomas Partey por el Villarreal dispara la polémica
+- [1350] | 1 | vinilos | Vinyl | vinyl | Si buscas un regalo especial, estos son los 10 vinilos más vendidos de la temporada
+- [1351] | 1 | vino | Wein | wine | La agricultura, el vino, el motor y el consumo se preparan para la nueva era comercial
+- [1352] | 1 | vinos | Wein | wines | La revolución vinícola del Mediterráneo y tres vinos para descubrirla
+- [1353] | 1 | vinícola | Wein | wine-growing | La revolución vinícola del Mediterráneo y tres vinos para descubrirla
+- [1354] | 1 | viral | Virus | viral | El vídeo del vídeo: la fan que compartió la infidelidad viral en un concierto de Coldplay y cómo el cotilleo vive una nueva edad de oro
+- [1355] | 1 | viviendas | Wohnungen | housing | Quiero alquilar una casa por 6.000 euros al mes (paga la empresa): los expatriados calientan el sector de las viviendas de lujo
+- [1356] | 1 | volcar | Kippen | dump | El sueño roto de Adama y Mami Keita: la historia de una madre y su hija de cinco años que se ahogaron tras volcar un cayuco en El Hierro
+- [1357] | 1 | Vox | Vox | Vox | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [1358] | 1 | vuelve | Komm zurück. | Come back. | La Aemet vuelve a ampliar la duración de la ola de calor al menos hasta el miércoles
+- [1359] | 1 | vídeos | Videos | videos | El futuro de Mediaset Infinity: se abrirá a la moda de los vídeos de ficción cortos y seguirá apostando por las artes marciales mixtas
+- [1360] | 1 | Woman’ | Woman Houten | Woman’ | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [1361] | 1 | XXI | 21. | XXI | El patio trasero de la IA. Un mapa de la fiebre del oro del siglo XXI
+- [1362] | 1 | Xàbia | Xàbia | Xàbia | El velero varado en una duna fósil y confiscado en una operación antidroga, nueva atracción turística de Xàbia
+- [1363] | 1 | ya | Jetzt. | I've got it. | El amor ya no es lo que era
+- [1364] | 1 | yihadismo | Dschihadismus | jihadism | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [1365] | 1 | yogur | Joghurt | yogurt | Crema fría de remolacha, calabacín y yogur
+- [1366] | 1 | Yolanda | Yolanda | Yolanda | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1367] | 1 | Zamora | Zamora | Zamora | Zamora revitaliza el legado del escultor exiliado Baltasar Lobo con un museo a su medida
+- [1368] | 1 | Zelenski | Zelenski | Zelenski | Zelenski advierte de que Ucrania nunca reconocerá la soberanía rusa de los territorios ocupados
+- [1369] | 1 | zona | Gebiet | area | Colapsa el techo de una capilla de la zona donde se originó el incendio de la Mezquita de Córdoba
+- [1370] | 1 | ¿Apagar | Ausschalten | Turn it off. | ¿Apagar el aire acondicionado cuando no se está en casa ahorra energía? Tres ingenieras hacen números
+- [1371] | 1 | ¿Cuáles | Welche | Which ones? | Mareo, confusión... ¿Cuáles son los síntomas y qué hacer ante un golpe de calor?
+- [1372] | 1 | ¿cuándo | Wann? | When | Perseidas 2025: ¿cuándo y dónde ver las lágrimas de San Lorenzo este agosto?
+- [1373] | 1 | ¿cómo | Wie? | How? | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [1374] | 1 | ¿En | In? | In | ¿En qué consiste la teoría de la relatividad?
+- [1375] | 1 | ¿gurú | Guru? | guru? | Chema Alonso: ¿gurú o vendehúmos informático?
+- [1376] | 1 | ¿Quién | Wer? | Who | Vídeo | ¿Quién protege a los ‘riders’ en Europa?
+- [1377] | 1 | ¿Quiénes | Wer? | Who | ¿Quiénes son los nuevos inversores que están comprando grandes centros comerciales en España?
+- [1378] | 1 | ¿Todo | Alles? | Everything. | Con sabor a leche materna: ¿Todo vale en cuestión de helados?
+- [1379] | 1 | África | Afrika | Africa | Trump encuentra en África un salvavidas para su programa de deportaciones exprés de migrantes
+- [1380] | 1 | Ángel | Angel | Angel | José María Ángel, excomisionado del Gobierno para la dana, hospitalizado tras un intento de suicidio
+- [1381] | 1 | Ávila | Ávila | Ávila | El incendio de Ávila interrumpe la línea de tren con Madrid y obliga a desalojar barrios en Las Navas del Marqués
+- [1382] | 1 | Última | Letzte | Last | Última hora del conflicto en Oriente Próximo, en directo | Al menos siete muertos y 34 heridos en varios ataques israelíes contra el centro de la Franja
+- [1383] | 1 | únicas | einzigartig | single | Una experiencia de alquiler de casas singulares y únicas para descubrir el Baix Empordà
+- [1384] | 1 | ‘Babelia’ | Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babelia-Babenia-Babelia-Babelia-Babela-Babelia-Babela-Ba-Babela-Babela-Babela-Babela-Babela-Babela-Bla-Bla-Ba-Ba-Babela-Ba-Bla-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Bla-Bla-Ba-Babe-Ba-Ba-Ba-Ba-Babela-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Bla-Ba-Ala-Ala-Ba-Ba-Bla-Ba-Ba-Ba-Ba-Bla-Babe-Babe-Babe-Babe-Babe-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba-Ba | ‘Babelia’ | Los diez libros de la semana en ‘Babelia’
+- [1385] | 1 | ‘Body | Body | ‘Body | ‘Body swap’: ¿por qué el intercambio de cuerpos sigue protagonizando historias en el cine?
+- [1386] | 1 | ‘heavy | Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happyd-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happyd-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-Happy-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H-H- | ‘heavy | Una transgresión existencial: la experiencia de escuchar ‘heavy metal’
+- [1387] | 1 | ‘influencer’ | Pentylinfluencerat | ‘influence’ | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [1388] | 1 | ‘Karate | Karate | ‘Karate | ‘Karate Kid’ o “una pequeña película que no importará a nadie”: un fenómeno cultural que vive 40 años después
+- [1389] | 1 | ‘Kilos | Kilos | ‘Kilos | Cuando pesas más de 200 kilos, bajar de peso implica trabajo colectivo: las historias de ‘Kilos Mortales México’
+- [1390] | 1 | ‘La | B. mit einem Gewicht von mehr als 1 kg, jedoch nicht mehr als 1 kg, | ‘The | El misterio de Freida McFadden, la médica de lesiones cerebrales que se convirtió en escritora superventas con ‘La asistenta’
+- [1391] | 1 | ‘Madrid | H-Nr.: | ‘Madrid | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [1392] | 1 | ‘Manolete’ | Manolete Hlaing | ‘Manolete’ | Muere Manuel Esteban ‘Manolete’, referente del periodismo deportivo, a los 68 años
+- [1393] | 1 | ‘Mi | "Mi" | ‘My | ‘Mi postre favorito’: deseo y humor negro bajo la losa del régimen de los ayatolás
+- [1394] | 1 | ‘riders’ | Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol-Styrol | ‘riders’ | Vídeo | ¿Quién protege a los ‘riders’ en Europa?
+- [1395] | 1 | ‘shock’ | HELIOSHOCK | ‘shock’ | Un potencial ‘shock’ económico pone en jaque los dividendos de 24 bancos europeos
+- [1396] | 1 | ‘The | "The" | ‘The | Disney llega a un acuerdo con Gina Carano, despedida de ‘The Mandalorian’ por sus comentarios sobre el Holocausto
+- [1397] | 1 | “ | HELIOS | “ | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [1398] | 1 | “Ahora | Jetzt! | “Now | Archivada la causa contra Nordin, el ‘influencer’ español con 500.000 seguidores detenido por supuesto yihadismo: “Ahora, ¿cómo se limpia esto?”
+- [1399] | 1 | “Cada | Alle | “Each | Frenesí de festivales veraniegos en la costa: “Cada ciudad quiere el suyo, es una norma no escrita”
+- [1400] | 1 | “Construir | Bauen | “Build | “Construir, construir y construir”: la receta de Alemania contra la crisis de vivienda cerca al aeropuerto de Tempelhof
+- [1401] | 1 | “este | Benzyloste | “This | El juez Peinado aparca en “este momento” la investigación sobre el rescate de Air Europa, pero abre la puerta a que se retome
+- [1402] | 1 | “Estudiar | Studieren | “Study | El palestino que defendió su tesis de la Universidad del País Vasco desde Cisjordania: “Estudiar puede ser una forma de resistencia”
+- [1403] | 1 | “Gallardón | GALILLADON | “Gallardon | Daniel P., autor de la cuenta ‘Madrid Decadente’: “Gallardón al menos tenía un modelo de ciudad, no como Almeida”
+- [1404] | 1 | “Hace | Tut es. | “It does | Manifestantes frente a la residencia de Netanyahu: “Hace mucho que no piensa en los rehenes, sino en salvarse a sí mismo”
+- [1405] | 1 | “Hasta | Bis | “Until | La presa de Buseo de la Generalitat que se desbordó en la dana: “Hasta que no ha habido muertos, no se le ha hecho caso”
+- [1406] | 1 | “Hay | HIER | “There is | Yolanda Pérez (Stage): “Hay mucha gente que está trayendo cosas que ni siquiera son musicales”
+- [1407] | 1 | “Las | Sehr häufig: | “The | Glenn Lowry, director del MoMa: “Las instituciones públicas deben estar al servicio del público”
+- [1408] | 1 | “Nuestro | Unser | “Our | “Nuestro conocimiento erótico nos fortalece”: el chat de mujeres que analizó el poder del desnudo
+- [1409] | 1 | “O | ÜBRIG | “O | La excanciller de Milei lo critica por el caso $Libra: “O no es muy inteligente o es una especie de corrupto”
+- [1410] | 1 | “Objetivo | Ziel | “Objective | Vox al PP en el tenso pleno que aprobó impedir las fiestas musulmanas en Jumilla: “Objetivo cumplido”
+- [1411] | 1 | “Ocho | 8 | “Eight | Antonio Barbeito, experto educativo: “Ocho semanas son suficientes para que los alumnos descansen”
+- [1412] | 1 | “pirata” | Benzylpyrata-Siloxan | “pirate” | Chema Alonso desata un conflicto en el fútbol tras fichar por el “pirata” enemigo de LaLiga
+- [1413] | 1 | “Pretty | Pretty | “Pretty | Blanca Lacasa, escritora: “Pretty Woman’ me parece una película de terror”
+- [1414] | 1 | “respeta | Benzylrepta | “respects | El PP catalán “respeta y comparte” la decisión de Jumilla de impedir dos celebraciones musulmanas
+- [1415] | 1 | “tipo | Typ | “type | Una pistola a presión “tipo Kärcher” a precio de ganga solo en AliExpress
+- [1416] | 1 | “Vamos | Komm schon. | “Come on | Seve González, alcaldesa de Jumilla: “Vamos a priorizar nuestras tradiciones y nuestra identidad”
+- [1417] | 1 | “¡Se | HELIOS (EVP-ED, D) Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EG) Nr. 1107/2009 des Europäischen Parlaments und des Rates über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1107/2009 des Europäischen Parlaments und des Rates über das Inverkehrbringen von Pflanzenschutzmitteln und zur Aufhebung der Verordnung (EG, Euratom) Nr. 1107/2009 des Europäischen Parlaments und des Rates (ABl. | “It | “¡Se lo suplico, Donald Trump. La gente va a morir!“: el recorte de fondos de USAID amenaza el avance de dos décadas de lucha contra la malaria en Guinea
+- [1418] | 1 | “¿Vienes | Kommst du? | “Do you come | “¿Vienes a la boda o no?”: la presión social y emocional por rechazar una invitación
