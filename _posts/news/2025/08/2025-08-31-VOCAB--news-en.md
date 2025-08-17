@@ -1,3128 +1,3250 @@
 ---
-title: "English vocab up to 2025-08-31: 3121"
+title: "English vocab up to 2025-08-31: 3243"
 date: 2025-08-31
 layout: post
 ---
 
 - id | count | en | de | es | fr | zh | example
-- [0000] | 446 | the | die | 排 | Donald Trump brokers a peace plan in the Caucasus
-- [0001] | 288 | to | zu | 至 | Still want to be a London cabbie?
-- [0002] | 267 | in | in der | 内 | Donald Trump brokers a peace plan in the Caucasus
-- [0003] | 228 | of | von | 联 联 年 月 日 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 月 日 月 的 月 月 月 日 月 月 日 月 的 月 月 月 月 日 月 月 月 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0004] | 200 | is | wird | 是 | Stablecoins: is this crypto’s big bang moment?
-- [0005] | 185 | and | und | 和 | Not all’s fair: Israel and accountability
-- [0006] | 172 | a | a | a a/ | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0007] | 153 | on | am | 上 年 月 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0008] | 145 | for | für | 用于 | Are nightmares bad for your health?
-- [0009] | 122 | Trump | Trump | 特朗 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0010] | 93 | with | mit | 与 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0011] | 82 | are | sie werden | 是 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0012] | 69 | Donald | Donald | 唐纳德·唐纳德 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0013] | 68 | from | von | 调自 | Shanxi province is struggling to diversify away from coal
-- [0014] | 64 | after | nach | 之后 | If America goes after India’s oil trade, China will benefit
-- [0015] | 64 | China’s | China | 中国的中国 | Savvy staff are moving from China’s nurseries to its care homes
-- [0016] | 63 | How | Wie | 如何如何 | Cover Story newsletter: How we chose the cover image
-- [0017] | 61 | new | neu | 新建新 | America’s fertility crash reaches a new low
-- [0018] | 60 | America | Amerika | 美洲美洲 | South America is fast becoming the world’s hottest oil patch
-- [0019] | 60 | at | bei | 至 年 | How to greet people at work
-- [0020] | 53 | trade | Handel | 贸易贸易贸易 | If America goes after India’s oil trade, China will benefit
-- [0021] | 51 | Germany | Deutschland | 德国 德国 | Germany calls for stronger international cooperation to implement the 2030 Agenda
-- [0022] | 50 | as | als | 计为 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0023] | 49 | world | Welt | 世界世界 | As the world focuses on Gaza, starvation also looms in Sudan
-- [0024] | 48 | China | China | 中国 中国 中国 中国 中国 中国 中国 | If America goes after India’s oil trade, China will benefit
-- [0025] | 47 | war | Krieg | 战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争 | Israeli sentiment on the war in Gaza is shifting
-- [0026] | 46 | its | und | 其 其 其 其 年 其 其 其 其 其 年 的 其 其 其 其 年 的 其 其 其 其 的 其 其 其 其 其 的 其 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 的 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 其 的 其 的 其 其 的 其 其 的 其 其 的 其 的 其 的 其 其 的 其 其 的 其 的 其 的 其 的 其 的 其 的 的 其 的 的 的 其 的 的 的 的 其 的 的 的 的  的 的 的 的 的 的 的 的 的 的 的 的 的 的 的  的 的 的 的 的 的 的 的 的     的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的     的  的 的 的 的 的 的 的                的          的 的 的 的              的      的 的 的 的 的 的      的 的 的 的 的 的 的   的 的 的  的 的 的     的 的 的 的 的 的 的 | Savvy staff are moving from China’s nurseries to its care homes
-- [0027] | 42 | cooperation | Zusammenarbeit | 合作合作 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0028] | 38 | over | Über | 超过 | Buy now, pay later is taking over the world. Good
-- [0029] | 38 | Trump’s | Trumps | 特朗普 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0030] | 37 | Ukraine | Ukraine | 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
-- [0031] | 36 | Minister | Minister | 部长部长,部长 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0032] | 36 | South | Süden | 南南 | South America is fast becoming the world’s hottest oil patch
-- [0033] | 35 | What | Was ist? | 什么什么是什么 是什么( What) 是什么( What) | What to watch this weekend
-- [0034] | 34 | markets | Märkte | 市场市场 | Economic data, commodities and markets
-- [0035] | 34 | will | wird | 会 | If America goes after India’s oil trade, China will benefit
-- [0036] | 33 | America’s | Amerikas | 美国的美国 | America’s barmy battle to ban bawdy books
-- [0037] | 32 | Alabali | Alabali | 阿拉巴利 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0038] | 32 | Development | Entwicklung | 发展、发展、发展、发展 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0039] | 32 | Radovan | Radovan | 拉多万 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0040] | 32 | Reem | Reem | Reeem  Reeem  Reeem 雷 Reeem | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0041] | 31 | Can | Dosen | 能 能够 | Can pensioners rescue China’s economy?
-- [0042] | 31 | US | ENTWICKLUNG | 美 美 美 | The US in brief: Donald Trump questions the count
-- [0043] | 30 | international | Veröffentlichungen der Europäischen Gemeinschaften | 国际国际 | Germany calls for stronger international cooperation to implement the 2030 Agenda
-- [0044] | 29 | deal | Abmachung | 发牌 | The trade deal with America shows the limits of the EU’s power
-- [0045] | 29 | economic | Wirtschaft | 经济、经济、 经济、 经济、 经济、 经济、 经济、 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0046] | 29 | more | mehr | 更多 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0047] | 29 | Why | Warum? | 为什么 | Why a fling with a foreigner insults China’s “national dignity”
-- [0048] | 28 | Conference | Konferenz | 缔约国会议会议会议会议会议会议举行会议会议会议举行会议会议举行会议会议举行会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议举行会议举行会议举行会议会议举行会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议会议会议会议会议举行会议举行会议召开 会议举行会议会议会议会议会议会议会议举行会议会议举行会议会议举行会议会议会议会议会议会议召开会议会议举行 会的会议会议会议 举行会议会议会议会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议召开 会的会议 举行 会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议厅会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
-- [0049] | 28 | German | Deutsch | 德语 德语 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0050] | 28 | life | Leben | 生命 | Xi Jinping’s city of the future is coming to life
-- [0051] | 28 | redistricting | Neueinschränkung | 重新划区 | Treasure map: Trump finds gold in redistricting
-- [0052] | 28 | Strengthen | Stärker werden | 加强 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0053] | 28 | want | wollen | 需要 | Still want to be a London cabbie?
-- [0054] | 27 | against | dagegen | 日 年 年 年 月 日 | Germany remains reliable partner in the fight against global diseases
-- [0055] | 26 | an | und | a , a , a , a , a , a | Alligator Alcatraz is an exercise in performative cruelty
-- [0056] | 26 | fight | Kampf | 战斗 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [0057] | 26 | tariffs | Tarife | 关税关税 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0058] | 25 | not | nicht | 否 | Provence is not just a destination. It is a lifestyle brand
-- [0059] | 24 | AI | GESUNDHEITSSCHUTZ | AI AI AI | Six months after DeepSeek’s breakthrough, China speeds on with AI
-- [0060] | 24 | you | Sie | 您 您 的 您 您 | The novels conservatives want you to read
-- [0061] | 23 | be | werden | be be be 的, 是 | Still want to be a London cabbie?
-- [0062] | 23 | between | zwischen | 之间 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
-- [0063] | 23 | now | Jetzt | 现在 | Buy now, pay later is taking over the world. Good
-- [0064] | 22 | breakthrough | Durchbruch | 中中点 | Six months after DeepSeek’s breakthrough, China speeds on with AI
-- [0065] | 22 | could | könnte | 能够 | Nayib Bukele could now rule El Salvador for life
-- [0066] | 22 | says | sagt | 说: | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0067] | 22 | Sustainability | Nachhaltigkeit | 可持续性 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
-- [0068] | 22 | that | das | ,该数额, | Uncovering the secret food trade that corrupts Iran’s neighbours
-- [0069] | 21 | homes | Wohnungen | 居家家庭 | Savvy staff are moving from China’s nurseries to its care homes
-- [0070] | 21 | into | in die | 与 | Biopolis – into the microbiome
-- [0071] | 21 | up | nach oben | 上上 | Japan’s dealmaking machine revs up
-- [0072] | 20 | Democrats | Sozialdemokraten | 民主民主党 | Democrats are likely to lose the redistricting war
-- [0073] | 20 | Israel | Israel | 以色列 以色列 | Not all’s fair: Israel and accountability
-- [0074] | 20 | out | aus | 外出 | AstraZeneca’s falling out with Britain
-- [0075] | 20 | Xi | WISSENSCHAFT | 习 习 习 习 | Xi Jinping’s city of the future is coming to life
-- [0076] | 19 | brief | kurz | 简简短 | The US in brief: Donald Trump questions the count
-- [0077] | 19 | cover | Abdeckung | 封面封面封面 | Cover Story newsletter: How we chose the cover image
-- [0078] | 19 | DC | Gleichstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselgenerator | DC DC | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
-- [0079] | 19 | his | sein | 排在《公约》 | Donald Trump escalates his war on numbers
-- [0080] | 19 | making | Herstellung | 制造 | “Comrade” is making a comeback in China
-- [0081] | 18 | about | über | 约约约 | What pro wrestlers in Chicago say about America
-- [0082] | 18 | calls | Anrufe | 调来电话 | Germany calls for stronger international cooperation to implement the 2030 Agenda
-- [0083] | 18 | deadline | Frist | 截止期限 | The looming deadline for the Panama Canal ports deal
-- [0084] | 18 | economy | Wirtschaft | 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 | Can pensioners rescue China’s economy?
-- [0085] | 18 | global | global | 全球环球 | Germany remains reliable partner in the fight against global diseases
-- [0086] | 18 | strategic | strategische | 战略战略战略 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0087] | 18 | through | bis | 中 中 中 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0088] | 17 | Africa | Afrika | 非洲 非洲 非洲 非洲 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0089] | 17 | all | alle | 全部( 全部) | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [0090] | 17 | American | amerikanisch | 美裔美国人 | American businesses are running out of ways to avoid tariff pain
-- [0091] | 17 | Canal | Kanal | 运河 | The looming deadline for the Panama Canal ports deal
-- [0092] | 17 | comeback | Comeback | 返回返回 | “Comrade” is making a comeback in China
-- [0093] | 17 | food | Lebensmittel | 食品食品 | Uncovering the secret food trade that corrupts Iran’s neighbours
-- [0094] | 17 | off | aus | 关闭 | China’s exporters shrug off the trade war—for now
-- [0095] | 17 | Panama | Panama | 巴拿马 巴拿马 | Panama brings lawfare to the canal ports saga
-- [0096] | 17 | ports | Häfen | 港口港口港口港口 | Panama brings lawfare to the canal ports saga
-- [0097] | 16 | across | gegenüber | 横横 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
-- [0098] | 16 | Gaza | Gaza | 加沙 | As the world focuses on Gaza, starvation also looms in Sudan
-- [0099] | 16 | it | Es wird | 其 其 年 , 其 年 , 其 年 , 其 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [0100] | 16 | rage | Wut | 愤怒 | Everyone loses in the rage of China’s delivery wars
-- [0101] | 16 | Statement | Erklärung | 声明声明声明声明声明 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
-- [0102] | 16 | this | diese | 这笔 | What to watch this weekend
-- [0103] | 16 | – | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - ~ ~ ~ ~ ~ | Biopolis – into the microbiome
-- [0104] | 15 | African | Afrikanisch | 非洲人非洲非洲人 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [0105] | 15 | energy | Energie | 能源能源 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0106] | 15 | looming | sich abzeichnend | 正在逼近 | The looming deadline for the Panama Canal ports deal
-- [0107] | 15 | loses | Verluste | 损失 | Everyone loses in the rage of China’s delivery wars
-- [0108] | 15 | most | die meisten | 多数 | Donald Trump’s redistricting ploy is politics at its most cynical
-- [0109] | 15 | move | Verschieben | 移动移动 | Trump will not let the world move on from tariffs
-- [0110] | 15 | plan | Plan | 计划计划 | Donald Trump brokers a peace plan in the Caucasus
-- [0111] | 15 | private | privat | 私立 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0112] | 15 | rescue | Rettung | 营救 | Can pensioners rescue China’s economy?
-- [0113] | 15 | say | sagen | 说 | What pro wrestlers in Chicago say about America
-- [0114] | 15 | secret | geheim | 密密秘密 | McDonald’s secret sauce—plus a pickle or two
-- [0115] | 15 | Should | Sollte | sh sh sh sh sh sh sh sh sh | Should you take collagen?
-- [0116] | 15 | shows | zeigt | 显示显示 | The trade deal with America shows the limits of the EU’s power
-- [0117] | 15 | since | seit | 自 | Melania Trump commemorates 200 days since resuming role as first lady
-- [0118] | 14 | Agenda | Tagesordnung | 议程项目议程议程议程议程议程议程 议程议程议程议程议程议程议程议程议程 议程议程议程 议程议程议程议程 议程议程议程 议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程 | Germany calls for stronger international cooperation to implement the 2030 Agenda
-- [0119] | 14 | aggression | Aggression | 侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
-- [0120] | 14 | benefits | Leistungen | 福利福利 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0121] | 14 | big | groß | 大 | Stablecoins: is this crypto’s big bang moment?
-- [0122] | 14 | Biopolis | Biopolis | 生物生物 | Biopolis – into the microbiome
-- [0123] | 14 | coming | Ich komme gleich. | 即将到来 | Xi Jinping’s city of the future is coming to life
-- [0124] | 14 | companies | Unternehmen | 公司公司 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0125] | 14 | data | Daten | 数据数据数据数据数据 | Economic data, commodities and markets
-- [0126] | 14 | delivery | Lieferung | 交付 | Everyone loses in the rage of China’s delivery wars
-- [0127] | 14 | diseases | Krankheiten | 疾病 疾病 疾病 疾病 | Germany remains reliable partner in the fight against global diseases
-- [0128] | 14 | Everyone | Jeder | 每个人 | Everyone loses in the rage of China’s delivery wars
-- [0129] | 14 | first | zuerst | 第一次 | How is Trump’s Brazil-bashing putting America first?
-- [0130] | 14 | formed | gebildet | 已经组成 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
-- [0131] | 14 | Growth | Wachstum | 增长 增长 增长 增长 增长 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0132] | 14 | Hamburg | ZEITSCHRIFTEN | 汉堡汉堡 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
-- [0133] | 14 | implement | Umsetzung | 执行执行 | Germany calls for stronger international cooperation to implement the 2030 Agenda
-- [0134] | 14 | input | Eingabe | 输入输入输入 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
-- [0135] | 14 | Japan’s | Japans | 日本的日本 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0136] | 14 | KfW | KfW | KfW KfW | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0137] | 14 | loan | Darlehen | 贷款贷款贷款 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0138] | 14 | microbiome | Mikrobiom | 微生物 | Biopolis – into the microbiome
-- [0139] | 14 | municipal | Gemeinde | 市市市 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
-- [0140] | 14 | National | Mitgliedstaat | 本国 本国 | The National Park Service is in disarray
-- [0141] | 14 | newsletter | Mitteilungsblatt | 通讯通讯 | Cover Story newsletter: How we chose the cover image
-- [0142] | 14 | opportunities | Chancen | 机会机会 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0143] | 14 | participants | Teilnehmer | 参加者 参加者 参加者 参加者 参加者 参加者 参加者 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
-- [0144] | 14 | partner | Partner | 伙伴伙伴 | Germany remains reliable partner in the fight against global diseases
-- [0145] | 14 | partnership | Partnerschaft | 伙伴关系伙伴关系伙伴关系 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
-- [0146] | 14 | partnerships | Partnerschaften | 伙伴关系伙伴关系伙伴关系 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
-- [0147] | 14 | pensioners | Rentner | 养恤金领取者养恤金领取者 | Can pensioners rescue China’s economy?
-- [0148] | 14 | police | Polizei | 警 警 警 警察 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [0149] | 14 | provide | zur Verfügung stellen | 提供 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
-- [0150] | 14 | Putin | Putin | 普京 | The summit of its parts: Ukraine, Trump and Putin
-- [0151] | 14 | Recovery | Rückforderung | 恢复 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
-- [0152] | 14 | reliable | zuverlässig | 可靠 | Germany remains reliable partner in the fight against global diseases
-- [0153] | 14 | remains | bleibt | 遗骸 | Germany remains reliable partner in the fight against global diseases
-- [0154] | 14 | renewable | erneuerbar | 可再生 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
-- [0155] | 14 | Russia’s | Russlands | 俄罗斯的俄罗斯 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
-- [0156] | 14 | start | Anfang | 开始 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
-- [0157] | 14 | stronger | stärker | 更强 | Germany calls for stronger international cooperation to implement the 2030 Agenda
-- [0158] | 14 | wars | Kriege | 战争战争的战争、战争和战争的战争 | Everyone loses in the rage of China’s delivery wars
-- [0159] | 14 | your | Ihre | 贵国的 | Are nightmares bad for your health?
-- [0160] | 14 | “Comrade” | ,Genossen , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , | “同志” | “Comrade” is making a comeback in China
-- [0161] | 13 | by | von | 至 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [0162] | 13 | care | Pflege | 护理护理 | Savvy staff are moving from China’s nurseries to its care homes
-- [0163] | 13 | city | Stadt | 城市城市 | Xi Jinping’s city of the future is coming to life
-- [0164] | 13 | Closing | Schließung | 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0165] | 13 | developing | Entwicklung | 发展中发展中国家 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0166] | 13 | economies | Wirtschaft | 经济经济体 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0167] | 13 | emerging | sich abzeichnend | 新兴 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0168] | 13 | has | hat | 拥有 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [0169] | 13 | investment | Investitionen | 投资投资投资 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0170] | 13 | mobilize | mobilisieren | 调动调动 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0171] | 13 | pain | Schmerzen | 疼痛疼痛 | American businesses are running out of ways to avoid tariff pain
-- [0172] | 13 | pay | Bezahlung | 薪资 | The Elon Musk theory of pay
-- [0173] | 13 | peace | Frieden | 和平、和平、和平、和平 | Donald Trump brokers a peace plan in the Caucasus
-- [0174] | 13 | power | Leistung | 功电 | The trade deal with America shows the limits of the EU’s power
-- [0175] | 13 | star | Stern | 恒星星 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [0176] | 13 | state | Zustand | 状态状态状态状态 | Australian state rolls out machete ‘disposal bins’ ahead of ban
-- [0177] | 13 | sustainable | nachhaltig | 可持续的可持续 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
-- [0178] | 13 | years | Jahre | 年份 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [0179] | 12 | Britain | Großbritannien | 英国 英国 | Pascal Soriot, the pharma titan tiring of Britain
-- [0180] | 12 | health | Gesundheit | 健康健康 健康 健康 健康 健康 健康 健康 健康 健康 健康 | Are nightmares bad for your health?
-- [0181] | 12 | just | nur | 只是 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0182] | 12 | lose | verlieren | 损失 | Democrats are likely to lose the redistricting war
-- [0183] | 12 | moving | Bewegt sich | 移动 | Savvy staff are moving from China’s nurseries to its care homes
-- [0184] | 12 | nurseries | Baumschulen | 托儿所 | Savvy staff are moving from China’s nurseries to its care homes
-- [0185] | 12 | Savvy | Ausgelaugt | 扎维 | Savvy staff are moving from China’s nurseries to its care homes
-- [0186] | 12 | staff | Personal | 工作人员 工作人员 | Savvy staff are moving from China’s nurseries to its care homes
-- [0187] | 12 | take | Nehmen | 采取 | Should you take collagen?
-- [0188] | 12 | Texas | WIRTSCHAFTSZWEIG | 得克萨斯州 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [0189] | 12 | than | als | 大于 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0190] | 12 | Trump's | Trumps | 特朗的 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
-- [0191] | 12 | was | wurde | 原为 | Who was Cecil Rhodes?
-- [0192] | 12 | Who | Wer | 谁是谁 | Who was Cecil Rhodes?
-- [0193] | 11 | away | Weg! | 离开 | Shanxi province is struggling to diversify away from coal
-- [0194] | 11 | commodities | Waren | 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 | Economic data, commodities and markets
-- [0195] | 11 | corrupts | Korrupte | 腐败 | Uncovering the secret food trade that corrupts Iran’s neighbours
-- [0196] | 11 | elusive | schwer fassbar | 不详 | Xi Jinping is growing more elusive
-- [0197] | 11 | exporters | Ausführer | 出口商 出口商 | China’s exporters shrug off the trade war—for now
-- [0198] | 11 | former | früherer | 原 | Álvaro Uribe, a former president of Colombia, is convicted
-- [0199] | 11 | future | Zukunft | 未来 | Xi Jinping’s city of the future is coming to life
-- [0200] | 11 | Good | Sehr gut. | 好 | Buy now, pay later is taking over the world. Good
-- [0201] | 11 | growing | wächst | 生长中 | Xi Jinping is growing more elusive
-- [0202] | 11 | Iran’s | Irans | 伊朗 | Uncovering the secret food trade that corrupts Iran’s neighbours
-- [0203] | 11 | Jinping | Jinping. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 近平 | Xi Jinping is growing more elusive
-- [0204] | 11 | months | Monate | 月数 | Six months after DeepSeek’s breakthrough, China speeds on with AI
-- [0205] | 11 | neighbours | Nachbarn | 邻居 | Uncovering the secret food trade that corrupts Iran’s neighbours
-- [0206] | 11 | oil | Öl | 石油油油 | South America is fast becoming the world’s hottest oil patch
-- [0207] | 11 | Park | Parking | 公园公园 | The National Park Service is in disarray
-- [0208] | 11 | risk | Risiko | 风险风险风险 | Want better returns? Forget risk. Focus on fear
-- [0209] | 11 | shrug | Zucken | 摇摇 | China’s exporters shrug off the trade war—for now
-- [0210] | 11 | Story | Geschichte | 故事故事 | Cover Story newsletter: How we chose the cover image
-- [0211] | 11 | taking | Nehmen | 采取 | Buy now, pay later is taking over the world. Good
-- [0212] | 11 | tariff | Tarif | 关税关税关税 | America’s tariff avalanche catches Switzerland unawares
-- [0213] | 11 | Uncovering | Entdecken | 发现覆盖 | Uncovering the secret food trade that corrupts Iran’s neighbours
-- [0214] | 11 | war—for | Krieg — für | 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- | China’s exporters shrug off the trade war—for now
-- [0215] | 10 | before | Vorher | 之前 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [0216] | 10 | dignity” | Würde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 尊严” | Why a fling with a foreigner insults China’s “national dignity”
-- [0217] | 10 | during | während | 期间 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [0218] | 10 | Europe | Europa | 欧洲 欧洲 | Europe averts its Trumpian trade nightmare
-- [0219] | 10 | European | Europäische | 欧 欧 欧 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0220] | 10 | EU’s | EU-Länder | 欧盟的欧盟 | The trade deal with America shows the limits of the EU’s power
-- [0221] | 10 | fling | Fling | 射击 | Why a fling with a foreigner insults China’s “national dignity”
-- [0222] | 10 | foreigner | Ausländer | 外国人 | Why a fling with a foreigner insults China’s “national dignity”
-- [0223] | 10 | Forget | Vergessen | 忘记 | Want better returns? Forget risk. Focus on fear
-- [0224] | 10 | have | haben | 拥有 | Tipping scales: justice for Gaza will have to come from within Israel
-- [0225] | 10 | he | er | 世 世 世 世 世 世 世 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0226] | 10 | her | sie |  | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [0227] | 10 | insults | Beleidigungen | 侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性 | Why a fling with a foreigner insults China’s “national dignity”
-- [0228] | 10 | let | lassen | 计( 计) | Trump will not let the world move on from tariffs
-- [0229] | 10 | limits | Grenzwerte | 限制限额 | The trade deal with America shows the limits of the EU’s power
-- [0230] | 10 | Mamdani | Mamdani | 曼达尼 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [0231] | 10 | politics | Politik | 政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治 | Donald Trump’s redistricting ploy is politics at its most cynical
-- [0232] | 10 | president | Präsident | 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 | Álvaro Uribe, a former president of Colombia, is convicted
-- [0233] | 10 | returns | Renditen | 返回返回返回 | Want better returns? Forget risk. Focus on fear
-- [0234] | 10 | Service | Dienstleistung | 服务处 | The National Park Service is in disarray
-- [0235] | 10 | summit | Gipfel | 首脑会议首脑首脑首脑首脑首脑首脑首脑首脑会议 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0236] | 10 | we | wir | 我们 | Cover Story newsletter: How we chose the cover image
-- [0237] | 10 | “national | Landesweit | “国家 | Why a fling with a foreigner insults China’s “national dignity”
-- [0238] | 9 | -year-old | -Jährling | - 年 岁 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [0239] | 9 | Alcatraz | Alcatraz | 恶魔 | Alligator Alcatraz is an exercise in performative cruelty
-- [0240] | 9 | Alligator | Alligator | 鳄鳄鳄 | Alligator Alcatraz is an exercise in performative cruelty
-- [0241] | 9 | another | eine andere | 另一个 | The US in brief: Another deadline, another delay
-- [0242] | 9 | better | besser | 更好 | Want better returns? Forget risk. Focus on fear
-- [0243] | 9 | Brazil-bashing | Brasilien-Bashing | 巴西打碎巴西 | How is Trump’s Brazil-bashing putting America first?
-- [0244] | 9 | cancer | Krebs | 癌症癌症 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [0245] | 9 | Chinese | Chinesisch | 中文 中文 中文 | America is coming after Chinese it accuses of hacking
-- [0246] | 9 | chose | gewählt | 选定 | Cover Story newsletter: How we chose the cover image
-- [0247] | 9 | coal | Kohle | 煤炭 | Shanxi province is struggling to diversify away from coal
-- [0248] | 9 | cruelty | Grausamkeit | 残忍、残忍、残忍、残忍、残忍、 | Alligator Alcatraz is an exercise in performative cruelty
-- [0249] | 9 | cynical | zynisch | 玩世不恭 | Donald Trump’s redistricting ploy is politics at its most cynical
-- [0250] | 9 | decisions | Entscheidungen | 决 决 决 决 决 决 决 决 决 决 决 决 决 决 | An economist’s guide to big life decisions
-- [0251] | 9 | DeepSeek’s | Deepseek | " 深寻求 " 组织 | Six months after DeepSeek’s breakthrough, China speeds on with AI
-- [0252] | 9 | disarray | Unordnung | 混乱 | The National Park Service is in disarray
-- [0253] | 9 | disenchantment | Ernüchterung | 幻灭 | MAGA’s disenchantment with Israel
-- [0254] | 9 | diversify | Diversifizierung | 多样化 | Shanxi province is struggling to diversify away from coal
-- [0255] | 9 | economist’s | Ökonomen | 经济学家 | An economist’s guide to big life decisions
-- [0256] | 9 | exercise | Ausübung | 练习练习 | Alligator Alcatraz is an exercise in performative cruelty
-- [0257] | 9 | fear | Angst | 恐惧 | Want better returns? Forget risk. Focus on fear
-- [0258] | 9 | Focus | Schwerpunkt | 焦点 | Want better returns? Forget risk. Focus on fear
-- [0259] | 9 | GOP | VORSCHRIFTEN | 保 制 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [0260] | 9 | guide | Leitfaden | 指南指南指南指南指南 | An economist’s guide to big life decisions
-- [0261] | 9 | Hamas | Hamas | 哈马斯 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [0262] | 9 | helping | Hilfe | 帮助帮助 | Modular homes are helping LA’s wildfire survivors rebuild
-- [0263] | 9 | House | Haus | 众议院 众议院 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [0264] | 9 | image | Bild | 图像图像图像图像 | Cover Story newsletter: How we chose the cover image
-- [0265] | 9 | Jinping’s | Jinpings | " 近平 " 的 | Xi Jinping’s city of the future is coming to life
-- [0266] | 9 | later | später | 后来 | Buy now, pay later is taking over the world. Good
-- [0267] | 9 | LA’s | RECHTSSACHEN | LLA的LA | Modular homes are helping LA’s wildfire survivors rebuild
-- [0268] | 9 | MAGA’s | MAPAS | MAMAMAMAMAMAMAMA MAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMA | MAGA’s disenchantment with Israel
-- [0269] | 9 | Modular | Modular | 模块 | Modular homes are helping LA’s wildfire survivors rebuild
-- [0270] | 9 | murder | Mord | 谋杀 谋杀 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [0271] | 9 | one | eins | 1个 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
-- [0272] | 9 | performative | performativ | 体 体 体 体 体 性 | Alligator Alcatraz is an exercise in performative cruelty
-- [0273] | 9 | ploy | Beschäftigung | 计谋 | Donald Trump’s redistricting ploy is politics at its most cynical
-- [0274] | 9 | province | Provinz | 省 省 省 省 省 省 省 省 | Shanxi province is struggling to diversify away from coal
-- [0275] | 9 | putting | Putting | 将 | How is Trump’s Brazil-bashing putting America first?
-- [0276] | 9 | rebuild | Wiederaufbau | 重建重建 | Modular homes are helping LA’s wildfire survivors rebuild
-- [0277] | 9 | reveals | zeigt an | 外露 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [0278] | 9 | sanctions | Sanktionen | 制裁制裁 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0279] | 9 | Shanxi | Shanxi | 掸西省 | Shanxi province is struggling to diversify away from coal
-- [0280] | 9 | Six | Sechs | 六六 | Six months after DeepSeek’s breakthrough, China speeds on with AI
-- [0281] | 9 | solutions | Lösungen | 解决方案 | Germany lobbies for sustainability and multilateral solutions
-- [0282] | 9 | speeds | Geschwindigkeiten | 速度 | Six months after DeepSeek’s breakthrough, China speeds on with AI
-- [0283] | 9 | struggling | Kämpfen | 挣扎 | Shanxi province is struggling to diversify away from coal
-- [0284] | 9 | survivors | Überlebende | 幸存者幸存者 | Modular homes are helping LA’s wildfire survivors rebuild
-- [0285] | 9 | suspect | Verdächtiger | 可疑嫌疑人 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [0286] | 9 | th | n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n | 第 月 月 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [0287] | 9 | their | deren | 他们的 | Japan’s carmakers are trying to tinker their way out of tariff pain
-- [0288] | 9 | warns | warnt | 警告警告 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [0289] | 9 | watch | Uhr | 观察观察 | What to watch this weekend
-- [0290] | 9 | weekend | Wochenende | 周末周末 | What to watch this weekend
-- [0291] | 9 | wildfire | Waldbrände | 野火 | Modular homes are helping LA’s wildfire survivors rebuild
-- [0292] | 9 | world’s | Welt | 在世界任何地区人权和基本自由 | South America is fast becoming the world’s hottest oil patch
-- [0293] | 8 | Arctic | Arktis | 北极北极 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
-- [0294] | 8 | artificial | künstlich | 人工人工造 | OpenAI’s latest step towards advanced artificial intelligence
-- [0295] | 8 | Buy | Kaufen | 买买 | Buy now, pay later is taking over the world. Good
-- [0296] | 8 | dealmaking | Handel und Dienstleistungen | 交易 | Japan’s dealmaking machine revs up
-- [0297] | 8 | Democratic | Demokratisch | 民主民主民主 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
-- [0298] | 8 | found | gefunden | 已找到 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0299] | 8 | Harvard | L 347 vom 20.12.2013, S. 671. | 哈佛 | What Donald Trump is teaching Harvard
-- [0300] | 8 | hit | getroffen | 中弹 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [0301] | 8 | housing | Wohnen | 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 | America’s housing market is shuddering
-- [0302] | 8 | If | Wenn | 如果(如果) | If America goes after India’s oil trade, China will benefit
-- [0303] | 8 | John | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 约翰·约翰 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [0304] | 8 | leaders | Führer | 领导人领导人 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0305] | 8 | lobbies | Lobbies | 圆圈 | Germany lobbies for sustainability and multilateral solutions
-- [0306] | 8 | multilateral | Multilaterale | 多边多边多边 | Germany lobbies for sustainability and multilateral solutions
-- [0307] | 8 | next | Nächster | 下一个 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [0308] | 8 | Russia | Frankreich | 俄罗斯 俄罗斯 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0309] | 8 | teaching | Unterricht | 教学 | What Donald Trump is teaching Harvard
-- [0310] | 8 | Test | Prüfung | 测试测试测试 | Can Test cricket survive a sticky wicket?
-- [0311] | 8 | under | unter | 下 下 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [0312] | 8 | writes | schreibt | 写入 | The far north has become NATO’s soft underbelly, writes John Bolton
-- [0313] | 8 | York | L 347 vom 20.12.2013, S. 671. | 纽约,纽约 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
-- [0314] | 7 | ' | " | ' ' | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [0315] | 7 | again” | Noch einmal. | ” 复数” | Deadheads hope to “make America grateful again”
-- [0316] | 7 | amid | in der Mitte | 中间 | Russia drops missile deployment moratorium amid tensions with Trump admin
-- [0317] | 7 | arrested | Verhaftet | 被捕人数 | Video shows Arkansas hiking murder suspect arrested mid-haircut
-- [0318] | 7 | back | zurück | 后退 | Schwarzenegger pushing back against Newsom redistricting bid in California
-- [0319] | 7 | battle | Kampf | 战斗战斗 | America’s barmy battle to ban bawdy books
-- [0320] | 7 | benefit | Nutzen | 养恤金福利 | If America goes after India’s oil trade, China will benefit
-- [0321] | 7 | career | Beruf | 职业 | Female police officer leaps into water, fights career criminal before making arrest, video shows
-- [0322] | 7 | claims | Forderungen | 索偿 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [0323] | 7 | court | Gericht | 法院法院 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [0324] | 7 | crash | Absturz | 崩溃崩溃 | America’s fertility crash reaches a new low
-- [0325] | 7 | DAVID | DAVID | 大卫 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
-- [0326] | 7 | days | Tage | 天天 | Melania Trump commemorates 200 days since resuming role as first lady
-- [0327] | 7 | Deadheads | Totenköpfe | 死头人 | Deadheads hope to “make America grateful again”
-- [0328] | 7 | deeper | tiefer | 深层 | On Ukraine’s front lines the kill zone is getting deeper
-- [0329] | 7 | Dems | Abschreibungen | 度量单位 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [0330] | 7 | Despite | Trotz | 尽管如此,尽管 | Despite double dissent, Jerome Powell retains his hold on markets
-- [0331] | 7 | drug | Arzneimittel | 毒品 毒品 | America’s drug regulator is in turmoil
-- [0332] | 7 | escalates | Eskalate | 升级 | Donald Trump escalates his war on numbers
-- [0333] | 7 | face | Gesicht | 脸面 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [0334] | 7 | finds | Funde | 找寻 | Treasure map: Trump finds gold in redistricting
-- [0335] | 7 | game | Spiel | 游戏游戏游戏 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [0336] | 7 | goes | geht | 继续 | If America goes after India’s oil trade, China will benefit
-- [0337] | 7 | grateful | dankbar | 感激感激感激感激 感激 | Deadheads hope to “make America grateful again”
-- [0338] | 7 | help | Hilfe | 帮助帮助帮助 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0339] | 7 | hold | Halten | 搁置搁置 | Despite double dissent, Jerome Powell retains his hold on markets
-- [0340] | 7 | Hollywood | Hollywood | 好好莱坞 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [0341] | 7 | hope | Hoffnung | 希望希望 | Deadheads hope to “make America grateful again”
-- [0342] | 7 | justice | Gerechtigkeit | 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 | A little poetic justice for Donald Trump
-- [0343] | 7 | likely | wahrscheinlich | 可能 | Democrats are likely to lose the redistricting war
-- [0344] | 7 | lost | verloren | 损失损失 | How McKinsey lost its edge
-- [0345] | 7 | machine | Maschine | 机 机 机 机 | Japan’s dealmaking machine revs up
-- [0346] | 7 | market | Markt | 市场市场 | America’s housing market is shuddering
-- [0347] | 7 | nuclear | Kernkraft | 核 | Strategic shift: the third nuclear era
-- [0348] | 7 | numbers | Zahlen | 数号数 | Donald Trump escalates his war on numbers
-- [0349] | 7 | or | oder | 或 | McDonald’s secret sauce—plus a pickle or two
-- [0350] | 7 | people | Menschen | 人 人 人 人 人 人 人 人 | How to greet people at work
-- [0351] | 7 | revs | Drehzahl | revs 复数 | Japan’s dealmaking machine revs up
-- [0352] | 7 | sex | Geschlecht | 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [0353] | 7 | shuddering | Schaudern | 颤抖 | America’s housing market is shuddering
-- [0354] | 7 | takes | nimmt | 以 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
-- [0355] | 7 | Tom | Tom | 汤姆 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [0356] | 7 | top | nach oben | 顶上 | France’s top general says Russia could attack in five years
-- [0357] | 7 | Trumpian | Trumpian | 特朗普语Name | Europe averts its Trumpian trade nightmare
-- [0358] | 7 | winning | Gewinnen | 中赢 | Donald Trump thinks he’s winning on trade, but America will lose
-- [0359] | 7 | “make | Herstellung | “ | Deadheads hope to “make America grateful again”
-- [0360] | 6 | accuses | wirft vor | 指控 | America is coming after Chinese it accuses of hacking
-- [0361] | 6 | arrest | Festnahme | 逮捕和逮捕 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [0362] | 6 | ban | Verbot | 禁止禁止 | America’s barmy battle to ban bawdy books
-- [0363] | 6 | books | Bücher | 书本 | America’s barmy battle to ban bawdy books
-- [0364] | 6 | Brazil | Frankreich | 巴西 巴西 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0365] | 6 | but | aber | 但是,但 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [0366] | 6 | case | Rechtssache | 个案数 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [0367] | 6 | Chicago | Chicago (Vereinigtes Königreich) | 芝加哥 | What pro wrestlers in Chicago say about America
-- [0368] | 6 | children | Kinder | 儿 儿 儿 儿 儿 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [0369] | 6 | crime | Verbrechen | 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [0370] | 6 | down | unten | 向下下下 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [0371] | 6 | El | ENTWICKLUNG | 埃尔 | Nayib Bukele could now rule El Salvador for life
-- [0372] | 6 | fertility | Fertilität | 生育率 | America’s fertility crash reaches a new low
-- [0373] | 6 | firm | Unternehmen | 实数 | Can a home-grown telecoms firm connect South Sudan to the world?
-- [0374] | 6 | gets | bekommt | 获得 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [0375] | 6 | gold | Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold | 金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金 | Treasure map: Trump finds gold in redistricting
-- [0376] | 6 | great | Großartig. | 伟大 | Sydney Sweeney jeans controversy making advertising great again
-- [0377] | 6 | India’s | Indien | 印度 | If America goes after India’s oil trade, China will benefit
-- [0378] | 6 | interview | Interview | 面试 | Justice Department weighs release of Ghislaine Maxwell interview
-- [0379] | 6 | latest | letzte | 最新最新 | OpenAI’s latest step towards advanced artificial intelligence
-- [0380] | 6 | look | Sehen Sie. | 外观 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [0381] | 6 | low | niedrig | 低 | America’s fertility crash reaches a new low
-- [0382] | 6 | Man | Mensch | 马 马 马 马 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [0383] | 6 | McKinsey | McKinsey | 麦金西 | Consultant management: McKinsey loses its shine
-- [0384] | 6 | might | könnte | 中 | Christie Brinkley admits forever might be too long for modern marriage
-- [0385] | 6 | moment | Moment | 瞬间 | Stablecoins: is this crypto’s big bang moment?
-- [0386] | 6 | NATO’s | NATOs | 北约组织 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0387] | 6 | nightmare | Albtraum | 恶梦恶梦 | Europe averts its Trumpian trade nightmare
-- [0388] | 6 | reaches | erreicht | 达到的 | America’s fertility crash reaches a new low
-- [0389] | 6 | regulator | Regulator | 监管者 | America’s drug regulator is in turmoil
-- [0390] | 6 | second | Zweiter | 第二次 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
-- [0391] | 6 | system | System | 系统系统系统 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [0392] | 6 | turmoil | Turbulenzen | 动乱 | America’s drug regulator is in turmoil
-- [0393] | 6 | two | Zwei | 二 | McDonald’s secret sauce—plus a pickle or two
-- [0394] | 6 | viral | virale | 病毒 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [0395] | 6 | Washington | RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — URTEIL | 华盛顿华盛顿 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
-- [0396] | 6 | way | Art und Weise | 方形 | The largest dig in a lifetime is under way in Pompeii
-- [0397] | 6 | week | Woche | 每周每周 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
-- [0398] | 6 | well | Na schön. | 好 | The humble tomato salad holds lessons for how to eat well
-- [0399] | 6 | wrong | falsch | 错误 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [0400] | 5 | admin | Verwaltungsroutine | 管理员 | Russia drops missile deployment moratorium amid tensions with Trump admin
-- [0401] | 5 | admits | zugibt | 承认入学 | Christie Brinkley admits forever might be too long for modern marriage
-- [0402] | 5 | again | Noch mal. | 再次再次 | Sydney Sweeney jeans controversy making advertising great again
-- [0403] | 5 | arrests | Festnahmen | 逮捕、逮捕、逮捕、 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
-- [0404] | 5 | attack | Angriff | 攻击攻击 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [0405] | 5 | averts | Abwendungen | 避免置换 | Europe averts its Trumpian trade nightmare
-- [0406] | 5 | banking’s | Banken | 银行银行 | The deeper reason for banking’s retreat
-- [0407] | 5 | bark | Rinde | 树皮树皮 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0408] | 5 | beach | Strand | 海滩海滩 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
-- [0409] | 5 | best | am besten | 最佳 | 7 best low-carb beers that are also big on flavor, according to new ranking
-- [0410] | 5 | bite | Bissen | 咬 咬 咬 咬 | Donald Trump’s tariffs on Brazil are more bark than bite
-- [0411] | 5 | boss | Chef | 老板( 老板) | Artificial intelligentsia: an interview with the boss of Anthropic
-- [0412] | 5 | brings | bringt | 带带 | Panama brings lawfare to the canal ports saga
-- [0413] | 5 | California | Kalifornien | 加利福尼亚州 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [0414] | 5 | Caucasus | Kaukasus | 高加索 | Donald Trump brokers a peace plan in the Caucasus
-- [0415] | 5 | Cincinnati | Cincinnati | 辛辛那提 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [0416] | 5 | conservatives | Konservative | 稳 稳 稳 稳 | The novels conservatives want you to read
-- [0417] | 5 | culture | Kultur | 文化文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化 | Denzel Washington blasts cancel culture, says faith matters more than followers
-- [0418] | 5 | destination | Bestimmung | 目的地 | Provence is not just a destination. It is a lifestyle brand
-- [0419] | 5 | disaster-relief | Katastrophenrelief | 救灾救灾 | America is remaking its disaster-relief system
-- [0420] | 5 | dissent | Dissens | 异议 | Despite double dissent, Jerome Powell retains his hold on markets
-- [0421] | 5 | DOJ | ENTSCHLIESSUNG | 司法部 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [0422] | 5 | double | Doppelt | 双双 | Despite double dissent, Jerome Powell retains his hold on markets
-- [0423] | 5 | eat | Essen | 食 食 食 食 | The humble tomato salad holds lessons for how to eat well
-- [0424] | 5 | end | Ende | 结束 | The end of the second world war
-- [0425] | 5 | falling | fallend | 下降 | AstraZeneca’s falling out with Britain
-- [0426] | 5 | federal | föderal | 联邦联邦 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
-- [0427] | 5 | feeling | Gefühl | 感觉感觉 | Who’s feeling the pain of Trump’s tariffs?
-- [0428] | 5 | financial | Finanzdienstleistungen | 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 | A fresh retail-trading frenzy is reshaping financial markets
-- [0429] | 5 | Foreign | Ausländische | 外国 外国 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
-- [0430] | 5 | frenzy | Raserei | 疯狂 | A fresh retail-trading frenzy is reshaping financial markets
-- [0431] | 5 | fresh | frisch | 新鲜 | A fresh retail-trading frenzy is reshaping financial markets
-- [0432] | 5 | governor | Gouverneur | 州长 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [0433] | 5 | governors | Gouverneure | 省长 省长 | American governors are split over how to handle Donald Trump
-- [0434] | 5 | hacking | Hacken | 黑 黑 黑 黑 | America is coming after Chinese it accuses of hacking
-- [0435] | 5 | handle | Griff | 控件 | American governors are split over how to handle Donald Trump
-- [0436] | 5 | ICE | INSGESAMT | 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰  冰 冰 冰 冰 冰 冰   冰 冰 冰   冰  冰   冰      冰  冰      冰 冰 冰   冰           冰    冰       冰            冰 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
-- [0437] | 5 | illegal | illegal | 非法非法 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
-- [0438] | 5 | immigrants | Einwanderer | 移民移民移民 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
-- [0439] | 5 | immigration | Einwanderung | 移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [0440] | 5 | Inside | Im Inneren | 内 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
-- [0441] | 5 | Jerome | Hieronymus | 杰罗姆 | Despite double dissent, Jerome Powell retains his hold on markets
-- [0442] | 5 | killed | getötet | 死亡人数 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [0443] | 5 | little | wenig | 小 | A little poetic justice for Donald Trump
-- [0444] | 5 | London | L 347 vom 20.12.2013, S. 671. | 伦敦伦敦 | Still want to be a London cabbie?
-- [0445] | 5 | many | viele | 多个 多个 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [0446] | 5 | media | Medien | 媒体媒体 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [0447] | 5 | News | Nachrichten | 新闻新闻新闻新闻 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [0448] | 5 | owner | Eigentümer | 拥有者( 拥有者) | Hello Kitty’s owner is purring contentedly
-- [0449] | 5 | Pascal | Pascal | 帕斯派( Pascal) | Pascal Soriot, the pharma titan tiring of Britain
-- [0450] | 5 | pharma | Pharmazeutische Erzeugnisse | 药药 | Pascal Soriot, the pharma titan tiring of Britain
-- [0451] | 5 | Powell | Powell | 鲍威尔 | Despite double dissent, Jerome Powell retains his hold on markets
-- [0452] | 5 | pro | pro | 现 物 | What pro wrestlers in Chicago say about America
-- [0453] | 5 | probe | Sonde | 探测器 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [0454] | 5 | questions | Fragen | 问 问 问 问 问 问 问 问 问题 | The US in brief: Donald Trump questions the count
-- [0455] | 5 | read | gelesen | 读为 | The novels conservatives want you to read
-- [0456] | 5 | reason | Begründung | 原因原因原因 | The deeper reason for banking’s retreat
-- [0457] | 5 | remaking | Neugestaltung | 重建再造 | America is remaking its disaster-relief system
-- [0458] | 5 | report | Bericht | 报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [0459] | 5 | reshaping | Neugestaltung | 重整 | A fresh retail-trading frenzy is reshaping financial markets
-- [0460] | 5 | retail-trading | Einzelhandel | 零售零售贸易 | A fresh retail-trading frenzy is reshaping financial markets
-- [0461] | 5 | retains | behält | 保留保留 | Despite double dissent, Jerome Powell retains his hold on markets
-- [0462] | 5 | retreat | Rückzug | 撤退后退 | The deeper reason for banking’s retreat
-- [0463] | 5 | Room | Zimmer | 会议室 会议室会议室 | The War Room newsletter: How receiving aid became fatal in Gaza
-- [0464] | 5 | Ryan | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 瑞安 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0465] | 5 | Salvador | L 347 vom 20.12.2013, S. 671. | 萨尔瓦多 萨尔瓦多 | Nayib Bukele could now rule El Salvador for life
-- [0466] | 5 | savage | Wild | 野蛮 | A savage squabble between China and Europe
-- [0467] | 5 | school | Schule | 学校 学校 | Texas company creates drones to confront school shooters in seconds
-- [0468] | 5 | Senate | Senat | 参议院 参议院 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [0469] | 5 | shift | Schicht | 移动 | Strategic shift: the third nuclear era
-- [0470] | 5 | Soriot | Soriot | 静水 | Pascal Soriot, the pharma titan tiring of Britain
-- [0471] | 5 | Space | Raum | 空间空间空间空间空间 | US Space Command is preparing for satellite-on-satellite combat
-- [0472] | 5 | split | aufgeteilt | 拆分 | American governors are split over how to handle Donald Trump
-- [0473] | 5 | spotlight | fokussierung | 聚聚焦点 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [0474] | 5 | squabble | squabble | 二次曲线 | A savage squabble between China and Europe
-- [0475] | 5 | Sudan | Sudan | 苏丹 苏丹 苏丹 苏丹 苏丹 苏丹 | As the world focuses on Gaza, starvation also looms in Sudan
-- [0476] | 5 | swing | Schaukeln | 摇摆 | State swing: recognising Palestine
-- [0477] | 5 | T | T . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | T T T T T | The US in brief: T for Texas, T for truancy
-- [0478] | 5 | third | Dritter | 第三次 | Strategic shift: the third nuclear era
-- [0479] | 5 | tiring | Ermüdung | 工 工 累 | Pascal Soriot, the pharma titan tiring of Britain
-- [0480] | 5 | titan | Titan |  | Pascal Soriot, the pharma titan tiring of Britain
-- [0481] | 5 | towards | Richtung | 至2005年 | OpenAI’s latest step towards advanced artificial intelligence
-- [0482] | 5 | Ukraine’s | Ukraine | 乌克兰 乌克兰 | On Ukraine’s front lines the kill zone is getting deeper
-- [0483] | 5 | violent | Gewalttätigkeit | 暴力暴力 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [0484] | 5 | when | wenn | 何时 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
-- [0485] | 5 | White | Weiß | 白白 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
-- [0486] | 5 | Who’s | Wer ist es? | 谁是谁的 | Who’s feeling the pain of Trump’s tariffs?
-- [0487] | 5 | women | Frauen | 妇女 妇女 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
-- [0488] | 5 | wrestlers | Ringer | 摔跤手 | What pro wrestlers in Chicago say about America
-- [0489] | 5 | “the | UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG | “《联合国宪章》 | How scared should you be of “the China squeeze”?
-- [0490] | 4 | accountability | Rechenschaftspflicht | 问责制问责制的问责制 | Not all’s fair: Israel and accountability
-- [0491] | 4 | administration | Anwendung | 行政 行政 行政 行政 行政 行政 行政 行政 行政 行政 行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政 | Why the Trump administration excites some personal-injury lawyers
-- [0492] | 4 | advanced | fortgeschritten | 高级 | OpenAI’s latest step towards advanced artificial intelligence
-- [0493] | 4 | alleged | angeblich | 据称 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
-- [0494] | 4 | all’s | Insgesamt | 全部 | Not all’s fair: Israel and accountability
-- [0495] | 4 | also | auch | 并且,还有 | As the world focuses on Gaza, starvation also looms in Sudan
-- [0496] | 4 | Ancient | Altertümlich | 古时 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [0497] | 4 | animals | Tiere | 动物 | Scientists want to sequence all animals, fungi and plants on Earth
-- [0498] | 4 | announces | kündigt an | 宣布宣布 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0499] | 4 | Anthropic | anthropisch | 人类 | Artificial intelligentsia: an interview with the boss of Anthropic
-- [0500] | 4 | approach | Ansatz | 方 式 式 | Trump 2 is pushing environmentalists to rethink their approach
-- [0501] | 4 | argues | argumentiert | 争论 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
-- [0502] | 4 | army | Armee | 军 军 军 军 军 | Pakistan’s army chief is cosying up to Donald Trump
-- [0503] | 4 | Asia | Länder Mittel- und Osteuropas | 亚洲 亚洲 | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
-- [0504] | 4 | avoid | vermeiden | 避免 | American businesses are running out of ways to avoid tariff pain
-- [0505] | 4 | bad | schlecht | 坏 | Are nightmares bad for your health?
-- [0506] | 4 | bang | bumsen | 爆炸 | Stablecoins: is this crypto’s big bang moment?
-- [0507] | 4 | bar | bar | 图标栏 | The year of the women’s-sports bar
-- [0508] | 4 | barmy | Barkeeper | 巴米 | America’s barmy battle to ban bawdy books
-- [0509] | 4 | bawdy | Schrecklich | bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy | America’s barmy battle to ban bawdy books
-- [0510] | 4 | becoming | werden | 成为 | South America is fast becoming the world’s hottest oil patch
-- [0511] | 4 | Black | Schwarz | 黑黑色 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [0512] | 4 | blackouts | Blackouts | 断电 | Blockades, blackouts and bullets: China invades Taiwan on screen
-- [0513] | 4 | Blockades | Blockaden | 封锁区 | Blockades, blackouts and bullets: China invades Taiwan on screen
-- [0514] | 4 | bomb-making | Bombenherstellung | 制造炸弹 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0515] | 4 | brand | Marke | 品牌品牌 | Provence is not just a destination. It is a lifestyle brand
-- [0516] | 4 | brokers | Makler | 经纪人 | Donald Trump brokers a peace plan in the Caucasus
-- [0517] | 4 | build | Bauen | 建设 | How to build a ship for interstellar travel
-- [0518] | 4 | Bukele | Bukele | 布克勒语Name | Nayib Bukele could now rule El Salvador for life
-- [0519] | 4 | bullets | Kugeln | 圆圆 | Blockades, blackouts and bullets: China invades Taiwan on screen
-- [0520] | 4 | businesses | Unternehmen | 商业企业 | American businesses are running out of ways to avoid tariff pain
-- [0521] | 4 | cabbie | Cabbie | 出租车司机 | Still want to be a London cabbie?
-- [0522] | 4 | campaign | Kampagne | 运动运动 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [0523] | 4 | catch | Fang | 渔获渔获量 | How many pythons could you catch in ten days?
-- [0524] | 4 | Cecil | Cecil | 塞西尔 | Who was Cecil Rhodes?
-- [0525] | 4 | chief | Hauptgeschäftsführer | 科长 | Pakistan’s army chief is cosying up to Donald Trump
-- [0526] | 4 | coach | Reisebus | 教练 教练 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
-- [0527] | 4 | collagen | Kollagen | 钴 | Should you take collagen?
-- [0528] | 4 | combat | Kampf | 战斗 战斗 | US Space Command is preparing for satellite-on-satellite combat
-- [0529] | 4 | Command | Befehl | 命令命令命令 | US Space Command is preparing for satellite-on-satellite combat
-- [0530] | 4 | corruption-fighters | Korruptionskämpfer | 腐败问题斗士 | Parliament restores independence to Ukraine’s corruption-fighters
-- [0531] | 4 | count | Anzahl | 计数 | The US in brief: Donald Trump questions the count
-- [0532] | 4 | crackdown | Razzia | 镇压 | GOP governor greenlights state troopers to join ICE in immigration crackdown
-- [0533] | 4 | cricket | Kricket | 板球 | Can Test cricket survive a sticky wicket?
-- [0534] | 4 | crypto’s | Kryptosäuren | 加密密码 | Stablecoins: is this crypto’s big bang moment?
-- [0535] | 4 | Cuts | Schnitte | 剪切 | Cuts to food stamps are about to hit in America
-- [0536] | 4 | dead | tot | 死 死 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [0537] | 4 | death | Tod | 死亡死亡 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [0538] | 4 | debt | Verbindlichkeiten | 负债债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 | Ivy League universities are on a debt binge
-- [0539] | 4 | delay | Verzögerung | 延迟延迟 | The US in brief: Another deadline, another delay
-- [0540] | 4 | dictators | Diktatoren | 独裁者 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0541] | 4 | did | hat | 确实 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
-- [0542] | 4 | Disciple” | Schüler | 嘉宾” | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0543] | 4 | dithering | Dithering | 抖动 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0544] | 4 | driverless | Fahrerlos | 无驱动 | Uber is readying itself for the driverless age—again
-- [0545] | 4 | Earth | Erde | 地球地球地球 | Scientists want to sequence all animals, fungi and plants on Earth
-- [0546] | 4 | economics | Wirtschaft | 经济学经济学经济学 | What economics can teach foreign-policy types
-- [0547] | 4 | era | Zeit | 时代时代 | Strategic shift: the third nuclear era
-- [0548] | 4 | Eri | Eri | 埃里 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0549] | 4 | everywhere | überall | 各地 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0550] | 4 | exam | Prüfung | 考试考试考试 | The world’s toughest exam
-- [0551] | 4 | fair | fair | 公平公平 | Not all’s fair: Israel and accountability
-- [0552] | 4 | faith | Glaube | 信 信 信 信 信 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [0553] | 4 | fans | Ventilatoren | 粉粉粉粉扇 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [0554] | 4 | fleeing | fliehen | 逃离 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
-- [0555] | 4 | Florida | Florida | 佛罗里达州 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [0556] | 4 | following | folgend | 下述 | Teddi Mellencamp struggles with speech following cancer treatment
-- [0557] | 4 | foreign-policy | Außenpolitik | 外交政策 | What economics can teach foreign-policy types
-- [0558] | 4 | Fox | Fuchs | 狐狐狸 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [0559] | 4 | Fr | Fr | 中 调 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0560] | 4 | front | Vorderseite | 前前 | On Ukraine’s front lines the kill zone is getting deeper
-- [0561] | 4 | fungi | Pilze | 真菌 | Scientists want to sequence all animals, fungi and plants on Earth
-- [0562] | 4 | getting | Erhalten | 获取 | On Ukraine’s front lines the kill zone is getting deeper
-- [0563] | 4 | go | Gehen Sie. | 上去 | Narendra Modi and Donald Trump go head-to-head
-- [0564] | 4 | grand | Groß | 千美元 | Cincinnati viral beating suspects face new charges in grand jury indictment
-- [0565] | 4 | ground | Boden | 地面地面 | Islamist parties are gaining ground in Malaysia
-- [0566] | 4 | harmful | schädlich | 有害有害 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0567] | 4 | Harris | Harris. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 哈里斯 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [0568] | 4 | he's | Er ist | # 他 # # 他 # # # He' # # He' # # He # # # He # # # # He # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # | JD Vance says he's 'obsessed' with eerie UFO videos
-- [0569] | 4 | he’s | er s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 其 | Donald Trump thinks he’s winning on trade, but America will lose
-- [0570] | 4 | holds | Haltegriffe | 持有的 | The humble tomato salad holds lessons for how to eat well
-- [0571] | 4 | home | Zuhause | 家 家 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [0572] | 4 | Hotta | Heißta | 热热塔 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0573] | 4 | humble | bescheiden | 谦卑 | The humble tomato salad holds lessons for how to eat well
-- [0574] | 4 | Illinois | Illinois (Illinois). - (EN) Herr Präsident, meine Damen und Herren! | 伊利诺斯州 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [0575] | 4 | improved | verbessert | 改进后 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0576] | 4 | independence | Unabhängigkeit | 独立独立 | Parliament restores independence to Ukraine’s corruption-fighters
-- [0577] | 4 | injury | Verletzung | 伤 伤 伤 伤 伤 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [0578] | 4 | Instead | Stattdessen | 取代 | Instead of sanctions, Donald Trump announces a summit with Russia
-- [0579] | 4 | intelligence | Intelligenz | 情报情报情报情报 | OpenAI’s latest step towards advanced artificial intelligence
-- [0580] | 4 | intelligentsia | Intelligenz | 知识分子 | Artificial intelligentsia: an interview with the boss of Anthropic
-- [0581] | 4 | invades | Eindringlinge | 入侵入侵 | Blockades, blackouts and bullets: China invades Taiwan on screen
-- [0582] | 4 | IRA | IRA | 伊 拉 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 地 列 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0583] | 4 | James | - Ja. - Ja. - Ja. - Ja. | 詹姆斯·詹姆斯 | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
-- [0584] | 4 | Jan | GESAMTRECHNUNG | 扬( 扬) | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [0585] | 4 | Johann | - Ich weiß es nicht. - Ich weiß nicht. | 约翰·约翰 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
-- [0586] | 4 | judge | Richter | 法官 法官 法官 法官 法官 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [0587] | 4 | Kamala | Kamala | 卡马勒acala | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
-- [0588] | 4 | Keepers | Hüter | 保管人 | The Memory Keepers
-- [0589] | 4 | launches | Starts | 发射发射 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [0590] | 4 | lawfare | Rechts- und Verwaltungsvorschriften | 法律权益 | Panama brings lawfare to the canal ports saga
-- [0591] | 4 | League | Liga | 联盟联盟联盟 | Ivy League universities are on a debt binge
-- [0592] | 4 | Lehrer | Lehrer | 元首 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0593] | 4 | lessons | Unterricht | 经验教训 | The humble tomato salad holds lessons for how to eat well
-- [0594] | 4 | lifestyle | Lebensstil | 生活方式和生活方式 | Provence is not just a destination. It is a lifestyle brand
-- [0595] | 4 | lifting | Heben | 升举 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
-- [0596] | 4 | local | Ort | 当地当地 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [0597] | 4 | looked | Gesehen | 查看 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0598] | 4 | looms | Webstühle | 织物 | As the world focuses on Gaza, starvation also looms in Sudan
-- [0599] | 4 | major | Haupt | 大专 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [0600] | 4 | make | machen | 混和 混和 | Do consultants make good CEOs?
-- [0601] | 4 | makes | macht | 环环环 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [0602] | 4 | map | Karte | 地图图图图地图 | Treasure map: Trump finds gold in redistricting
-- [0603] | 4 | MARCUS | MARCUS | 市场 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
-- [0604] | 4 | massive | massiv | 大规模 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [0605] | 4 | matter | Gegenstand | 事项 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0606] | 4 | McDonald’s | McDonald's | 麦克当当当当当当当当当面麦当当当当当面 | McDonald’s secret sauce—plus a pickle or two
-- [0607] | 4 | meeting | Sitzung | 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
-- [0608] | 4 | members | Mitglieder | 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0609] | 4 | Memory | Speicher | 内存 | The Memory Keepers
-- [0610] | 4 | message | Nachricht | 消息消息 | The message about motherhood the media desperately wants you to miss
-- [0611] | 4 | Montana | Montana | 蒙塔纳 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [0612] | 4 | nationwide | bundesweit | 全国 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
-- [0613] | 4 | Nayib | Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | Nayib 内比 | Nayib Bukele could now rule El Salvador for life
-- [0614] | 4 | nightmares | Alpträume | 恶梦 | Are nightmares bad for your health?
-- [0615] | 4 | north | Norden | 北北部 | The far north has become NATO’s soft underbelly, writes John Bolton
-- [0616] | 4 | novels | Romane | 小说小说 | The novels conservatives want you to read
-- [0617] | 4 | officials | Beamte | 公务官员 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [0618] | 4 | OpenAI’s | ÖFFENTLICHKEITEN | 开放会计师协会 | OpenAI’s latest step towards advanced artificial intelligence
-- [0619] | 4 | options | Optionen | 选项选项 | A farewell to arms? Hamas considers its options
-- [0620] | 4 | out' | aus" | 出来 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
-- [0621] | 4 | Palantir | Palantir | Palantir 调质器 | Palantir might be the most overvalued firm of all time
-- [0622] | 4 | Palestine | Palästina | 巴勒斯坦 巴勒斯坦 巴勒斯坦 | State swing: recognising Palestine
-- [0623] | 4 | Parliament | Europäisches Parlament | 议会 议会 议会 议会 议会 议会 议会 议会 议会 议会 | Parliament restores independence to Ukraine’s corruption-fighters
-- [0624] | 4 | Party | Partei | 缔约方 缔约方 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
-- [0625] | 4 | Patrick | Patrick | 帕特里克 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0626] | 4 | pickle | Gurken | 泡菜 | McDonald’s secret sauce—plus a pickle or two
-- [0627] | 4 | planned | geplant | 计划计划数 | New York Post expands west with California edition planned for early 2026
-- [0628] | 4 | plants | Pflanzen | 工厂工厂 | Scientists want to sequence all animals, fungi and plants on Earth
-- [0629] | 4 | poetic | poetisch | 诗诗 | A little poetic justice for Donald Trump
-- [0630] | 4 | Post | Postleitzahl | 员额员额 员额 员额 员额员额 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [0631] | 4 | preparing | Vorbereitung | 准备中 | US Space Command is preparing for satellite-on-satellite combat
-- [0632] | 4 | preseason | Vorsaison | 预 季前 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [0633] | 4 | prison | Gefängnis | 监狱监狱 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [0634] | 4 | Provence | Frankreich | 普罗旺斯 | Provence is not just a destination. It is a lifestyle brand
-- [0635] | 4 | pushing | schieben | 推推 | Schwarzenegger pushing back against Newsom redistricting bid in California
-- [0636] | 4 | Putin’s | Putins | 普京的 | Mikhail Komin on why the Arctic is Putin’s next front
-- [0637] | 4 | pythons | Pythonen | Pythons 键 | How many pythons could you catch in ten days?
-- [0638] | 4 | recognising | Anerkennung | 确认承认 | State swing: recognising Palestine
-- [0639] | 4 | Republicans | Republikaner | 共和党人 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [0640] | 4 | restores | stellt wieder her | 恢复 | Parliament restores independence to Ukraine’s corruption-fighters
-- [0641] | 4 | Rhodes | Rhodos | 罗得 | Who was Cecil Rhodes?
-- [0642] | 4 | roasting | Rösten | 烧烤 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0643] | 4 | rule | Regel | 规则细则细则细则细则细则细则细则 | Nayib Bukele could now rule El Salvador for life
-- [0644] | 4 | running | läuft | 运行中 | American businesses are running out of ways to avoid tariff pain
-- [0645] | 4 | Russian | Russisch | 俄文 俄文 俄文 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
-- [0646] | 4 | salad | Salat | 沙拉沙拉 | The humble tomato salad holds lessons for how to eat well
-- [0647] | 4 | satellite-on-satellite | Satelliten-on-Satellit | 卫星卫星卫星卫星 | US Space Command is preparing for satellite-on-satellite combat
-- [0648] | 4 | sauce—plus | Soße — plus | 酱酱加 | McDonald’s secret sauce—plus a pickle or two
-- [0649] | 4 | scared | Angst | 胆 怕 怕 怕 | How scared should you be of “the China squeeze”?
-- [0650] | 4 | Scientists | Wissenschaftler | 科学家 科学家 | Scientists want to sequence all animals, fungi and plants on Earth
-- [0651] | 4 | screen | Bildschirm | 屏幕屏幕 | Blockades, blackouts and bullets: China invades Taiwan on screen
-- [0652] | 4 | sequence | Reihenfolge | 序列序列序列 | Scientists want to sequence all animals, fungi and plants on Earth
-- [0653] | 4 | she | sie | 谢 谢 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [0654] | 4 | shot | Schuss | 射击 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [0655] | 4 | soft | weich | 软软 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [0656] | 4 | some | teilweise | 部分为某些 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [0657] | 4 | squeeze” | Drücke aus. | 挤压” | How scared should you be of “the China squeeze”?
-- [0658] | 4 | Stablecoins | Stablecoins | 稳定线 | Stablecoins: is this crypto’s big bang moment?
-- [0659] | 4 | stamps | Stempel | 邮票邮票 | Cuts to food stamps are about to hit in America
-- [0660] | 4 | step | Schritt | 步数 | OpenAI’s latest step towards advanced artificial intelligence
-- [0661] | 4 | sticky | klebrig | 粘粘性 | Can Test cricket survive a sticky wicket?
-- [0662] | 4 | Still | Immer noch | 仍然 | Still want to be a London cabbie?
-- [0663] | 4 | stop | Anhalten | 停止停止 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [0664] | 4 | SummerSlam | Sommerslam | 夏月光 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [0665] | 4 | survive | überleben | 活 活 活 活 | Can Test cricket survive a sticky wicket?
-- [0666] | 4 | Syria | Syrien | 叙利亚 叙利亚 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
-- [0667] | 4 | Taiwan | Taiwan | 台台 | Blockades, blackouts and bullets: China invades Taiwan on screen
-- [0668] | 4 | teach | Unterricht | 教学 | What economics can teach foreign-policy types
-- [0669] | 4 | ten | Zehn | 10 十个 | How many pythons could you catch in ten days?
-- [0670] | 4 | theory | Theorie | 理论理论理论 | The Elon Musk theory of pay
-- [0671] | 4 | these | Diese | 这些人 | Getting ready to harvest your garden? Get these helpful tools
-- [0672] | 4 | thinks | denkt | 思考 | Donald Trump thinks he’s winning on trade, but America will lose
-- [0673] | 4 | time | Zeit | 时间 | Palantir might be the most overvalued firm of all time
-- [0674] | 4 | tomato | Tomaten/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser) | 番茄 | The humble tomato salad holds lessons for how to eat well
-- [0675] | 4 | toughest | am härtesten | 最难 | The world’s toughest exam
-- [0676] | 4 | town | Stadt | 镇镇 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [0677] | 4 | Treasure | Schatz | 宝藏 | Treasure map: Trump finds gold in redistricting
-- [0678] | 4 | trip | Reise | 旅行旅费 | The great Syrian beach trip
-- [0679] | 4 | trying | Versuch | 试 | Japan’s carmakers are trying to tinker their way out of tariff pain
-- [0680] | 4 | types | Typen | 类型类型 | What economics can teach foreign-policy types
-- [0681] | 4 | video | Video | 视频视频 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
-- [0682] | 4 | Vladimir | Vladimir | 弗拉基米尔 | The real collusion between Donald Trump and Vladimir Putin
-- [0683] | 4 | Wadephul | Wadephul | 韦phul | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
-- [0684] | 4 | wartime | Kriegszeit | 战时战争 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0685] | 4 | wave | Welle | 电波 | A new wave of clean-energy innovation is building
-- [0686] | 4 | ways | Wege | 路径 | American businesses are running out of ways to avoid tariff pain
-- [0687] | 4 | were | wurden | 原为 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
-- [0688] | 4 | Where | Dabei ist | 何处处 | Where will be the Detroit of electric vehicles?
-- [0689] | 4 | wicket | Wicket | 阴道 | Can Test cricket survive a sticky wicket?
-- [0690] | 4 | win | gewinnen | 赢赢 | Where will win from Trump’s tariffs?
-- [0691] | 4 | worth | im Wert von | 价值价值 | Tom Lehrer found matter worth roasting everywhere he looked
-- [0692] | 4 | WWE | WWE | WWWWWWWW WWW WWWW WWWW WWWW WWW WWW WWW WW WWW WWW WWW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW W WW WW W WW W W W W W W W W W WW WW WW W W W W W W W W W W WW W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [0693] | 4 | “Devil’s | ,Teufel , , , , . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | " 魔鬼 " | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
-- [0694] | 3 | 'Not | "Nicht | "不是" | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [0695] | 3 | ad | ad | 传真: add | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
-- [0696] | 3 | Afghanistan’s | Afghanistan | 阿富汗的 | Razia Jan insisted on educating Afghanistan’s girls
-- [0697] | 3 | age—again | Alter — wieder | 年龄 - 再次 | Uber is readying itself for the driverless age—again
-- [0698] | 3 | ahead | voraus | 未来 | Australian state rolls out machete ‘disposal bins’ ahead of ban
-- [0699] | 3 | ailing | Krankheit | 报应中 | America’s ailing health insurers
-- [0700] | 3 | Airbnb | Airbnb | 空气桶bb | Should you trust that five-star rating on Airbnb?
-- [0701] | 3 | Alvarez’s | Alvarez-Erdöl | 阿尔瓦雷斯 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
-- [0702] | 3 | answer | Antwort | 答答 | To sell Fannie and Freddie, Trump must answer a $7trn question
-- [0703] | 3 | anti-Trump | Anti-Trump | 反特朗普 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
-- [0704] | 3 | assault | Körperverletzung | 攻击性攻击 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
-- [0705] | 3 | AstraZeneca’s | AstraZenecas | 阿斯特拉泽内卡的 | AstraZeneca’s falling out with Britain
-- [0706] | 3 | attacks | Angriffe | 攻击攻击 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
-- [0707] | 3 | attorney | Rechtsanwalt | 律师律师 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [0708] | 3 | authoritarians | Autoritaristen | 专制主义 | Growth-loving authoritarians are failing on their own terms
-- [0709] | 3 | backlash | Rückspiel | 反弹反弹 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [0710] | 3 | beating | Schlagen | 殴打和打打 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [0711] | 3 | become | werden | 成为 | The far north has become NATO’s soft underbelly, writes John Bolton
-- [0712] | 3 | becomes | wird | 成为 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
-- [0713] | 3 | been | wurde | 一直 | How to tell if your Samsung Galaxy tablet has been hacked
-- [0714] | 3 | Biden | Biden | 拜登 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [0715] | 3 | binge | Binge | 离子( 离子) | Ivy League universities are on a debt binge
-- [0716] | 3 | Bolton | Bolton (Bolton). - (EN) Herr Präsident! | 博尔顿 | The far north has become NATO’s soft underbelly, writes John Bolton
-- [0717] | 3 | Bombs | Bomben | 炸弹炸弹炸弹 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
-- [0718] | 3 | boom | Hochkonjunktur | 繁荣 | Who will pay for the trillion-dollar AI boom?
-- [0719] | 3 | bosses | Chefs | 上头头头头 | Italian bosses want Giorgia Meloni to hurry up with reform
-- [0720] | 3 | breach | Verstoß | 违反 | Multiple US cancer centers hit in coordinated phishing breach
-- [0721] | 3 | breaking | Bruch | 间间间断 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
-- [0722] | 3 | bring | mitbringen | 带来 | Trump is taking decisive action to bring this critical industry back to American soil
-- [0723] | 3 | building | Gebäude | 建筑物 | A new wave of clean-energy innovation is building
-- [0724] | 3 | carmakers | Automobilhersteller | 汽车制制制汽车 | Japan’s carmakers are trying to tinker their way out of tariff pain
-- [0725] | 3 | change | Veränderung | 变动 | Greenlash: how to move the needle on climate change
-- [0726] | 3 | charges | Gebühren | 费用 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [0727] | 3 | cities | Städte | 城市城市 | Which are the deadliest European cities in a heatwave?
-- [0728] | 3 | civil | Zivilrecht | 民事 民事 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
-- [0729] | 3 | clean-energy | saubere Energie | 清洁能源 | A new wave of clean-energy innovation is building
-- [0730] | 3 | climate | Klima | 气候气候 | Greenlash: how to move the needle on climate change
-- [0731] | 3 | collusion | Kollusion | 串连 | The real collusion between Donald Trump and Vladimir Putin
-- [0732] | 3 | come | kommen | 来来来来来来来来来来来来来来来来来来来来来来来来来来 | Tipping scales: justice for Gaza will have to come from within Israel
-- [0733] | 3 | condition | Zustand | 条件条件条件 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [0734] | 3 | Confrontation | Konfrontation | 对抗 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
-- [0735] | 3 | contentedly | zufrieden | 内容内容满意 | Hello Kitty’s owner is purring contentedly
-- [0736] | 3 | cough | Husten | 咳嗽 | A 400-year-old Chinese cough syrup is winning over Westerners
-- [0737] | 3 | couple | Paar | 夫妇数 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [0738] | 3 | dangerous | Gefährlich | 危险 | Facebook crypto ads lead to dangerous malware scams
-- [0739] | 3 | daughter | Tochter | 女 儿 儿 女 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [0740] | 3 | declares | erklärt | 声明 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
-- [0741] | 3 | defeat | Niederlage | 失败失败 | Texas’s Democrats prepare for a glorious defeat
-- [0742] | 3 | Dem | Dem | 迪米( 迪米) | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
-- [0743] | 3 | Department | Abteilung | 部 部 部 | Justice Department weighs release of Ghislaine Maxwell interview
-- [0744] | 3 | dies | stirbt | 死 死 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [0745] | 3 | dig | graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben | 挖掘 | The largest dig in a lifetime is under way in Pompeii
-- [0746] | 3 | dinosaurs | Dinosaurier | 恐龙 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
-- [0747] | 3 | drugs | Drogen | 毒品毒品 毒品 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
-- [0748] | 3 | eclectic | eklektisch | 电子计算 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
-- [0749] | 3 | edge | Rand | 边缘边缘 | How McKinsey lost its edge
-- [0750] | 3 | educating | Ausbildung | 教育 教育 | Razia Jan insisted on educating Afghanistan’s girls
-- [0751] | 3 | elections | Wahlen | 选 选 选 选 | Could AI tilt the outcome of elections?
-- [0752] | 3 | Elon | Elon | 伊隆 | The Elon Musk theory of pay
-- [0753] | 3 | environmentalists | Umweltschützer | 环境学家 | Trump 2 is pushing environmentalists to rethink their approach
-- [0754] | 3 | ex-boss | Ex-boss | 前主管 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
-- [0755] | 3 | excites | Erregt | 异异 | Why the Trump administration excites some personal-injury lawyers
-- [0756] | 3 | expert | Sachverständiger | 专家专家 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [0757] | 3 | failing | Fehler | 失败失败 | Growth-loving authoritarians are failing on their own terms
-- [0758] | 3 | family | Familie | 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [0759] | 3 | Fannie | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 范妮 | To sell Fannie and Freddie, Trump must answer a $7trn question
-- [0760] | 3 | far | weit | 远远 | The far north has become NATO’s soft underbelly, writes John Bolton
-- [0761] | 3 | farewell | Leb wohl | 告别告别 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [0762] | 3 | fast | schnell | 快速快速 | South America is fast becoming the world’s hottest oil patch
-- [0763] | 3 | Father | Vater | 父亲父亲父亲 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
-- [0764] | 3 | featuring | mit einer Breite von 2 mm oder mehr, jedoch nicht mehr als 2 mm, | 具有 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [0765] | 3 | final | endgültig | 期末 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [0766] | 3 | fiscal | steuerlich | 财政财政 | China’s local governments are approaching a fiscal black hole
-- [0767] | 3 | five-star | Fünf-Sterne | 五星五星 | Should you trust that five-star rating on Airbnb?
-- [0768] | 3 | focuses | fokussiert | 焦点焦点 | As the world focuses on Gaza, starvation also looms in Sudan
-- [0769] | 3 | four | Vier | 四个 | Americans' perception of discrimination against Black people dropped in last four years
-- [0770] | 3 | fraud | Betrug | 欺诈欺诈 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [0771] | 3 | Freddie | Freddie | 弗雷迪 | To sell Fannie and Freddie, Trump must answer a $7trn question
-- [0772] | 3 | funding | Finanzierung | 供资供资 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
-- [0773] | 3 | gaining | Gewinnen | 正在获取 | Islamist parties are gaining ground in Malaysia
-- [0774] | 3 | Giorgia | Giorgia | 乔治亚 | Italian bosses want Giorgia Meloni to hurry up with reform
-- [0775] | 3 | girls | Mädchen | 女童 女童 | Razia Jan insisted on educating Afghanistan’s girls
-- [0776] | 3 | glorious | glorreich | 辉耀 | Texas’s Democrats prepare for a glorious defeat
-- [0777] | 3 | God | Mein Gott! | 神神神神神神神神神神神神神神神神神神神神神神神神神神神神神神神,真主真主真主,上帝,上帝,上帝神神神神神,上帝,上帝,上帝,上帝,上帝,真主真主真主,上帝,上帝,上帝,上帝,真主真主真主,上帝,上帝,上帝,真主真主真主真主,真主真主,真主,上帝,上帝,上帝,真主真主真主真主真主,真主真主真主,真主真主,真主真主真主,真主真主真主真主真主,真主真主真主真主,真主真主,真主真主真主真主,真主真主,真主真主真主真主,真主真主真主真主真主,真主真主真主真主真主真主,真主真主真主真主,真主真主真主真主真主,真主真主真主真主真主真主,真主真主真主真主真主真主真主真主真主真主真主,真主真主真主真主真主真主真主,真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主神真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [0778] | 3 | government | Regierung | 政府政府政府 | Lebanon’s government is taking on a weakened Hizbullah
-- [0779] | 3 | greet | grüßen | 问候 | How to greet people at work
-- [0780] | 3 | group | Gruppe | 组群 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
-- [0781] | 3 | Growth-loving | Wachstumsliebe | 热爱增长 | Growth-loving authoritarians are failing on their own terms
-- [0782] | 3 | Guard | Wache | 警卫警卫 | Trump's federal crime operation brings 100 arrests, 800 National Guard troops to Washington
-- [0783] | 3 | guys | Jungs | 男 男 男 | Thought John Proctor was one of the good guys? Think again
-- [0784] | 3 | had | hatte | 曾经 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [0785] | 3 | Hall | Saal | 厅厅厅厅厅 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [0786] | 3 | hard | hart | 硬硬 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
-- [0787] | 3 | Hello | Guten Tag. | 你好 你好 你好 你好 你好 你好 你好 你好 你好 | Hello Kitty’s owner is purring contentedly
-- [0788] | 3 | him | Er ist es. | 世 世 世 世 世 世 世 世 世 世 世 世 世 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
-- [0789] | 3 | Hong | ENTWICKLUNG UND ENTWICKLUNG | 红 | Hong Kong is super superstitious
-- [0790] | 3 | honors | Ehrungen | 荣誉荣誉荣誉 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [0791] | 3 | hottest | heißesten | 最热 | South America is fast becoming the world’s hottest oil patch
-- [0792] | 3 | hunt | Jagd | 狩猎 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [0793] | 3 | hurry | Beeilung! | 快点 | Italian bosses want Giorgia Meloni to hurry up with reform
-- [0794] | 3 | husband | Ehemann | 丈夫 丈夫 丈夫 丈夫 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [0795] | 3 | incident | Zwischenfall | 事件 事件 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [0796] | 3 | inevitable | unausweichlich | 不可避免的 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
-- [0797] | 3 | innovation | Innovation | 创新创新 | A new wave of clean-energy innovation is building
-- [0798] | 3 | insisted | bestand darauf, | 坚持的 | Razia Jan insisted on educating Afghanistan’s girls
-- [0799] | 3 | insurers | Versicherungsunternehmen | 承保人 | America’s ailing health insurers
-- [0800] | 3 | interstellar | interstellar | 星际星际际 | How to build a ship for interstellar travel
-- [0801] | 3 | Islamist | Islamistisch | 伊斯兰伊斯兰 | Islamist parties are gaining ground in Malaysia
-- [0802] | 3 | Israeli | Israelisch | 以色列 以色列人 | Israeli sentiment on the war in Gaza is shifting
-- [0803] | 3 | issues | Fragen | 问题(问题) | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [0804] | 3 | Italian | Italienisch | 意大利 意大利 意大利 意大利 意大利 意大利 意大利 意大利 意大利语 | Italian bosses want Giorgia Meloni to hurry up with reform
-- [0805] | 3 | itself | sich selbst | 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 | Uber is readying itself for the driverless age—again
-- [0806] | 3 | Ivy | Efeu | 常 常 年 | Ivy League universities are on a debt binge
-- [0807] | 3 | Jason | - Jason. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 杰森·杰森 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
-- [0808] | 3 | Joe | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 乔 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [0809] | 3 | Jr | Jr. | 小小小小小 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [0810] | 3 | jury | Jury | 陪陪审团 | Cincinnati viral beating suspects face new charges in grand jury indictment
-- [0811] | 3 | keeps | hält | 保持 | The US in brief: Bowser keeps calm, Democrats rage
-- [0812] | 3 | Kieran | Kieran | 基兰 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
-- [0813] | 3 | Kitty’s | Kätzchen | 珍珠猫的 | Hello Kitty’s owner is purring contentedly
-- [0814] | 3 | Komin | Komin | 科明 | Mikhail Komin on why the Arctic is Putin’s next front
-- [0815] | 3 | Kong | ENTWICKLUNG | 香港港 | Hong Kong is super superstitious
-- [0816] | 3 | Kurt | - Kurt. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 库尔特 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0817] | 3 | Lange | Lange | 朗朗 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0818] | 3 | largest | größte | 最大 | The largest dig in a lifetime is under way in Pompeii
-- [0819] | 3 | Las | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 拉斯 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [0820] | 3 | last | Letzter | 最后一 | Americans' perception of discrimination against Black people dropped in last four years
-- [0821] | 3 | lawyers | Rechtsanwälte | 律师律师 | Why the Trump administration excites some personal-injury lawyers
-- [0822] | 3 | Liberal | Liberal | 自由自由自由 | Liberal Uruguay and the right to die
-- [0823] | 3 | lifetime | Lebensdauer | 寿命寿命 | The largest dig in a lifetime is under way in Pompeii
-- [0824] | 3 | like | Wie z.B. | 类似 | Why Italy’s next cultural capital looks like a disaster zone
-- [0825] | 3 | long | lang | 长 | Christie Brinkley admits forever might be too long for modern marriage
-- [0826] | 3 | Luis | L 347 vom 20.12.2013, S. 671. | 路易斯路易斯 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
-- [0827] | 3 | M | M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | M 男 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
-- [0828] | 3 | Malaysia | Malaysia | 马来西亚 马来西亚 马来西亚 | Islamist parties are gaining ground in Malaysia
-- [0829] | 3 | Meloni | Meloni | 梅罗尼 | Italian bosses want Giorgia Meloni to hurry up with reform
-- [0830] | 3 | MIKE | MIKE | 迈 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 米    米  米   米  米    米   米   米   米  米     米     米    米 米         米      米 米     米     米     米       米                   米                                                                                   米 米 米             米 米  米 米 米 | MIKE DAVIS: A tale of two Russiagate heroes
-- [0831] | 3 | Mikhail | Mikhail | 米哈伊尔 | Mikhail Komin on why the Arctic is Putin’s next front
-- [0832] | 3 | milk | Milch | 牛奶牛奶 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [0833] | 3 | millions | Millionen | 百万 百万 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [0834] | 3 | multiple | Mehrfach | 多个数 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [0835] | 3 | Mulvaney | Mulvaney | 穆尔瓦尼 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
-- [0836] | 3 | Musk | Moschus | 松木 | The Elon Musk theory of pay
-- [0837] | 3 | must | muss | 必须 | To sell Fannie and Freddie, Trump must answer a $7trn question
-- [0838] | 3 | my | mein | 我的 我的 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [0839] | 3 | NATO | NATO | 北约北约 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
-- [0840] | 3 | nearly | fast | 近近 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [0841] | 3 | needs | Bedarf | 需要满足的需求 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
-- [0842] | 3 | Nico | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 尼科 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0843] | 3 | Nordisk’s | Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk | 诺 诺 斯 的 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
-- [0844] | 3 | Novo | ENTWICKLUNG UND ENTWICKLUNG | 诺伏 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
-- [0845] | 3 | obesity | Fettleibigkeit | 肥胖肥胖症 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
-- [0846] | 3 | office | Büro | 办公室办公室 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
-- [0847] | 3 | old | alt | 旧 | The four years when old New York died and a new one was born
-- [0848] | 3 | overvalued | überbewertet | 高估 | Palantir might be the most overvalued firm of all time
-- [0849] | 3 | own | eigene | 拥有的 | Growth-loving authoritarians are failing on their own terms
-- [0850] | 3 | paintings | Gemälde | 绘画绘画 | What 630,000 paintings say about the world economy
-- [0851] | 3 | Pakistan’s | Pakistans | 巴基斯坦 | Pakistan’s army chief is cosying up to Donald Trump
-- [0852] | 3 | parties | Parteien | 缔约方 | Islamist parties are gaining ground in Malaysia
-- [0853] | 3 | parts | Teile | 部件 | The summit of its parts: Ukraine, Trump and Putin
-- [0854] | 3 | patch | Pflaster | 补贴补贴补和 | South America is fast becoming the world’s hottest oil patch
-- [0855] | 3 | personal-injury | persönliche Verletzung | 人身伤害 | Why the Trump administration excites some personal-injury lawyers
-- [0856] | 3 | phishing | Phishing | 网钓 | TSA warns of phishing scam targeting PreCheck travelers
-- [0857] | 3 | Pompeii | Pompeji | 庞贝 | The largest dig in a lifetime is under way in Pompeii
-- [0858] | 3 | possible | möglich | 可能(可能) | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
-- [0859] | 3 | prepare | Vorbereitung | 准备 | Texas’s Democrats prepare for a glorious defeat
-- [0860] | 3 | process | Prozess | 进程进程 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [0861] | 3 | Proctor | Proctor | 分数 | Thought John Proctor was one of the good guys? Think again
-- [0862] | 3 | purring | schnurren | 扫荡 | Hello Kitty’s owner is purring contentedly
-- [0863] | 3 | quadruple | Vierfach | 三倍 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
-- [0864] | 3 | question | Frage | 问 问 问 问 | To sell Fannie and Freddie, Trump must answer a $7trn question
-- [0865] | 3 | rating | Bewertung | 评级评分 | Should you trust that five-star rating on Airbnb?
-- [0866] | 3 | Razia | Razia | 拉齐亚Name | Razia Jan insisted on educating Afghanistan’s girls
-- [0867] | 3 | readying | Vorbereitung | 准备就绪 | Uber is readying itself for the driverless age—again
-- [0868] | 3 | real | real | 实实数 | The real collusion between Donald Trump and Vladimir Putin
-- [0869] | 3 | reform | Reform | 改革改革改革改革 | Italian bosses want Giorgia Meloni to hurry up with reform
-- [0870] | 3 | release | Freigabe | 释放 | Justice Department weighs release of Ghislaine Maxwell interview
-- [0871] | 3 | released | freigegeben | 释放 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [0872] | 3 | rethink | Überdenken | 重新思考 | Trump 2 is pushing environmentalists to rethink their approach
-- [0873] | 3 | return | Rückkehr | 返回返回 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [0874] | 3 | right | Recht | 右右右右右 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [0875] | 3 | rivals | Rivalen | 竞争对手 | Next top model: GPT-5 and its AI rivals
-- [0876] | 3 | s | s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | s , s , s , s , s , s , s , s , s | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [0877] | 3 | saga | Saga | 长相 | Panama brings lawfare to the canal ports saga
-- [0878] | 3 | same | gleich | 相同 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [0879] | 3 | sanctuary | Heiligtum | 避难避难所 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [0880] | 3 | Sanders' | Schleifmaschinen | 桑德斯 | Deion Sanders' Colorado quarterback decision much tougher than years past
-- [0881] | 3 | see | siehe | 见见 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [0882] | 3 | sell | verkaufen | 出售 | To sell Fannie and Freddie, Trump must answer a $7trn question
-- [0883] | 3 | sentiment | Einschätzung | 情绪 | Israeli sentiment on the war in Gaza is shifting
-- [0884] | 3 | Shadowboxing | Schattenboxen | 影子箱 | The US in brief: Shadowboxing in DC
-- [0885] | 3 | ship | Schiff | 船舶船舶 | How to build a ship for interstellar travel
-- [0886] | 3 | shooting | Schießerei | 射击射击 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [0887] | 3 | so | und | so so, so, so, so, so, so, so, so, so, | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
-- [0888] | 3 | social | Sozialer Bereich | 社 会 社 会 社 会 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [0889] | 3 | starvation | Hungersnot | 饥饿、饥饿和饥饿 | As the world focuses on Gaza, starvation also looms in Sudan
-- [0890] | 3 | states | Staaten | 状态 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
-- [0891] | 3 | student | Schüler | 学生 学生 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
-- [0892] | 3 | study | Studie | 学习学习 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [0893] | 3 | super | super | 超级 | Hong Kong is super superstitious
-- [0894] | 3 | superstitious | abergläubisch | 迷信迷信 | Hong Kong is super superstitious
-- [0895] | 3 | Swift | Bewegen | Swift 快速移动 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
-- [0896] | 3 | Swimming | Schwimmen | 游泳游泳 | Swimming pools are cauldrons of envy, danger and lust
-- [0897] | 3 | Sydney | Sydney | 悉悉尼 | Sydney Sweeney jeans controversy making advertising great again
-- [0898] | 3 | syrup | Sirup | 糖糖浆 | A 400-year-old Chinese cough syrup is winning over Westerners
-- [0899] | 3 | takeover | Übernahme | 接管 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
-- [0900] | 3 | targeting | Zielerreichung | 目标目标 | TSA warns of phishing scam targeting PreCheck travelers
-- [0901] | 3 | Taylor | Taylor (S). - (EN) Herr Präsident! | 泰勒 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
-- [0902] | 3 | teacher | Lehrer | 教师 教师 教师 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
-- [0903] | 3 | Tennessee | Tennessee | 田田 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
-- [0904] | 3 | terms | Begriffsbestimmungen | 语数 | Growth-loving authoritarians are failing on their own terms
-- [0905] | 3 | Texas’s | Texas-Länder | 得克萨斯州 | Texas’s Democrats prepare for a glorious defeat
-- [0906] | 3 | themselves | sich selbst | 本国本身本身 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0907] | 3 | they | sie/Sie | 和 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [0908] | 3 | Think | Denken Sie nach | 思考思考 | Thought John Proctor was one of the good guys? Think again
-- [0909] | 3 | Thought | Gedanken | 思考思考 | Thought John Proctor was one of the good guys? Think again
-- [0910] | 3 | tied | gebunden | 捆绑 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [0911] | 3 | tinker | basteln | 修工工工匠 | Japan’s carmakers are trying to tinker their way out of tariff pain
-- [0912] | 3 | Tipping | Trinkgeld | 跳斗 | Tipping scales: justice for Gaza will have to come from within Israel
-- [0913] | 3 | tool | Werkzeug | 工具工具工具 | MIT tool visualizes and edits “physically impossible” objects
-- [0914] | 3 | toy | Spielzeug | 玩具 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [0915] | 3 | trans | trans trans | 转 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [0916] | 3 | travel | Reise | 旅费 旅费 旅费 | How to build a ship for interstellar travel
-- [0917] | 3 | trillion-dollar | Billion Dollar | 万亿美元 | Who will pay for the trillion-dollar AI boom?
-- [0918] | 3 | trn | L 347 vom 20.12.2013, S. 671. | Trtn (吨) | To sell Fannie and Freddie, Trump must answer a $7trn question
-- [0919] | 3 | Trump-Putin | Trump-Putin | 特朗普丁 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
-- [0920] | 3 | trust | Vertrauen | 信任信任信任 | Should you trust that five-star rating on Airbnb?
-- [0921] | 3 | Uber | Uber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Uber( Uber) | Uber is readying itself for the driverless age—again
-- [0922] | 3 | UFOs | UFOs | UFOs 不明飞行组织 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
-- [0923] | 3 | underbelly | Unterkiefer | 下带 | The far north has become NATO’s soft underbelly, writes John Bolton
-- [0924] | 3 | universities | Hochschulen | 大学大学 | Ivy League universities are on a debt binge
-- [0925] | 3 | unveils | Enthüllungen | 揭幕揭幕 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [0926] | 3 | urges | Drängen | 敦促 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [0927] | 3 | Vegas | Vegas | 拉斯维加斯 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [0928] | 3 | Volker | Volker | Volker Volker 沃尔克 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0929] | 3 | Walter | WETTBEWERBSREGELN | 沃尔特 Walter | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
-- [0930] | 3 | wants | will | 需要的 | The message about motherhood the media desperately wants you to miss
-- [0931] | 3 | warning | Warnung | 警告警告警告 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [0932] | 3 | weighs | wiegt | 称重 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [0933] | 3 | Westerners | Westliche Bevölkerung | 西部人 | A 400-year-old Chinese cough syrup is winning over Westerners
-- [0934] | 3 | wife | Ehefrau | 妻子为妻子的妻子 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [0935] | 3 | without | ohne | 无 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [0936] | 3 | WNBA | WNBA | WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [0937] | 3 | Woman | Frau | 女 女 妇女 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
-- [0938] | 3 | work | Arbeit | 工 工 工 工 工 工 工 工 工 工 | How to greet people at work
-- [0939] | 3 | write | schreiben | 写入 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
-- [0940] | 3 | x | x | x x | What’s your preferred playback speed: 1x, 1.5x or 2x?
-- [0941] | 3 | young | Jung | 青年 青年 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [0942] | 3 | Zohran | Zohran | 佐赫兰 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
-- [0943] | 2 | 'a | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein | a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a | Former Democratic advisor says party's rhetoric on redistricting is getting 'a little out of control'
-- [0944] | 2 | 'Don't | Nicht! | "别" | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
-- [0945] | 2 | 'Good | "Gute Arbeit. | 好 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [0946] | 2 | 'It's | Es ist | # 这是 # # # It's # # It's # | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [0947] | 2 | 'very | "sehr | "非常" | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
-- [0948] | 2 | Abbott | Abbott | Abbott | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
-- [0949] | 2 | account | Konto | 账户账户账户 | How to quickly recover a disabled Facebook account
-- [0950] | 2 | accused | beschuldigt | 被告人 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
-- [0951] | 2 | aid | Beihilfen | 援助援助援助组织 | The War Room newsletter: How receiving aid became fatal in Gaza
-- [0952] | 2 | Alaska | Alaska | 阿阿拉斯加 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
-- [0953] | 2 | alliance | Allianz | 联盟联盟 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [0954] | 2 | ally | verbündet | 盟友 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
-- [0955] | 2 | America's | Amerikas | 美国 | America's obsession with politicizing our children has got to stop
-- [0956] | 2 | Americans | Amerikaner | 美裔美国人 | Allianz Life Insurance data breach exposes 1.4 million Americans
-- [0957] | 2 | Anderson | L 347 vom 20.12.2013, S. 671. | 安德森 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [0958] | 2 | anniversary | Jahrestag | 周年纪念十周年 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [0959] | 2 | appeals | Rechtsmittel | 上诉上诉 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [0960] | 2 | appears | erscheint | 显示时 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [0961] | 2 | Apple | Apfel | 苹果苹果 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [0962] | 2 | approaching | sich nähern | 接近 | China’s local governments are approaching a fiscal black hole
-- [0963] | 2 | Arkansas | Arkansas | 阿肯色州 | Video shows Arkansas hiking murder suspect arrested mid-haircut
-- [0964] | 2 | Armenia | Armenien | 亚美尼亚 亚美尼亚 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
-- [0965] | 2 | arms | Arme | 军火 | A farewell to arms? Hamas considers its options
-- [0966] | 2 | ask | fragen | 问 问 问 问 | America’s biggest ask in Asia
-- [0967] | 2 | Austin | Austin | 奥斯汀 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
-- [0968] | 2 | Azerbaijan | Aserbaidschan | 阿塞拜疆 阿塞拜疆 阿塞拜疆 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
-- [0969] | 2 | bank | Bank | 银行银行 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
-- [0970] | 2 | Barrel | Fäule | 桶 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [0971] | 2 | Beckham | Beckham | 贝克汉 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [0972] | 2 | beer | Bier | 啤酒啤酒 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
-- [0973] | 2 | behavior | Verhalten | 行为行为 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
-- [0974] | 2 | behind | hinter | 落后 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
-- [0975] | 2 | being | dabei sein | 正在 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
-- [0976] | 2 | Betts | Betten | 贝都士 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [0977] | 2 | bid | Angebot | 投标投标投标 | Schwarzenegger pushing back against Newsom redistricting bid in California
-- [0978] | 2 | biggest | größte | 最大 | America’s biggest ask in Asia
-- [0979] | 2 | bizarre | bizarr | 奇异 | How to make sense of Donald Trump’s bizarre tariff rates
-- [0980] | 2 | boat | Boot | 渔船 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [0981] | 2 | body | Körper | 体体 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [0982] | 2 | bold | fett | 粗黑体 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [0983] | 2 | Bolivia’s | Bolivien | 玻利维亚 | Bolivia’s crazy kingdom of coca
-- [0984] | 2 | Bondi | Anhang V. Teil 2.113 | 邦迪 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [0985] | 2 | born | geboren | 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 | The four years when old New York died and a new one was born
-- [0986] | 2 | Bowser | Bowser | 弓箭 | The US in brief: Bowser keeps calm, Democrats rage
-- [0987] | 2 | boyfriend | Freund | 男朋友男朋友 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
-- [0988] | 2 | brawl | Krabbe | 中瓦瓦 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
-- [0989] | 2 | bread | Brot | 面包面包 | Las Vegas tourism controversies, plus 9 high-fiber bread options
-- [0990] | 2 | breaks | Brüche | 课间休息 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
-- [0991] | 2 | Brinkley | Brinkley | 布林克利 | Christie Brinkley admits forever might be too long for modern marriage
-- [0992] | 2 | brother | Bruder | 哥 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [0993] | 2 | Browns | Braungewächse | 棕色 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
-- [0994] | 2 | called | aufgerufen | 调号 -- -- 调号 -- -- | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
-- [0995] | 2 | calling | Anrufen | 调来电话 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
-- [0996] | 2 | calm | Ruhe | 平静平静 | The US in brief: Bowser keeps calm, Democrats rage
-- [0997] | 2 | can't | Ich kann nicht. | 不能 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [0998] | 2 | cancel | Annullieren | 取消取消取消 | Denzel Washington blasts cancel culture, says faith matters more than followers
-- [0999] | 2 | Carolina | L 347 vom 20.12.2013, S. 671. | 卡罗来纳州 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [1000] | 2 | caught | gefangen | 被抓获 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
-- [1001] | 2 | cauldrons | Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie die hergestellte Ware, ausgenommen aus Vormaterialien derselben Position wie die hergestellte Ware: | 二次烷 | Swimming pools are cauldrons of envy, danger and lust
-- [1002] | 2 | Cena's | Cena's | Cena 餐厅 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [1003] | 2 | Center | Zentrum | 中心中心中心 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
-- [1004] | 2 | chefs | Küchenchefs | 厨师 厨师 | Private chefs are spilling the culinary secrets of the super-rich
-- [1005] | 2 | chiefs | Häuptlinge | 酋长长 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
-- [1006] | 2 | chilling | Kühlen | 寒冷的寒冷 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [1007] | 2 | Christian | Christlich | 基督教 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [1008] | 2 | Christie | Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 克里斯蒂 | Christie Brinkley admits forever might be too long for modern marriage
-- [1009] | 2 | Chuck | - Chuck. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 恰克 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
-- [1010] | 2 | churches | Kirchen | 教堂教堂 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
-- [1011] | 2 | citing | unter Hinweis auf | 引用引用 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
-- [1012] | 2 | citizenship | Staatsangehörigkeit | 公民身份公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [1013] | 2 | clean | sauber | 清洁 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
-- [1014] | 2 | Clintons | Clintons | 克林顿 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
-- [1015] | 2 | coca | Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain | 古柯 | Bolivia’s crazy kingdom of coca
-- [1016] | 2 | cold | kalt | 冷冷 | Blighty newsletter: The Tories go cold on the gig economy
-- [1017] | 2 | collarbone | Schlüsselbein | 锁骨 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
-- [1018] | 2 | College | Hochschule | 学院学院学院学院 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [1019] | 2 | Colombia | Kolumbien | 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 | Álvaro Uribe, a former president of Colombia, is convicted
-- [1020] | 2 | Colorado | Colorado | 科罗拉多 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [1021] | 2 | Comer | Kommer | 计算器 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
-- [1022] | 2 | commissioner” | Beauftragter | 专员” | The US in brief: DC gets an “emergency police commissioner”
-- [1023] | 2 | common | Häufig | 常见 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [1024] | 2 | community | Gemeinschaft | 社区社区 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [1025] | 2 | company | Unternehmen | 公司 公司 | Texas company creates drones to confront school shooters in seconds
-- [1026] | 2 | concerns | Bedenken | 关注的问题(关注的问题) | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
-- [1027] | 2 | confirms | bestätigt | 确认确认 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
-- [1028] | 2 | confront | konfrontieren | A. 面对挑战 | Texas company creates drones to confront school shooters in seconds
-- [1029] | 2 | connect | verbinden | 连接连接 | Can a home-grown telecoms firm connect South Sudan to the world?
-- [1030] | 2 | Connor | Connor (S). - (EN) Herr Präsident! | 康纳 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
-- [1031] | 2 | considers | betrachtet | 考虑考虑 | A farewell to arms? Hamas considers its options
-- [1032] | 2 | continue | Weiter | 续续 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
-- [1033] | 2 | continues | weiter | 继续 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
-- [1034] | 2 | control' | Kontrolle" | 控制控制' | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [1035] | 2 | controversy | Kontroverse | 争议 | Sydney Sweeney jeans controversy making advertising great again
-- [1036] | 2 | convicted | Verurteilt | 定罪人数 | Álvaro Uribe, a former president of Colombia, is convicted
-- [1037] | 2 | cosying | Gemütlichkeit | 正在读取 | Pakistan’s army chief is cosying up to Donald Trump
-- [1038] | 2 | Country | Empfänger | 国家 | Country music icon Jeannie Seely dead at 85
-- [1039] | 2 | Cowboys' | Cowboys" | 牛仔队 | Cowboys' Jerry Jones reveals scary skin cancer battle
-- [1040] | 2 | Cow’s | Kühe | 奶牛 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
-- [1041] | 2 | Cracker | Cracker | Cracker 裂开器 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [1042] | 2 | crazy | verrückt | 疯狂 | Bolivia’s crazy kingdom of coca
-- [1043] | 2 | create | erstellen | 创建创建创建创建 | How AI could create the first one-person unicorn
-- [1044] | 2 | credits | Kredite | 贷项 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
-- [1045] | 2 | criminal | Strafverbrecher | 刑事犯罪 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [1046] | 2 | critics | Kritiker | 批评者 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
-- [1047] | 2 | culinary | kulinarisch | 食 食 餐 | Private chefs are spilling the culinary secrets of the super-rich
-- [1048] | 2 | Cuomo | Die Kommission stellt fest, dass die in Artikel 2 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 genannten Maßnahmen nicht mit dem Gemeinsamen Markt vereinbar sind. | 库莫 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
-- [1049] | 2 | customers | Kunden | 客户客户 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [1050] | 2 | cut | Schnitt | 剪切剪切 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [1051] | 2 | DA | RECHTSSACHE 28/63 — URTEIL | 达 达 达 达 达 达 达 达 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
-- [1052] | 2 | daddy | Papa | 爸爸( 爸爸) | Indonesia’s new president has daddy issues
-- [1053] | 2 | danger | Gefahren | 危险危险 | Swimming pools are cauldrons of envy, danger and lust
-- [1054] | 2 | day | Tag | 天天 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
-- [1055] | 2 | deadliest | Der tödlichste | 最致命 | Which are the deadliest European cities in a heatwave?
-- [1056] | 2 | deals | Abkommen | 交易交易 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [1057] | 2 | debut | Debüt | 开始( 开始) | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
-- [1058] | 2 | defends | verteidigt | 防御防御 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [1059] | 2 | Degrees | Grade | 度度 | Degrees of freedom? Harvard’s shakedown dilemma
-- [1060] | 2 | Deion | Deion | 下沉 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1061] | 2 | Den | Großbuchstaben | 丹 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [1062] | 2 | Denzel | Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel | 丹泽 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [1063] | 2 | desperately | verzweifelt | 极度绝望 | The message about motherhood the media desperately wants you to miss
-- [1064] | 2 | DHS | DHS | DHS 人口与健康调查 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [1065] | 2 | die | sterben | 死 死 | Liberal Uruguay and the right to die
-- [1066] | 2 | died | gestorben | 死 死 死 | The four years when old New York died and a new one was born
-- [1067] | 2 | dilemma | Dilemma | 进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进 | Degrees of freedom? Harvard’s shakedown dilemma
-- [1068] | 2 | discovered | entdeckt | 发现 | Radioactive wasp nest discovered by workers at former nuclear bomb site
-- [1069] | 2 | dishes | Geschirr | 盘子 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [1070] | 2 | disorder | Erkrankungen des Gastrointestinaltrakts | 精神疾病 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [1071] | 2 | district | Bezirk | 区区 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
-- [1072] | 2 | districts | Bezirke | 区区 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
-- [1073] | 2 | divorce | Scheidung | 离婚离婚离婚 离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [1074] | 2 | doubles | Verdoppelung | 双双 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [1075] | 2 | dramatic | dramatisch | 戏剧性 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
-- [1076] | 2 | Dream | Traum | 梦梦 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [1077] | 2 | driver | Fahrer | 驱动驱动 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
-- [1078] | 2 | drops | Tropfen | 滴滴滴滴数 | Russia drops missile deployment moratorium amid tensions with Trump admin
-- [1079] | 2 | Duterte’s | Zollschuldner | 独裁者 | What Sara Duterte’s comeback means for the Philippines
-- [1080] | 2 | early | Anfang | 早期 | New York Post expands west with California edition planned for early 2026
-- [1081] | 2 | Education | Bildung | 教育 教育教育 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
-- [1082] | 2 | effort | Aufwand | 努力努力 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
-- [1083] | 2 | efforts | Anstrengungen | A. 努力努力 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
-- [1084] | 2 | election | Wahl | 选 选 选 选 选 选 选 选 选 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
-- [1085] | 2 | Elizabeth | Elisabeth | 伊丽莎白 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [1086] | 2 | envy | Neid | 嫉妒 | Swimming pools are cauldrons of envy, danger and lust
-- [1087] | 2 | Epstein | Epstein | 爱普斯坦语Name | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
-- [1088] | 2 | ESPN | ESPN | ESTP ESP ESP ESP ESP ESP ESP ESTP ESP ESP ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESP | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [1089] | 2 | Europe’s | Europa n s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 欧洲的欧洲 | Europe’s Hogwarts has a new Dumbledore
-- [1090] | 2 | exact | Genau | 精确 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [1091] | 2 | experts | Sachverständige | 专家专家专家 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [1092] | 2 | explains | erklärt | 解释解释 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
-- [1093] | 2 | exposes | Entblößt | 曝光 | Allianz Life Insurance data breach exposes 1.4 million Americans
-- [1094] | 2 | Facebook | Facebook | 脸书脸书 | How to quickly recover a disabled Facebook account
-- [1095] | 2 | faces | Gesichter | 面面 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [1096] | 2 | Fame | Ruhm | 名名 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [1097] | 2 | Famer | Famer | 时前 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1098] | 2 | famous | berühmt | 出名 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [1099] | 2 | Fan | Ventilator | 风扇 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [1100] | 2 | fatal | tödlich | 致命 | The War Room newsletter: How receiving aid became fatal in Gaza
-- [1101] | 2 | Fee-asco | Gebührenszenario | 收费 | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
-- [1102] | 2 | fellow | Stipendiat | 相 相 相 相 相 人 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1103] | 2 | Female | Frauen | 女性 女性 女性 | Female police officer leaps into water, fights career criminal before making arrest, video shows
-- [1104] | 2 | fishing | Fischerei | 渔业 | Go fishing without breaking the bank with these budget-friendly fishing gadgets
-- [1105] | 2 | fitness | Eignung | 健身 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [1106] | 2 | five | Fünf | 5, 5 5 | France’s top general says Russia could attack in five years
-- [1107] | 2 | freedom | RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 4/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — | 自由自由 | Degrees of freedom? Harvard’s shakedown dilemma
-- [1108] | 2 | fuels | Brennstoffe | 燃料燃料燃料燃料燃料 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
-- [1109] | 2 | gaming | Spielen | 游戏游戏 | Britain is a global gaming superpower
-- [1110] | 2 | General | Allgemeines | 一般性一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般的言言言言的变一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [1111] | 2 | Ghislaine | Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain | 吉斯莱人 | Justice Department weighs release of Ghislaine Maxwell interview
-- [1112] | 2 | gig | Gig | 工作( 工作) | Blighty newsletter: The Tories go cold on the gig economy
-- [1113] | 2 | girl | Mädchen | 女 女童 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [1114] | 2 | Girlfriend | Freundin | 女朋友 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
-- [1115] | 2 | Google | Google | 谷歌谷歌 | Google AI email summaries can be hacked to hide phishing attacks
-- [1116] | 2 | GOV | GOV | GOV 通用 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
-- [1117] | 2 | governments | RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSÄM | 政府政府政府政府 | China’s local governments are approaching a fiscal black hole
-- [1118] | 2 | GPT- | GPT- | GPT - - - -GPT - - -GPT - | Next top model: GPT-5 and its AI rivals
-- [1119] | 2 | Greenlash | Grüner Schrägstrich | 绿火 | Greenlash: how to move the needle on climate change
-- [1120] | 2 | groups | Gruppen | 组群 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
-- [1121] | 2 | gunman | Schütze | 炮兵 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
-- [1122] | 2 | hacked | gehackt | 黑白( hacked) | Google AI email summaries can be hacked to hide phishing attacks
-- [1123] | 2 | hardest | am härtesten | 最难 | The world’s hardest makeover: Hamas
-- [1124] | 2 | Harris' | Harris' | 哈里斯' | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [1125] | 2 | Harvard’s | Harvard's | 哈佛的 | Degrees of freedom? Harvard’s shakedown dilemma
-- [1126] | 2 | haunted | Gespenster | 闹鬼 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [1127] | 2 | headlines | Schlagzeilen | 标题标题 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [1128] | 2 | heatwave | Wärmewelle | 热热波 | Which are the deadliest European cities in a heatwave?
-- [1129] | 2 | helps | hilft | 帮助帮助 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [1130] | 2 | Here's | Hier ist es. | 给 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [1131] | 2 | high-fiber | Hochfaser | 高纤维 | Las Vegas tourism controversies, plus 9 high-fiber bread options
-- [1132] | 2 | high-stakes | hohe Aufnahmemengen | 高取量 | Trump closes out 30th week in office with 'very warm' high-stakes Putin meeting
-- [1133] | 2 | Hiker | Wanderer | 希入者 | Hiker made fatal mistake when encountering poisonous snake, officials believe
-- [1134] | 2 | hiking | Wandern | 徒 徒 徒 徒 | Video shows Arkansas hiking murder suspect arrested mid-haircut
-- [1135] | 2 | historic | historisch | 历史历史历史 | Braves, Reds combine for historic 16-run 8th inning in wild game
-- [1136] | 2 | Hizbullah | Hizbullah | 真主党真主党 | Lebanon’s government is taking on a weakened Hizbullah
-- [1137] | 2 | hole | Loch | 空洞 | China’s local governments are approaching a fiscal black hole
-- [1138] | 2 | home-grown | Eigenanbau | 土产 | Can a home-grown telecoms firm connect South Sudan to the world?
-- [1139] | 2 | hopeful | hoffnungsvoll | 有希望 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
-- [1140] | 2 | hundreds | Hunderte | 百 数百 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
-- [1141] | 2 | I'm | Ich bin | 我... 我... 我... 我... | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [1142] | 2 | identity | Identität | 身份身份 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [1143] | 2 | indefinite | unbestimmt | 无限期 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
-- [1144] | 2 | Indonesia’s | Indonesien | 印度尼西亚 | Indonesia’s new president has daddy issues
-- [1145] | 2 | investigators | Ermittler | 调查员 调查员 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [1146] | 2 | isn't | ist es nicht | # 不是 # # 不是 # # # 不是 # #不是 # #不是 # #不是 # #不是 # #不是 # # #不是 # #不是 # # #不是 # # #不是 # # #不是 # # # #不是 # # #不是 # # # # #不是 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
-- [1147] | 2 | it's | Es ist | 这是 | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
-- [1148] | 2 | Italy’s | Italien | 意大利 | Why Italy’s next cultural capital looks like a disaster zone
-- [1149] | 2 | JD | JD | 日军 | JD Vance says he's 'obsessed' with eerie UFO videos
-- [1150] | 2 | Jerry | - Jerry. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 杰瑞·杰里 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [1151] | 2 | Jim | UMWELT | 吉姆 Jim | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [1152] | 2 | jokes | Witze | 笑话 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1153] | 2 | Jones | Jones | 琼斯·琼斯 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [1154] | 2 | journalists | Journalisten | 记者记者 | The killing of journalists in Gaza
-- [1155] | 2 | keep | zu halten | 保留 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [1156] | 2 | Kelce | Kelz | 开 开 开 开 开 开 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
-- [1157] | 2 | Kelly | Kelly | 凯利 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [1158] | 2 | Kentucky | Kentucky | 肯塔基州 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [1159] | 2 | key | Schlüssel | 键键 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
-- [1160] | 2 | kill | Töten | 杀 | On Ukraine’s front lines the kill zone is getting deeper
-- [1161] | 2 | killing | Töten | 杀杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 | The killing of journalists in Gaza
-- [1162] | 2 | kingdom | Königreich | 王国 | Bolivia’s crazy kingdom of coca
-- [1163] | 2 | Lane | Lane | 巷 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
-- [1164] | 2 | law | Recht | 法律 法律 法律 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [1165] | 2 | lawsuit | Klage | 诉讼案件数量 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [1166] | 2 | lawyer | Rechtsanwalt | 律师律师 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
-- [1167] | 2 | leads | Leitungen | 铅铅 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [1168] | 2 | Lebanon’s | Libanon | 黎巴嫩 黎巴嫩 | Lebanon’s government is taking on a weakened Hizbullah
-- [1169] | 2 | LETITIA | LETITIEN | 立陶宛 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
-- [1170] | 2 | lust | Lust | 情欲 | Swimming pools are cauldrons of envy, danger and lust
-- [1171] | 2 | lustre | Glanz | 色 | Wax off: Has McKinsey lost its lustre?
-- [1172] | 2 | Mace | Maul- und Klauenseuche | Mace 磁石 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [1173] | 2 | makeover | Verjüngungskur | 改 改 | The world’s hardest makeover: Hamas
-- [1174] | 2 | Mamdani's | Mamdani's | 曼达尼的 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [1175] | 2 | marriage | Ehe | 婚姻婚姻 | Christie Brinkley admits forever might be too long for modern marriage
-- [1176] | 2 | martyr | Märtyrer | 烈士 | A martyr in the making?
-- [1177] | 2 | match | Übereinstimmung | 匹配匹配 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [1178] | 2 | Maui | Maui | 毛毛毛 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
-- [1179] | 2 | Maxwell | Maxwell | 马克韦 | Justice Department weighs release of Ghislaine Maxwell interview
-- [1180] | 2 | mayor | Bürgermeister | 市长 市长 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [1181] | 2 | me | ich | 我,我,我 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [1182] | 2 | means | Mittel | 中指 | What Sara Duterte’s comeback means for the Philippines
-- [1183] | 2 | Melania | Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien | 梅拉尼亚语Name | Melania Trump commemorates 200 days since resuming role as first lady
-- [1184] | 2 | migrant | Zuwanderer | 移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [1185] | 2 | migrants | Migranten | 移民移民移民 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [1186] | 2 | military | Militärisch | 军事 军事 | Female military recruits surge across all service branches
-- [1187] | 2 | million | in Mio. | 百万百万 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [1188] | 2 | mirror | Spiegel | 镜镜镜 | Ziad Rahbani held a mirror to Lebanese society
-- [1189] | 2 | miss | Verpassen | 错过 | The message about motherhood the media desperately wants you to miss
-- [1190] | 2 | MIT | MIT | 麻 麻 三 | MIT tool visualizes and edits “physically impossible” objects
-- [1191] | 2 | model | Modell | 模型模型模型模型 | Next top model: GPT-5 and its AI rivals
-- [1192] | 2 | Mookie | Mookie | 穆奇语Name | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [1193] | 2 | mother | Mutter | 母 母 母 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [1194] | 2 | motherhood | Mutterschaft | 母 母 母 母 母 | The message about motherhood the media desperately wants you to miss
-- [1195] | 2 | murders | Morde | 谋杀 谋杀 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [1196] | 2 | name | Bezeichnung | 名称名称名称名称名称 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [1197] | 2 | Nancy | Nancy | 南希 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [1198] | 2 | Nasaw | Nasaw | Nasaw 纳索 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [1199] | 2 | NASCAR | NASCAR | NASCAR 海军 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
-- [1200] | 2 | nears | naht | 近近 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
-- [1201] | 2 | needle | Injektionsnadel | 针针 | Greenlash: how to move the needle on climate change
-- [1202] | 2 | Night | Nacht | 夜间 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [1203] | 2 | nixes | nixes | 硝 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [1204] | 2 | no | Nein | 无 无 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [1205] | 2 | Obama | Obama | 奥巴马 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [1206] | 2 | Oct | Oktober | 10月 10月 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
-- [1207] | 2 | officer | Beamter | 干事 干事 | Female police officer leaps into water, fights career criminal before making arrest, video shows
-- [1208] | 2 | official | amtlich | 公务 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [1209] | 2 | once | 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 2 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x | 一次 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [1210] | 2 | one-person | eine Person | 一人一人 | How AI could create the first one-person unicorn
-- [1211] | 2 | online | online | 在线在线 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
-- [1212] | 2 | other | Sonstige | 其他 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [1213] | 2 | our | unsere | 我们的 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [1214] | 2 | outcome | Ergebnis | 结果结果 | Could AI tilt the outcome of elections?
-- [1215] | 2 | overhaul | Überholung | 大修 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [1216] | 2 | Ozzy | Ozzy | 奥兹 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [1217] | 2 | Pacific | Pazifischer Ozean | 太平洋 | The War Room newsletter: Seven of the best books on the Pacific war
-- [1218] | 2 | pastor | Pfarrer | 牧师 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [1219] | 2 | Philippines | Philippinen | 菲律宾 菲律宾 菲律宾 | What Sara Duterte’s comeback means for the Philippines
-- [1220] | 2 | plans | Pläne | 计划计划 | It's not just Democrats. Socialist Mamdani's plans should worry Republicans nationwide
-- [1221] | 2 | play | Spiel | 播放播放 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [1222] | 2 | playing | Spielen | 播放播放 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [1223] | 2 | plus | zuzüglich | 加加 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [1224] | 2 | pools | Pools | 集合集合 | Swimming pools are cauldrons of envy, danger and lust
-- [1225] | 2 | Post-traumatic | Posttraumatisch | 创伤后 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [1226] | 2 | potential | Potenzial | 潜在潜力 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [1227] | 2 | praises | Lobpreisung | 赞美赞美 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1228] | 2 | press | Presse | 新闻报社 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
-- [1229] | 2 | Prosecutors | Staatsanwälte | 检察官 检察官 检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [1230] | 2 | protesters | Demonstranten | 抗议示威者 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
-- [1231] | 2 | push | schieben | 推进 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [1232] | 2 | pushes | Drücker | 推键 | Hamas endgame is ‘long-term’ and is playing out for all to see as Israel pushes deeper into Gaza
-- [1233] | 2 | quarterback | Quartalsrückstand | 四分卫 | Deion Sanders' Colorado quarterback decision much tougher than years past
-- [1234] | 2 | Quiz | Quiz | 质 问 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
-- [1235] | 2 | race | Rennen | 种族 种族 | Virginia school districts support for transgender students' rights in governor's race spotlight
-- [1236] | 2 | Rare | Selten | 稀少 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [1237] | 2 | rates | Steuersätze | 费率费率 | How to make sense of Donald Trump’s bizarre tariff rates
-- [1238] | 2 | reality | Wirklichkeit | 现实现实 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [1239] | 2 | reporters | Bericht erstattende Stellen | 记者记者 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1240] | 2 | Republican | Republikaner | 共和共和共和 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
-- [1241] | 2 | residents | Gebietsansässige | 居民 居民 居民 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
-- [1242] | 2 | reveal | offenlegen | 显示显示 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
-- [1243] | 2 | rhetoric | Rhetorik | 单词 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [1244] | 2 | ring | Ring | 环环 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
-- [1245] | 2 | rip | Rip | 下拉 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
-- [1246] | 2 | run | Ausführen | 运行中 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [1247] | 2 | runs | läuft | 运行中 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
-- [1248] | 2 | Russian-run | Russischer Lauf | 俄语运行 | The Russian-run town squatting on NATO territory
-- [1249] | 2 | safety | Sicherheit | 安全 安全 安全 安全 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
-- [1250] | 2 | Samsung | SAMMLUNG DER RECHTSPRECHUNG DES GERICHTSHOFES | 三星 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
-- [1251] | 2 | Sanders | Schleifmaschinen | 桑德斯 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1252] | 2 | Sara | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 萨拉 | What Sara Duterte’s comeback means for the Philippines
-- [1253] | 2 | scales | Waagen | 比额表 | Tipping scales: justice for Gaza will have to come from within Israel
-- [1254] | 2 | scam | Betrug | 骗骗骗骗骗 | TSA warns of phishing scam targeting PreCheck travelers
-- [1255] | 2 | scams | Betrug | 骗骗骗 | How scammers exploit your data for 'pre-approved' retirement scams
-- [1256] | 2 | scene | Szene | 现场现场 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [1257] | 2 | scrutiny | Prüfung | 检查检查 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
-- [1258] | 2 | search | Suchen | 搜索搜索 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
-- [1259] | 2 | seat | Sitz | 位数 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
-- [1260] | 2 | secrets | Geheimnisse | 机密机密 | Private chefs are spilling the culinary secrets of the super-rich
-- [1261] | 2 | security | Sicherheit | 安全安全 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [1262] | 2 | seek | suchen | 寻找 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
-- [1263] | 2 | seeks | sucht | a. 寻求 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [1264] | 2 | sense | Sinn | 感知 | How to make sense of Donald Trump’s bizarre tariff rates
-- [1265] | 2 | Seven | Sieben | 七号七 | The War Room newsletter: Seven of the best books on the Pacific war
-- [1266] | 2 | shakedown | Shakedown | 抖动 | Degrees of freedom? Harvard’s shakedown dilemma
-- [1267] | 2 | Shannon | Shannon (Sänger). - (EN) Herr Präsident, meine Damen und Herren! | 香香香 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [1268] | 2 | shares | Anteile | 股份 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [1269] | 2 | sharing | Teilen | 共享共享共享 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [1270] | 2 | shark | Haifisch | 鲨鱼 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [1271] | 2 | Sharon | Sharon | 沙龙 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [1272] | 2 | Sharpe | Schärfen | 锐化 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [1273] | 2 | Shedeur | Shedeur | 谢德 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
-- [1274] | 2 | shifting | Verschiebung | 移动 | Israeli sentiment on the war in Gaza is shifting
-- [1275] | 2 | slam | slam | 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚 | Crying foul: opponents slam the uneven EU-US trade deal
-- [1276] | 2 | slams | Zuschläge | 滚 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
-- [1277] | 2 | socialist | Sozialist | 社会主义社会主义 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
-- [1278] | 2 | South-East | Süd-Osten | 东南 | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
-- [1279] | 2 | sparks | Funken | 火花 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
-- [1280] | 2 | special | besonders | 特别特别特别 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
-- [1281] | 2 | spilling | Ausschüttung | 溢出物, | Private chefs are spilling the culinary secrets of the super-rich
-- [1282] | 2 | sports | Sport | 运动 运动 运动 运动 运动 运动 运动 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
-- [1283] | 2 | squatting | Kniebeugen | 占居 | The Russian-run town squatting on NATO territory
-- [1284] | 2 | state's | Staat | 状态 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [1285] | 2 | stay | bleiben | 停留停留 | You can eat bread and stay fit: Here are 9 high-fiber options from a health coach
-- [1286] | 2 | steps | Schritte | 步骤 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [1287] | 2 | stolen | gestohlen | 被盗 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
-- [1288] | 2 | stress | Stress | 压力应应应 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [1289] | 2 | struck | geschlagen | 击打 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [1290] | 2 | students | Schüler | 学生 学生 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
-- [1291] | 2 | submarines | U-Boote | 潜艇 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
-- [1292] | 2 | suffered | Erleidet | 遭受损失的 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
-- [1293] | 2 | suffers | leidet | 受 苦 人 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [1294] | 2 | super-rich | superreich | 超富 | Private chefs are spilling the culinary secrets of the super-rich
-- [1295] | 2 | superpower | Superkraft | 超强 | Britain is a global gaming superpower
-- [1296] | 2 | support | Unterstützung | 支助支助 | Virginia school districts support for transgender students' rights in governor's race spotlight
-- [1297] | 2 | supporters | Unterstützer | 支持者 | Cuomo supporters look to wealthy enclave to take down Mamdani: report
-- [1298] | 2 | supporting | Unterstützung | 支助支助 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
-- [1299] | 2 | surge | Überspannung | 快速激增 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [1300] | 2 | Sweeney | Sweeney | 斯威尼 | Sydney Sweeney jeans controversy making advertising great again
-- [1301] | 2 | Syrian | Syrisch | 叙利亚语叙利亚语Name 叙利亚语Name | The great Syrian beach trip
-- [1302] | 2 | table' | Tabelle" | 表格表格 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
-- [1303] | 2 | team | Team | 团队团队 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [1304] | 2 | tech | TECHNOLOGIE UND TECHNOLOGIE | 科技 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
-- [1305] | 2 | telecoms | Telekommunikation | 电信 | Can a home-grown telecoms firm connect South Sudan to the world?
-- [1306] | 2 | tell | sagen | 线对线( T) | How to tell if your Samsung Galaxy tablet has been hacked
-- [1307] | 2 | territory | Gebiet | 领土领土 | The Russian-run town squatting on NATO territory
-- [1308] | 2 | threat | Bedrohung | 威胁威胁 | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
-- [1309] | 2 | threatening | bedrohlich | 威胁 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [1310] | 2 | ties | Verbindungen | 连结 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
-- [1311] | 2 | tilt | Neigung | 倾斜倾斜 | Could AI tilt the outcome of elections?
-- [1312] | 2 | Times | Zeiten | 时时时时时时 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [1313] | 2 | Todd | Todd | 托德 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
-- [1314] | 2 | tougher | härter | 更坚硬 | AI helps chemists develop tougher plastics
-- [1315] | 2 | tour | Besichtigung | 参观参观参观参观 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
-- [1316] | 2 | tourism | Tourismus | 旅游旅游 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
-- [1317] | 2 | tourists | Touristen | 游客 游客 游客 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [1318] | 2 | Travis | Travis | 特拉维斯 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
-- [1319] | 2 | tribute | Huldigung | 致敬致敬 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [1320] | 2 | truancy | truancy | 旷课 | The US in brief: T for Texas, T for truancy
-- [1321] | 2 | turns | Drehungen | 旋转 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
-- [1322] | 2 | TV | Fernsehen | 电视电视电视电视 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [1323] | 2 | unicorn | Einhorn | 独角兽 | How AI could create the first one-person unicorn
-- [1324] | 2 | up' | aufwärts" | 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
-- [1325] | 2 | urging | Dringend | 促请 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [1326] | 2 | Uribe | Uribe | 乌里韦 | Álvaro Uribe, a former president of Colombia, is convicted
-- [1327] | 2 | Uruguay | Uruguay | 乌拉圭 | Liberal Uruguay and the right to die
-- [1328] | 2 | US-India | USA-Indien | 美国-印度 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
-- [1329] | 2 | Vance | Vance | 频率 | JD Vance says he's 'obsessed' with eerie UFO videos
-- [1330] | 2 | veterans | Veteranen | 退伍军人 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
-- [1331] | 2 | Victory | Sieg | 胜利 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
-- [1332] | 2 | videos | Videos | 视频视频视频 | JD Vance says he's 'obsessed' with eerie UFO videos
-- [1333] | 2 | Virginia | Virginia | 弗吉尼亚州 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
-- [1334] | 2 | visitors | Besucher | 访 访 访 访 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
-- [1335] | 2 | vows | Gelübde | 誓言 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
-- [1336] | 2 | vs | vs. | Vs 和 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
-- [1337] | 2 | walkout | Spaziergang | 滚出 | Abbott, Texas Republicans launch new Trump-backed redistricting push as fleeing Democrats plan to end walkout
-- [1338] | 2 | warned | gewarnt | 警告 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [1339] | 2 | warrants | Haftbefehle | 授权书 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
-- [1340] | 2 | water | Wasser | 水 水 | Female police officer leaps into water, fights career criminal before making arrest, video shows
-- [1341] | 2 | Wax | Wachs | 轴速 | Wax off: Has McKinsey lost its lustre?
-- [1342] | 2 | weakened | geschwächt | 被弱化的 | Lebanon’s government is taking on a weakened Hizbullah
-- [1343] | 2 | Wealthy | Reichlich | 财富财富 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [1344] | 2 | welcome | Willkommen | 欢迎欢迎 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [1345] | 2 | Which | Welche | 哪个 | Which are the deadliest European cities in a heatwave?
-- [1346] | 2 | while | während | 时时 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
-- [1347] | 2 | wild | wild | 野 野 | Braves, Reds combine for historic 16-run 8th inning in wild game
-- [1348] | 2 | within | innerhalb | 内 | Tipping scales: justice for Gaza will have to come from within Israel
-- [1349] | 2 | women’s-sports | Frauen-Sport | 妇女体育 | The year of the women’s-sports bar
-- [1350] | 2 | won't | wird es nicht | 不会 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1351] | 2 | workers | Arbeitnehmer | 工人 工人 | Radioactive wasp nest discovered by workers at former nuclear bomb site
-- [1352] | 2 | yacht | Yacht | 游游艇 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
-- [1353] | 2 | Yankees | Yankees | 扬基人 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [1354] | 2 | year | Jahr | 年份 | The year of the women’s-sports bar
-- [1355] | 2 | you' | Sie" | 贵 国 家 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [1356] | 2 | yourself | Sie selbst | 亲 亲 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
-- [1357] | 2 | Zilisch | Zilisch | 兹里希 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
-- [1358] | 2 | zone | Zone | 区域 | On Ukraine’s front lines the kill zone is getting deeper
-- [1359] | 2 | Álvaro | Álvaro | 阿尔瓦罗 | Álvaro Uribe, a former president of Colombia, is convicted
-- [1360] | 2 | ‘The | L 347 vom 20.12.2013, S. 671. | `我们 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [1361] | 2 | “emergency | Notstandsfall | “紧急 | The US in brief: DC gets an “emergency police commissioner”
-- [1362] | 1 | 'afraid' | "befürchtet" | "害怕" | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
-- [1363] | 1 | 'Ain't | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 内,内,内 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
-- [1364] | 1 | 'alarming' | "Bewaffnung" | (武装) | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [1365] | 1 | 'Aquaman' | "Aquaman" | "水路人" | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
-- [1366] | 1 | 'arrest' | "Verhaftet" | "逮捕" | Beach visitors risk 'arrest' for swimming without lifeguard following tragic incident
-- [1367] | 1 | 'associates' | „Assoziierte" | “ 联营公司 ” | Tennessee 'associates' of quadruple murder suspect arrested
-- [1368] | 1 | 'Bachelor' | "Bachelor" | "学士" | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [1369] | 1 | 'Baywatch' | "Baywatch" | "日光观察" | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [1370] | 1 | 'big | Groß | # 大 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1371] | 1 | 'blew | "Braut" | “ 利布” | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
-- [1372] | 1 | 'boy | Junge | "男孩" | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
-- [1373] | 1 | 'brutally | "brutal | 轻轻地 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
-- [1374] | 1 | 'bug | Käfer | 'bug" 错误 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [1375] | 1 | 'Can't | Kann ich nicht. | "不能" | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
-- [1376] | 1 | 'clever' | "Klever" | # 包括 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
-- [1377] | 1 | 'cold | "Kälte" | 寒冷 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
-- [1378] | 1 | 'comfortable' | "bequem" | "舒适" | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1379] | 1 | 'concern | "Besorgung | '关注 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
-- [1380] | 1 | 'Continue | "Weiter | 继续 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
-- [1381] | 1 | 'cover-up' | "Aufdeckung" | "掩盖" | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
-- [1382] | 1 | 'created | "geschaffen | 创建 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [1383] | 1 | 'crooked | "gestrichen | # 被大声 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
-- [1384] | 1 | 'Cruelty | "Wahrheit | 克鲁蒂 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [1385] | 1 | 'damage | "Schaden" | '损害 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [1386] | 1 | 'Dancing | "Tanzen | 跳舞 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
-- [1387] | 1 | 'Democrat | "Demokrat | 民主派 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [1388] | 1 | 'emergency | "Notfall" | '紧急 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
-- [1389] | 1 | 'engulfed' | "gespalten" | "孕育" | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
-- [1390] | 1 | 'ERIC | „ERIC | 埃里克 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [1391] | 1 | 'fall | Fall | 失败 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [1392] | 1 | 'false | "falsch" | “ 虚假” | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
-- [1393] | 1 | 'federalize' | "föderalisieren" | "联邦化" | Trump is threatening to 'federalize' DC with National Guard and more. Here's how that could play out
-- [1394] | 1 | 'General | "Allgemeines | 常规 ' 常规 ' 常规 ' | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
-- [1395] | 1 | 'good' | "gut" | "好" | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
-- [1396] | 1 | 'Gotta | "Gotta" | 上加 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
-- [1397] | 1 | 'grind | "Grind" | 'grind 农业 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
-- [1398] | 1 | 'growing | "Wachstum" | 增长 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
-- [1399] | 1 | 'hate' | "Hass" | "仇恨" | Cracker Barrel customers 'hate' restaurant chain's new look in viral social media videos
-- [1400] | 1 | 'He | 'Er ist's. | "他" | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
-- [1401] | 1 | 'He's | Er ist | # 他 # # 他 # # 他 # # He's # He # | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1402] | 1 | 'health | Gesundheitsschutz | 健康 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [1403] | 1 | 'highly | "hoch" | "高高" | Ghislaine Maxwell prison transfer called 'highly unusual' by former federal prison official
-- [1404] | 1 | 'Hillbilly | "Hillbilly" | 万岁 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [1405] | 1 | 'hostile' | "feindliche" | "敌对" | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
-- [1406] | 1 | 'I | "Ich | '一 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [1407] | 1 | 'in | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 在 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
-- [1408] | 1 | 'interviewing' | "Interviewing" | 访谈 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [1409] | 1 | 'It | "Es ist | # 它 # # # 它 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
-- [1410] | 1 | 'It’s | Es ist | "它" | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
-- [1411] | 1 | 'Just | "Nur | 只是 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [1412] | 1 | 'Left | Links | 左左 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
-- [1413] | 1 | 'Legitimate | "Legitimiert | “ 隐名 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
-- [1414] | 1 | 'MAGA | MAGA | MAGA( MAGA) | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [1415] | 1 | 'Make | "Machen | 制造 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [1416] | 1 | 'mega-fire' | "Megafeuer" | "超火" | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
-- [1417] | 1 | 'Messed | "Gemessen | 先生 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
-- [1418] | 1 | 'most | "die meisten | 最 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [1419] | 1 | 'Next | "Weiter | '下一个 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [1420] | 1 | 'No | "Nein | 没有 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [1421] | 1 | 'nowhere | "Nirgendwo | 无处 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [1422] | 1 | 'obsessed' | "besessen" | 隐隐 | JD Vance says he's 'obsessed' with eerie UFO videos
-- [1423] | 1 | 'old | "alt | 旧 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [1424] | 1 | 'Only | Nur | 只有 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
-- [1425] | 1 | 'Orwellian' | "Orwellian" | "奥利安人" | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
-- [1426] | 1 | 'overblown | "Überschwemmung" | 过度 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
-- [1427] | 1 | 'Party | Parteien | '缔约方 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [1428] | 1 | 'piling | "Piling" | '铺面 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [1429] | 1 | 'play | "Spielen | 播放 | Illinois substitute teacher had sex with 11-year-old student during 'play dates,' police say
-- [1430] | 1 | 'pre-approved' | „vorbewilligt" | “事先批准” | How scammers exploit your data for 'pre-approved' retirement scams
-- [1431] | 1 | 'ranting | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 兰丁 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [1432] | 1 | 'reprehensible' | "verwerflich" | "可以想象的" | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
-- [1433] | 1 | 'run | Laufen | 运行 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
-- [1434] | 1 | 'runs | L 347 vom 20.12.2013, S. 671. | 运行 | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
-- [1435] | 1 | 'safe | "sicher" | '安全安全 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
-- [1436] | 1 | 'screwed | Geschraubt | 被缝熟的 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
-- [1437] | 1 | 'secondhand | Aus zweiter Hand | '二手 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [1438] | 1 | 'six | Sechs | 六岁 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [1439] | 1 | 'snubbed' | "gebrüllt" | 缩略( snubbbed) | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
-- [1440] | 1 | 'somebody | Irgendjemand | 某个人 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [1441] | 1 | 'Southern | „Süden" | '南方 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
-- [1442] | 1 | 'Super | "Super | 超级 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [1443] | 1 | 'supercharging' | "Überladung" | "超高收费" | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
-- [1444] | 1 | 'taking | "Einnehmen" | ' 采取 | Chuck Todd warns that Dems are falling into Trump’s trap, 'taking the bait' on redistricting
-- [1445] | 1 | 'terrorist | "Terrorist" | '恐怖主义 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
-- [1446] | 1 | 'the | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 爱的 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [1447] | 1 | 'too | "zu | '太过 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [1448] | 1 | 'under | "unter | 下 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
-- [1449] | 1 | 'unforgiving' | "Unverzeihlich" | "无罪" | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [1450] | 1 | 'unlawful' | "ungesetzlich" | "非法" | DC sues Trump administration over 'unlawful' federal takeover
-- [1451] | 1 | 'usurp' | "Usurp" | "usurp" (usurp) (usurp) (usurp) (usurp) (usurp) | Illinois Democrats tell feds to stop trying to 'usurp' state authority over immigration
-- [1452] | 1 | 'viewpoint | "Sichtpunkt | “ 观点点” | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [1453] | 1 | 'vote | „Abstimmung | 投票 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [1454] | 1 | 'Was | "War | 曾经是 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [1455] | 1 | 'years' | 'Jahre' | 年数 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
-- [1456] | 1 | 'yes | "Ja, das ist gut. | 是 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [1457] | 1 | 'You | "Du | "你" | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [1458] | 1 | 'Your | "Deine | "你的" | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [1459] | 1 | 'zero | 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 | '零 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
-- [1460] | 1 | -- | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. nein, nein. | -- -- -- -- -- | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
-- [1461] | 1 | -foot | - Fuß | -脚下 | 75-foot boat surfs wave, runs aground in Hawaii
-- [1462] | 1 | -hour | -Stunde | -小时 -小时 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [1463] | 1 | -run | - Laufen | - 运行 - 运行 - 运行 - 运行 | Braves, Reds combine for historic 16-run 8th inning in wild game
-- [1464] | 1 | -year | -Jahr | -年份 -年份 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
-- [1465] | 1 | Aaron | Aaron | 亚伦 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [1466] | 1 | abandon | aufgeben | 放弃的 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
-- [1467] | 1 | abandoned | verlassen | 被遗弃的 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
-- [1468] | 1 | Abigail | Abigail | 阿比盖尔 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
-- [1469] | 1 | abortion | Abtreibung | 堕胎堕胎 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
-- [1470] | 1 | accident | Unfall | 事故事故 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
-- [1471] | 1 | according | entsprechend | 基底 | 7 best low-carb beers that are also big on flavor, according to new ranking
-- [1472] | 1 | accounts | Konten | 账户账户 | WhatsApp bans 6.8M scam accounts, launches safety tool
-- [1473] | 1 | accuser | Ankläger | 控告人 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
-- [1474] | 1 | Acosta | Acosta | 阿科斯塔 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [1475] | 1 | Act | Rechtsakt | 《法案法案法案法》 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
-- [1476] | 1 | Act' | Rechtsakt" | 法案' | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [1477] | 1 | acting | handelnd | 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
-- [1478] | 1 | action | Maßnahme | 行动和行动行动 | Trump is taking decisive action to bring this critical industry back to American soil
-- [1479] | 1 | activist | Aktivist | 活动家 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [1480] | 1 | ADAMS | ANPASSUNGEN | 成 成 体 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [1481] | 1 | addresses | Anschriften | 地址地址地址地址地址地址地址 | Bernie Sanders addresses whether he’ll run in 2028
-- [1482] | 1 | adds | fügt hinzu: | 加加 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
-- [1483] | 1 | ads | Anzeigen | 广告广告 | Facebook crypto ads lead to dangerous malware scams
-- [1484] | 1 | advertising | Werbung | 广告广告广告广告 | Sydney Sweeney jeans controversy making advertising great again
-- [1485] | 1 | advisor | Berater | 顾问顾问 | Former Democratic advisor says party's rhetoric on redistricting is getting 'a little out of control'
-- [1486] | 1 | aftermath | Nachwirkungen | 后 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
-- [1487] | 1 | AG | RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — URTEIL | AA AA AA 公司 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
-- [1488] | 1 | Again' | Noch einmal." | 再来一次 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [1489] | 1 | agency's | der Agentur | 代理代理机构 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
-- [1490] | 1 | agents | Erreger | 代理代理代理 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
-- [1491] | 1 | aggressive | aggressiv | 侵略 | Common sweetener could hold untapped potential to fight aggressive cancer, study finds
-- [1492] | 1 | agreements | Abkommen | 协议协议协议协议协议 | Three states sign new agreements with ICE for expanded immigration enforcement operations
-- [1493] | 1 | aground | auf Grund | 浅地 | 75-foot boat surfs wave, runs aground in Hawaii
-- [1494] | 1 | AI-generated | KI-generiert | AI 生成 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [1495] | 1 | aide | Aids | 辅助 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [1496] | 1 | airstrike | Luftangriff | 空袭 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
-- [1497] | 1 | Al | Insgesamt | Al Al Al Al | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
-- [1498] | 1 | Alan | Alan, bitte sehr. | 艾伦·艾伦 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [1499] | 1 | alarm | Alarmanlage | 提醒提醒提醒 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [1500] | 1 | alarmed | Alarmiert | 惊电 | I'm a Black pastor alarmed by a new identity game some on the right are playing
-- [1501] | 1 | Albania’s | Albanien | 阿尔巴尼亚 阿尔巴尼亚 | Albania’s new anti-corruption unit is taking down bigwigs
-- [1502] | 1 | Alcatraz’ | Alcatraz | 阿尔卡特雷兹 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [1503] | 1 | aliases | Aliasnamen | 化别别别 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
-- [1504] | 1 | alive | lebend | 活 活 活 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [1505] | 1 | allegations' | Anschuldigungen" | A. 有关指称的指称和指控 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
-- [1506] | 1 | alleges | Anschuldigungen | B. 指称 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
-- [1507] | 1 | Allen | Allen | 艾伦·艾伦 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [1508] | 1 | Allianz | Allianz | 阿利安兹 | Allianz Life Insurance data breach exposes 1.4 million Americans
-- [1509] | 1 | allow | erlauben | 允许 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
-- [1510] | 1 | Amazon | Amazonas | 亚马逊 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [1511] | 1 | ambush | Hinterhalt | 伏击 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
-- [1512] | 1 | amends | ändert | 修正 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
-- [1513] | 1 | Americans' | Amerikaner | 美籍美国人 | Americans' perception of discrimination against Black people dropped in last four years
-- [1514] | 1 | among | zwischen | 介 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
-- [1515] | 1 | Amy | Amy | 艾米 Amy | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [1516] | 1 | Ana | Ana | 安娜 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [1517] | 1 | Andie | Andie | 安迪 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
-- [1518] | 1 | Angela | Angela | 安吉拉 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [1519] | 1 | Angeles | L 347 vom 20.12.2013, S. 671. | 洛杉矶 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
-- [1520] | 1 | Aniston | Aniston | 动因 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
-- [1521] | 1 | announce | ankündigen | 宣布宣布 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
-- [1522] | 1 | announcement | Ankündigung | 通知( 通知) | Kamala Harris' major California announcement triggers circular Dem firing squad
-- [1523] | 1 | annoyed | ärgerlich | 烦恼 | Putin appears to be visibly annoyed as reporters barrage him and Trump with questions
-- [1524] | 1 | answers | Antworten | 答 答 答 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [1525] | 1 | anti-Christian | antichristlich | 反基督教、反基督教、反基督教、反基督教、反基督教、反基督教、 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [1526] | 1 | anti-corruption | Antikorruption | 反腐败和反腐败 | Albania’s new anti-corruption unit is taking down bigwigs
-- [1527] | 1 | anti-feminist | Antifeminist | 反女权主义者 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
-- [1528] | 1 | anti-Israel | Anti-Israel | 反对以色列 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
-- [1529] | 1 | antisemitic | Antisemitikum | 反犹太主义 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
-- [1530] | 1 | anyone | jeder | 任何人 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
-- [1531] | 1 | AOC | AOC | AOC 阿拉伯石油公司 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
-- [1532] | 1 | Apollo | Apollo | 阿波罗 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [1533] | 1 | appointed | ernannt | 任命 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
-- [1534] | 1 | apps | Apps | 应用软件 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
-- [1535] | 1 | Arizona | Arizona | 亚利桑那州 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [1536] | 1 | Armenia–Azerbaijan | Armenien-Aserbaijan | 亚美尼亚-阿塞拜疆 | Trump brings peace to Caucasus: Inside the Armenia–Azerbaijan deal 30 years in the making
-- [1537] | 1 | arranged | geordnet | 已经安排 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [1538] | 1 | art | Art.-Nr. | 艺术艺术艺术艺术 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [1539] | 1 | Asian | Asiatisch | 亚 亚 亚 亚 | Asian tourists are returning to Britain. But they look different
-- [1540] | 1 | asked | gefragt | 问 问 问 问 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [1541] | 1 | asks | fragt | 问 问 询 | Texas asks Illinois court to enforce arrest warrants for Democratic lawmakers
-- [1542] | 1 | assassination | Attentat | 暗杀暗杀 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [1543] | 1 | associate | assoziierte | 联系 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
-- [1544] | 1 | athlete | Sportler | 运动员 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [1545] | 1 | athletes | Sportler | 运动员运动员 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
-- [1546] | 1 | atomic | atomar | 原子原子 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [1547] | 1 | attacking | Angriff | 攻击 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
-- [1548] | 1 | attack’ | Angriff | " 攻击 " | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
-- [1549] | 1 | attempt | Versuch | 企图或企图 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [1550] | 1 | auction | Versteigerung | 拍卖拍卖 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
-- [1551] | 1 | August | ZEITSCHRIFTEN | 8月 8月(8月) | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
-- [1552] | 1 | Australian | Australisch | 澳大利亚语Name | Australian state rolls out machete ‘disposal bins’ ahead of ban
-- [1553] | 1 | authorities | Behörden | 当局当局当局 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [1554] | 1 | authority | Behörde | 授权 | Illinois Democrats tell feds to stop trying to 'usurp' state authority over immigration
-- [1555] | 1 | autopen | Autopen | 自动自动顶顶楼 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [1556] | 1 | avalanche | Lawine | 雪崩 | America’s tariff avalanche catches Switzerland unawares
-- [1557] | 1 | avatar | avatar | avataraaaaaa 卡塔尔avataraaaaaaaaaaaaaaaaaaaaaaataraaaaaaaaaaa avataraaaaaaaaaaaaaaa avataraaaaaaaaaaaaaaaaaaaaaaaaaaaaa avataraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa、aaaaaaa、aaaaa、aaaaa、aaaaa、aaaa、aaaaa、aa、aaaa、aaaa、aaaaa、aaa、aaaaaaaaa、aa、a、aaaa、aaaaaa、aaaaaaaaaaaaaaaaaa、a、a、 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [1558] | 1 | awards | Auszeichnungen | 裁定赔偿金 | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
-- [1559] | 1 | away’ | Weg hier! | 外 外 外 外 外 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [1560] | 1 | B | B | BB ,B | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [1561] | 1 | baby | Baby | 婴 婴 婴 婴 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
-- [1562] | 1 | bail | Kaution | 保释 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
-- [1563] | 1 | Bailey | Bailey | 贝利 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
-- [1564] | 1 | bait' | Köder" | 诱饵 | Chuck Todd warns that Dems are falling into Trump’s trap, 'taking the bait' on redistricting
-- [1565] | 1 | Bama | Bama | 巴马 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
-- [1566] | 1 | banned | verboten | 已禁止 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
-- [1567] | 1 | bans | Verbote | 禁止禁止 | WhatsApp bans 6.8M scam accounts, launches safety tool
-- [1568] | 1 | Barbara | RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — | 芭芭拉 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [1569] | 1 | BareMinerals | BareMinerals | 矿 矿 矿 矿 矿 矿 矿 矿 矿 矿 矿 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [1570] | 1 | barge | Barge | 驳船 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [1571] | 1 | barley | Gerste | 大麦 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [1572] | 1 | barrage | Sperrholz | 列列列 | Putin appears to be visibly annoyed as reporters barrage him and Trump with questions
-- [1573] | 1 | baseball | Baseball | 棒球棒球 | American Culture Quiz: Test yourself on park pioneers and baseball bests
-- [1574] | 1 | baserunning | basenrunning | 基础运行 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [1575] | 1 | Bash | Bash | 巴什 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [1576] | 1 | bashing | Häuten | 击打 | Brazil bashing: the Trumpian school of foreign policy
-- [1577] | 1 | beatdown | Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown | 击打 | Seventh Cincinnati assault suspect arrested over violent beatdown
-- [1578] | 1 | beautiful' | Schön." | 美丽 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1579] | 1 | beauty | Schönheit | 美丽 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [1580] | 1 | became | wurde | 成为 | The War Room newsletter: How receiving aid became fatal in Gaza
-- [1581] | 1 | because | weil | 原因原因 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1582] | 1 | beers | Bier | 啤酒 | 7 best low-carb beers that are also big on flavor, according to new ranking
-- [1583] | 1 | beginner | Anfänger | 开学时 | A hunting gear checklist for beginner hunters
-- [1584] | 1 | beginnings | Anfänge | 开始开始 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
-- [1585] | 1 | believe | glauben | 相信相信 | Hiker made fatal mistake when encountering poisonous snake, officials believe
-- [1586] | 1 | Bernie | Bernie | 伯尼 | Bernie Sanders addresses whether he’ll run in 2028
-- [1587] | 1 | bests | bestes | 最佳 | American Culture Quiz: Test yourself on park pioneers and baseball bests
-- [1588] | 1 | bestseller | Bestseller | 最佳卖方 | The moral of “The Salt Path”, an embellished bestseller
-- [1589] | 1 | beverages | Getränke | 饮料 | Keep your beverages hot or cold with these insulated bottles and tumblers
-- [1590] | 1 | bias | Voreingenommenheit | 性别偏见 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
-- [1591] | 1 | biblical | biblisch | 圣经 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [1592] | 1 | Biden' | Biden" | 拜登 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [1593] | 1 | Biden-era | Biden-Ära | 拜登时代 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [1594] | 1 | Biden-nominated | Biden-nominiert | 拜伊提名国家 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
-- [1595] | 1 | Biden’s | Bidens | 拜登 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [1596] | 1 | Bighorn | Großhorn | 比大角( Bighorn) | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [1597] | 1 | bigwigs | Großzügige | 长宽 | Albania’s new anti-corruption unit is taking down bigwigs
-- [1598] | 1 | bikini | Bikini | 比基尼 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
-- [1599] | 1 | Bilhal | Bilhal | 比哈尔 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
-- [1600] | 1 | Bill | Gesetzentwurf | 法案法案单 | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
-- [1601] | 1 | billions | Milliarden | 数十亿 | US appeals court says Trump can slash billions in owed USAID funds
-- [1602] | 1 | bins’ | Binsen | 文件夹中 | Australian state rolls out machete ‘disposal bins’ ahead of ban
-- [1603] | 1 | birthday | Geburtstag | 生日生日 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [1604] | 1 | birthright | Geburtsrecht | 儿 生 生 权 权 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
-- [1605] | 1 | bite' | beißen" | 咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [1606] | 1 | Blackstock | Schwarzstäbchen | 黑股票 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [1607] | 1 | blame | Schuld | 责怪 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
-- [1608] | 1 | blames | Schuldzuweisungen | 责 责 责 责 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
-- [1609] | 1 | blasted | gesprengt | 防爆 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [1610] | 1 | blasts | Explosionen | 爆炸爆炸 | Denzel Washington blasts cancel culture, says faith matters more than followers
-- [1611] | 1 | Blighty | Schrecklich | 灰暗 | Blighty newsletter: The Tories go cold on the gig economy
-- [1612] | 1 | blocks | Blöcke | 区块 | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
-- [1613] | 1 | blowup | Blowup | 吹爆 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [1614] | 1 | blue | blau | 蓝蓝色 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
-- [1615] | 1 | blunder | Verleumdung | 错误 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [1616] | 1 | board | Vorstand | 棋盘 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
-- [1617] | 1 | boardwalk | Laufsteg | 棋盘行走 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
-- [1618] | 1 | bodybuilder | Bodybuilder | 体积建造者 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [1619] | 1 | bomb | Bombe | 炸弹炸弹 | Radioactive wasp nest discovered by workers at former nuclear bomb site
-- [1620] | 1 | bombing | Bombardierung | 轰炸轰炸轰炸轰炸 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [1621] | 1 | bond | Anleihen | 债券债券债券 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [1622] | 1 | Booker | Booker | 订书员 | Sen. Cory Booker refuses to endorse Zohran Mamdani
-- [1623] | 1 | border | Grenzüberschreitung | 边境边境边境 | Why did Thailand and Cambodia fight a senseless border war?
-- [1624] | 1 | Boroughs | Bohrlöcher | 区区 | Zohran Mamdani launches anti-Trump tour across Five Boroughs in New York City
-- [1625] | 1 | Bose | Bose | 贝贝 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [1626] | 1 | bottles | Flaschen | 瓶数瓶 | Keep your beverages hot or cold with these insulated bottles and tumblers
-- [1627] | 1 | bounced | gesprungen | 已弹出 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
-- [1628] | 1 | boundaries' | Grenzen" | 边界 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [1629] | 1 | Boy | Junge | 男孩男孩 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [1630] | 1 | Bradley | Bradley | 布拉德利 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [1631] | 1 | Brady | Brady | 布雷迪 | Tom Brady burns Jets fans once more during statue ceremony
-- [1632] | 1 | branches | Zweigniederlassungen | 分支分支分支 | Female military recruits surge across all service branches
-- [1633] | 1 | branded | gebrandmarkt | 品牌品牌 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [1634] | 1 | Brandon | Brandon | 布兰登 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [1635] | 1 | Braves | Tapferkeit | 勇士 | Braves, Reds combine for historic 16-run 8th inning in wild game
-- [1636] | 1 | break | Bruch | 间间断 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
-- [1637] | 1 | breast | Brust | 胸胸 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
-- [1638] | 1 | Brett | Brett | 布雷 布雷顿森林机构 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1639] | 1 | Brewers | Brauereien | 酿酒者 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [1640] | 1 | Brian | BRANKREICH | 布赖恩 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [1641] | 1 | Britain’s | Großbritannien | 英国 | The Fantasy Premier League is changing Britain’s favourite sport
-- [1642] | 1 | Brock | mit einer Dicke von mehr als 2 mm | 布洛克 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [1643] | 1 | broken | gebrochen | 缺 数 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [1644] | 1 | Bronny | Bronny | 布罗尼 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
-- [1645] | 1 | Bryan | Bryan | 布莱恩·布赖恩 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [1646] | 1 | Bud | Knospen | 巴布 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
-- [1647] | 1 | budget-friendly | budgetschonend | 有利于预算 | Go fishing without breaking the bank with these budget-friendly fishing gadgets
-- [1648] | 1 | Bukele's | Bukele's | 布克勒的 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
-- [1649] | 1 | bullpen | bullpen | 公牛排 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
-- [1650] | 1 | bundle | Bündel | 捆绑 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
-- [1651] | 1 | burns | Verbrennungen | 烧灼 | Tom Brady burns Jets fans once more during statue ceremony
-- [1652] | 1 | bus | Bus | 公共汽车总线 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [1653] | 1 | Buzbee | Buzbee | 巴斯比 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
-- [1654] | 1 | Bystander | Zuseher | 旁观者 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
-- [1655] | 1 | call | Anruf | 调 调 调 调 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
-- [1656] | 1 | Cambodia | Kambodscha | 柬埔寨 柬埔寨 柬埔寨 | Why did Thailand and Cambodia fight a senseless border war?
-- [1657] | 1 | camp | Lager | 营地营地 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [1658] | 1 | Canadian | Kanadisch | 加拿大 加拿大 加拿大 加拿大 加拿大人 | Influencer couple killed in Canadian mountain crash
-- [1659] | 1 | candidate | Anwärter | 候选人 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [1660] | 1 | Canyon | Einschlagschnecke | 峡谷 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
-- [1661] | 1 | capital | Kapital | 资本资本 | Why Italy’s next cultural capital looks like a disaster zone
-- [1662] | 1 | capped | Abgeschlossen | 上限上限 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [1663] | 1 | caps | Kappen | 顶盖 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
-- [1664] | 1 | CAPTCHAgeddon | CAPTCHAgeddon | CAPTCH Agdddon 电网 | CAPTCHAgeddon signals a dangerous shift
-- [1665] | 1 | captured | gefangen | 已抓取 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
-- [1666] | 1 | car | Fahrzeug | 汽车 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
-- [1667] | 1 | cardiac | Herz | 心脏心脏 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
-- [1668] | 1 | cartel | Kartell | 卡特尔卡特尔 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
-- [1669] | 1 | Cash-trapped | Bargeldumschlag | 现金 | Cash-trapped (part 2): drowning in debt
-- [1670] | 1 | casts | Abgüsse | 抛滚 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [1671] | 1 | catches | Fänge | 渔渔渔渔量 | America’s tariff avalanche catches Switzerland unawares
-- [1672] | 1 | Catherine | Catherine. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 凯瑟琳 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [1673] | 1 | Catholics | Katholiken | 天主教徒 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [1674] | 1 | causes | Ursachen | 原因原因原因原因 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [1675] | 1 | CDC | CDC | CDC CDC CDC 控制控制中心 | Father of CDC gunman indicates possible motivation behind shooting
-- [1676] | 1 | ceasefire' | Waffenstillstand" | 停火停火' | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
-- [1677] | 1 | celebrating | feiern | 庆祝 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
-- [1678] | 1 | celebration | Feier | 庆祝庆祝活动 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [1679] | 1 | celebrity | Berühmtheit | 名人 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [1680] | 1 | cell' | Zelle" | 单元格“ | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
-- [1681] | 1 | censorship | Zensur | 新闻审查审查制度 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
-- [1682] | 1 | centers | Zentren | 中心中心 | Multiple US cancer centers hit in coordinated phishing breach
-- [1683] | 1 | CEO | Geschäftsführender Direktor | 首席首席执行干事(CEO) | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [1684] | 1 | CEOs | CEOs | 首席执行干事 | Do consultants make good CEOs?
-- [1685] | 1 | ceremony | Zeremonie | 仪式仪式 | Tom Brady burns Jets fans once more during statue ceremony
-- [1686] | 1 | cervical | Gebärmutterhals | 宫颈宫颈 | Vaccinations to prevent cervical cancer have plummeted in Britain
-- [1687] | 1 | chain's | Kette | 链链链链 | Cracker Barrel customers 'hate' restaurant chain's new look in viral social media videos
-- [1688] | 1 | chairman | Vorsitzender | 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [1689] | 1 | challenger | Herausforderer | 挑战器 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [1690] | 1 | challenges | Herausforderungen | 挑战挑战挑战 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [1691] | 1 | championships | Meisterschaften | 冠军赛 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
-- [1692] | 1 | chance' | Wahrscheinlichkeit" | 机会 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
-- [1693] | 1 | changed | geändert | 已更改 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
-- [1694] | 1 | changing | Änderungen | 变动 | The Fantasy Premier League is changing Britain’s favourite sport
-- [1695] | 1 | Chappelle | Chappelle | 谢 平 公 公 公 公 公 公 公 公 公 公 公 公 公 公 | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
-- [1696] | 1 | charged | in Rechnung gestellt | 已充装 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [1697] | 1 | Chargers' | Ladegeräte" | 充电器 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [1698] | 1 | Charlamagne | Charlamagne | 沙拉曼语Name | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [1699] | 1 | checker | Prüfer | 校对器 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
-- [1700] | 1 | checklist | Checkliste | 核对清单清单 | A hunting gear checklist for beginner hunters
-- [1701] | 1 | Chef' | Küchenchef" | 主厨 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [1702] | 1 | chemists | Chemiker | 化学家 | AI helps chemists develop tougher plastics
-- [1703] | 1 | chess' | Schach" | 象棋 | Trump reveals his game plan for meeting with Putin in Alaska: 'It's like chess'
-- [1704] | 1 | child | Kind | 儿 孩 儿 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
-- [1705] | 1 | Chisholm | L 347 vom 20.12.2013, S. 671. | Chisholm Chisholm 奇肖姆 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [1706] | 1 | Christ | Herrgott noch mal! | 基督基督基督基督基督 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [1707] | 1 | church | Kirche | 教会教堂 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
-- [1708] | 1 | circular | kreisförmig | 通知 | Kamala Harris' major California announcement triggers circular Dem firing squad
-- [1709] | 1 | citizens | Bürger | 公民 公民 公民 公民 公民 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [1710] | 1 | city's | Stadt | 城市 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [1711] | 1 | civic | staatsbürgerlich | 公民教育 | The colourful civic groups that hold Germany together
-- [1712] | 1 | claimed | geltend gemacht | 索赔 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [1713] | 1 | Clark | - Clark. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 克拉克 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
-- [1714] | 1 | Clarkson | Clarkson | 克拉克森 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [1715] | 1 | classified | klassifiziert | 被划为 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [1716] | 1 | close | schließen | 关闭 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
-- [1717] | 1 | closes | schließt | 关闭 | Trump closes out 30th week in office with 'very warm' high-stakes Putin meeting
-- [1718] | 1 | CM | CM | 内中华内中 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
-- [1719] | 1 | CNN | L 347 vom 20.12.2013, S. 671. | CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN 有 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [1720] | 1 | CNN's | CNN's | CNN的 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [1721] | 1 | coast | Küste | 沿海海岸 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
-- [1722] | 1 | coaster | Untersetzer | 海岸 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [1723] | 1 | Coast’s | Küsten | 海岸 | Ivory Coast’s president is overstaying his welcome
-- [1724] | 1 | Colbert | - Colbert. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 高拔 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [1725] | 1 | colleagues | Kolleginnen und Kollegen | 同事和同事 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
-- [1726] | 1 | colleges | Hochschulen | 高等专科学校 | Trump visa policies force colleges to scramble as international students vanish: report
-- [1727] | 1 | colorectal | colorektal | 颜色直白 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
-- [1728] | 1 | colourful | bunt | 彩色 | The colourful civic groups that hold Germany together
-- [1729] | 1 | Colts | Färöer | 固伏 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
-- [1730] | 1 | Columbia | Kolumbien | 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
-- [1731] | 1 | columnist | Kolumnist | 列词 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [1732] | 1 | combine | kombinieren | 组合 | Braves, Reds combine for historic 16-run 8th inning in wild game
-- [1733] | 1 | Comedian | Komiker | 喜剧演员 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [1734] | 1 | comes | kommt | 来 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [1735] | 1 | comic | Komisch | 连环漫画 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [1736] | 1 | commander | Befehlshaber | 指挥官 指挥官 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [1737] | 1 | commemorates | erinnert sich | 纪念纪念日 | Melania Trump commemorates 200 days since resuming role as first lady
-- [1738] | 1 | commits | Verpflichtet | 承诺 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [1739] | 1 | Computing | Datenverarbeitung | 电子计算 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
-- [1740] | 1 | conduct | Verhalten | 行为 行为 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [1741] | 1 | confidence | Vertrauen | 信任 | Tankinis for coverage, support and confidence at the beach
-- [1742] | 1 | confronting | Konfrontieren | A. 面对挑战 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [1743] | 1 | Congress | Tagung | 预防犯罪大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
-- [1744] | 1 | congressional | Tagungswoche | 国会 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
-- [1745] | 1 | congressman | Kongressabgeordneter | 国会议员 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
-- [1746] | 1 | connecting | Verbindung | 连接连接 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
-- [1747] | 1 | consequences | Folgen | 后果后果 | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
-- [1748] | 1 | constituted | gebildet | 已组成 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [1749] | 1 | constitution | Verfassung | 宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
-- [1750] | 1 | Consultant | Berater | 顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问 | Consultant management: McKinsey loses its shine
-- [1751] | 1 | consultants | Berater | 咨询人咨询人 咨询人咨询人 | Do consultants make good CEOs?
-- [1752] | 1 | contenders | Anwärter | 竞争者 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [1753] | 1 | contentious | streitsüchtig | 有争议 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
-- [1754] | 1 | contest | Wettbewerb | 竞赛比赛 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
-- [1755] | 1 | contract | Vertrag | 合同合同合同合同合同 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [1756] | 1 | control | Kontrolle | 控制控制 | Trump takes control of Metro Police, deploys National Guard to take on Washington crime
-- [1757] | 1 | controversies | Kontroversen | 争议争议 | Las Vegas tourism controversies, plus 9 high-fiber bread options
-- [1758] | 1 | conviction | Überzeugung | 定罪 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [1759] | 1 | coordinated | koordiniert | 协调协调 | Multiple US cancer centers hit in coordinated phishing breach
-- [1760] | 1 | Cornyn | Cornyn | 康康环 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
-- [1761] | 1 | Cory | Cory | 孔数 | Sen. Cory Booker refuses to endorse Zohran Mamdani
-- [1762] | 1 | costly | Kostenaufwand | 费用昂贵 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [1763] | 1 | councilman | Mitglied des Rats | 政务委员 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
-- [1764] | 1 | counter | Zähler | 柜式 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
-- [1765] | 1 | county | Bezirk | 县县县县 | Democratic governor declares state of emergency in crime-ridden county
-- [1766] | 1 | couple's | Pärchen | 夫妇 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
-- [1767] | 1 | court-approved | gerichtlich zugelassen | 经法院批准 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [1768] | 1 | coverage | Erfassungsbereich | 涵盖范围 | Tankinis for coverage, support and confidence at the beach
-- [1769] | 1 | COVID- | KOVID- | 科维德... | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
-- [1770] | 1 | coward | Feigling | 懦夫 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [1771] | 1 | cozying | Gemütlichkeit | 休眠 | Pakistan’s army chief is cozying up to Donald Trump
-- [1772] | 1 | craze | Craze | 暴动 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [1773] | 1 | creates | erstellt | 创建创建 | Texas company creates drones to confront school shooters in seconds
-- [1774] | 1 | credit | Kredit | 信贷信贷信贷 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
-- [1775] | 1 | crime-ridden | Verbrechensverbrechen | 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 | Democratic governor declares state of emergency in crime-ridden county
-- [1776] | 1 | crimes | Verbrechen | 罪行 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
-- [1777] | 1 | crisis | Krise | 危机危机危机危机危机 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [1778] | 1 | crisis' | Krise" | 危机危机 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
-- [1779] | 1 | critical | kritisch | 关键 | Trump is taking decisive action to bring this critical industry back to American soil
-- [1780] | 1 | cross-country | Länderübergreifend | 跨国 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
-- [1781] | 1 | Crowds | Massen | 人群数 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [1782] | 1 | Cruise | Kreuzfahrt | 游游 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
-- [1783] | 1 | Crying | Weinen | 哭泣 | Crying foul: opponents slam the uneven EU-US trade deal
-- [1784] | 1 | crypto | Krypto | 加密 | Facebook crypto ads lead to dangerous malware scams
-- [1785] | 1 | cultural | Kultur | 文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、 | Why Italy’s next cultural capital looks like a disaster zone
-- [1786] | 1 | Cunningham | Cunningham | 坎宁安 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
-- [1787] | 1 | current | Aktuell | 当前 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
-- [1788] | 1 | currently | zur Zeit | 目前 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
-- [1789] | 1 | curtain | Vorhang | 窗帘 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
-- [1790] | 1 | D | D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | D D | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [1791] | 1 | dad | Vater | 父亲( 父亲) | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [1792] | 1 | Dak | Dak | 达卡 | Cowboys' Dak Prescott makes bold statement to Rams team owner
-- [1793] | 1 | damaging | schädigend | 损坏 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
-- [1794] | 1 | Dana | - Dana. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. nein, nein, nein, nein. nein, nein, nein. | 达纳 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [1795] | 1 | Daniel | Daniel | 丹尼尔 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
-- [1796] | 1 | Danville | Danville | 丹维尔 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
-- [1797] | 1 | date | Datum | 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [1798] | 1 | dates | Datteln | 日期日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 | Illinois substitute teacher had sex with 11-year-old student during 'play dates,' police say
-- [1799] | 1 | dating | Datierung | 约会日期 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
-- [1800] | 1 | Dave | - Dave. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 戴夫 Dave | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
-- [1801] | 1 | DAVIS | DAVIS | DAVIS 残疾 | MIKE DAVIS: A tale of two Russiagate heroes
-- [1802] | 1 | Davis' | Davis'. (EN) Herr Präsident! | 戴维斯 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
-- [1803] | 1 | DC's | DC's | DC 的 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [1804] | 1 | deadly | tödlich | 致命致命 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
-- [1805] | 1 | dean | Herr dean | 院长 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
-- [1806] | 1 | deaths | Todesfälle | 死亡死亡 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [1807] | 1 | debate | Aussprache | 辩论辩论的一般性辩论 | Fiscal hawks seek millions for home district projects amid government funding debate
-- [1808] | 1 | debris | Abfälle | 废碎片 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [1809] | 1 | debuting | Debuting | 开 开 开 开 开 开 开 | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
-- [1810] | 1 | decision | Entscheidung | 决定 决 决 决 决 决 决 决 决 决 决 决定 | Deion Sanders' Colorado quarterback decision much tougher than years past
-- [1811] | 1 | decisive | entscheidungsentscheidend | 决定性 | Trump is taking decisive action to bring this critical industry back to American soil
-- [1812] | 1 | decries | Schreie | 切数 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [1813] | 1 | deemed | in Erwägung gezogen | 视为 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [1814] | 1 | deep | tief | 深深 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
-- [1815] | 1 | defense | Verteidigung | 国防 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [1816] | 1 | defunding | Erstattungsbetrag | 取消供资 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [1817] | 1 | Dei | ENTWICKLUNG | Dei | Inside Opus Dei
-- [1818] | 1 | delays | Verzögerungen | 延误延误 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
-- [1819] | 1 | deliver | liefern | 交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [1820] | 1 | Demand | Nachfrage | 需求需求需求 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [1821] | 1 | demands | Anforderungen | 需求需求需求 | Zelenskyy outlines peace demands before high-stakes White House meeting with Trump
-- [1822] | 1 | demeanor | Verhalten | 行为举者 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [1823] | 1 | Democrat | Demokratisch | 民主民主党 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
-- [1824] | 1 | denies | verleugnet | 否认否认 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
-- [1825] | 1 | dentist | Zahnarzt | 牙医 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [1826] | 1 | deployed | bereitgestellt | 已部署 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [1827] | 1 | deployment | Bereitstellung | 部署部署 | Russia drops missile deployment moratorium amid tensions with Trump admin
-- [1828] | 1 | deploys | Bereitstellungen | 部署 | Trump takes control of Metro Police, deploys National Guard to take on Washington crime
-- [1829] | 1 | deport | Abschiebung | 驱逐 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
-- [1830] | 1 | deported | abgeschoben | 被驱逐出境 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
-- [1831] | 1 | Depot | Depot | 仓库 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
-- [1832] | 1 | Depot’ | Depot | 股权 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [1833] | 1 | deputy | Stellvertreter | 副副副手 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [1834] | 1 | Dershowitz | Dershowitz | 德沙维茨 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
-- [1835] | 1 | describe | beschreiben | 描述描述描述描述描述描述描述描述描述 描述 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [1836] | 1 | designer | Designer | 设计师 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [1837] | 1 | designer's | Entwerfer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer | 设计师的 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
-- [1838] | 1 | desk | Schreibtisch | 服务台 | Should you use a standing desk?
-- [1839] | 1 | detailed | im Einzelnen | 详细详细 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [1840] | 1 | details | Einzelheiten | 详细细节 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
-- [1841] | 1 | detained | Inhaftiert | 被拘留的 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [1842] | 1 | Detroit | Detroit | 底底特律 | Where will be the Detroit of electric vehicles?
-- [1843] | 1 | develop | entwickeln | 开发开发 | AI helps chemists develop tougher plastics
-- [1844] | 1 | Devil's | Teufelskreis | 魔鬼的恶魔 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
-- [1845] | 1 | Devil’s | Teufel | 魔鬼的恶魔 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [1846] | 1 | diabetes | Diabetes | 糖尿病 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [1847] | 1 | DiCaprio | DiCaprio | 迪卡普里奥 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
-- [1848] | 1 | didn't | hat es nicht getan. | 没有 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
-- [1849] | 1 | didn’t | nicht verfügbar | 没有” | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
-- [1850] | 1 | diet’ | Ernährung | 饮食 ' | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [1851] | 1 | different | unterschiedlich | 不同 | Asian tourists are returning to Britain. But they look different
-- [1852] | 1 | digging | Graben | 挖掘 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [1853] | 1 | digital | digital | 数字数字 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
-- [1854] | 1 | Dingell | Dingell | 丁格尔Name | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
-- [1855] | 1 | director | Direktor | 主任 主任 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [1856] | 1 | disabled | deaktiviert | 残疾残疾人 | How to quickly recover a disabled Facebook account
-- [1857] | 1 | disappeared | verschwunden | 失踪 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [1858] | 1 | disappears | verschwindet | 消失 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [1859] | 1 | disaster | Katastrophe | 灾害和救灾灾害 | Why Italy’s next cultural capital looks like a disaster zone
-- [1860] | 1 | discrimination | Diskriminierung | 歧视歧视、歧视、歧视、歧视、 | Americans' perception of discrimination against Black people dropped in last four years
-- [1861] | 1 | discrimination' | Diskriminierung" | 歧视歧视公约》和《消除歧视歧视公约》 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [1862] | 1 | dismantle | demontieren | 拆卸 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
-- [1863] | 1 | dismembered | zerteilt | 拆分 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [1864] | 1 | Disney | Disney | 迪斯尼 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
-- [1865] | 1 | disorderly | ungeordnet | 精神失常 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [1866] | 1 | dispute | Rechtsstreitigkeiten | 争议争议 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [1867] | 1 | disrupted | gestört | 中断 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
-- [1868] | 1 | dive | Tauchgang | 潜水 | Arctic plunge: Trump and Putin dive in
-- [1869] | 1 | Divers | Diverse | 多种 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
-- [1870] | 1 | divided | geteilt | 已除和除 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [1871] | 1 | DJ | DJ | DJ DJ | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
-- [1872] | 1 | Do | Zu tun | do  do  do Do | Do consultants make good CEOs?
-- [1873] | 1 | documentary | dokumentarisch | 纪录片 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
-- [1874] | 1 | dodge | Ausweichen | 躲躲 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [1875] | 1 | Dodgers | Ausweichmanöver | 道道者队 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
-- [1876] | 1 | does | tut | 具有 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [1877] | 1 | doesn't | tut es nicht | 没有 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
-- [1878] | 1 | dollars' | in Dollar" | (单位:美元) | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
-- [1879] | 1 | Dolly | Dolly | 多圆 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
-- [1880] | 1 | dominance | marktbeherrschende Stellung | 占支配地位 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
-- [1881] | 1 | Don't | Nicht! | 不要 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
-- [1882] | 1 | Donna | Donna | 唐纳 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [1883] | 1 | doubt | Zweifel | 有疑问 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [1884] | 1 | drama | Dramatik | 戏剧剧剧剧 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [1885] | 1 | drama' | Dramatik" | 戏剧剧 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [1886] | 1 | drinks | Getränke | 饮料 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
-- [1887] | 1 | drive | Antrieb | 驱动驱动 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
-- [1888] | 1 | drones | Drohnen | 无人驾驶无人驾驶无人驾驶飞机 | Texas company creates drones to confront school shooters in seconds
-- [1889] | 1 | dropped | fallen gelassen | 下降数 | Americans' perception of discrimination against Black people dropped in last four years
-- [1890] | 1 | drove | gefahren | 驱动驱动 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
-- [1891] | 1 | drowned | Ertrunken | 淹没在水中 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
-- [1892] | 1 | drowning | Ertrinken | 溺水 | Cash-trapped (part 2): drowning in debt
-- [1893] | 1 | Drummond | Drummond | 德鲁蒙德 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
-- [1894] | 1 | DTC | DTC | DTC 数字TC( DTC ) | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
-- [1895] | 1 | due | fällig | 到期应付应付 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
-- [1896] | 1 | Dumbledore | Dumbledore | 邓布利多 | Europe’s Hogwarts has a new Dumbledore
-- [1897] | 1 | DUNLEAVY | SCHWERPUNKT | 杜纳维 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
-- [1898] | 1 | duty | Zollsatz | 值值 | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
-- [1899] | 1 | Dynasty’ | Dynastie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 朝代王朝 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [1900] | 1 | Dyson | Dyson | 迪森 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
-- [1901] | 1 | D’Errico | L 347 vom 20.12.2013, S. 671. | 德里 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [1902] | 1 | e | e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e s e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n | e) e | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [1903] | 1 | ease | Leichtigkeit | 简便 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
-- [1904] | 1 | Eden | Eden | 伊甸 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [1905] | 1 | edition | Ausgabe | 版本版本 | New York Post expands west with California edition planned for early 2026
-- [1906] | 1 | edits | Bearbeitungen | 编辑编辑 | MIT tool visualizes and edits “physically impossible” objects
-- [1907] | 1 | eerie | Erbärmlich | 尔里 | JD Vance says he's 'obsessed' with eerie UFO videos
-- [1908] | 1 | efficiency | Effizienz | 效率效率 | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
-- [1909] | 1 | egregious | Schrecklich | 异常严重 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [1910] | 1 | Eileen | Eileen | 艾琳 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
-- [1911] | 1 | electric | elektrisch | 电动 | Where will be the Detroit of electric vehicles?
-- [1912] | 1 | Elegy' | Elegie" | 大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象, | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [1913] | 1 | emaciated | abgemagert | 减肥 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [1914] | 1 | email | E-Mail | 电子邮件 | Google AI email summaries can be hacked to hide phishing attacks
-- [1915] | 1 | embellished | verziert | 装饰 | The moral of “The Salt Path”, an embellished bestseller
-- [1916] | 1 | embraces | Umarmungen | 括号内 | 159-year-old company embraces driverless trucks
-- [1917] | 1 | emerge | entstehen | 正在出现 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [1918] | 1 | emergency | Notfall | 紧急紧急 | Democratic governor declares state of emergency in crime-ridden county
-- [1919] | 1 | emotional | emotional | 情感、情感、情感、 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [1920] | 1 | employee | Arbeitnehmer | 雇员雇员 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
-- [1921] | 1 | enclave | Enklave | 飞飞飞飞 | Cuomo supporters look to wealthy enclave to take down Mamdani: report
-- [1922] | 1 | encountering | Begegnung | 相遇 | Hiker made fatal mistake when encountering poisonous snake, officials believe
-- [1923] | 1 | endgame | Endspiel | 结束游戏游戏 | Hamas endgame is ‘long-term’ and is playing out for all to see as Israel pushes deeper into Gaza
-- [1924] | 1 | endorse | unterstützen | 经核准 | Sen. Cory Booker refuses to endorse Zohran Mamdani
-- [1925] | 1 | endorses | unterstützt | 核准书 核准书 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [1926] | 1 | enforce | Durchsetzung | 执行 | Texas asks Illinois court to enforce arrest warrants for Democratic lawmakers
-- [1927] | 1 | enforcement | Durchsetzung | 执法执法 | Three states sign new agreements with ICE for expanded immigration enforcement operations
-- [1928] | 1 | England | Vereinigtes Königreich | 英 英格兰 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
-- [1929] | 1 | entire | vollständig | 整个 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
-- [1930] | 1 | entrepreneur | Unternehmer | 创业者 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [1931] | 1 | equal | gleich | 平 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [1932] | 1 | escalate | Eskalation | 升级 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
-- [1933] | 1 | escorted | begleitet | 护送 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [1934] | 1 | essay | Aufsatz | 作文 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
-- [1935] | 1 | estranged | entfremdet | 调出 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
-- [1936] | 1 | Estée | Estée | 埃斯泰 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [1937] | 1 | etiquette' | Etikette" | 礼仪 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
-- [1938] | 1 | EU-US | EU-USA | 欧盟-美国 | Crying foul: opponents slam the uneven EU-US trade deal
-- [1939] | 1 | EV | EV | EV EV | China’s planned Turkish EV factories have yet to power up
-- [1940] | 1 | evacuations | Evakuierung | 后撤 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
-- [1941] | 1 | event | Veranstaltung | 事件事件 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [1942] | 1 | Ever | Niemals | 从未 | Ever more Ukrainian women are joining the army
-- [1943] | 1 | everyday | täglich | 每天每天 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
-- [1944] | 1 | Evolution | Entwicklung | 演变演变进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [1945] | 1 | ex | ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex v ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex | 以 un, un, un, un, un, un, un, un, un, un, un, un, un, un | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [1946] | 1 | ex-Biden | Ex-Biden | 退债 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [1947] | 1 | Ex-Cowboys | Ex-Cowboys | 前牛仔 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [1948] | 1 | ex-fact | Ex-Fakten | 反事实 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
-- [1949] | 1 | exec | exec | exec 证书 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
-- [1950] | 1 | expanded | erweitert | 扩大的 | Three states sign new agreements with ICE for expanded immigration enforcement operations
-- [1951] | 1 | expands | erweitert | 扩展 | New York Post expands west with California edition planned for early 2026
-- [1952] | 1 | expect | erwarten | 预计预计数 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [1953] | 1 | expel | Ausweisung | 驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐 | Europe’s top court nixes Italy’s plan to expel migrants, for now
-- [1954] | 1 | explaining | Erläuterung | 解释解释 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [1955] | 1 | exploit | Ausschöpfen | 剥削 | How scammers exploit your data for 'pre-approved' retirement scams
-- [1956] | 1 | expose | expose | 曝光曝光 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
-- [1957] | 1 | exposure | Exposition | 接触接触 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [1958] | 1 | extreme | extrem | 极端极端 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [1959] | 1 | eyes | Augen | 眼眼 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
-- [1960] | 1 | f | f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | f , f , f , f | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [1961] | 1 | facility | Einrichtung | 设施设施 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [1962] | 1 | fact-checker | Fact-Checker | 事实检查器 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
-- [1963] | 1 | fact-checking | Fact-Checking | 事实检查 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [1964] | 1 | factories | Fabriken | 工厂工厂 | China’s planned Turkish EV factories have yet to power up
-- [1965] | 1 | FAILLA | FAILLA | 费利拉 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
-- [1966] | 1 | failure | Ausfall | 失败失败 | Famine in Gaza shows the failure of Israel’s strategy
-- [1967] | 1 | faithful | treu | 忠实 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
-- [1968] | 1 | faking | Vortäuschen | 伪装 | American accused of faking death, fleeing US found guilty of raping former girlfriend
-- [1969] | 1 | Falcons | Falken | 鹰鹰 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [1970] | 1 | fall | Herbst | 秋秋 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
-- [1971] | 1 | family’s | Familienangehörige | 家庭、家庭、家庭和家庭 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [1972] | 1 | Famine | Hungersnot | 饥荒 | Famine in Gaza shows the failure of Israel’s strategy
-- [1973] | 1 | fanbase | fanbase | 复方基 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
-- [1974] | 1 | Fantasy | Fantasie | 幻想 | The Fantasy Premier League is changing Britain’s favourite sport
-- [1975] | 1 | fan’ | Gebläse | 扇扇扇扇 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
-- [1976] | 1 | farm | Betrieb | 农场 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [1977] | 1 | fast-track | Schnellspurig | 快速铁路 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
-- [1978] | 1 | Fateh | Fetthölzer | 法特 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
-- [1979] | 1 | father-in-law | Schwiegervater | 公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [1980] | 1 | favor | Gunst | 偏为( p) | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [1981] | 1 | favorite | Favorit | 最喜欢的 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [1982] | 1 | favourite | Favorit | 最爱 | The Fantasy Premier League is changing Britain’s favourite sport
-- [1983] | 1 | Favre | Begünstigt | 法弗罗语Name | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [1984] | 1 | FCC | FCC | FCCFC 公平竞争委员会 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [1985] | 1 | feds | Feds | 联邦联邦 | Illinois Democrats tell feds to stop trying to 'usurp' state authority over immigration
-- [1986] | 1 | feels | Gefühle | 感觉感觉 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [1987] | 1 | Festival | Fest | 节日节 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
-- [1988] | 1 | Fetterman | Betterman | 芬德曼 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
-- [1989] | 1 | feud | Fehde | 世仇 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
-- [1990] | 1 | Fever | Fieber | 发烧 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
-- [1991] | 1 | fewer | weniger | 较小 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
-- [1992] | 1 | fiery | Feuer | 冰冻 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
-- [1993] | 1 | fights | Kämpfe | 战斗 | Female police officer leaps into water, fights career criminal before making arrest, video shows
-- [1994] | 1 | figure | Abbildung | 图图图图 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [1995] | 1 | Film | Film | 电影电影电影 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
-- [1996] | 1 | Filmmaker | Filmemacher | 电影制制片人 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
-- [1997] | 1 | Find | Suchen | 查找查找查找查找 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [1998] | 1 | Finding | Finden | 找寻寻找寻寻寻寻寻寻 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
-- [1999] | 1 | fine | schön | 罚款 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [2000] | 1 | finest | am besten | 最佳 | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
-- [2001] | 1 | fingerprint | Fingerabdruck | 指纹指纹 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [2002] | 1 | Fire | Feuer | 火火火 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2003] | 1 | firearms | Feuerwaffen | 火器火器 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [2004] | 1 | firing | Feuer | 射击 | Kamala Harris' major California announcement triggers circular Dem firing squad
-- [2005] | 1 | fit | Passend | 适 | You can eat bread and stay fit: Here are 9 high-fiber options from a health coach
-- [2006] | 1 | flavor | Geschmack | 调味味 | 7 best low-carb beers that are also big on flavor, according to new ranking
-- [2007] | 1 | fleeing; | fliehen; | 逃离; | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2008] | 1 | flips | Drehungen | 翻翻 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [2009] | 1 | floats | Schwimmer | 浮动 | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
-- [2010] | 1 | foe | Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 敌人 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [2011] | 1 | followers | Follower | 追随者 | Denzel Washington blasts cancel culture, says faith matters more than followers
-- [2012] | 1 | foods | Lebensmittel | 食品食品 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
-- [2013] | 1 | fooled | getäuscht | 被骗 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
-- [2014] | 1 | football | Fußball | 足球足球 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
-- [2015] | 1 | force | Kraft | 强力力力 | Trump visa policies force colleges to scramble as international students vanish: report
-- [2016] | 1 | Forces | Kräfte | 部队 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
-- [2017] | 1 | forever | für immer | 永永远永永 | Christie Brinkley admits forever might be too long for modern marriage
-- [2018] | 1 | forever' | für immer." | 永远 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
-- [2019] | 1 | fortune | Vermögen | 财财财 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [2020] | 1 | forward | Vorwärts | 向前 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [2021] | 1 | foul | Foul | 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 | Crying foul: opponents slam the uneven EU-US trade deal
-- [2022] | 1 | foundation | Stiftung | 基础基础 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
-- [2023] | 1 | France | Frankreich | 法国 法国 法国 法国 法国 法国 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
-- [2024] | 1 | France’s | Frankreich | 法国 | France’s top general says Russia could attack in five years
-- [2025] | 1 | fraying | Ausfransen | 磨擦 | Nerves are fraying ahead of the Trump-Putin summit
-- [2026] | 1 | freeway | Autobahn | 高速公路 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
-- [2027] | 1 | French | Französisch | 法语 法语 法语 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [2028] | 1 | Friends | Freunde | 朋友之友 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
-- [2029] | 1 | fries | Pommes frites | 薯条薯条 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [2030] | 1 | fugitive's | Flüchtige | 逃犯 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [2031] | 1 | full-court | Vollgerichtsbarkeit | 整个法院 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
-- [2032] | 1 | funds | Mittel | 基金基金 | US appeals court says Trump can slash billions in owed USAID funds
-- [2033] | 1 | funeral | Beerdigung | 葬礼葬礼 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [2034] | 1 | Funny' | Komisch." | 有趣的是 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [2035] | 1 | gadgets | Gadgets | 设备 | Go fishing without breaking the bank with these budget-friendly fishing gadgets
-- [2036] | 1 | gain | Gewinn | 增益 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [2037] | 1 | Gaines | Gewinne | 收益收益 | Joanna Gaines keeps life simple in Texas away from Hollywood spotlight
-- [2038] | 1 | Galaxy | Galaxie | 银河系统 | How to tell if your Samsung Galaxy tablet has been hacked
-- [2039] | 1 | gang | Gang | 黑帮 | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
-- [2040] | 1 | gaps | Lücken | 差距 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
-- [2041] | 1 | garden | Garten | 花园花园 | Getting ready to harvest your garden? Get these helpful tools
-- [2042] | 1 | gasoline | Benzin | 汽油汽油汽油 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
-- [2043] | 1 | gate | Tor | 门门 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
-- [2044] | 1 | gather | sammeln | 集合集合 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [2045] | 1 | gathering | Sammlung | 正在收集 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [2046] | 1 | gave | gegeben | 给给 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [2047] | 1 | gear | Fanggerät | 装备 | A hunting gear checklist for beginner hunters
-- [2048] | 1 | Gen | Allgemeines | 常规 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [2049] | 1 | generating | Erzeugung | 生成 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [2050] | 1 | generation | Erzeugung | 代 代 代 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [2051] | 1 | Germans | Deutsche | 德国人 | Why the Germans are falling out of love with beer
-- [2052] | 1 | gerrymandered | gerrymandert | 漂流 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
-- [2053] | 1 | Get | Holen Sie sich | 上 | Getting ready to harvest your garden? Get these helpful tools
-- [2054] | 1 | gift | Geschenk | 赠礼礼物 | Donald Trump’s gift to Vladimir Putin
-- [2055] | 1 | gifts | Geschenke | 赠礼礼物 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [2056] | 1 | girl' | Mädchen" | 女 女 女 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [2057] | 1 | girls' | Mädchen" | 女童 女童 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
-- [2058] | 1 | Glen | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 格伦 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
-- [2059] | 1 | goats | Ziegen | 山羊 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [2060] | 1 | going | Ich gehe. | 继续 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
-- [2061] | 1 | gone | weg! | 已 远 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
-- [2062] | 1 | goodbye | Auf Wiedersehen. | 结束 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
-- [2063] | 1 | Gosselin | Gosselin | Golbelin 星座 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [2064] | 1 | got | erhalten | 已经拥有 | America's obsession with politicizing our children has got to stop
-- [2065] | 1 | gov't | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 政府 | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
-- [2066] | 1 | governor's | Gouverneur | 州长的 | Virginia school districts support for transgender students' rights in governor's race spotlight
-- [2067] | 1 | Grab | Greifen | 抓抓 抓抓 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
-- [2068] | 1 | grandkids | Enkel | 孙子女 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [2069] | 1 | grave | Grab | 严重 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [2070] | 1 | greenlights | Grünlichter | 绿灯绿灯 | GOP governor greenlights state troopers to join ICE in immigration crackdown
-- [2071] | 1 | grind' | Schleifen" | 磨 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
-- [2072] | 1 | grinder' | Schleifmaschine" | 研磨机 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
-- [2073] | 1 | gross’ | brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , | 毛额毛额 毛额 毛额 毛额 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
-- [2074] | 1 | groundbreaking | bahnbrechend | 开拓开创性新突破 | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
-- [2075] | 1 | grueling | Verbrutungen | 苦 苦 苦 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [2076] | 1 | gruesome | Grausam | 恐怖 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
-- [2077] | 1 | gubernatorial | gubernatorial | 州长 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
-- [2078] | 1 | guest | Gast | 客人 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
-- [2079] | 1 | guilt | Schuld | 内已犯罪 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
-- [2080] | 1 | guilty | schuldig | 犯罪 | American accused of faking death, fleeing US found guilty of raping former girlfriend
-- [2081] | 1 | gun | Pistole | 枪炮 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
-- [2082] | 1 | hacker | Hacker | 黑客 | Google confirms data stolen in breach by known hacker group
-- [2083] | 1 | hacks' | Hacks" | 黑 黑 的 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [2084] | 1 | hair | Haare | 头发毛发 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
-- [2085] | 1 | halts | Anhalten | 停止停止 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
-- [2086] | 1 | hands' | Hände" | 手举手 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
-- [2087] | 1 | Hanks | Hanks | 汉克 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [2088] | 1 | harvest | Ernte | 收获丰收 | Getting ready to harvest your garden? Get these helpful tools
-- [2089] | 1 | hat | Hut | 帽子帽子 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [2090] | 1 | hate | Hass | 仇恨 | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
-- [2091] | 1 | haul | Ziehen | 拖拉 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
-- [2092] | 1 | haunting | Gespenst | 缠绕着 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
-- [2093] | 1 | Hawaii | Hawaii | 夏威夷夏威夷 | 75-foot boat surfs wave, runs aground in Hawaii
-- [2094] | 1 | hawks | Falken | 鹰鹰 | Fiscal hawks seek millions for home district projects amid government funding debate
-- [2095] | 1 | head | Kopf | 头头 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
-- [2096] | 1 | head-to-head | Kopf-an-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf | 头头对头 | Narendra Modi and Donald Trump go head-to-head
-- [2097] | 1 | heading | Bezeichnung | 标题标题 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
-- [2098] | 1 | heads | Kopf | 头头 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
-- [2099] | 1 | healthier | gesünder | 更健康 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [2100] | 1 | hearing | Anhörung | 听询 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
-- [2101] | 1 | heartbreaker | Herzschmerzmittel | 心碎者 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
-- [2102] | 1 | heartfelt | von Herzen | 衷心的 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [2103] | 1 | held | in Erwägung nachstehender Gründe: | 举行 举行 举行 | Ziad Rahbani held a mirror to Lebanese society
-- [2104] | 1 | Helen | Helen | 海伦 海伦 海伦 | Helen Zille wants to save South Africa, starting in Johannesburg
-- [2105] | 1 | hell | Scheiße! | 地狱地狱 | Mr. President, help me bring my son back from hell
-- [2106] | 1 | helpful | hilfreich | 有用 | Getting ready to harvest your garden? Get these helpful tools
-- [2107] | 1 | Here | Hier, bitte. | 给 | You can eat bread and stay fit: Here are 9 high-fiber options from a health coach
-- [2108] | 1 | here' | Hier ist es. | 这里 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [2109] | 1 | heroes | Helden | 英雄英雄英雄 | MIKE DAVIS: A tale of two Russiagate heroes
-- [2110] | 1 | herself | sich selbst | 本人本人本人 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [2111] | 1 | he’ll | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 将 | Bernie Sanders addresses whether he’ll run in 2028
-- [2112] | 1 | hidden | versteckt | 隐藏隐藏 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
-- [2113] | 1 | hide | ausblenden | 隐藏 | Google AI email summaries can be hacked to hide phishing attacks
-- [2114] | 1 | Hill | Hügel | 山丘 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
-- [2115] | 1 | himself | sich selbst | 他本人 | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
-- [2116] | 1 | hinges | Scharniere | 断链 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [2117] | 1 | hire | Vermietung | 租 租 租 租 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
-- [2118] | 1 | history | Vorgeschichte | 历史历史历史历史历史历史历史 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
-- [2119] | 1 | history' | Vorgeschichte" | 历史历史 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [2120] | 1 | Hitler | Hitler | 希特勒 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
-- [2121] | 1 | Hogwarts | Hogwarts | 霍格沃茨 | Europe’s Hogwarts has a new Dumbledore
-- [2122] | 1 | home-cooked | gegart | 家庭烹饪 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
-- [2123] | 1 | Homicide | Morddelikte | 凶杀 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
-- [2124] | 1 | hopes | Hoffnungen | 希望希望 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
-- [2125] | 1 | Hospital' | Krankenhaus" | 医院 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
-- [2126] | 1 | host | Gastgeber | 主机主机 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
-- [2127] | 1 | hostage | Geisel | 人质人质 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [2128] | 1 | Hostility | Feindseligkeit | 东 度 度 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
-- [2129] | 1 | hot | heiß | 热热 | Keep your beverages hot or cold with these insulated bottles and tumblers
-- [2130] | 1 | hotel | Hotel | 旅馆旅馆旅馆 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
-- [2131] | 1 | Houston | Houston | 休斯顿休斯敦 | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
-- [2132] | 1 | Howard | Howard, Mitglied der Kommission. - (EN) Herr Präsident! | 霍华德·霍华德 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [2133] | 1 | HP | H.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P. | HP 惠 HP | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
-- [2134] | 1 | Hudson | Hudson | 哈德逊 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [2135] | 1 | humanitarian | humanitäre Hilfe | 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [2136] | 1 | hunters | Jäger | 猎猎人 | A hunting gear checklist for beginner hunters
-- [2137] | 1 | hunting | Jagd | 狩猎、打猎和打猎 | A hunting gear checklist for beginner hunters
-- [2138] | 1 | Hurley | Hurley. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 赫里 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [2139] | 1 | Hyde | Hyde | 海德 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [2140] | 1 | hypocrisy | Heuchelei | 虚伪 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
-- [2141] | 1 | icon | Symbol | 图标图标图标 | Country music icon Jeannie Seely dead at 85
-- [2142] | 1 | ID | ID | ID 编号 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [2143] | 1 | Idaho | Idaho | 爱达荷 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [2144] | 1 | IDs | IDs | ID 身份证 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
-- [2145] | 1 | images | Bilder | 图像图像图像 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
-- [2146] | 1 | imaginary | imaginär | 想象中 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
-- [2147] | 1 | immigrant | Zuwanderer | 移民移民移民 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
-- [2148] | 1 | immune | Immunantwort | 免疫性 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
-- [2149] | 1 | implant-related | implantatbedingt | 与植入有关 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
-- [2150] | 1 | impossible | Unmöglich | 不可能 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
-- [2151] | 1 | impossible” | Unmöglich | “不可能” | MIT tool visualizes and edits “physically impossible” objects
-- [2152] | 1 | impress | Beeindrucken | 印象深刻 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [2153] | 1 | impression' | Erscheinungsbild" | 给人留下的印象 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
-- [2154] | 1 | including | einschließlich | 包括 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [2155] | 1 | incumbency | Unberechenbarkeit | 在职人数 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
-- [2156] | 1 | indecent | unanständig | 猥亵 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
-- [2157] | 1 | indicates | zeigt an | 点点 | Father of CDC gunman indicates possible motivation behind shooting
-- [2158] | 1 | indictment | Anklage | 起诉书 | Cincinnati viral beating suspects face new charges in grand jury indictment
-- [2159] | 1 | indicts | Anklagepunkte | 起诉 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
-- [2160] | 1 | individuals | Einzelpersonen | 个人、个人、个人、个人、 | State Department stops issuing all visitor visas for individuals from Gaza
-- [2161] | 1 | industry | Industrie | 工业工业 | Trump is taking decisive action to bring this critical industry back to American soil
-- [2162] | 1 | infiltrates | Infiltrate | 渗透 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
-- [2163] | 1 | inflation | Inflation | 通货膨胀 | The US in brief: Stocks soar on inflation news
-- [2164] | 1 | Influencer | Influencer | 影响器 | Influencer couple killed in Canadian mountain crash
-- [2165] | 1 | info | Info | 信息信息信息 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [2166] | 1 | information | Informationen | 信息信息信息信息信息信息信息 | Colorado deputy could face massive fine for sharing information with immigration authorities
-- [2167] | 1 | ingredients | Inhaltsstoffe | 成分成分 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [2168] | 1 | inhalation | Inhalation | 吸入 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2169] | 1 | injection | Injektionslösung | 注射 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
-- [2170] | 1 | injunction | einstweilige Anordnung | 强制禁令 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
-- [2171] | 1 | injuries | Verletzungen | 伤 伤 伤 伤 伤 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [2172] | 1 | inning | Inning | 内内 | Braves, Reds combine for historic 16-run 8th inning in wild game
-- [2173] | 1 | insight | Einsicht | 洞洞洞见 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [2174] | 1 | inspires | inspiriert | 激励器 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [2175] | 1 | insulated | isoliert | 绝热隔热 | Keep your beverages hot or cold with these insulated bottles and tumblers
-- [2176] | 1 | Insurance | Versicherung | 保险保险 保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险 | Allianz Life Insurance data breach exposes 1.4 million Americans
-- [2177] | 1 | Intel | Datenverarbeitungsgeräte | 英特尔 | What might Trumpian meddling mean for Intel?
-- [2178] | 1 | intensifies | verstärkt | 增强 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
-- [2179] | 1 | intensive | intensiv | 集中式 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
-- [2180] | 1 | intervenes | interveniert | 干预 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [2181] | 1 | intrigue | Intrigen | 阴谋 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
-- [2182] | 1 | investigation | Untersuchung | 调查调查 | DOJ opens grand jury investigation into Letitia James tied to Trump civil case
-- [2183] | 1 | investigator | Prüfer | 调查员 调查员 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
-- [2184] | 1 | invite | einladen | 邀请邀请邀请 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
-- [2185] | 1 | involvement | Beteiligung | 参与 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [2186] | 1 | Iranian | Iranisch | 伊朗语 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
-- [2187] | 1 | ironically | ironisch | 讽刺地说 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [2188] | 1 | Island | Insel | 岛屿 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [2189] | 1 | isn’t | Ist nicht | 不是“不是” | The nightmare of a Trump-Putin pact isn’t over
-- [2190] | 1 | Israel's | Israels | 以 以 以 色 国 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
-- [2191] | 1 | Israel’s | Israel | 以 以 以 以 以 | Famine in Gaza shows the failure of Israel’s strategy
-- [2192] | 1 | issue' | Ausgabe" | A. 问题...... 25 - 25 5 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
-- [2193] | 1 | issuing | Ausgabe | 印发 | State Department stops issuing all visitor visas for individuals from Gaza
-- [2194] | 1 | it' | Es ist nicht möglich. | 约 约 约 约 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2195] | 1 | it’s | Es handelt sich um | 它是 | Why it’s a pain to take a plane in Africa
-- [2196] | 1 | Ivanka | Iwanka | 伊万卡语Name | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
-- [2197] | 1 | Ivory | Elfenbein | 象牙 | Ivory Coast’s president is overstaying his welcome
-- [2198] | 1 | I’m | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 我... | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [2199] | 1 | jab | Jab | 以 jab | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [2200] | 1 | jacket | Jacke | 外套夹夹 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [2201] | 1 | Jackson | - Jackson. - (EN) Herr Präsident! | 杰克逊 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [2202] | 1 | jail | Gefängnis | 监禁 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [2203] | 1 | Jazeera | Jazeera | 半岛电视台 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
-- [2204] | 1 | Jazz | Jazz | 爵士爵士 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
-- [2205] | 1 | JB | JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: | JB JB 日元 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2206] | 1 | Jeannie | Jeannie | 珍妮 | Country music icon Jeannie Seely dead at 85
-- [2207] | 1 | Jeannie’ | Jeannie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 珍妮 ' | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [2208] | 1 | jeans | Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans | 牛仔牛仔牛仔裤 | Sydney Sweeney jeans controversy making advertising great again
-- [2209] | 1 | Jekyll | Jekyll | 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [2210] | 1 | Jennifer | Jennifer | 珍妮弗 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
-- [2211] | 1 | Jersey | Trikot | 泽泽西岛 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
-- [2212] | 1 | Jerusalem's | Jerusalems | 耶路撒冷 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [2213] | 1 | Jet | Strahl | 喷气喷气 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
-- [2214] | 1 | Jets | Jets | 喷喷喷喷喷气机 | Tom Brady burns Jets fans once more during statue ceremony
-- [2215] | 1 | jewelry | Schmuck | 珠宝首饰 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [2216] | 1 | Jewish | Jüdisch | 犹太犹太人 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
-- [2217] | 1 | JIMMY | JIMMY | 吉米 吉米 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
-- [2218] | 1 | Joanna | Joanna | 琼安娜 | Joanna Gaines keeps life simple in Texas away from Hollywood spotlight
-- [2219] | 1 | job | Arbeit | 工作 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [2220] | 1 | Johannesburg | Johannesburg | 约翰内斯堡 | Helen Zille wants to save South Africa, starting in Johannesburg
-- [2221] | 1 | Johnny | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 强尼 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
-- [2222] | 1 | join | beitreten | 加入加入加入 | GOP governor greenlights state troopers to join ICE in immigration crackdown
-- [2223] | 1 | joining | Beitritt | 合并加入 | Ever more Ukrainian women are joining the army
-- [2224] | 1 | joint | Gelenk | 联合联合 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
-- [2225] | 1 | JONATHAN | JONATHAN | 乔纳登 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
-- [2226] | 1 | Josh | Josh | 乔希 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2227] | 1 | journalist | journalist | 记者 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
-- [2228] | 1 | judicial | Gerichtsstand | 司法 司法 司法 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
-- [2229] | 1 | jurisdictions | Zuständigkeitsbereiche | 法域 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [2230] | 1 | k | k | k k, k, k, k | How to secure your 401(k) plan from identity fraud
-- [2231] | 1 | Kate | - Kate. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 凯特 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [2232] | 1 | keeping | Bewahren | 保留 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
-- [2233] | 1 | Kelce's | Kelce's | Kelce 键盘 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
-- [2234] | 1 | Kennedy | Kennedy | 肯尼迪 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
-- [2235] | 1 | kicks | Tritte | 踢踢 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
-- [2236] | 1 | kidnapping | Entführung | 绑架绑架 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [2237] | 1 | kids | Kinder | 儿 童 儿 童 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2238] | 1 | killer | Mörder | 杀手 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [2239] | 1 | killer's | Killer's | 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
-- [2240] | 1 | Kim | K.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I..................................................................................................................................................................................................................................................... | 金金 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
-- [2241] | 1 | kind | Art | 型 型 型 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2242] | 1 | knee | Knie | 膝膝膝膝 | Seth Rollins looms large at SummerSlam amid possible knee injury
-- [2243] | 1 | knocked | geklopft | 已敲打 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
-- [2244] | 1 | knockout | Kockout | 敲击 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
-- [2245] | 1 | know | wissen | 已知 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [2246] | 1 | known | bekannt | 已知 | Google confirms data stolen in breach by known hacker group
-- [2247] | 1 | Kohberger's | Kohberger's | 科伯格 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [2248] | 1 | Kone | Vergebt | 键键 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
-- [2249] | 1 | Kremlin | Kreml | 克里姆林宫 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
-- [2250] | 1 | l | L 347 vom 20.12.2013, S. 671. | 升 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [2251] | 1 | lab | Labor | 实验室实验室 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
-- [2252] | 1 | Labor | Arbeit | 劳工劳工劳工劳工劳工劳动劳动 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
-- [2253] | 1 | lack | Mangel | 缺乏 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [2254] | 1 | lady | Frau | 女士( 女士) | Melania Trump commemorates 200 days since resuming role as first lady
-- [2255] | 1 | lake | See | 湖湖湖 | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
-- [2256] | 1 | lambasted | geräuchert | 羊排 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2257] | 1 | language | Sprache | 语言 语言 语言 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [2258] | 1 | large | groß | 大型 | Seth Rollins looms large at SummerSlam amid possible knee injury
-- [2259] | 1 | lash | Schrägstrich | 电鞭 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
-- [2260] | 1 | lasting | Dauerhaft | 长期 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
-- [2261] | 1 | late-night | späte Nacht | 深夜 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [2262] | 1 | Lauder | Lauder | 失败者 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [2263] | 1 | launch | Start | 启动启动 | Abbott, Texas Republicans launch new Trump-backed redistricting push as fleeing Democrats plan to end walkout
-- [2264] | 1 | launched | gestartet | 启动 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
-- [2265] | 1 | launching | Start | 启动 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [2266] | 1 | Lawmaker | Rechtsanwältin | 立法者 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [2267] | 1 | lawmakers | Gesetzgeber | 立法者 | Texas asks Illinois court to enforce arrest warrants for Democratic lawmakers
-- [2268] | 1 | laws | Rechtsvorschriften | 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
-- [2269] | 1 | lead | Blei | 铅铅 | Facebook crypto ads lead to dangerous malware scams
-- [2270] | 1 | leak | Leckage | 漏出 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
-- [2271] | 1 | leaps | Sprünge | 飞跃 | Female police officer leaps into water, fights career criminal before making arrest, video shows
-- [2272] | 1 | leaves | Blätter | 叶叶叶 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [2273] | 1 | Lebanese | Libanesisch | 黎巴嫩黎巴嫩文 | Ziad Rahbani held a mirror to Lebanese society
-- [2274] | 1 | LeBrock | LeBrock | 勒布罗克Name | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [2275] | 1 | left' | links" | 左左 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [2276] | 1 | Left-wing | Links | 左翼 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [2277] | 1 | Leftist | Linkshänder | 左左派 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
-- [2278] | 1 | lefty | Linkshänder | 左左左 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
-- [2279] | 1 | leg | Bein | 腿腿 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [2280] | 1 | legal | Rechts- und Verwaltungsvorschriften | 法律 法律 法律 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [2281] | 1 | legend's | Legenden | 传说中的传说 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [2282] | 1 | legit | Legitimation | 纯正 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [2283] | 1 | Leo | Löwe | 利奥 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [2284] | 1 | Leonardo | LEONARDO | 莱昂纳多 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
-- [2285] | 1 | leopard | Leopard | 豹型豹 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [2286] | 1 | Lesnar's | Lesnar's | 莱纳尔的 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [2287] | 1 | less | weniger | 小于 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [2288] | 1 | Level | Ebene | 职等职等 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [2289] | 1 | libs | libs | libs libs libs | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
-- [2290] | 1 | license | Lizenz | 许可证许可证许可证许可证许可证 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [2291] | 1 | licensing | Lizenzierung | 许可证发放 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
-- [2292] | 1 | life-changing | lebensverändernd | 改变生命 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [2293] | 1 | lifeguard | Rettungsschwimmer | 救生卫 | Beach visitors risk 'arrest' for swimming without lifeguard following tragic incident
-- [2294] | 1 | lifts | Aufzüge | 电梯 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
-- [2295] | 1 | Light | Leicht | 照明灯 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
-- [2296] | 1 | likens | Gleichnisse | 线 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [2297] | 1 | Linda | Linda | 琳达 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
-- [2298] | 1 | Lindsay | Lindsay | 林赛 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
-- [2299] | 1 | line | Zeile | 直行 | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
-- [2300] | 1 | lines | Zeilen | 线条 | On Ukraine’s front lines the kill zone is getting deeper
-- [2301] | 1 | lingers | Verweilt | 短短的 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [2302] | 1 | links | Verknüpfungen | 链接链接 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
-- [2303] | 1 | Lions | Löwen | 狮子狮子狮 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [2304] | 1 | literally | im wahrsten Sinne des Wortes | 字数 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
-- [2305] | 1 | Little-known | Wenig bekannt | 鲜为人知 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [2306] | 1 | live | lebend | 活 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [2307] | 1 | lobby | Lobby | 大厅 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
-- [2308] | 1 | Locals | Einheimische | 当地人 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
-- [2309] | 1 | locker | Schließfach | 储物柜 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [2310] | 1 | Lohan | Lohan | 洛汉 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
-- [2311] | 1 | Lone | Einsam | 孤 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
-- [2312] | 1 | lonely | einsam | 孤单 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [2313] | 1 | long-term | langfristig | 长期长期 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
-- [2314] | 1 | Loni | Loni | 洛尼 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [2315] | 1 | looking | suchen | 外观 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
-- [2316] | 1 | looks | sieht aus | 外观 | Why Italy’s next cultural capital looks like a disaster zone
-- [2317] | 1 | Lord | Herr | 主主主主主,主主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [2318] | 1 | Los | Verlust | 输 输 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
-- [2319] | 1 | losing | Verlust | 损失 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
-- [2320] | 1 | love | Liebe | 爱爱 | Why the Germans are falling out of love with beer
-- [2321] | 1 | Lovell | Lovell | 爱情 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [2322] | 1 | low-carb | kohlenhydratarm | 低负载量 | 7 best low-carb beers that are also big on flavor, according to new ranking
-- [2323] | 1 | Lowe | Niedrig | 低 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [2324] | 1 | LUCADO | LUCADO | 卢卡多 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
-- [2325] | 1 | lucrative | lukrativ | 利润丰利 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
-- [2326] | 1 | Luigi | Luigi | 路易 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [2327] | 1 | lunar | Mond | 月圆 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
-- [2328] | 1 | luxury | Luxus | 奢侈品 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [2329] | 1 | ma'am | Ma'am, bitte sehr. | 女士们,女士们 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2330] | 1 | MacDowell's | MacDowell's | 麦克道尔的 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
-- [2331] | 1 | machete | Machete | 干大毛毛大毛毛 | Australian state rolls out machete ‘disposal bins’ ahead of ban
-- [2332] | 1 | made | hergestellt | 作出 | Hiker made fatal mistake when encountering poisonous snake, officials believe
-- [2333] | 1 | magic | Zauberei | 魔法 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
-- [2334] | 1 | magic’s | Zauberei | 魔法魔法 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
-- [2335] | 1 | Maher | Maher | Mah Maher | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
-- [2336] | 1 | make-up | Make-up | 化妆 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [2337] | 1 | malaria | Malaria | 疟疾 疟疾 疟疾 | How climate change could spread malaria
-- [2338] | 1 | malware | Malware | 恶意软件 | Facebook crypto ads lead to dangerous malware scams
-- [2339] | 1 | management | Verwaltung | 管理管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 | Consultant management: McKinsey loses its shine
-- [2340] | 1 | Mangione | Mangion | 曼吉龙语Name | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [2341] | 1 | manhunt | Jagd | 搜 捕 人 猎 人 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
-- [2342] | 1 | manuscripts | Manuskripte | 手动手头 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
-- [2343] | 1 | Manziel | Manziel | 曼齐尔 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
-- [2344] | 1 | Margaret | Margaret | 玛格丽特 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
-- [2345] | 1 | Marlins | Marlins | 马林斯 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
-- [2346] | 1 | Maryland | Maryland | 马里兰州 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
-- [2347] | 1 | Marzouk | Marzouk | 马祖克 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
-- [2348] | 1 | masks | Masken | 遮面罩 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [2349] | 1 | massacre | Massaker | 屠杀屠杀屠杀 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
-- [2350] | 1 | matched | abgestimmt | 匹配匹配 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
-- [2351] | 1 | matching | zusammenpassend | 匹配匹配 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [2352] | 1 | materials | Werkstoffe | 材料 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
-- [2353] | 1 | matriarch | Matriarch | 母母体 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [2354] | 1 | Matt | Matt | 马修 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [2355] | 1 | matters | Fragen | 事项事项(事项) | Denzel Washington blasts cancel culture, says faith matters more than followers
-- [2356] | 1 | MAX | MAX | MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX | MAX LUCADO: Finding peace and faith in God in the middle of the storm
-- [2357] | 1 | mayoral | Bürgermeister | 水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [2358] | 1 | mayors | Bürgermeister | 市长 市长 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [2359] | 1 | McMahon | McMahon | 麦克马洪 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
-- [2360] | 1 | me' | Ich bin's. | 我,我,我, | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
-- [2361] | 1 | meals | Mahlzeiten | 膳食 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
-- [2362] | 1 | mean | Mittelwert | 中平均值 | What might Trumpian meddling mean for Intel?
-- [2363] | 1 | meddling | Einmischen | 插插 | What might Trumpian meddling mean for Intel?
-- [2364] | 1 | Medieval | Mittelalter | 中世纪 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [2365] | 1 | Meet | Treffen | 会 会 会 会 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
-- [2366] | 1 | megabill | Großbuchstaben | 特大比尔 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
-- [2367] | 1 | megachurch | Megachurch | 特大教会 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
-- [2368] | 1 | Mellencamp | Mellencamp | 梅伦坎普 | Teddi Mellencamp struggles with speech following cancer treatment
-- [2369] | 1 | melt | Schmelze | 熔融 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
-- [2370] | 1 | men | Männer | 男子 男子 男子 男子 男子 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
-- [2371] | 1 | mental | Psychisch | 精神病 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2372] | 1 | mere | nur | 仅 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
-- [2373] | 1 | messy | chaotisch | 乱成一团 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [2374] | 1 | Meta's | Meta's | Meta 的 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [2375] | 1 | meteoric | meteorisch | 气象学 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
-- [2376] | 1 | Metro | U-Bahn | 地铁 | Trump takes control of Metro Police, deploys National Guard to take on Washington crime
-- [2377] | 1 | me’ | - Ich bin nicht mehr da. - Ich bin nicht mehr da. | " 我 " , | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [2378] | 1 | Miami | Miami | 迈阿密 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [2379] | 1 | Micah | Micah | 米迦 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [2380] | 1 | Michael | UMWELTVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHR | 迈克尔·迈克尔 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
-- [2381] | 1 | Michelle | Michelle | 米歇尔 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [2382] | 1 | mid-haircut | Mittelhaarschnitt | 中头发切中 | Video shows Arkansas hiking murder suspect arrested mid-haircut
-- [2383] | 1 | middle | Mitte | 中间中间 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
-- [2384] | 1 | Miele | Miele. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 米埃莱 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
-- [2385] | 1 | Minneapolis | Minneapolis | 明尼阿波利斯 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
-- [2386] | 1 | minutes | Minuten | 分钟 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [2387] | 1 | miraculous | Wundervoll | 奇迹 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [2388] | 1 | missile | Flugkörper | 导弹 导弹 | Russia drops missile deployment moratorium amid tensions with Trump admin
-- [2389] | 1 | missing | fehlt | 缺少 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
-- [2390] | 1 | mistake | Fehler | 错误错误 | Hiker made fatal mistake when encountering poisonous snake, officials believe
-- [2391] | 1 | MLS | MLS | MLS 中 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [2392] | 1 | modern | modern | 现代 | Christie Brinkley admits forever might be too long for modern marriage
-- [2393] | 1 | Modi | ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNGEN | 莫迪语 | Narendra Modi and Donald Trump go head-to-head
-- [2394] | 1 | Moldova’s | Moldawien | 摩尔多瓦 | Moldova’s election will test its resistance to Russia
-- [2395] | 1 | mom | Mutter | 妈妈 妈妈 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2396] | 1 | Momoa | L 347 vom 20.12.2013, S. 671. | 莫莫拉 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
-- [2397] | 1 | money | Geld | 货币 货币 | Race, power and money in South Africa
-- [2398] | 1 | monopoly' | Monopol" | 垄断垄断 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [2399] | 1 | Montauk’s | Montauk | 蒙托克 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
-- [2400] | 1 | moral | sittlich | 道德、道德、道德、 | The moral of “The Salt Path”, an embellished bestseller
-- [2401] | 1 | moratorium | Moratorium | 暂停暂停 | Russia drops missile deployment moratorium amid tensions with Trump admin
-- [2402] | 1 | Morice | Fleisch von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen | 摩曲 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [2403] | 1 | Morin's | Morin's | 莫林的 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
-- [2404] | 1 | motivation | Motivation | 动机 动机 动机 | Father of CDC gunman indicates possible motivation behind shooting
-- [2405] | 1 | Mount | Befestigen | 挂山 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [2406] | 1 | mountain | Berg | 山山山山山 | Influencer couple killed in Canadian mountain crash
-- [2407] | 1 | Mountains | Gebirge | 山山山脉 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [2408] | 1 | mounts | Halterungen | 上层 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
-- [2409] | 1 | moved' | umgezogen" | 移动' | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
-- [2410] | 1 | movie | Film | 电影电影 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
-- [2411] | 1 | Mr | Herr | 先生 先生 先生 先生 先生 先生 先生 先生 | Mr. President, help me bring my son back from hell
-- [2412] | 1 | MS- | Mitgliedstaat | 管理系统- | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
-- [2413] | 1 | much | viel | 多 | Deion Sanders' Colorado quarterback decision much tougher than years past
-- [2414] | 1 | music | Musik | 音乐音乐 | Country music icon Jeannie Seely dead at 85
-- [2415] | 1 | musicians | Musiker | 音乐家 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [2416] | 1 | mysterious | rätselhaft | 神秘 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
-- [2417] | 1 | Nagasaki | Nagasaki | 长崎 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
-- [2418] | 1 | names | Bezeichnung | 名称名称 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [2419] | 1 | Narendra | Narendra | 纳伦德 | Narendra Modi and Donald Trump go head-to-head
-- [2420] | 1 | NASA's | Die NASA | 美国航天局 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
-- [2421] | 1 | NASCAR's | NASCAR's | NASCAR 海军 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [2422] | 1 | Nate | Nate | 内内特 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [2423] | 1 | naturalization | Einbürgerung | 归化入籍 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
-- [2424] | 1 | nd | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 结束时间 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
-- [2425] | 1 | near | in der Nähe | 附近 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [2426] | 1 | neighborhood | Nachbarschaft | 相邻邻居 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
-- [2427] | 1 | Nerves | Nerven | 神经 | Nerves are fraying ahead of the Trump-Putin summit
-- [2428] | 1 | nest | Nest | 巢巢 | Radioactive wasp nest discovered by workers at former nuclear bomb site
-- [2429] | 1 | Netanyahu | Netanyahu | 内塔尼亚 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [2430] | 1 | Netherlands | Niederlande | 荷兰 荷兰 荷兰 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
-- [2431] | 1 | Nets | Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-N | 净额净额净额 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
-- [2432] | 1 | Networks | Netze | 网络网络 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
-- [2433] | 1 | newest | neueste | 最新 | SCOOP: Trump's newest DC crime crackdown yields more than 100 arrests
-- [2434] | 1 | Newsom | Nachrichten | Newsom 新闻 | Schwarzenegger pushing back against Newsom redistricting bid in California
-- [2435] | 1 | NFL | NFL | NFL NFFNNFL | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
-- [2436] | 1 | NJ | NJ | NJ NJ | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2437] | 1 | Nobel | Nein. | 诺诺诺 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
-- [2438] | 1 | Noem | Noem | Noem 编号 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [2439] | 1 | nominees | Nominierte | 被提名人 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
-- [2440] | 1 | nonbelievers | Nichtgläubige | 非信非信徒 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
-- [2441] | 1 | norms | Normen | 规范规范规范、规范规范、规范规范、规范规范 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
-- [2442] | 1 | Norris | Norris | 诺里斯 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [2443] | 1 | notes | Anmerkungen | 注 注 注注 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [2444] | 1 | nothing | Nichts | 什么都没有 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [2445] | 1 | notice | Hinweis | 通知通知 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
-- [2446] | 1 | number | Anzahl | 号号号数 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
-- [2447] | 1 | nursing | Krankenpflege | 护理护理 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [2448] | 1 | nutrition | Ernährung | 营养营养 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
-- [2449] | 1 | NYC | NIEDERLANDE | 《纽约公约》 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [2450] | 1 | O'Rourke | O'Rourke | 奥罗克 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
-- [2451] | 1 | objects | Objekte | 对象 | MIT tool visualizes and edits “physically impossible” objects
-- [2452] | 1 | obsession | Obsession | 固执 | America's obsession with politicizing our children has got to stop
-- [2453] | 1 | occupied | besetzt | 被占领 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
-- [2454] | 1 | Odell | Odell | 奥德尔 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
-- [2455] | 1 | of' | von" | 的 年 月 年 月 年 月 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [2456] | 1 | offender | Straftäter | 违法罪犯 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [2457] | 1 | offer | Angebot | 提供 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
-- [2458] | 1 | offered | angeboten | 提供 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [2459] | 1 | officers | Beamte | 干事 干事 干事 | Protesters confront officers patrolling DC streets after Trump policing takeover
-- [2460] | 1 | oligarch’s | Oligarchen | " 寡寡寡人 " 组织 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
-- [2461] | 1 | Omar | Omar | 奥马尔 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
-- [2462] | 1 | on' | auf" | 上' 上' | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [2463] | 1 | on-field | vor Ort | 外地 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2464] | 1 | open | geöffnet | 打开 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [2465] | 1 | opens | geöffnet | 打开 | DOJ opens grand jury investigation into Letitia James tied to Trump civil case
-- [2466] | 1 | operation | Betrieb | 操作操作已运行 | Trump's federal crime operation brings 100 arrests, 800 National Guard troops to Washington
-- [2467] | 1 | operations | Maßnahmen | 业务业务 | Three states sign new agreements with ICE for expanded immigration enforcement operations
-- [2468] | 1 | Opinion | Stellungnahme | 意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
-- [2469] | 1 | opponents | Gegner | 反对者 | Crying foul: opponents slam the uneven EU-US trade deal
-- [2470] | 1 | opposite | gegenüber | 反对 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [2471] | 1 | Opus | Opus | Opus 功能 | Inside Opus Dei
-- [2472] | 1 | order | Reihenfolge | 顺序顺序顺序 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
-- [2473] | 1 | Osbourne | Osbourne | 奥斯本 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [2474] | 1 | Osbourne's | Osbourne's | 奥斯本 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [2475] | 1 | others | Sonstige | 其他 其他 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
-- [2476] | 1 | outburst | Ausbruch | 爆发 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
-- [2477] | 1 | Outlaws | Gesetzlose | 外部法 | The US in brief: The Texas Outlaws
-- [2478] | 1 | outlines | Umrisse | 大纲大纲大纲 | Zelenskyy outlines peace demands before high-stakes White House meeting with Trump
-- [2479] | 1 | outpace | Ausschlag | 超快快 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
-- [2480] | 1 | outrage | Empörung | 暴行 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [2481] | 1 | over-valued | überbewertet | 估值过高 | Palantir might be the most over-valued firm of all time
-- [2482] | 1 | Oversight | Aufsicht | 监督监督 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
-- [2483] | 1 | Oversight's | Aufsicht | 监督监督 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
-- [2484] | 1 | overstaying | Überbeanspruchung | 逾期滞期 | Ivory Coast’s president is overstaying his welcome
-- [2485] | 1 | overturned | umgedreht | 已推翻 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
-- [2486] | 1 | owed | Verbindlichkeiten | 所欠欠款 | US appeals court says Trump can slash billions in owed USAID funds
-- [2487] | 1 | Ozempic | Ozempic | 亚湿 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [2488] | 1 | pact | Pakt | 协约约约约 | The nightmare of a Trump-Putin pact isn’t over
-- [2489] | 1 | paid | bezahlt | 已付款 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [2490] | 1 | painstaking | mühevoll | 艰苦 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
-- [2491] | 1 | pal | Kumpel | 调牌 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [2492] | 1 | Palestinian | Palästinensische | 巴勒斯坦 巴勒斯坦 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
-- [2493] | 1 | Pamela | Pamela | 帕梅拉 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [2494] | 1 | pancreatic | Bauchspeicheldrüse | 洲际 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
-- [2495] | 1 | panel | Paneel | 面板面板 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [2496] | 1 | paparazzi | Paparazzi | 狗仔队 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
-- [2497] | 1 | Parenthood | Elternschaft | 父母亲 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
-- [2498] | 1 | Parkland | Parkland | 公园地 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [2499] | 1 | Parsons | Parsonen | 帕松 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
-- [2500] | 1 | part | Teil | 编 编 编 编 | Cash-trapped (part 2): drowning in debt
-- [2501] | 1 | parting | Trennung | 分离 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
-- [2502] | 1 | Parton-inspired | Partieninspiriert | 受part 启发的 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
-- [2503] | 1 | party's | Parteien | 政党党党党 | Former Democratic advisor says party's rhetoric on redistricting is getting 'a little out of control'
-- [2504] | 1 | passage | Durchfahrt | 通道 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
-- [2505] | 1 | passengers | Fluggäste | 乘客 乘客 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2506] | 1 | passing | Vorübergehend | 通过通过 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
-- [2507] | 1 | past | Vergangenheit | 过去 | Deion Sanders' Colorado quarterback decision much tougher than years past
-- [2508] | 1 | Path” | Pfad | 路径” | The moral of “The Salt Path”, an embellished bestseller
-- [2509] | 1 | patience | Geduld | 耐 耐 耐 耐 耐 耐 | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
-- [2510] | 1 | patriotic | patriotisch | 爱国爱国 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
-- [2511] | 1 | Patriots | Patrioten | 爱国者 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
-- [2512] | 1 | patrolling | Patrouillen | 巡逻巡逻 | Protesters confront officers patrolling DC streets after Trump policing takeover
-- [2513] | 1 | pavement-pounding | mit einer Breite von nicht mehr als 2 mm | 铺铺人路, | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
-- [2514] | 1 | PBS | PBS | PPBS 边边 边 边 边 边 边 边 边 边 边 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [2515] | 1 | penalties | Sanktionen | 处罚处罚 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
-- [2516] | 1 | penalty | Strafe | 处罚处罚 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [2517] | 1 | perception | Wahrnehmung | 受 感 知 | Americans' perception of discrimination against Black people dropped in last four years
-- [2518] | 1 | performance | Leistung | 业绩业绩 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [2519] | 1 | permit | Genehmigung | 许可许可许可 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
-- [2520] | 1 | Perryman | Perryman | 佩里曼 | Chargers' Denzel Perryman released without charges after firearms arrest
-- [2521] | 1 | phenomenon | Phänomen | 现象现象 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [2522] | 1 | PHOTOS | FOTOS | 图片 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [2523] | 1 | piece | Stück | 块数 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
-- [2524] | 1 | pierogi | Pierogi |  | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
-- [2525] | 1 | pioneers | Pioniere | 先驱者 | American Culture Quiz: Test yourself on park pioneers and baseball bests
-- [2526] | 1 | plane | Ebene | 平平平面 | Why it’s a pain to take a plane in Africa
-- [2527] | 1 | plastics | Kunststoffe | 塑料塑料 | AI helps chemists develop tougher plastics
-- [2528] | 1 | playback | Wiedergabe | 播放重播 | What’s your preferred playback speed: 1x, 1.5x or 2x?
-- [2529] | 1 | Playboy | Spieljunge | 花花花花公子 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [2530] | 1 | pledge | Verpfändung | 认捐认捐 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
-- [2531] | 1 | plummeted | Eingestürzt | 直线直线 | Vaccinations to prevent cervical cancer have plummeted in Britain
-- [2532] | 1 | plunge | Eintauchen | 崩溃 | Arctic plunge: Trump and Putin dive in
-- [2533] | 1 | podcast | Podcast | 播 播 播 播 播 播 播 | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
-- [2534] | 1 | poised | in Erwägung nachstehender Gründe: | 准备就绪 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [2535] | 1 | poisonous | giftig | 有毒 | Hiker made fatal mistake when encountering poisonous snake, officials believe
-- [2536] | 1 | policies | Politikbereiche | 政策、政策、政策、政策和政策 | Trump visa policies force colleges to scramble as international students vanish: report
-- [2537] | 1 | policing | polizeiliche Maßnahmen | 警务警务维持治安 | Protesters confront officers patrolling DC streets after Trump policing takeover
-- [2538] | 1 | policy | Politik | 政策政策 | Brazil bashing: the Trumpian school of foreign policy
-- [2539] | 1 | policy’ | politik | 政策 " 政策 " | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2540] | 1 | Polite | Politisch | 理学 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2541] | 1 | politician' | Politiker" | A. 政治家...... 18 - 18 5 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
-- [2542] | 1 | politicians' | Politik" | 政治家们 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
-- [2543] | 1 | politicizing | politisierend | 政治化 | America's obsession with politicizing our children has got to stop
-- [2544] | 1 | Pope | Papst | 教皇派教皇 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [2545] | 1 | Porter | Portier | 波特 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
-- [2546] | 1 | pose | Pose | 装 容 容 容 容 容 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [2547] | 1 | Post's | Dienstposten | 员额 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
-- [2548] | 1 | post-health | nach der Gesundheit | 产后保健后 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
-- [2549] | 1 | posts | Planstellen | 员额员额员额 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [2550] | 1 | potatoes | Kartoffeln | 马铃薯 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
-- [2551] | 1 | pounce | Pounce | 弹喷 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
-- [2552] | 1 | practice | Praxis | 实践实践 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
-- [2553] | 1 | praise | Lob | 赞赞赞 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
-- [2554] | 1 | prayer | Gebet | 祈祷祈祷 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [2555] | 1 | PreCheck | Vorabüberprüfung | 预检检查 | TSA warns of phishing scam targeting PreCheck travelers
-- [2556] | 1 | predicted | vorausgesagt | 预测数 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
-- [2557] | 1 | preferred | Bevorzugte | 首首 | What’s your preferred playback speed: 1x, 1.5x or 2x?
-- [2558] | 1 | Premier | Premierminister | 总理 总理 | The Fantasy Premier League is changing Britain’s favourite sport
-- [2559] | 1 | premium | Prämie | 保险费溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢 | John Cena's final SummerSlam match headlines Night 2 of premium live event
-- [2560] | 1 | prepares | Vorbereitung | 准备 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
-- [2561] | 1 | Prescott | Präscott | 预 制 | Cowboys' Dak Prescott makes bold statement to Rams team owner
-- [2562] | 1 | presidency | Vorsitz | 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 主席 主席 主席 主席 主席  主席   主席     主席 主席  主席      主席  主席       主席 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
-- [2563] | 1 | presidential | Präsident | 总统 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
-- [2564] | 1 | presser | Presser | 报 报 报 报 报 报 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [2565] | 1 | pressures | Drücke | 压力压力 | Trump officials visit Gaza aid sites as international community pressures Israel
-- [2566] | 1 | prevent | verhindern | 预防预防 | Vaccinations to prevent cervical cancer have plummeted in Britain
-- [2567] | 1 | preventing | Prävention | 预防 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
-- [2568] | 1 | Priced | Preispflichtig | 价格计价 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [2569] | 1 | Pritzker | Pritzker | 普里茨克 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2570] | 1 | privacy | Privatsphäre | 隐私隐私 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [2571] | 1 | Prize | Preis | 得奖奖奖奖奖奖奖奖奖 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
-- [2572] | 1 | pro-life | pro-life | 减少排放的六溴氟联苯酯 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
-- [2573] | 1 | proceedings | Verfahren | 程序 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
-- [2574] | 1 | procession | Prozession | 进数 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
-- [2575] | 1 | process’ | Verfahren | 过程 " 。 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
-- [2576] | 1 | products | Erzeugnisse | 产品产品 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
-- [2577] | 1 | program | Programm | 程序程序 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
-- [2578] | 1 | progressive | Progressiv | 累进 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [2579] | 1 | progressives | Progressive | 递进 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
-- [2580] | 1 | projects | Projekte | 项目项目项目 | Fiscal hawks seek millions for home district projects amid government funding debate
-- [2581] | 1 | promise | Versprechen | 承诺 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
-- [2582] | 1 | promises | Versprechungen | 承诺承诺承诺 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [2583] | 1 | protect | schützen | 保护 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
-- [2584] | 1 | protective | Schutz | 保护性保护 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [2585] | 1 | protester | Demonstranten | 抗议抗议者 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [2586] | 1 | protestors | Demonstranten | 抗议者 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
-- [2587] | 1 | proud | stolz | 骄傲自豪 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [2588] | 1 | Prove | Beweisen | 证明证明 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [2589] | 1 | provides | sieht vor, dass | 提供 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [2590] | 1 | provocative | provokativ | 挑衅性挑衅 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [2591] | 1 | PTSD | PTSD | 临时临时临时临时临时 数 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
-- [2592] | 1 | Public | Öffentlich | 公共公开 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
-- [2593] | 1 | public' | öffentlich" | 公共 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
-- [2594] | 1 | pull | Ziehen | 拉拉拉 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
-- [2595] | 1 | pulls | Ziehungen | 下拉 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
-- [2596] | 1 | punishment | Strafe | 处罚(惩罚) | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
-- [2597] | 1 | Punk | Punk | 朋拳 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
-- [2598] | 1 | puts | setzt | 调和 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
-- [2599] | 1 | Qualley | Qualley | 夸里语Name | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
-- [2600] | 1 | quickly | schnell | 快速快速 | How to quickly recover a disabled Facebook account
-- [2601] | 1 | quorum | Beschlussfähigkeit | 法定人数 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
-- [2602] | 1 | QVC's | QVC's | QVC 的 QVC | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [2603] | 1 | Rachel | - Rachel. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 瑞切尔 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
-- [2604] | 1 | Radioactive | Radioaktiv | 放射性 | Radioactive wasp nest discovered by workers at former nuclear bomb site
-- [2605] | 1 | rages | Wutanfälle | 愤怒 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [2606] | 1 | Rahbani | Rahbani | Rahbani( 拉巴尼) | Ziad Rahbani held a mirror to Lebanese society
-- [2607] | 1 | raid | Razzia | 突击突击搜查 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
-- [2608] | 1 | rammed | gerammelt | 倾斜 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
-- [2609] | 1 | Rams | Ramsen | 拉姆 | Cowboys' Dak Prescott makes bold statement to Rams team owner
-- [2610] | 1 | ranking | Rangfolge | 排名排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排列排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排列排排排排排排排排排排排排排排排排排排排排排排排排排排排 | 7 best low-carb beers that are also big on flavor, according to new ranking
-- [2611] | 1 | rape | Vergewaltigung | 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
-- [2612] | 1 | raping | Vergewaltigen | 强奸 | American accused of faking death, fleeing US found guilty of raping former girlfriend
-- [2613] | 1 | Ravens | Ravens | 乌鸦 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
-- [2614] | 1 | raving' | Sie wird geplündert." | 胡言乱语 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [2615] | 1 | Raw | Roh | 原生 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [2616] | 1 | re-election | Wiederwahl | 连选连任 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
-- [2617] | 1 | re-enters | Wiedereinsteiger | 重新输入 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
-- [2618] | 1 | react | reagieren | 反应 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [2619] | 1 | reaction | Reaktion | 反应反应反应 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
-- [2620] | 1 | readers | Leser | 阅读读者 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
-- [2621] | 1 | readies | Veröffentlichungen | 读数 | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
-- [2622] | 1 | ready | bereit | 准备就绪 | Getting ready to harvest your garden? Get these helpful tools
-- [2623] | 1 | receiving | Empfang | 接收 | The War Room newsletter: How receiving aid became fatal in Gaza
-- [2624] | 1 | recent | vor kurzem | 最近的最近 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [2625] | 1 | recipe | Rezept | 食谱配方 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [2626] | 1 | records | Aufzeichnungen | 记录记录记录 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [2627] | 1 | recover | Wiedereinziehung | 回收 | How to quickly recover a disabled Facebook account
-- [2628] | 1 | recruitment | Einstellung | 征聘征聘 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
-- [2629] | 1 | recruits | Rekruten | 新征聘人员 | Female military recruits surge across all service branches
-- [2630] | 1 | recurrence | Rezidiv | 重复重现 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
-- [2631] | 1 | Reds | Rote | 红 | Braves, Reds combine for historic 16-run 8th inning in wild game
-- [2632] | 1 | refugee | Flüchtling | 难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [2633] | 1 | refuses | lehnt ab | 拒绝拒绝 | Sen. Cory Booker refuses to endorse Zohran Mamdani
-- [2634] | 1 | regime' | Regelung" | 制度制度”的制度 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [2635] | 1 | region | Region | 区域区域 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
-- [2636] | 1 | region' | Region" | 区域 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
-- [2637] | 1 | regret | Bedauern | 遗憾表示遗憾 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
-- [2638] | 1 | rehab | Entzugsentzug | 复健 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
-- [2639] | 1 | Reigns' | RECHTSPRECHUNG DES GERICHTSHOFES | 调 Reigns 调重 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
-- [2640] | 1 | rejected | abgelehnt | 被拒绝 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
-- [2641] | 1 | relating | betreffend | 有关 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [2642] | 1 | relationship | Beziehung | 关系关系 | Trump and Putin’s relationship turns sour as president pushes for resolution with Ukraine
-- [2643] | 1 | relationships | Beziehungen | 关系关系 | Trump's global reset of trade relationships will remain in the spotlight this week
-- [2644] | 1 | remain | bleiben | 剩余 | Trump's global reset of trade relationships will remain in the spotlight this week
-- [2645] | 1 | remained | blieb | 仍 留 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
-- [2646] | 1 | remarkable | bemerkenswert | 显著 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
-- [2647] | 1 | remembering' | "Erinnerungen" | 记得' | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
-- [2648] | 1 | remodels | Umbauten | 重新装修 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [2649] | 1 | renegade | Abtrünnige | 叛徒 | Texas’s renegade Democrats prepare for a glorious defeat
-- [2650] | 1 | rent-stabilized | Miet-stabilisiert | 稳定租金 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
-- [2651] | 1 | Rep | Antwort | Re Re Re Re | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [2652] | 1 | repeat | Wiederholen | 重复重复 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
-- [2653] | 1 | replica | Nachbildung | 复制 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [2654] | 1 | repositioning | Neupositionierung | 重新定位 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
-- [2655] | 1 | representation | Vertretung | 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
-- [2656] | 1 | represented | vertreten | 任职人数 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
-- [2657] | 1 | request | Antrag | 请求要求 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
-- [2658] | 1 | requests | Anträge | 要求 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
-- [2659] | 1 | requiring | erforderlich | 需要 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2660] | 1 | reset | Zurücksetzen | 重设重置 | Trump's global reset of trade relationships will remain in the spotlight this week
-- [2661] | 1 | resistance | Widerstandsfähigkeit | 抗药性 | Moldova’s election will test its resistance to Russia
-- [2662] | 1 | resolution | Auflösung | 决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,解决 | Trump and Putin’s relationship turns sour as president pushes for resolution with Ukraine
-- [2663] | 1 | resources | Mittel | 资源资源资源资源资源 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [2664] | 1 | responds | antwortet | 回复回复 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [2665] | 1 | restaurant | Restaurant | 餐厅 | Cracker Barrel customers 'hate' restaurant chain's new look in viral social media videos
-- [2666] | 1 | resuming | Wiederaufnahme | 恢复 | Melania Trump commemorates 200 days since resuming role as first lady
-- [2667] | 1 | retirement | Ruhestand | 退休退休 | How scammers exploit your data for 'pre-approved' retirement scams
-- [2668] | 1 | retiring | in den Ruhestand tretend | 退休退休 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
-- [2669] | 1 | returning | Rückkehr | 返回返回 | Asian tourists are returning to Britain. But they look different
-- [2670] | 1 | revoke | Widerruf | 撤销 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
-- [2671] | 1 | revolt | Aufruhr | 叛乱 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [2672] | 1 | Ricchetti | Ricchetti | 里切蒂 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [2673] | 1 | Richardson | Richardson (S). - (EN) Herr Präsident! | 理查森 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
-- [2674] | 1 | ride | Fahrt | 搭载 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [2675] | 1 | Rife’s | Rifes | 法 法 的 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
-- [2676] | 1 | rift | Rift | 裂断 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [2677] | 1 | righteous' | und rechtschaffen." | 善人啊!善人啊! | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
-- [2678] | 1 | rights | Rechte | 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 | Virginia school districts support for transgender students' rights in governor's race spotlight
-- [2679] | 1 | rips | Reißzähne | 裂数 | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
-- [2680] | 1 | rising | steigt | 上升 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
-- [2681] | 1 | risk' | Risiko" | 风险 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [2682] | 1 | risk’ | Risiko | 风险 风险 风险 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [2683] | 1 | RIT | RIT | RIT 转机 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [2684] | 1 | RNC | RNC | RNNNN  RNNN | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [2685] | 1 | roasted | geröstet | 烧烤的 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
-- [2686] | 1 | Robertson’s | Robertsons | 罗伯逊 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [2687] | 1 | Rock | Felsen | 摇滚摇滚 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [2688] | 1 | Rod | Stäbe | 罗德 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [2689] | 1 | Rodgers | Rodgers | 罗杰车 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [2690] | 1 | rogue | Schurken | 流氓 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
-- [2691] | 1 | role | Rolle | 角色角色角色角色角色角色角色角色角色角色角色 | Melania Trump commemorates 200 days since resuming role as first lady
-- [2692] | 1 | roller | Walze | 滚滚 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
-- [2693] | 1 | Rollins | Rollinen | 滚滚 | Seth Rollins looms large at SummerSlam amid possible knee injury
-- [2694] | 1 | rolls | Rollen | 滚滚 | Australian state rolls out machete ‘disposal bins’ ahead of ban
-- [2695] | 1 | Roman | Römisch | 罗马罗马语 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
-- [2696] | 1 | Rome | Frankreich | 罗马 罗马 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [2697] | 1 | Ron | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 罗罗 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [2698] | 1 | rookie | Rookie | 新菜 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
-- [2699] | 1 | rough | grob | 粗粗 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
-- [2700] | 1 | route’ | Art der Anwendung | 路线 " 。 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [2701] | 1 | Routh | Routine | Routh | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [2702] | 1 | routine | Routine | 常规 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
-- [2703] | 1 | Rubio | Rubio | 鲁比奥 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [2704] | 1 | rules | Vorschriften | 规则规则 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
-- [2705] | 1 | rumors | Gerüchte | 谣言 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
-- [2706] | 1 | runner | Läufer | 中跑者 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [2707] | 1 | Rural | Ländlich | 农村农村 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
-- [2708] | 1 | Rush | Rush | 摇摇 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
-- [2709] | 1 | rushing | eilend | 匆匆 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
-- [2710] | 1 | Russia-Ukraine | Russland-Ukraine | 俄罗斯-乌克兰 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
-- [2711] | 1 | Russiagate | Russische Föderation | 俄罗斯门 | MIKE DAVIS: A tale of two Russiagate heroes
-- [2712] | 1 | Sadie | Sadie | 萨迪 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [2713] | 1 | safari | Safari | 野外 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [2714] | 1 | sailing | Segeln | 帆帆帆 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [2715] | 1 | sales | Verkäufe | 销售销售 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
-- [2716] | 1 | Salt | Salz | 盐盐 | The moral of “The Salt Path”, an embellished bestseller
-- [2717] | 1 | salutes | Grußworte | 敬礼 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
-- [2718] | 1 | Salvador’s | Salvadorien | 萨尔瓦多 | Just getting started: El Salvador’s president for life
-- [2719] | 1 | same-sex | gleichgeschlechtlich | 同性同性 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
-- [2720] | 1 | save | Speichern | 保存保存 | Helen Zille wants to save South Africa, starting in Johannesburg
-- [2721] | 1 | saves | speichert | 保存 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
-- [2722] | 1 | savings | Einsparungen | 节余节余 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [2723] | 1 | SC | S.c.-Nr.: | 中 SC | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
-- [2724] | 1 | scammers | Betrüger | 诈骗者 | How scammers exploit your data for 'pre-approved' retirement scams
-- [2725] | 1 | scandal | Skandal | 丑闻 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
-- [2726] | 1 | scare | Angst | 恐吓 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
-- [2727] | 1 | scary | furchteinflößend | 可怕 | Cowboys' Jerry Jones reveals scary skin cancer battle
-- [2728] | 1 | Scheffler | Scheffler | Scheffler 器器 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2729] | 1 | scheme | Regelung | 计划方案 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
-- [2730] | 1 | Schiff | Schiff | 切iff | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
-- [2731] | 1 | Schumer's | Schumer's | 舒默( Schumer) | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
-- [2732] | 1 | Schwarzenegger | Schwarzenegger | 施瓦辛格 | Schwarzenegger pushing back against Newsom redistricting bid in California
-- [2733] | 1 | Schwarzman | Schwarzmann | 施瓦兹曼 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
-- [2734] | 1 | scolds | Schimpfe | 严寒 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [2735] | 1 | SCOOP | SCOOP | 孔孔 | SCOOP: Trump's newest DC crime crackdown yields more than 100 arrests
-- [2736] | 1 | score | Wert | 得分数 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [2737] | 1 | Scott | - Scott. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 斯科特·斯科特 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
-- [2738] | 1 | Scottie | Scottie | 斯科特 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2739] | 1 | scramble | Rühren | 调色 | Trump visa policies force colleges to scramble as international students vanish: report
-- [2740] | 1 | scraps | Abfälle | 废料废料 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [2741] | 1 | screenings | Screenings | 筛查 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [2742] | 1 | script | Skript | 脚本脚本脚本 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [2743] | 1 | seal | Versiegelung | 密封封印 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [2744] | 1 | Sean | Seezunge | 肖恩·肖恩 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [2745] | 1 | season | Jahreszeit | 季节季节 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
-- [2746] | 1 | season-ending | Saisonende | 周期结束 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
-- [2747] | 1 | seats | Sitze | 席位席位 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [2748] | 1 | seconds | Sekunden | 秒数秒 | Texas company creates drones to confront school shooters in seconds
-- [2749] | 1 | secure | sicher | 安全安全 | How to secure your 401(k) plan from identity fraud
-- [2750] | 1 | Seely | Auf jeden Fall | 种子 | Country music icon Jeannie Seely dead at 85
-- [2751] | 1 | seen | gesehen | 可见 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
-- [2752] | 1 | seized | beschlagnahmt | 正在处理已处理 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
-- [2753] | 1 | Sen | SEN | 森数 | Sen. Cory Booker refuses to endorse Zohran Mamdani
-- [2754] | 1 | senator | Senator | 参议员 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
-- [2755] | 1 | sends | sendet | 发送发送 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2756] | 1 | senseless | sinnlos | 无理智 | Why did Thailand and Cambodia fight a senseless border war?
-- [2757] | 1 | sentence | Satz | 句子 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [2758] | 1 | sentencing | Urteilsvollstreckung | 判刑判刑 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
-- [2759] | 1 | separate | getrennt | 单独 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [2760] | 1 | separating | Trennung | 离职 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
-- [2761] | 1 | serial | Seriell | 序列序列号 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [2762] | 1 | Series | Reihe | 系列丛书系列 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [2763] | 1 | serious | schwerwiegend | 严重严重 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
-- [2764] | 1 | serving | zum Servieren | 在职 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
-- [2765] | 1 | sessions | Sitzungen | 届会届会的届会和届会的届会 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
-- [2766] | 1 | set | eingestellt | 集集集集集集集 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
-- [2767] | 1 | Seth | Seth | 赛斯 | Seth Rollins looms large at SummerSlam amid possible knee injury
-- [2768] | 1 | setup | Einrichtung | 设置设置设置设置 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
-- [2769] | 1 | Seventh | Siebter | 第七届 | Seventh Cincinnati assault suspect arrested over violent beatdown
-- [2770] | 1 | severe' | schwer" | 严重" | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
-- [2771] | 1 | Sha'Carri | Sha'Carri | 沙卡里 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
-- [2772] | 1 | shames | Schamgefühle | 单数 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [2773] | 1 | shared | geteilt | 共享共享 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [2774] | 1 | Sharpe's | Sharpe's | 夏普的 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
-- [2775] | 1 | shelter | Unterschlupf | 庇护所 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
-- [2776] | 1 | shelter' | Unterschlupf" | 庇护所 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
-- [2777] | 1 | sheriff | Sheriff | 警长 | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
-- [2778] | 1 | shifts | Schicht | 轮班 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [2779] | 1 | shine | Glanz | 闪光 | Consultant management: McKinsey loses its shine
-- [2780] | 1 | shines | glänzt | 闪光 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [2781] | 1 | shipwreck | Schiffbruch | 船舶沉船 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
-- [2782] | 1 | shooters | Schützen | 射击射击器 | Texas company creates drones to confront school shooters in seconds
-- [2783] | 1 | show | anzeigen | 显示显示显示 | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
-- [2784] | 1 | showbiz | Schaubiz | 显示biz | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
-- [2785] | 1 | showdown | Showdown | 上下显示 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [2786] | 1 | shreds | Schredder | 切片 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
-- [2787] | 1 | shunning | Shunning | 逃避报应者, | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
-- [2788] | 1 | shutdown | Abschaltung | 关闭关闭 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
-- [2789] | 1 | shuttered | mit einer Breite von nicht mehr als 2 mm | 被封闭的 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [2790] | 1 | sickens | krankhaft | 病 病 病 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
-- [2791] | 1 | side | Seite | 侧侧 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
-- [2792] | 1 | sides | Seiten | 边边边 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
-- [2793] | 1 | sign | Zeichen | 符号符号符号 | Three states sign new agreements with ICE for expanded immigration enforcement operations
-- [2794] | 1 | signals | Signale | 信号信号信号 | CAPTCHAgeddon signals a dangerous shift
-- [2795] | 1 | Significant | Signifikant | 重要 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [2796] | 1 | silently | schweigend | 静静无声 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
-- [2797] | 1 | similar | Ähnliches | 类似 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2798] | 1 | simple | einfach | 简单 | Joanna Gaines keeps life simple in Texas away from Hollywood spotlight
-- [2799] | 1 | simpler | einfacher | 简单化 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [2800] | 1 | singer's | Sänger | 歌手 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2801] | 1 | sir' | Herr | 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2802] | 1 | site | Ort | 网址网址 | Radioactive wasp nest discovered by workers at former nuclear bomb site
-- [2803] | 1 | sites | Standorte | 站 址 | Trump officials visit Gaza aid sites as international community pressures Israel
-- [2804] | 1 | sites' | Standorte" | 网站 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
-- [2805] | 1 | situation | Situation | 局势局势状况 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
-- [2806] | 1 | ski | Ski | 滑雪滑雪 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
-- [2807] | 1 | skin | Haut | 皮肤皮肤皮肤 | Cowboys' Jerry Jones reveals scary skin cancer battle
-- [2808] | 1 | Sky | Himmel | 空 空 空 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
-- [2809] | 1 | slap | Ohrfeige | 打一巴掌 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
-- [2810] | 1 | slaps | Ohrfeigen | 耳拍 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
-- [2811] | 1 | slash | Schrägstrich | 斜斜线 | US appeals court says Trump can slash billions in owed USAID funds
-- [2812] | 1 | slashed | geschliffen | 割断的 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
-- [2813] | 1 | Smithsonian’s | Smithsonians | 斯密森逊人 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
-- [2814] | 1 | smoke | Rauch | 烟烟烟烟烟 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2815] | 1 | snake | Schlange | 蛇蛇 蛇蛇蛇 | Hiker made fatal mistake when encountering poisonous snake, officials believe
-- [2816] | 1 | soar | Höher | 升高 | The US in brief: Stocks soar on inflation news
-- [2817] | 1 | society | Gesellschaft | 社会、社会、社会、社会、社会、 | Ziad Rahbani held a mirror to Lebanese society
-- [2818] | 1 | sociological | soziologische | 社会学 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
-- [2819] | 1 | soil | Boden | 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤 | Trump is taking decisive action to bring this critical industry back to American soil
-- [2820] | 1 | sold | verkauft | 出售 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
-- [2821] | 1 | something | etwas | 某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
-- [2822] | 1 | son | Sohn | 子孙 | Mr. President, help me bring my son back from hell
-- [2823] | 1 | Sophie | Sophie | 苏菲 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
-- [2824] | 1 | Soros | Soros | 索罗斯 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
-- [2825] | 1 | Soros-linked | Soros-gebunden | 与索罗斯相联 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
-- [2826] | 1 | sounds | Geräusche | 声音 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [2827] | 1 | sour | Sauerteig | 酸酸 | Trump and Putin’s relationship turns sour as president pushes for resolution with Ukraine
-- [2828] | 1 | Spanberger | Spanberger | 斯潘伯格 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
-- [2829] | 1 | spark | Funke | 闪闪 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [2830] | 1 | spat | spucken | 蒸汽 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
-- [2831] | 1 | speak | Sprechen | 说话 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [2832] | 1 | speech | Rede | 语音 | Teddi Mellencamp struggles with speech following cancer treatment
-- [2833] | 1 | speed | Geschwindigkeit | 速度速度 | What’s your preferred playback speed: 1x, 1.5x or 2x?
-- [2834] | 1 | spirals | Spiralen | 螺旋螺旋 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
-- [2835] | 1 | sport | Sport | 体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育 | The Fantasy Premier League is changing Britain’s favourite sport
-- [2836] | 1 | spread | Verbreitung | 展开 | How climate change could spread malaria
-- [2837] | 1 | squad | Einheit | 队队 | Kamala Harris' major California announcement triggers circular Dem firing squad
-- [2838] | 1 | Square | Quadrat | 广场广场 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
-- [2839] | 1 | Stallone | Stallone | Stallone 软体体 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [2840] | 1 | standing | stehend | 现职 | Should you use a standing desk?
-- [2841] | 1 | stands | Ständer | 站台数 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
-- [2842] | 1 | stare’ | starren | 凝视着 ” | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [2843] | 1 | Stars' | Sterne" | 星 星 星 星 星 星 星 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
-- [2844] | 1 | started | begonnen | 开始 | Just getting started: El Salvador’s president for life
-- [2845] | 1 | starting | Beginn | 开始 | Helen Zille wants to save South Africa, starting in Johannesburg
-- [2846] | 1 | Staten | Staaten | 状态n | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
-- [2847] | 1 | stations | Stationen | 站 站 站 站 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
-- [2848] | 1 | statue | Statue | 雕像 | Tom Brady burns Jets fans once more during statue ceremony
-- [2849] | 1 | statue-toppling | Statuen-Kupplung | 雕像切换 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
-- [2850] | 1 | status’ | status-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 地位 " 地位 " | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [2851] | 1 | steaks | Steaks | 牛排牛排 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [2852] | 1 | Steelers | Stähle und Stähle | 钢钢人 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [2853] | 1 | stellar | stellar | 恒星 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
-- [2854] | 1 | Sterling | Sterling | 斯特勒林 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
-- [2855] | 1 | Steve | SAMMLUNG DER RECHTSPRECHUNG DES GERICHTSHOFES | 史蒂夫 史蒂夫 Steve | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
-- [2856] | 1 | Stewart's | Stewart's | 斯图尔特的 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
-- [2857] | 1 | Stocks | Bestände | 库存库存 | The US in brief: Stocks soar on inflation news
-- [2858] | 1 | Stone | Stein | 石石头 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
-- [2859] | 1 | stops | stoppt | 停止停止 | State Department stops issuing all visitor visas for individuals from Gaza
-- [2860] | 1 | storm | Sturm | 暴风雨 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
-- [2861] | 1 | straight | gerade | 直直直线 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
-- [2862] | 1 | stranger's | Fremde | 陌生人的 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2863] | 1 | strategy | Strategie | 战略战略战略战略 | Famine in Gaza shows the failure of Israel’s strategy
-- [2864] | 1 | street | Straße | 街头街道 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
-- [2865] | 1 | streets | Straßen | 街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头 | Protesters confront officers patrolling DC streets after Trump policing takeover
-- [2866] | 1 | strength’ | Stärke | 强度 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [2867] | 1 | strikes | Streiks | 罢工罢工 | Third girl dies nearly week after barge strikes Miami sailing camp boat
-- [2868] | 1 | struggles | Kämpfe | 斗争 | Teddi Mellencamp struggles with speech following cancer treatment
-- [2869] | 1 | students' | Schüler" | 学生人数 | Virginia school districts support for transgender students' rights in governor's race spotlight
-- [2870] | 1 | student’s | Schüler | 学生 学生 学生 学生 学生 学生 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [2871] | 1 | studio | Arbeitszimmer | 工作室 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [2872] | 1 | stuff' | Sachen" | 东西' | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [2873] | 1 | subpoena | Vorladung | 传票 | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
-- [2874] | 1 | subpoenas | Vorladungen | 传票 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
-- [2875] | 1 | substitute | Ersatz | 替换替代 | Illinois substitute teacher had sex with 11-year-old student during 'play dates,' police say
-- [2876] | 1 | success | Erfolg | 成功成功 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
-- [2877] | 1 | successful | Erfolg | 成功成功 | Why “Wednesday” is wickedly successful
-- [2878] | 1 | suddenly | Plötzlich | 突然间 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2879] | 1 | sue | RECHTSSACHE | 单诉 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [2880] | 1 | sues | RECHTSSACHE | 诉讼 | DC sues Trump administration over 'unlawful' federal takeover
-- [2881] | 1 | summaries | Zusammenfassungen | 摘要摘要 | Google AI email summaries can be hacked to hide phishing attacks
-- [2882] | 1 | summer | Sommer | 夏季夏季 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
-- [2883] | 1 | sunsets | Sonnenuntergänge | 日落日落 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
-- [2884] | 1 | Superstar’ | Superstar | 超级巨星 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [2885] | 1 | superyacht | Superyacht | 超优 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
-- [2886] | 1 | Supreme | Oberster | 最高最高 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
-- [2887] | 1 | surf | Surfen | 冲冲 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
-- [2888] | 1 | surfs | Windsurfen | 冲冲 | 75-foot boat surfs wave, runs aground in Hawaii
-- [2889] | 1 | surrounding | Umgebung | 环绕周围 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
-- [2890] | 1 | survival | Überleben | 活生生的活生生 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
-- [2891] | 1 | survivalists | Überlebende | 活体生物体 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
-- [2892] | 1 | survivor | Überlebender | 遗属 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
-- [2893] | 1 | suspect's | Verdächtiger | 嫌疑人的 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
-- [2894] | 1 | suspects | Verdächtige | 嫌疑人 | Cincinnati viral beating suspects face new charges in grand jury indictment
-- [2895] | 1 | suspect’s | Verdächtige | 嫌疑人的 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [2896] | 1 | Sweeney's | Sweeney's | 斯威尼的 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
-- [2897] | 1 | sweetener | Süßungsmittel | 甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜 | Common sweetener could hold untapped potential to fight aggressive cancer, study finds
-- [2898] | 1 | swimsuits | Badeanzüge | 泳衣 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
-- [2899] | 1 | Switzerland | Schweiz | 瑞 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 | America’s tariff avalanche catches Switzerland unawares
-- [2900] | 1 | Sylvester | Sylvester | 锡尔维斯特 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
-- [2901] | 1 | symbol | Symbol | 符号符号符号符号符号 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [2902] | 1 | system' | System" | 系统系统 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
-- [2903] | 1 | tablet | Tabletten | 平板 | How to tell if your Samsung Galaxy tablet has been hacked
-- [2904] | 1 | tactics | Taktik | 战术战术 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
-- [2905] | 1 | tale | Geschichte | 故事故事 | MIKE DAVIS: A tale of two Russiagate heroes
-- [2906] | 1 | Tankinis | Tankinis | 坦克 | Tankinis for coverage, support and confidence at the beach
-- [2907] | 1 | task' | Aufgabe" | 任务的任务 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [2908] | 1 | teammates | Teamkollegen | 队友 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
-- [2909] | 1 | Teddi | Teddi | 特迪 | Teddi Mellencamp struggles with speech following cancer treatment
-- [2910] | 1 | teen's | Teen's | 青少年 | North Carolina teen's body discovered in Florida one week after he vanished with chilling final message
-- [2911] | 1 | Temple | Tempel | 寺庙 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
-- [2912] | 1 | temple' | Tempel" | 寺庙 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
-- [2913] | 1 | tensions | Spannungen | 紧张局势 | Russia drops missile deployment moratorium amid tensions with Trump admin
-- [2914] | 1 | tent | Zelt | 帐篷帐篷 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
-- [2915] | 1 | terror | Terror | 恐怖主义恐怖主义 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
-- [2916] | 1 | terrorism | Terrorismus | 恐怖主义恐怖主义恐怖主义恐怖主义恐怖主义 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
-- [2917] | 1 | text | Text | 文字文字文字文字 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [2918] | 1 | tha | n s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 来 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [2919] | 1 | Thailand | Thailand | 泰国 泰国 泰国 泰国 | Why did Thailand and Cambodia fight a senseless border war?
-- [2920] | 1 | that's | Das ist | 这是 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [2921] | 1 | them | sie | 三、它们 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [2922] | 1 | theories | Theorien | 理论理论 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [2923] | 1 | there' | Dort ist es." | 在那里 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
-- [2924] | 1 | threatens | droht | 威胁 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
-- [2925] | 1 | Three | Drei | 3 三个 | Three states sign new agreements with ICE for expanded immigration enforcement operations
-- [2926] | 1 | throw | werfen | 丢弃 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
-- [2927] | 1 | thrown | geworfen | 投掷 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
-- [2928] | 1 | TikTok | TikTok | 铁托 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [2929] | 1 | TIMELINE | ZEITSCHRIFTEN | 时 时 时 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [2930] | 1 | timeshare | Zeitanteil | 分配时间 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
-- [2931] | 1 | today's | Heute | 今日的今天 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [2932] | 1 | together | zusammen | 组合在一起 | The colourful civic groups that hold Germany together
-- [2933] | 1 | tombs | Gräber | 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [2934] | 1 | Tony | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein! | 托尼 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
-- [2935] | 1 | too | auch | 也一样 | Christie Brinkley admits forever might be too long for modern marriage
-- [2936] | 1 | tools | Werkzeuge | 工具工具 | Getting ready to harvest your garden? Get these helpful tools
-- [2937] | 1 | Tories | Tories | 煎饼 | Blighty newsletter: The Tories go cold on the gig economy
-- [2938] | 1 | Toronto | Toronto | 多伦多 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
-- [2939] | 1 | tourist | Touristen | 游客 游客 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
-- [2940] | 1 | tourists' | Touristen" | 游客 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [2941] | 1 | touts | Hülsenfrüchte | 吨 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
-- [2942] | 1 | track | Gleis | 音轨 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [2943] | 1 | trafficking | Menschenhandel | 贩运贩运贩运 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
-- [2944] | 1 | tragic | tragisch | 悲惨的悲惨悲剧 | Beach visitors risk 'arrest' for swimming without lifeguard following tragic incident
-- [2945] | 1 | train | Zug | 火车火车 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2946] | 1 | transfer | Übertragung | 转让 | Ghislaine Maxwell prison transfer called 'highly unusual' by former federal prison official
-- [2947] | 1 | Transform | Transformieren | 变换 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
-- [2948] | 1 | transformation | Transformation | 变换 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
-- [2949] | 1 | transgender | Transgender | 变性者 | Virginia school districts support for transgender students' rights in governor's race spotlight
-- [2950] | 1 | transplant | Transplantation | 移植 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
-- [2951] | 1 | trap | Falle | 陷阱陷阱陷阱 | Chuck Todd warns that Dems are falling into Trump’s trap, 'taking the bait' on redistricting
-- [2952] | 1 | trash | Müll | 垃圾垃圾垃圾 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
-- [2953] | 1 | travel' | Reiseverkehr" | 旅费 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [2954] | 1 | travelers | Reisende | 旅行旅行者 | TSA warns of phishing scam targeting PreCheck travelers
-- [2955] | 1 | Treasury | Schatzamt | 财务司财务司 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
-- [2956] | 1 | treated | behandelt | 治疗 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
-- [2957] | 1 | treatment | Behandlung | 治疗治疗 | Teddi Mellencamp struggles with speech following cancer treatment
-- [2958] | 1 | trend | Entwicklung | 趋势趋势趋势趋势趋势趋势 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
-- [2959] | 1 | trends | Trends | 趋势趋势趋势 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [2960] | 1 | trial | Versuch | 审判审判 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [2961] | 1 | trick | Trick | 技巧技巧技巧 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [2962] | 1 | triggers | Auslöser | 触发触发器 | Kamala Harris' major California announcement triggers circular Dem firing squad
-- [2963] | 1 | troopers | Unteroffiziere | 部队人数 | GOP governor greenlights state troopers to join ICE in immigration crackdown
-- [2964] | 1 | troops | Truppen | 部队 部队 部队 部队 部队 | Trump's federal crime operation brings 100 arrests, 800 National Guard troops to Washington
-- [2965] | 1 | trucks | Lastkraftwagen | 卡车卡车 | 159-year-old company embraces driverless trucks
-- [2966] | 1 | Trump-backed | Trump-unterstützt | 朗普背着 | Abbott, Texas Republicans launch new Trump-backed redistricting push as fleeing Democrats plan to end walkout
-- [2967] | 1 | Trump–Putin | Trump–Putin | 特朗特朗特普廷 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
-- [2968] | 1 | try | Versuchen | 试试 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [2969] | 1 | TSA | TSA | TSA 塔萨( TSA) | TSA warns of phishing scam targeting PreCheck travelers
-- [2970] | 1 | tumble | Trommeln | 翻滚 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
-- [2971] | 1 | tumblers | Trommeln |  | Keep your beverages hot or cold with these insulated bottles and tumblers
-- [2972] | 1 | tumors | Tumore | 肿瘤 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
-- [2973] | 1 | Turkish | Türkisch | 土耳其语土耳其语Name | China’s planned Turkish EV factories have yet to power up
-- [2974] | 1 | TURLEY | TURLEY | 土耳其 土耳其 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
-- [2975] | 1 | turned | gedreht | 转转 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
-- [2976] | 1 | turning | Drehen | 转转 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
-- [2977] | 1 | U | U . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | U U | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
-- [2978] | 1 | UFC | UFC | UCUC 团结团结会 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
-- [2979] | 1 | UFO | UFO | UFO 乌弗果 | JD Vance says he's 'obsessed' with eerie UFO videos
-- [2980] | 1 | Ukrainian | Ukrainisch | 乌克兰语乌克兰语Name | Ever more Ukrainian women are joining the army
-- [2981] | 1 | UN | UN | 联合国 联合国 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
-- [2982] | 1 | unawares | unwissend | 无意识者 | America’s tariff avalanche catches Switzerland unawares
-- [2983] | 1 | unearth | unerde | 地 土 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
-- [2984] | 1 | uneven | ungleichmäßig | 不平衡 | Crying foul: opponents slam the uneven EU-US trade deal
-- [2985] | 1 | unit | Einheit | 单位单位 | Albania’s new anti-corruption unit is taking down bigwigs
-- [2986] | 1 | unleash | Entfesseln | 释放 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
-- [2987] | 1 | unseal | nicht versiegelt | 整闭 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
-- [2988] | 1 | unsolved | ungelöst | 未解决 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
-- [2989] | 1 | untapped | ungezähnt | 未开发 | Common sweetener could hold untapped potential to fight aggressive cancer, study finds
-- [2990] | 1 | unusual' | Ungewöhnlich" | 不寻常的' | Ghislaine Maxwell prison transfer called 'highly unusual' by former federal prison official
-- [2991] | 1 | unveil | Enthüllung | 揭幕 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
-- [2992] | 1 | unveiled | offengelegt | 已揭开 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
-- [2993] | 1 | upcoming | in Kürze | 即将到来 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
-- [2994] | 1 | upstairs | oben | 楼上 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
-- [2995] | 1 | US-brokered | US-getauscht | 由美国经纪 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
-- [2996] | 1 | USAID | USAID | 美援署 | US appeals court says Trump can slash billions in owed USAID funds
-- [2997] | 1 | use | Verwendung | 使用 | Should you use a standing desk?
-- [2998] | 1 | used | verwendet | 使用 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
-- [2999] | 1 | users | Verwender | 用户用户用户 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
-- [3000] | 1 | using | Verwendung | 使用 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
-- [3001] | 1 | us’ | us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us | `我们 ' | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
-- [3002] | 1 | v | V. RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 16/63 — RECHTSSACHE 16/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — | 五 五 | Trump v DC
-- [3003] | 1 | vacations | Urlaub | 假期 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
-- [3004] | 1 | Vaccinations | Impfungen | 接种疫苗 | Vaccinations to prevent cervical cancer have plummeted in Britain
-- [3005] | 1 | vaccine | Impfstoff | 疫苗疫苗疫苗 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
-- [3006] | 1 | vacuums | Vakuume | 真空 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
-- [3007] | 1 | vanish | verschwinden | 消失 | Trump visa policies force colleges to scramble as international students vanish: report
-- [3008] | 1 | vanished | verschwunden | 失踪 | North Carolina teen's body discovered in Florida one week after he vanished with chilling final message
-- [3009] | 1 | vehicles | Fahrzeuge | 车辆车辆 | Where will be the Detroit of electric vehicles?
-- [3010] | 1 | veil | Schleier | 面纱 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
-- [3011] | 1 | Venezuelan | Venezuelanisch | 委内瑞拉 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [3012] | 1 | very | Sehr | 严格 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [3013] | 1 | vet | Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin | 兽医 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
-- [3014] | 1 | victim | Opfer | 受害者 受害者 受害者 受害者 受害者 受害者 受害者 受害者 受害者 受害者 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
-- [3015] | 1 | Victoria | Victoria | 维多利亚州 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
-- [3016] | 1 | Vietnamese | Vietnamesisch | 越南语越南语Name | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
-- [3017] | 1 | Vikings | Wikinger | 维京人 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
-- [3018] | 1 | Vinegar | Essig | 醋醋 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
-- [3019] | 1 | violation | Verstoß | 侵犯权利行为 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
-- [3020] | 1 | violent' | Gewalttätigkeit" | 暴力 暴力 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
-- [3021] | 1 | visa | Visum | 签证签证签证签证签证签证签证 | Trump visa policies force colleges to scramble as international students vanish: report
-- [3022] | 1 | visas | Visa | 签证签证签证签证签证 | State Department stops issuing all visitor visas for individuals from Gaza
-- [3023] | 1 | visibly | sichtbar | 明显 | Putin appears to be visibly annoyed as reporters barrage him and Trump with questions
-- [3024] | 1 | visit | Besuch | 访问访问访问 | Trump officials visit Gaza aid sites as international community pressures Israel
-- [3025] | 1 | visitor | Besucher | 访 访 访 访 | State Department stops issuing all visitor visas for individuals from Gaza
-- [3026] | 1 | visualizes | visualisiert | 可视化 | MIT tool visualizes and edits “physically impossible” objects
-- [3027] | 1 | Voter | Wähler | 选民选民 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [3028] | 1 | votes | Abstimmungen | 以 票票票、以 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
-- [3029] | 1 | voting | Abstimmungen | 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 票 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 票 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 的表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决     表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决      表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决  表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
-- [3030] | 1 | VP | VP | 自愿 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [3031] | 1 | Vrabel | Vrabel | Vrabel 伏击 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
-- [3032] | 1 | wait | Warte. | 等待等待 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
-- [3033] | 1 | wallets | Brieftaschen | 钱包钱包 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
-- [3034] | 1 | Walshe | Walshe | 沃尔什 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
-- [3035] | 1 | wandering | wandern | 游荡中 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
-- [3036] | 1 | war' | Krieg" | 战争战争 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
-- [3037] | 1 | warfare’ | Kriegsführung | 战争 ' 战争 ' | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
-- [3038] | 1 | warm' | warm" | 温暖温暖 | Trump closes out 30th week in office with 'very warm' high-stakes Putin meeting
-- [3039] | 1 | Warren | Warren | 沃伦 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
-- [3040] | 1 | warrior' | Krieger" | 战士 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [3041] | 1 | Wash | Waschen | 洗 洗 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
-- [3042] | 1 | wasp | Wespe | 黄蜂 | Radioactive wasp nest discovered by workers at former nuclear bomb site
-- [3043] | 1 | Watkins | Watkins | 沃特金 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
-- [3044] | 1 | We're | Wir sind | 我们是 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
-- [3045] | 1 | wealth | Reichtum | 富裕的有财富, | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
-- [3046] | 1 | weapons | Waffen | 武器武器 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
-- [3047] | 1 | wearing | tragen | 穿着服装 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
-- [3048] | 1 | week's | Wochen | 周数 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
-- [3049] | 1 | weeks | Wochen | 周数 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [3050] | 1 | west | Westen | 西 西 | New York Post expands west with California edition planned for early 2026
-- [3051] | 1 | Western | Westlich | 西部 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
-- [3052] | 1 | Whatley | Was soll ich sagen? | 简 简 利 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
-- [3053] | 1 | WhatsApp | WhatsApp | Whats 亚pp | WhatsApp bans 6.8M scam accounts, launches safety tool
-- [3054] | 1 | What’s | Was gibt's? | 什么是“什么” | What’s your preferred playback speed: 1x, 1.5x or 2x?
-- [3055] | 1 | whether | ob | 是否 | Bernie Sanders addresses whether he’ll run in 2028
-- [3056] | 1 | whirlwind' | Wirbelwind" | 旋风 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
-- [3057] | 1 | whistleblower | Whistleblower | 举报举报人 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
-- [3058] | 1 | wickedly | gottlos | 恶人和毒人, | Why “Wednesday” is wickedly successful
-- [3059] | 1 | wife’ | Ehefrau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 妻子 " 妻子 " | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [3060] | 1 | Wilson | Wilson | 威尔逊 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
-- [3061] | 1 | wins | gewinnt | 赢赢 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
-- [3062] | 1 | witnesses | Zeugen | 证人证人证人 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [3063] | 1 | woke | Erwacht | 已唤醒 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
-- [3064] | 1 | Wolf | Wolf | 狼狼狼 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
-- [3065] | 1 | women's | Frauen | 妇女、妇女、妇女、 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
-- [3066] | 1 | works | Arbeiten | 工程 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
-- [3067] | 1 | worry | Sorge | 关注问题 | It's not just Democrats. Socialist Mamdani's plans should worry Republicans nationwide
-- [3068] | 1 | would | würde | 将 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
-- [3069] | 1 | wrap' | Umhüllung" | 包装 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
-- [3070] | 1 | wreck | Wrack | 废废废废 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
-- [3071] | 1 | wrist | Handgelenk | 手腕 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
-- [3072] | 1 | writer | Verfasser | 作家写作 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
-- [3073] | 1 | writing | Schreiben | 写写 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
-- [3074] | 1 | Wyoming | Wyoming | 怀俄明州 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
-- [3075] | 1 | Xi-Putin | Xi-Putin | Xi- 普丁 | How Trump could ‘un-unite’ the Xi-Putin alliance
-- [3076] | 1 | XIV | XIV | 十四 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
-- [3077] | 1 | years-long | Jahre lang | 长年 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
-- [3078] | 1 | years’ | Jahre | 年 年 年 年 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
-- [3079] | 1 | yet | noch nicht | 尚未确定 | China’s planned Turkish EV factories have yet to power up
-- [3080] | 1 | yet' | Noch nicht." | 尚未确定(_F) | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
-- [3081] | 1 | yields | Erträge | 输出量 | SCOOP: Trump's newest DC crime crackdown yields more than 100 arrests
-- [3082] | 1 | Youssef | Youssef | 优素福 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
-- [3083] | 1 | Z | Z. ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNGEN | 兹 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
-- [3084] | 1 | Zelenskyy | Zelenskyy | 泽伦斯基 | Zelenskyy outlines peace demands before high-stakes White House meeting with Trump
-- [3085] | 1 | Ziad | Ziad | Ziad 齐亚德 | Ziad Rahbani held a mirror to Lebanese society
-- [3086] | 1 | Zille | Zille | Zille 齐 | Helen Zille wants to save South Africa, starting in Johannesburg
-- [3087] | 1 | zings | Zinge | 制环 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
-- [3088] | 1 | ‘ | „ | ' ' | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [3089] | 1 | ‘Alligator | „Alligator | `鳄鱼 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [3090] | 1 | ‘came | „wurden | # 来到了# | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
-- [3091] | 1 | ‘censorship’ | „Zensur" | `新闻检查 ' | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
-- [3092] | 1 | ‘death | „Tod | 死亡 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
-- [3093] | 1 | ‘Deportation | „Abschiebung | `递解出境 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
-- [3094] | 1 | ‘disastrous | „Katastrophe | '令人沮丧 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
-- [3095] | 1 | ‘disposal | „Entsorgung | `处置 | Australian state rolls out machete ‘disposal bins’ ahead of ban
-- [3096] | 1 | ‘divisive | „aufteilend | `分裂性 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [3097] | 1 | ‘domesticate’ | „Hausarzt" | " 国内 " | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
-- [3098] | 1 | ‘Duck | „Scheiße | 达克 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
-- [3099] | 1 | ‘evil’ | „bös" | `邪恶' | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [3100] | 1 | ‘for | „für | `为 ' | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
-- [3101] | 1 | ‘gaps | „Gaps | 阴影 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
-- [3102] | 1 | ‘I | „I | '一 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
-- [3103] | 1 | ‘Jesus | „Jesus | 耶稣 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
-- [3104] | 1 | ‘just | „Nur | 仅仅 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
-- [3105] | 1 | ‘long-term’ | „Langfristig" | `长期 ' | Hamas endgame is ‘long-term’ and is playing out for all to see as Israel pushes deeper into Gaza
-- [3106] | 1 | ‘nullify’ | „nullieren" | `无效 ' | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
-- [3107] | 1 | ‘protected | „geschützt | `受保护 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
-- [3108] | 1 | ‘psychological | „psychologisch | `心理 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
-- [3109] | 1 | ‘put | „Eingabe | `产出 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
-- [3110] | 1 | ‘ran | „verfügbar": | '兰 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
-- [3111] | 1 | ‘scary’ | „Schätze" | " 吓吓 " | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
-- [3112] | 1 | ‘targeted | „gezielt | `目标 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
-- [3113] | 1 | ‘There's | „Es gibt | "有" | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
-- [3114] | 1 | ‘trophy | „Trophäe | `战利品 ' | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
-- [3115] | 1 | ‘ultimate | „Endgültig | `最后一刻 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
-- [3116] | 1 | ‘un-unite’ | „Uneinheitlich" | `非统一 ' | How Trump could ‘un-unite’ the Xi-Putin alliance
-- [3117] | 1 | ‘Viking | „Viking | 维京 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
-- [3118] | 1 | ’ | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ' ' ; | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
-- [3119] | 1 | “physically | Physikalisch | “实际 | MIT tool visualizes and edits “physically impossible” objects
-- [3120] | 1 | “Wednesday” | Mittwoch | “星期三” | Why “Wednesday” is wickedly successful
+- [0000] | 476 | the | die | 排 | Donald Trump brokers a peace plan in the Caucasus
+- [0001] | 313 | to | zu | 至 | Still want to be a London cabbie?
+- [0002] | 287 | in | in der | 内 | Donald Trump brokers a peace plan in the Caucasus
+- [0003] | 250 | of | von | 联 联 年 月 日 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 日 月 月 月 日 月 月 日 月 月 月 日 月 的 月 月 月 日 月 月 日 月 的 月 月 月 月 日 月 月 月 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0004] | 214 | is | wird | 是 | Stablecoins: is this crypto’s big bang moment?
+- [0005] | 197 | and | und | 和 | Not all’s fair: Israel and accountability
+- [0006] | 189 | a | a | a a/ | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0007] | 164 | on | am | 上 年 月 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0008] | 153 | for | für | 用于 | Are nightmares bad for your health?
+- [0009] | 131 | Trump | Trump | 特朗 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0010] | 97 | with | mit | 与 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0011] | 87 | are | sie werden | 是 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0012] | 74 | from | von | 调自 | Shanxi province is struggling to diversify away from coal
+- [0013] | 73 | Donald | Donald | 唐纳德·唐纳德 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0014] | 68 | How | Wie | 如何如何 | Cover Story newsletter: How we chose the cover image
+- [0015] | 67 | at | bei | 至 年 | How to greet people at work
+- [0016] | 67 | China’s | China | 中国的中国 | Savvy staff are moving from China’s nurseries to its care homes
+- [0017] | 66 | after | nach | 之后 | If America goes after India’s oil trade, China will benefit
+- [0018] | 66 | new | neu | 新建新 | America’s fertility crash reaches a new low
+- [0019] | 62 | America | Amerika | 美洲美洲 | South America is fast becoming the world’s hottest oil patch
+- [0020] | 54 | Germany | Deutschland | 德国 德国 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0021] | 53 | as | als | 计为 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0022] | 53 | trade | Handel | 贸易贸易贸易 | If America goes after India’s oil trade, China will benefit
+- [0023] | 53 | world | Welt | 世界世界 | As the world focuses on Gaza, starvation also looms in Sudan
+- [0024] | 52 | China | China | 中国 中国 中国 中国 中国 中国 中国 | If America goes after India’s oil trade, China will benefit
+- [0025] | 50 | war | Krieg | 战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争、战争 | Israeli sentiment on the war in Gaza is shifting
+- [0026] | 49 | its | und | 其 其 其 其 年 其 其 其 其 其 年 的 其 其 其 其 年 的 其 其 其 其 的 其 其 其 其 其 的 其 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 的 其 其 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 的 其 其 的 其 其 其 的 其 其 其 的 其 其 的 其 其 其 的 其 的 其 其 的 其 其 的 其 其 的 其 的 其 的 其 其 的 其 其 的 其 的 其 的 其 的 其 的 其 的 的 其 的 的 的 其 的 的 的 的 其 的 的 的 的  的 的 的 的 的 的 的 的 的 的 的 的 的 的 的  的 的 的 的 的 的 的 的 的     的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的 的     的  的 的 的 的 的 的 的                的          的 的 的 的              的      的 的 的 的 的 的      的 的 的 的 的 的 的   的 的 的  的 的 的     的 的 的 的 的 的 的 | Savvy staff are moving from China’s nurseries to its care homes
+- [0027] | 45 | cooperation | Zusammenarbeit | 合作合作 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0028] | 43 | Trump’s | Trumps | 特朗普 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0029] | 42 | over | Über | 超过 | Buy now, pay later is taking over the world. Good
+- [0030] | 40 | Ukraine | Ukraine | 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 乌克兰 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0031] | 39 | South | Süden | 南南 | South America is fast becoming the world’s hottest oil patch
+- [0032] | 38 | Minister | Minister | 部长部长,部长 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0033] | 38 | What | Was ist? | 什么什么是什么 是什么( What) 是什么( What) | What to watch this weekend
+- [0034] | 35 | America’s | Amerikas | 美国的美国 | America’s barmy battle to ban bawdy books
+- [0035] | 35 | markets | Märkte | 市场市场 | Economic data, commodities and markets
+- [0036] | 35 | will | wird | 会 | If America goes after India’s oil trade, China will benefit
+- [0037] | 34 | Alabali | Alabali | 阿拉巴利 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0038] | 34 | Development | Entwicklung | 发展、发展、发展、发展 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0039] | 34 | Radovan | Radovan | 拉多万 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0040] | 34 | Reem | Reem | Reeem  Reeem  Reeem 雷 Reeem | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0041] | 32 | Can | Dosen | 能 能够 | Can pensioners rescue China’s economy?
+- [0042] | 32 | international | Veröffentlichungen der Europäischen Gemeinschaften | 国际国际 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0043] | 32 | US | ENTWICKLUNG | 美 美 美 | The US in brief: Donald Trump questions the count
+- [0044] | 32 | want | wollen | 需要 | Still want to be a London cabbie?
+- [0045] | 32 | Why | Warum? | 为什么 | Why a fling with a foreigner insults China’s “national dignity”
+- [0046] | 31 | economic | Wirtschaft | 经济、经济、 经济、 经济、 经济、 经济、 经济、 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0047] | 31 | more | mehr | 更多 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0048] | 30 | an | und | a , a , a , a , a , a | Alligator Alcatraz is an exercise in performative cruelty
+- [0049] | 30 | Conference | Konferenz | 缔约国会议会议会议会议会议会议举行会议会议会议举行会议会议举行会议会议举行会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议举行会议举行会议举行会议会议举行会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议举行会议会议会议会议会议会议举行会议举行会议召开 会议举行会议会议会议会议会议会议会议举行会议会议举行会议会议举行会议会议会议会议会议会议召开会议会议举行 会的会议会议会议 举行会议会议会议会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议召开 会的会议 举行 会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议召开会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议厅会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议会议 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0050] | 30 | deal | Abmachung | 发牌 | The trade deal with America shows the limits of the EU’s power
+- [0051] | 30 | German | Deutsch | 德语 德语 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0052] | 30 | life | Leben | 生命 | Xi Jinping’s city of the future is coming to life
+- [0053] | 30 | Strengthen | Stärker werden | 加强 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0054] | 28 | against | dagegen | 日 年 年 年 月 日 | Germany remains reliable partner in the fight against global diseases
+- [0055] | 28 | redistricting | Neueinschränkung | 重新划区 | Treasure map: Trump finds gold in redistricting
+- [0056] | 28 | tariffs | Tarife | 关税关税 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0057] | 28 | you | Sie | 您 您 的 您 您 | The novels conservatives want you to read
+- [0058] | 27 | fight | Kampf | 战斗 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [0059] | 25 | AI | GESUNDHEITSSCHUTZ | AI AI AI | Six months after DeepSeek’s breakthrough, China speeds on with AI
+- [0060] | 25 | be | werden | be be be 的, 是 | Still want to be a London cabbie?
+- [0061] | 25 | between | zwischen | 之间 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0062] | 25 | not | nicht | 否 | Provence is not just a destination. It is a lifestyle brand
+- [0063] | 25 | says | sagt | 说: | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0064] | 24 | DC | Gleichstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselstrom-Wechselgenerator | DC DC | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0065] | 23 | breakthrough | Durchbruch | 中中点 | Six months after DeepSeek’s breakthrough, China speeds on with AI
+- [0066] | 23 | could | könnte | 能够 | Nayib Bukele could now rule El Salvador for life
+- [0067] | 23 | now | Jetzt | 现在 | Buy now, pay later is taking over the world. Good
+- [0068] | 23 | Sustainability | Nachhaltigkeit | 可持续性 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0069] | 23 | that | das | ,该数额, | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0070] | 23 | up | nach oben | 上上 | Japan’s dealmaking machine revs up
+- [0071] | 22 | about | über | 约约约 | What pro wrestlers in Chicago say about America
+- [0072] | 22 | homes | Wohnungen | 居家家庭 | Savvy staff are moving from China’s nurseries to its care homes
+- [0073] | 22 | into | in die | 与 | Biopolis – into the microbiome
+- [0074] | 21 | calls | Anrufe | 调来电话 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0075] | 21 | cover | Abdeckung | 封面封面封面 | Cover Story newsletter: How we chose the cover image
+- [0076] | 21 | Democrats | Sozialdemokraten | 民主民主党 | Democrats are likely to lose the redistricting war
+- [0077] | 21 | out | aus | 外出 | AstraZeneca’s falling out with Britain
+- [0078] | 21 | Xi | WISSENSCHAFT | 习 习 习 习 | Xi Jinping’s city of the future is coming to life
+- [0079] | 20 | brief | kurz | 简简短 | The US in brief: Donald Trump questions the count
+- [0080] | 20 | economy | Wirtschaft | 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 经济 | Can pensioners rescue China’s economy?
+- [0081] | 20 | global | global | 全球环球 | Germany remains reliable partner in the fight against global diseases
+- [0082] | 20 | Israel | Israel | 以色列 以色列 | Not all’s fair: Israel and accountability
+- [0083] | 20 | making | Herstellung | 制造 | “Comrade” is making a comeback in China
+- [0084] | 19 | deadline | Frist | 截止期限 | The looming deadline for the Panama Canal ports deal
+- [0085] | 19 | his | sein | 排在《公约》 | Donald Trump escalates his war on numbers
+- [0086] | 19 | strategic | strategische | 战略战略战略 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0087] | 19 | through | bis | 中 中 中 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0088] | 18 | Africa | Afrika | 非洲 非洲 非洲 非洲 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0089] | 18 | all | alle | 全部( 全部) | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [0090] | 18 | American | amerikanisch | 美裔美国人 | American businesses are running out of ways to avoid tariff pain
+- [0091] | 18 | Canal | Kanal | 运河 | The looming deadline for the Panama Canal ports deal
+- [0092] | 18 | comeback | Comeback | 返回返回 | “Comrade” is making a comeback in China
+- [0093] | 18 | off | aus | 关闭 | China’s exporters shrug off the trade war—for now
+- [0094] | 18 | Panama | Panama | 巴拿马 巴拿马 | Panama brings lawfare to the canal ports saga
+- [0095] | 18 | ports | Häfen | 港口港口港口港口 | Panama brings lawfare to the canal ports saga
+- [0096] | 18 | Should | Sollte | sh sh sh sh sh sh sh sh sh | Should you take collagen?
+- [0097] | 17 | across | gegenüber | 横横 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0098] | 17 | food | Lebensmittel | 食品食品 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0099] | 17 | Gaza | Gaza | 加沙 | As the world focuses on Gaza, starvation also looms in Sudan
+- [0100] | 17 | it | Es wird | 其 其 年 , 其 年 , 其 年 , 其 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [0101] | 17 | police | Polizei | 警 警 警 警察 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [0102] | 17 | Putin | Putin | 普京 | The summit of its parts: Ukraine, Trump and Putin
+- [0103] | 17 | rage | Wut | 愤怒 | Everyone loses in the rage of China’s delivery wars
+- [0104] | 17 | Statement | Erklärung | 声明声明声明声明声明 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0105] | 17 | this | diese | 这笔 | What to watch this weekend
+- [0106] | 17 | – | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | - ~ ~ ~ ~ ~ | Biopolis – into the microbiome
+- [0107] | 16 | African | Afrikanisch | 非洲人非洲非洲人 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [0108] | 16 | energy | Energie | 能源能源 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0109] | 16 | looming | sich abzeichnend | 正在逼近 | The looming deadline for the Panama Canal ports deal
+- [0110] | 16 | loses | Verluste | 损失 | Everyone loses in the rage of China’s delivery wars
+- [0111] | 16 | most | die meisten | 多数 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0112] | 16 | move | Verschieben | 移动移动 | Trump will not let the world move on from tariffs
+- [0113] | 16 | private | privat | 私立 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0114] | 16 | rescue | Rettung | 营救 | Can pensioners rescue China’s economy?
+- [0115] | 16 | say | sagen | 说 | What pro wrestlers in Chicago say about America
+- [0116] | 16 | since | seit | 自 | Melania Trump commemorates 200 days since resuming role as first lady
+- [0117] | 15 | Agenda | Tagesordnung | 议程项目议程议程议程议程议程议程 议程议程议程议程议程议程议程议程议程 议程议程议程 议程议程议程议程 议程议程议程 议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程议程 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0118] | 15 | aggression | Aggression | 侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略侵略 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0119] | 15 | benefits | Leistungen | 福利福利 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0120] | 15 | big | groß | 大 | Stablecoins: is this crypto’s big bang moment?
+- [0121] | 15 | Biopolis | Biopolis | 生物生物 | Biopolis – into the microbiome
+- [0122] | 15 | city | Stadt | 城市城市 | Xi Jinping’s city of the future is coming to life
+- [0123] | 15 | coming | Ich komme gleich. | 即将到来 | Xi Jinping’s city of the future is coming to life
+- [0124] | 15 | companies | Unternehmen | 公司公司 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0125] | 15 | data | Daten | 数据数据数据数据数据 | Economic data, commodities and markets
+- [0126] | 15 | delivery | Lieferung | 交付 | Everyone loses in the rage of China’s delivery wars
+- [0127] | 15 | diseases | Krankheiten | 疾病 疾病 疾病 疾病 | Germany remains reliable partner in the fight against global diseases
+- [0128] | 15 | Everyone | Jeder | 每个人 | Everyone loses in the rage of China’s delivery wars
+- [0129] | 15 | first | zuerst | 第一次 | How is Trump’s Brazil-bashing putting America first?
+- [0130] | 15 | formed | gebildet | 已经组成 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0131] | 15 | Growth | Wachstum | 增长 增长 增长 增长 增长 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0132] | 15 | Hamburg | ZEITSCHRIFTEN | 汉堡汉堡 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0133] | 15 | implement | Umsetzung | 执行执行 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0134] | 15 | input | Eingabe | 输入输入输入 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0135] | 15 | Japan’s | Japans | 日本的日本 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0136] | 15 | KfW | KfW | KfW KfW | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0137] | 15 | loan | Darlehen | 贷款贷款贷款 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0138] | 15 | microbiome | Mikrobiom | 微生物 | Biopolis – into the microbiome
+- [0139] | 15 | municipal | Gemeinde | 市市市 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0140] | 15 | newsletter | Mitteilungsblatt | 通讯通讯 | Cover Story newsletter: How we chose the cover image
+- [0141] | 15 | opportunities | Chancen | 机会机会 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0142] | 15 | participants | Teilnehmer | 参加者 参加者 参加者 参加者 参加者 参加者 参加者 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0143] | 15 | partner | Partner | 伙伴伙伴 | Germany remains reliable partner in the fight against global diseases
+- [0144] | 15 | partnership | Partnerschaft | 伙伴关系伙伴关系伙伴关系 | Development Minister Reem Alabali Radovan in South Africa: Strengthen economic cooperation and strategic partnership
+- [0145] | 15 | partnerships | Partnerschaften | 伙伴关系伙伴关系伙伴关系 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0146] | 15 | pensioners | Rentner | 养恤金领取者养恤金领取者 | Can pensioners rescue China’s economy?
+- [0147] | 15 | plan | Plan | 计划计划 | Donald Trump brokers a peace plan in the Caucasus
+- [0148] | 15 | provide | zur Verfügung stellen | 提供 | At Hamburg Sustainability Conference, participants from across the world provide input and strengthen international cooperation
+- [0149] | 15 | Recovery | Rückforderung | 恢复 | Statement of German Development Minister Reem Alabali Radovan at Ukraine Recovery Conference
+- [0150] | 15 | reliable | zuverlässig | 可靠 | Germany remains reliable partner in the fight against global diseases
+- [0151] | 15 | remains | bleibt | 遗骸 | Germany remains reliable partner in the fight against global diseases
+- [0152] | 15 | renewable | erneuerbar | 可再生 | Growth opportunities through renewable energy: KfW loan benefits German and South African companies
+- [0153] | 15 | Russia’s | Russlands | 俄罗斯的俄罗斯 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0154] | 15 | secret | geheim | 密密秘密 | McDonald’s secret sauce—plus a pickle or two
+- [0155] | 15 | shows | zeigt | 显示显示 | The trade deal with America shows the limits of the EU’s power
+- [0156] | 15 | start | Anfang | 开始 | 180 new municipal partnerships formed between Germany and Ukraine since start of Russia’s war of aggression
+- [0157] | 15 | stronger | stärker | 更强 | Germany calls for stronger international cooperation to implement the 2030 Agenda
+- [0158] | 15 | wars | Kriege | 战争战争的战争、战争和战争的战争 | Everyone loses in the rage of China’s delivery wars
+- [0159] | 15 | “Comrade” | ,Genossen , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , | “同志” | “Comrade” is making a comeback in China
+- [0160] | 14 | by | von | 至 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [0161] | 14 | care | Pflege | 护理护理 | Savvy staff are moving from China’s nurseries to its care homes
+- [0162] | 14 | National | Mitgliedstaat | 本国 本国 | The National Park Service is in disarray
+- [0163] | 14 | pain | Schmerzen | 疼痛疼痛 | American businesses are running out of ways to avoid tariff pain
+- [0164] | 14 | peace | Frieden | 和平、和平、和平、和平 | Donald Trump brokers a peace plan in the Caucasus
+- [0165] | 14 | was | wurde | 原为 | Who was Cecil Rhodes?
+- [0166] | 14 | your | Ihre | 贵国的 | Are nightmares bad for your health?
+- [0167] | 13 | Closing | Schließung | 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 闭 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0168] | 13 | developing | Entwicklung | 发展中发展中国家 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0169] | 13 | economies | Wirtschaft | 经济经济体 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0170] | 13 | emerging | sich abzeichnend | 新兴 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0171] | 13 | has | hat | 拥有 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [0172] | 13 | investment | Investitionen | 投资投资投资 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0173] | 13 | just | nur | 只是 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0174] | 13 | mobilize | mobilisieren | 调动调动 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0175] | 13 | moving | Bewegt sich | 移动 | Savvy staff are moving from China’s nurseries to its care homes
+- [0176] | 13 | nurseries | Baumschulen | 托儿所 | Savvy staff are moving from China’s nurseries to its care homes
+- [0177] | 13 | pay | Bezahlung | 薪资 | The Elon Musk theory of pay
+- [0178] | 13 | power | Leistung | 功电 | The trade deal with America shows the limits of the EU’s power
+- [0179] | 13 | Savvy | Ausgelaugt | 扎维 | Savvy staff are moving from China’s nurseries to its care homes
+- [0180] | 13 | staff | Personal | 工作人员 工作人员 | Savvy staff are moving from China’s nurseries to its care homes
+- [0181] | 13 | star | Stern | 恒星星 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [0182] | 13 | state | Zustand | 状态状态状态状态 | Australian state rolls out machete ‘disposal bins’ ahead of ban
+- [0183] | 13 | sustainable | nachhaltig | 可持续的可持续 | Closing in on a breakthrough to mobilize sustainable private investment in emerging markets and developing economies
+- [0184] | 13 | take | Nehmen | 采取 | Should you take collagen?
+- [0185] | 13 | tariff | Tarif | 关税关税关税 | America’s tariff avalanche catches Switzerland unawares
+- [0186] | 13 | than | als | 大于 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0187] | 13 | Who | Wer | 谁是谁 | Who was Cecil Rhodes?
+- [0188] | 13 | years | Jahre | 年份 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [0189] | 12 | away | Weg! | 离开 | Shanxi province is struggling to diversify away from coal
+- [0190] | 12 | before | Vorher | 之前 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [0191] | 12 | Britain | Großbritannien | 英国 英国 | Pascal Soriot, the pharma titan tiring of Britain
+- [0192] | 12 | commodities | Waren | 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 商品 | Economic data, commodities and markets
+- [0193] | 12 | future | Zukunft | 未来 | Xi Jinping’s city of the future is coming to life
+- [0194] | 12 | Good | Sehr gut. | 好 | Buy now, pay later is taking over the world. Good
+- [0195] | 12 | have | haben | 拥有 | Tipping scales: justice for Gaza will have to come from within Israel
+- [0196] | 12 | health | Gesundheit | 健康健康 健康 健康 健康 健康 健康 健康 健康 健康 健康 | Are nightmares bad for your health?
+- [0197] | 12 | hit | getroffen | 中弹 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [0198] | 12 | lose | verlieren | 损失 | Democrats are likely to lose the redistricting war
+- [0199] | 12 | months | Monate | 月数 | Six months after DeepSeek’s breakthrough, China speeds on with AI
+- [0200] | 12 | risk | Risiko | 风险风险风险 | Want better returns? Forget risk. Focus on fear
+- [0201] | 12 | Story | Geschichte | 故事故事 | Cover Story newsletter: How we chose the cover image
+- [0202] | 12 | Texas | WIRTSCHAFTSZWEIG | 得克萨斯州 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [0203] | 12 | their | deren | 他们的 | Japan’s carmakers are trying to tinker their way out of tariff pain
+- [0204] | 12 | Trump's | Trumps | 特朗的 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
+- [0205] | 11 | corrupts | Korrupte | 腐败 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0206] | 11 | elusive | schwer fassbar | 不详 | Xi Jinping is growing more elusive
+- [0207] | 11 | European | Europäische | 欧 欧 欧 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0208] | 11 | exporters | Ausführer | 出口商 出口商 | China’s exporters shrug off the trade war—for now
+- [0209] | 11 | fear | Angst | 恐惧 | Want better returns? Forget risk. Focus on fear
+- [0210] | 11 | Forget | Vergessen | 忘记 | Want better returns? Forget risk. Focus on fear
+- [0211] | 11 | former | früherer | 原 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0212] | 11 | growing | wächst | 生长中 | Xi Jinping is growing more elusive
+- [0213] | 11 | Hamas | Hamas | 哈马斯 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [0214] | 11 | Iran’s | Irans | 伊朗 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0215] | 11 | Jinping | Jinping. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 近平 | Xi Jinping is growing more elusive
+- [0216] | 11 | Mamdani | Mamdani | 曼达尼 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [0217] | 11 | neighbours | Nachbarn | 邻居 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0218] | 11 | oil | Öl | 石油油油 | South America is fast becoming the world’s hottest oil patch
+- [0219] | 11 | Park | Parking | 公园公园 | The National Park Service is in disarray
+- [0220] | 11 | returns | Renditen | 返回返回返回 | Want better returns? Forget risk. Focus on fear
+- [0221] | 11 | shrug | Zucken | 摇摇 | China’s exporters shrug off the trade war—for now
+- [0222] | 11 | taking | Nehmen | 采取 | Buy now, pay later is taking over the world. Good
+- [0223] | 11 | Uncovering | Entdecken | 发现覆盖 | Uncovering the secret food trade that corrupts Iran’s neighbours
+- [0224] | 11 | war—for | Krieg — für | 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- 战争 -- -- | China’s exporters shrug off the trade war—for now
+- [0225] | 11 | we | wir | 我们 | Cover Story newsletter: How we chose the cover image
+- [0226] | 10 | -year-old | -Jährling | - 年 岁 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [0227] | 10 | Alcatraz | Alcatraz | 恶魔 | Alligator Alcatraz is an exercise in performative cruelty
+- [0228] | 10 | Alligator | Alligator | 鳄鳄鳄 | Alligator Alcatraz is an exercise in performative cruelty
+- [0229] | 10 | better | besser | 更好 | Want better returns? Forget risk. Focus on fear
+- [0230] | 10 | Brazil-bashing | Brasilien-Bashing | 巴西打碎巴西 | How is Trump’s Brazil-bashing putting America first?
+- [0231] | 10 | Chinese | Chinesisch | 中文 中文 中文 | America is coming after Chinese it accuses of hacking
+- [0232] | 10 | chose | gewählt | 选定 | Cover Story newsletter: How we chose the cover image
+- [0233] | 10 | coal | Kohle | 煤炭 | Shanxi province is struggling to diversify away from coal
+- [0234] | 10 | cruelty | Grausamkeit | 残忍、残忍、残忍、残忍、残忍、 | Alligator Alcatraz is an exercise in performative cruelty
+- [0235] | 10 | decisions | Entscheidungen | 决 决 决 决 决 决 决 决 决 决 决 决 决 决 | An economist’s guide to big life decisions
+- [0236] | 10 | DeepSeek’s | Deepseek | " 深寻求 " 组织 | Six months after DeepSeek’s breakthrough, China speeds on with AI
+- [0237] | 10 | dignity” | Würde . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 尊严” | Why a fling with a foreigner insults China’s “national dignity”
+- [0238] | 10 | diversify | Diversifizierung | 多样化 | Shanxi province is struggling to diversify away from coal
+- [0239] | 10 | during | während | 期间 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0240] | 10 | economist’s | Ökonomen | 经济学家 | An economist’s guide to big life decisions
+- [0241] | 10 | Europe | Europa | 欧洲 欧洲 | Europe averts its Trumpian trade nightmare
+- [0242] | 10 | EU’s | EU-Länder | 欧盟的欧盟 | The trade deal with America shows the limits of the EU’s power
+- [0243] | 10 | exercise | Ausübung | 练习练习 | Alligator Alcatraz is an exercise in performative cruelty
+- [0244] | 10 | fling | Fling | 射击 | Why a fling with a foreigner insults China’s “national dignity”
+- [0245] | 10 | Focus | Schwerpunkt | 焦点 | Want better returns? Forget risk. Focus on fear
+- [0246] | 10 | foreigner | Ausländer | 外国人 | Why a fling with a foreigner insults China’s “national dignity”
+- [0247] | 10 | GOP | VORSCHRIFTEN | 保 制 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [0248] | 10 | guide | Leitfaden | 指南指南指南指南指南 | An economist’s guide to big life decisions
+- [0249] | 10 | he | er | 世 世 世 世 世 世 世 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0250] | 10 | her | sie |  | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [0251] | 10 | House | Haus | 众议院 众议院 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [0252] | 10 | image | Bild | 图像图像图像图像 | Cover Story newsletter: How we chose the cover image
+- [0253] | 10 | insults | Beleidigungen | 侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性、侮辱性 | Why a fling with a foreigner insults China’s “national dignity”
+- [0254] | 10 | Jinping’s | Jinpings | " 近平 " 的 | Xi Jinping’s city of the future is coming to life
+- [0255] | 10 | let | lassen | 计( 计) | Trump will not let the world move on from tariffs
+- [0256] | 10 | limits | Grenzwerte | 限制限额 | The trade deal with America shows the limits of the EU’s power
+- [0257] | 10 | one | eins | 1个 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
+- [0258] | 10 | performative | performativ | 体 体 体 体 体 性 | Alligator Alcatraz is an exercise in performative cruelty
+- [0259] | 10 | politics | Politik | 政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治、政治 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0260] | 10 | president | Präsident | 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 总统 | Álvaro Uribe, a former president of Colombia, is convicted
+- [0261] | 10 | province | Provinz | 省 省 省 省 省 省 省 省 | Shanxi province is struggling to diversify away from coal
+- [0262] | 10 | putting | Putting | 将 | How is Trump’s Brazil-bashing putting America first?
+- [0263] | 10 | Service | Dienstleistung | 服务处 | The National Park Service is in disarray
+- [0264] | 10 | Shanxi | Shanxi | 掸西省 | Shanxi province is struggling to diversify away from coal
+- [0265] | 10 | Six | Sechs | 六六 | Six months after DeepSeek’s breakthrough, China speeds on with AI
+- [0266] | 10 | speeds | Geschwindigkeiten | 速度 | Six months after DeepSeek’s breakthrough, China speeds on with AI
+- [0267] | 10 | struggling | Kämpfen | 挣扎 | Shanxi province is struggling to diversify away from coal
+- [0268] | 10 | summit | Gipfel | 首脑会议首脑首脑首脑首脑首脑首脑首脑首脑会议 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0269] | 10 | watch | Uhr | 观察观察 | What to watch this weekend
+- [0270] | 10 | weekend | Wochenende | 周末周末 | What to watch this weekend
+- [0271] | 10 | “national | Landesweit | “国家 | Why a fling with a foreigner insults China’s “national dignity”
+- [0272] | 9 | another | eine andere | 另一个 | The US in brief: Another deadline, another delay
+- [0273] | 9 | Arctic | Arktis | 北极北极 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
+- [0274] | 9 | cancer | Krebs | 癌症癌症 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [0275] | 9 | career | Beruf | 职业 | Female police officer leaps into water, fights career criminal before making arrest, video shows
+- [0276] | 9 | cynical | zynisch | 玩世不恭 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0277] | 9 | disarray | Unordnung | 混乱 | The National Park Service is in disarray
+- [0278] | 9 | disenchantment | Ernüchterung | 幻灭 | MAGA’s disenchantment with Israel
+- [0279] | 9 | helping | Hilfe | 帮助帮助 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0280] | 9 | housing | Wohnen | 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 住房、 | America’s housing market is shuddering
+- [0281] | 9 | John | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 约翰·约翰 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [0282] | 9 | later | später | 后来 | Buy now, pay later is taking over the world. Good
+- [0283] | 9 | LA’s | RECHTSSACHEN | LLA的LA | Modular homes are helping LA’s wildfire survivors rebuild
+- [0284] | 9 | MAGA’s | MAPAS | MAMAMAMAMAMAMAMA MAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMAMA | MAGA’s disenchantment with Israel
+- [0285] | 9 | Modular | Modular | 模块 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0286] | 9 | murder | Mord | 谋杀 谋杀 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [0287] | 9 | ploy | Beschäftigung | 计谋 | Donald Trump’s redistricting ploy is politics at its most cynical
+- [0288] | 9 | rebuild | Wiederaufbau | 重建重建 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0289] | 9 | reveals | zeigt an | 外露 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [0290] | 9 | sanctions | Sanktionen | 制裁制裁 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0291] | 9 | solutions | Lösungen | 解决方案 | Germany lobbies for sustainability and multilateral solutions
+- [0292] | 9 | survivors | Überlebende | 幸存者幸存者 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0293] | 9 | suspect | Verdächtiger | 可疑嫌疑人 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [0294] | 9 | Test | Prüfung | 测试测试测试 | Can Test cricket survive a sticky wicket?
+- [0295] | 9 | th | n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n | 第 月 月 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [0296] | 9 | under | unter | 下 下 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [0297] | 9 | warns | warnt | 警告警告 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [0298] | 9 | wildfire | Waldbrände | 野火 | Modular homes are helping LA’s wildfire survivors rebuild
+- [0299] | 9 | world’s | Welt | 在世界任何地区人权和基本自由 | South America is fast becoming the world’s hottest oil patch
+- [0300] | 9 | writes | schreibt | 写入 | The far north has become NATO’s soft underbelly, writes John Bolton
+- [0301] | 8 | ' | " | ' ' | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [0302] | 8 | artificial | künstlich | 人工人工造 | OpenAI’s latest step towards advanced artificial intelligence
+- [0303] | 8 | back | zurück | 后退 | Schwarzenegger pushing back against Newsom redistricting bid in California
+- [0304] | 8 | Buy | Kaufen | 买买 | Buy now, pay later is taking over the world. Good
+- [0305] | 8 | claims | Forderungen | 索偿 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [0306] | 8 | David | David | 戴维·戴维 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [0307] | 8 | days | Tage | 天天 | Melania Trump commemorates 200 days since resuming role as first lady
+- [0308] | 8 | dealmaking | Handel und Dienstleistungen | 交易 | Japan’s dealmaking machine revs up
+- [0309] | 8 | Democratic | Demokratisch | 民主民主民主 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
+- [0310] | 8 | drug | Arzneimittel | 毒品 毒品 | America’s drug regulator is in turmoil
+- [0311] | 8 | found | gefunden | 已找到 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0312] | 8 | Harvard | L 347 vom 20.12.2013, S. 671. | 哈佛 | What Donald Trump is teaching Harvard
+- [0313] | 8 | If | Wenn | 如果(如果) | If America goes after India’s oil trade, China will benefit
+- [0314] | 8 | justice | Gerechtigkeit | 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 司法 | A little poetic justice for Donald Trump
+- [0315] | 8 | leaders | Führer | 领导人领导人 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0316] | 8 | lobbies | Lobbies | 圆圈 | Germany lobbies for sustainability and multilateral solutions
+- [0317] | 8 | market | Markt | 市场市场 | America’s housing market is shuddering
+- [0318] | 8 | might | könnte | 中 | Christie Brinkley admits forever might be too long for modern marriage
+- [0319] | 8 | multilateral | Multilaterale | 多边多边多边 | Germany lobbies for sustainability and multilateral solutions
+- [0320] | 8 | next | Nächster | 下一个 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [0321] | 8 | Russia | Frankreich | 俄罗斯 俄罗斯 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0322] | 8 | second | Zweiter | 第二次 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
+- [0323] | 8 | shuddering | Schaudern | 颤抖 | America’s housing market is shuddering
+- [0324] | 8 | takes | nimmt | 以 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
+- [0325] | 8 | teaching | Unterricht | 教学 | What Donald Trump is teaching Harvard
+- [0326] | 8 | Trumpian | Trumpian | 特朗普语Name | Europe averts its Trumpian trade nightmare
+- [0327] | 8 | way | Art und Weise | 方形 | The largest dig in a lifetime is under way in Pompeii
+- [0328] | 8 | winning | Gewinnen | 中赢 | Donald Trump thinks he’s winning on trade, but America will lose
+- [0329] | 8 | York | L 347 vom 20.12.2013, S. 671. | 纽约,纽约 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
+- [0330] | 7 | again” | Noch einmal. | ” 复数” | Deadheads hope to “make America grateful again”
+- [0331] | 7 | amid | in der Mitte | 中间 | Russia drops missile deployment moratorium amid tensions with Trump admin
+- [0332] | 7 | arrest | Festnahme | 逮捕和逮捕 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [0333] | 7 | arrested | Verhaftet | 被捕人数 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [0334] | 7 | attack | Angriff | 攻击攻击 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [0335] | 7 | battle | Kampf | 战斗战斗 | America’s barmy battle to ban bawdy books
+- [0336] | 7 | beach | Strand | 海滩海滩 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
+- [0337] | 7 | benefit | Nutzen | 养恤金福利 | If America goes after India’s oil trade, China will benefit
+- [0338] | 7 | but | aber | 但是,但 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [0339] | 7 | case | Rechtssache | 个案数 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [0340] | 7 | children | Kinder | 儿 儿 儿 儿 儿 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [0341] | 7 | court | Gericht | 法院法院 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [0342] | 7 | crash | Absturz | 崩溃崩溃 | America’s fertility crash reaches a new low
+- [0343] | 7 | crime | Verbrechen | 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [0344] | 7 | Deadheads | Totenköpfe | 死头人 | Deadheads hope to “make America grateful again”
+- [0345] | 7 | deeper | tiefer | 深层 | On Ukraine’s front lines the kill zone is getting deeper
+- [0346] | 7 | Dems | Abschreibungen | 度量单位 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [0347] | 7 | Despite | Trotz | 尽管如此,尽管 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0348] | 7 | escalates | Eskalate | 升级 | Donald Trump escalates his war on numbers
+- [0349] | 7 | face | Gesicht | 脸面 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [0350] | 7 | finds | Funde | 找寻 | Treasure map: Trump finds gold in redistricting
+- [0351] | 7 | firm | Unternehmen | 实数 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [0352] | 7 | game | Spiel | 游戏游戏游戏 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [0353] | 7 | gets | bekommt | 获得 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [0354] | 7 | goes | geht | 继续 | If America goes after India’s oil trade, China will benefit
+- [0355] | 7 | grateful | dankbar | 感激感激感激感激 感激 | Deadheads hope to “make America grateful again”
+- [0356] | 7 | great | Großartig. | 伟大 | Sydney Sweeney jeans controversy making advertising great again
+- [0357] | 7 | help | Hilfe | 帮助帮助帮助 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0358] | 7 | hold | Halten | 搁置搁置 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0359] | 7 | Hollywood | Hollywood | 好好莱坞 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [0360] | 7 | hope | Hoffnung | 希望希望 | Deadheads hope to “make America grateful again”
+- [0361] | 7 | interview | Interview | 面试 | Justice Department weighs release of Ghislaine Maxwell interview
+- [0362] | 7 | likely | wahrscheinlich | 可能 | Democrats are likely to lose the redistricting war
+- [0363] | 7 | lost | verloren | 损失损失 | How McKinsey lost its edge
+- [0364] | 7 | machine | Maschine | 机 机 机 机 | Japan’s dealmaking machine revs up
+- [0365] | 7 | man | Mann | 男性 男性 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
+- [0366] | 7 | nightmare | Albtraum | 恶梦恶梦 | Europe averts its Trumpian trade nightmare
+- [0367] | 7 | nuclear | Kernkraft | 核 | Strategic shift: the third nuclear era
+- [0368] | 7 | numbers | Zahlen | 数号数 | Donald Trump escalates his war on numbers
+- [0369] | 7 | or | oder | 或 | McDonald’s secret sauce—plus a pickle or two
+- [0370] | 7 | people | Menschen | 人 人 人 人 人 人 人 人 | How to greet people at work
+- [0371] | 7 | regulator | Regulator | 监管者 | America’s drug regulator is in turmoil
+- [0372] | 7 | revs | Drehzahl | revs 复数 | Japan’s dealmaking machine revs up
+- [0373] | 7 | sex | Geschlecht | 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 性 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [0374] | 7 | system | System | 系统系统系统 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [0375] | 7 | Tom | Tom | 汤姆 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [0376] | 7 | top | nach oben | 顶上 | France’s top general says Russia could attack in five years
+- [0377] | 7 | turmoil | Turbulenzen | 动乱 | America’s drug regulator is in turmoil
+- [0378] | 7 | two | Zwei | 二 | McDonald’s secret sauce—plus a pickle or two
+- [0379] | 7 | wrong | falsch | 错误 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [0380] | 7 | “make | Herstellung | “ | Deadheads hope to “make America grateful again”
+- [0381] | 7 | “the | UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG UEBEREINSTIMMUNG | “《联合国宪章》 | How scared should you be of “the China squeeze”?
+- [0382] | 6 | accuses | wirft vor | 指控 | America is coming after Chinese it accuses of hacking
+- [0383] | 6 | administration | Anwendung | 行政 行政 行政 行政 行政 行政 行政 行政 行政 行政 行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政行政 | Why the Trump administration excites some personal-injury lawyers
+- [0384] | 6 | again | Noch mal. | 再次再次 | Sydney Sweeney jeans controversy making advertising great again
+- [0385] | 6 | ban | Verbot | 禁止禁止 | America’s barmy battle to ban bawdy books
+- [0386] | 6 | books | Bücher | 书本 | America’s barmy battle to ban bawdy books
+- [0387] | 6 | Brazil | Frankreich | 巴西 巴西 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0388] | 6 | California | Kalifornien | 加利福尼亚州 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [0389] | 6 | Chicago | Chicago (Vereinigtes Königreich) | 芝加哥 | What pro wrestlers in Chicago say about America
+- [0390] | 6 | Culture | Kultur | 文化文化文化文化文化文化 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
+- [0391] | 6 | down | unten | 向下下下 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [0392] | 6 | El | ENTWICKLUNG | 埃尔 | Nayib Bukele could now rule El Salvador for life
+- [0393] | 6 | end | Ende | 结束 | The end of the second world war
+- [0394] | 6 | federal | föderal | 联邦联邦 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
+- [0395] | 6 | fertility | Fertilität | 生育率 | America’s fertility crash reaches a new low
+- [0396] | 6 | gold | Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold, Gold | 金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金金 | Treasure map: Trump finds gold in redistricting
+- [0397] | 6 | India’s | Indien | 印度 | If America goes after India’s oil trade, China will benefit
+- [0398] | 6 | Inside | Im Inneren | 内 | Inside Opus Dei
+- [0399] | 6 | killed | getötet | 死亡人数 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [0400] | 6 | latest | letzte | 最新最新 | OpenAI’s latest step towards advanced artificial intelligence
+- [0401] | 6 | look | Sehen Sie. | 外观 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [0402] | 6 | low | niedrig | 低 | America’s fertility crash reaches a new low
+- [0403] | 6 | many | viele | 多个 多个 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [0404] | 6 | McKinsey | McKinsey | 麦金西 | Consultant management: McKinsey loses its shine
+- [0405] | 6 | moment | Moment | 瞬间 | Stablecoins: is this crypto’s big bang moment?
+- [0406] | 6 | NATO’s | NATOs | 北约组织 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0407] | 6 | reaches | erreicht | 达到的 | America’s fertility crash reaches a new low
+- [0408] | 6 | school | Schule | 学校 学校 | Texas company creates drones to confront school shooters in seconds
+- [0409] | 6 | viral | virale | 病毒 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [0410] | 6 | Vladimir | Vladimir | 弗拉基米尔 | The real collusion between Donald Trump and Vladimir Putin
+- [0411] | 6 | Washington | RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — URTEIL | 华盛顿华盛顿 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
+- [0412] | 6 | week | Woche | 每周每周 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
+- [0413] | 6 | well | Na schön. | 好 | The humble tomato salad holds lessons for how to eat well
+- [0414] | 6 | women | Frauen | 妇女 妇女 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
+- [0415] | 5 | admin | Verwaltungsroutine | 管理员 | Russia drops missile deployment moratorium amid tensions with Trump admin
+- [0416] | 5 | admits | zugibt | 承认入学 | Christie Brinkley admits forever might be too long for modern marriage
+- [0417] | 5 | approach | Ansatz | 方 式 式 | Trump 2 is pushing environmentalists to rethink their approach
+- [0418] | 5 | arrests | Festnahmen | 逮捕、逮捕、逮捕、 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0419] | 5 | Asia | Länder Mittel- und Osteuropas | 亚洲 亚洲 | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
+- [0420] | 5 | averts | Abwendungen | 避免置换 | Europe averts its Trumpian trade nightmare
+- [0421] | 5 | banking’s | Banken | 银行银行 | The deeper reason for banking’s retreat
+- [0422] | 5 | bark | Rinde | 树皮树皮 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0423] | 5 | best | am besten | 最佳 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [0424] | 5 | bite | Bissen | 咬 咬 咬 咬 | Donald Trump’s tariffs on Brazil are more bark than bite
+- [0425] | 5 | boss | Chef | 老板( 老板) | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0426] | 5 | brings | bringt | 带带 | Panama brings lawfare to the canal ports saga
+- [0427] | 5 | catch | Fang | 渔获渔获量 | How many pythons could you catch in ten days?
+- [0428] | 5 | Caucasus | Kaukasus | 高加索 | Donald Trump brokers a peace plan in the Caucasus
+- [0429] | 5 | Cincinnati | Cincinnati | 辛辛那提 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0430] | 5 | conservatives | Konservative | 稳 稳 稳 稳 | The novels conservatives want you to read
+- [0431] | 5 | dead | tot | 死 死 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [0432] | 5 | death | Tod | 死亡死亡 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [0433] | 5 | debt | Verbindlichkeiten | 负债债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 债务国 | Ivy League universities are on a debt binge
+- [0434] | 5 | destination | Bestimmung | 目的地 | Provence is not just a destination. It is a lifestyle brand
+- [0435] | 5 | disaster-relief | Katastrophenrelief | 救灾救灾 | America is remaking its disaster-relief system
+- [0436] | 5 | dissent | Dissens | 异议 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0437] | 5 | DOJ | ENTSCHLIESSUNG | 司法部 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [0438] | 5 | double | Doppelt | 双双 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0439] | 5 | eat | Essen | 食 食 食 食 | The humble tomato salad holds lessons for how to eat well
+- [0440] | 5 | falling | fallend | 下降 | AstraZeneca’s falling out with Britain
+- [0441] | 5 | feeling | Gefühl | 感觉感觉 | Who’s feeling the pain of Trump’s tariffs?
+- [0442] | 5 | financial | Finanzdienstleistungen | 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 财务 | A fresh retail-trading frenzy is reshaping financial markets
+- [0443] | 5 | Florida | Florida | 佛罗里达州 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [0444] | 5 | Foreign | Ausländische | 外国 外国 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0445] | 5 | frenzy | Raserei | 疯狂 | A fresh retail-trading frenzy is reshaping financial markets
+- [0446] | 5 | fresh | frisch | 新鲜 | A fresh retail-trading frenzy is reshaping financial markets
+- [0447] | 5 | governor | Gouverneur | 州长 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [0448] | 5 | governors | Gouverneure | 省长 省长 | American governors are split over how to handle Donald Trump
+- [0449] | 5 | hacking | Hacken | 黑 黑 黑 黑 | America is coming after Chinese it accuses of hacking
+- [0450] | 5 | handle | Griff | 控件 | American governors are split over how to handle Donald Trump
+- [0451] | 5 | hard | hart | 硬硬 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
+- [0452] | 5 | ICE | INSGESAMT | 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰 冰  冰 冰 冰 冰 冰 冰   冰 冰 冰   冰  冰   冰      冰  冰      冰 冰 冰   冰           冰    冰       冰            冰 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0453] | 5 | illegal | illegal | 非法非法 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [0454] | 5 | immigrants | Einwanderer | 移民移民移民 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [0455] | 5 | immigration | Einwanderung | 移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [0456] | 5 | Jan | GESAMTRECHNUNG | 扬( 扬) | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [0457] | 5 | Jerome | Hieronymus | 杰罗姆 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0458] | 5 | League | Liga | 联盟联盟联盟 | Ivy League universities are on a debt binge
+- [0459] | 5 | little | wenig | 小 | A little poetic justice for Donald Trump
+- [0460] | 5 | London | L 347 vom 20.12.2013, S. 671. | 伦敦伦敦 | Still want to be a London cabbie?
+- [0461] | 5 | long | lang | 长 | Christie Brinkley admits forever might be too long for modern marriage
+- [0462] | 5 | major | Haupt | 大专 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0463] | 5 | make | machen | 混和 混和 | Do consultants make good CEOs?
+- [0464] | 5 | media | Medien | 媒体媒体 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [0465] | 5 | millions | Millionen | 百万 百万 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0466] | 5 | News | Nachrichten | 新闻新闻新闻新闻 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [0467] | 5 | options | Optionen | 选项选项 | A farewell to arms? Hamas considers its options
+- [0468] | 5 | owner | Eigentümer | 拥有者( 拥有者) | Hello Kitty’s owner is purring contentedly
+- [0469] | 5 | Palantir | Palantir | Palantir 调质器 | Palantir might be the most overvalued firm of all time
+- [0470] | 5 | Pascal | Pascal | 帕斯派( Pascal) | Pascal Soriot, the pharma titan tiring of Britain
+- [0471] | 5 | pharma | Pharmazeutische Erzeugnisse | 药药 | Pascal Soriot, the pharma titan tiring of Britain
+- [0472] | 5 | Powell | Powell | 鲍威尔 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0473] | 5 | pro | pro | 现 物 | What pro wrestlers in Chicago say about America
+- [0474] | 5 | probe | Sonde | 探测器 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [0475] | 5 | pushing | schieben | 推推 | Schwarzenegger pushing back against Newsom redistricting bid in California
+- [0476] | 5 | pythons | Pythonen | Pythons 键 | How many pythons could you catch in ten days?
+- [0477] | 5 | questions | Fragen | 问 问 问 问 问 问 问 问 问题 | The US in brief: Donald Trump questions the count
+- [0478] | 5 | read | gelesen | 读为 | The novels conservatives want you to read
+- [0479] | 5 | reason | Begründung | 原因原因原因 | The deeper reason for banking’s retreat
+- [0480] | 5 | remaking | Neugestaltung | 重建再造 | America is remaking its disaster-relief system
+- [0481] | 5 | report | Bericht | 报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告、报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告报告 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [0482] | 5 | reshaping | Neugestaltung | 重整 | A fresh retail-trading frenzy is reshaping financial markets
+- [0483] | 5 | retail-trading | Einzelhandel | 零售零售贸易 | A fresh retail-trading frenzy is reshaping financial markets
+- [0484] | 5 | retains | behält | 保留保留 | Despite double dissent, Jerome Powell retains his hold on markets
+- [0485] | 5 | retreat | Rückzug | 撤退后退 | The deeper reason for banking’s retreat
+- [0486] | 5 | Room | Zimmer | 会议室 会议室会议室 | The War Room newsletter: How receiving aid became fatal in Gaza
+- [0487] | 5 | Ryan | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 瑞安 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0488] | 5 | Salvador | L 347 vom 20.12.2013, S. 671. | 萨尔瓦多 萨尔瓦多 | Nayib Bukele could now rule El Salvador for life
+- [0489] | 5 | savage | Wild | 野蛮 | A savage squabble between China and Europe
+- [0490] | 5 | scared | Angst | 胆 怕 怕 怕 | How scared should you be of “the China squeeze”?
+- [0491] | 5 | Senate | Senat | 参议院 参议院 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0492] | 5 | she | sie | 谢 谢 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0493] | 5 | shift | Schicht | 移动 | Strategic shift: the third nuclear era
+- [0494] | 5 | some | teilweise | 部分为某些 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [0495] | 5 | Soriot | Soriot | 静水 | Pascal Soriot, the pharma titan tiring of Britain
+- [0496] | 5 | Space | Raum | 空间空间空间空间空间 | US Space Command is preparing for satellite-on-satellite combat
+- [0497] | 5 | split | aufgeteilt | 拆分 | American governors are split over how to handle Donald Trump
+- [0498] | 5 | spotlight | fokussierung | 聚聚焦点 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [0499] | 5 | squabble | squabble | 二次曲线 | A savage squabble between China and Europe
+- [0500] | 5 | squeeze” | Drücke aus. | 挤压” | How scared should you be of “the China squeeze”?
+- [0501] | 5 | Sudan | Sudan | 苏丹 苏丹 苏丹 苏丹 苏丹 苏丹 | As the world focuses on Gaza, starvation also looms in Sudan
+- [0502] | 5 | swing | Schaukeln | 摇摆 | State swing: recognising Palestine
+- [0503] | 5 | T | T . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | T T T T T | The US in brief: T for Texas, T for truancy
+- [0504] | 5 | ten | Zehn | 10 十个 | How many pythons could you catch in ten days?
+- [0505] | 5 | third | Dritter | 第三次 | Strategic shift: the third nuclear era
+- [0506] | 5 | time | Zeit | 时间 | Palantir might be the most overvalued firm of all time
+- [0507] | 5 | tiring | Ermüdung | 工 工 累 | Pascal Soriot, the pharma titan tiring of Britain
+- [0508] | 5 | titan | Titan |  | Pascal Soriot, the pharma titan tiring of Britain
+- [0509] | 5 | towards | Richtung | 至2005年 | OpenAI’s latest step towards advanced artificial intelligence
+- [0510] | 5 | trip | Reise | 旅行旅费 | The great Syrian beach trip
+- [0511] | 5 | trying | Versuch | 试 | Japan’s carmakers are trying to tinker their way out of tariff pain
+- [0512] | 5 | Ukraine’s | Ukraine | 乌克兰 乌克兰 | On Ukraine’s front lines the kill zone is getting deeper
+- [0513] | 5 | violent | Gewalttätigkeit | 暴力暴力 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [0514] | 5 | wave | Welle | 电波 | A new wave of clean-energy innovation is building
+- [0515] | 5 | when | wenn | 何时 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
+- [0516] | 5 | Where | Dabei ist | 何处处 | Where will be the Detroit of electric vehicles?
+- [0517] | 5 | White | Weiß | 白白 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
+- [0518] | 5 | Who’s | Wer ist es? | 谁是谁的 | Who’s feeling the pain of Trump’s tariffs?
+- [0519] | 5 | win | gewinnen | 赢赢 | Where will win from Trump’s tariffs?
+- [0520] | 5 | wrestlers | Ringer | 摔跤手 | What pro wrestlers in Chicago say about America
+- [0521] | 4 | accountability | Rechenschaftspflicht | 问责制问责制的问责制 | Not all’s fair: Israel and accountability
+- [0522] | 4 | advanced | fortgeschritten | 高级 | OpenAI’s latest step towards advanced artificial intelligence
+- [0523] | 4 | Afghanistan’s | Afghanistan | 阿富汗的 | Razia Jan insisted on educating Afghanistan’s girls
+- [0524] | 4 | Airbnb | Airbnb | 空气桶bb | Should you trust that five-star rating on Airbnb?
+- [0525] | 4 | alleged | angeblich | 据称 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
+- [0526] | 4 | all’s | Insgesamt | 全部 | Not all’s fair: Israel and accountability
+- [0527] | 4 | also | auch | 并且,还有 | As the world focuses on Gaza, starvation also looms in Sudan
+- [0528] | 4 | Alvarez’s | Alvarez-Erdöl | 阿尔瓦雷斯 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
+- [0529] | 4 | Ancient | Altertümlich | 古时 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [0530] | 4 | animals | Tiere | 动物 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0531] | 4 | announces | kündigt an | 宣布宣布 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0532] | 4 | answer | Antwort | 答答 | To sell Fannie and Freddie, Trump must answer a $7trn question
+- [0533] | 4 | Anthropic | anthropisch | 人类 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0534] | 4 | argues | argumentiert | 争论 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
+- [0535] | 4 | army | Armee | 军 军 军 军 军 | Pakistan’s army chief is cosying up to Donald Trump
+- [0536] | 4 | authoritarians | Autoritaristen | 专制主义 | Growth-loving authoritarians are failing on their own terms
+- [0537] | 4 | avoid | vermeiden | 避免 | American businesses are running out of ways to avoid tariff pain
+- [0538] | 4 | bad | schlecht | 坏 | Are nightmares bad for your health?
+- [0539] | 4 | bang | bumsen | 爆炸 | Stablecoins: is this crypto’s big bang moment?
+- [0540] | 4 | bar | bar | 图标栏 | The year of the women’s-sports bar
+- [0541] | 4 | barmy | Barkeeper | 巴米 | America’s barmy battle to ban bawdy books
+- [0542] | 4 | bawdy | Schrecklich | bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy, bawdy | America’s barmy battle to ban bawdy books
+- [0543] | 4 | becoming | werden | 成为 | South America is fast becoming the world’s hottest oil patch
+- [0544] | 4 | binge | Binge | 离子( 离子) | Ivy League universities are on a debt binge
+- [0545] | 4 | Black | Schwarz | 黑黑色 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [0546] | 4 | blackouts | Blackouts | 断电 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0547] | 4 | Blockades | Blockaden | 封锁区 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0548] | 4 | bomb-making | Bombenherstellung | 制造炸弹 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0549] | 4 | Bombs | Bomben | 炸弹炸弹炸弹 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
+- [0550] | 4 | bosses | Chefs | 上头头头头 | Italian bosses want Giorgia Meloni to hurry up with reform
+- [0551] | 4 | brand | Marke | 品牌品牌 | Provence is not just a destination. It is a lifestyle brand
+- [0552] | 4 | brokers | Makler | 经纪人 | Donald Trump brokers a peace plan in the Caucasus
+- [0553] | 4 | build | Bauen | 建设 | How to build a ship for interstellar travel
+- [0554] | 4 | building | Gebäude | 建筑物 | A new wave of clean-energy innovation is building
+- [0555] | 4 | Bukele | Bukele | 布克勒语Name | Nayib Bukele could now rule El Salvador for life
+- [0556] | 4 | bullets | Kugeln | 圆圆 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0557] | 4 | businesses | Unternehmen | 商业企业 | American businesses are running out of ways to avoid tariff pain
+- [0558] | 4 | cabbie | Cabbie | 出租车司机 | Still want to be a London cabbie?
+- [0559] | 4 | campaign | Kampagne | 运动运动 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [0560] | 4 | carmakers | Automobilhersteller | 汽车制制制汽车 | Japan’s carmakers are trying to tinker their way out of tariff pain
+- [0561] | 4 | Cecil | Cecil | 塞西尔 | Who was Cecil Rhodes?
+- [0562] | 4 | chief | Hauptgeschäftsführer | 科长 | Pakistan’s army chief is cosying up to Donald Trump
+- [0563] | 4 | cities | Städte | 城市城市 | Which are the deadliest European cities in a heatwave?
+- [0564] | 4 | clean-energy | saubere Energie | 清洁能源 | A new wave of clean-energy innovation is building
+- [0565] | 4 | coach | Reisebus | 教练 教练 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
+- [0566] | 4 | collagen | Kollagen | 钴 | Should you take collagen?
+- [0567] | 4 | collusion | Kollusion | 串连 | The real collusion between Donald Trump and Vladimir Putin
+- [0568] | 4 | combat | Kampf | 战斗 战斗 | US Space Command is preparing for satellite-on-satellite combat
+- [0569] | 4 | Command | Befehl | 命令命令命令 | US Space Command is preparing for satellite-on-satellite combat
+- [0570] | 4 | condition | Zustand | 条件条件条件 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [0571] | 4 | corruption-fighters | Korruptionskämpfer | 腐败问题斗士 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0572] | 4 | cough | Husten | 咳嗽 | A 400-year-old Chinese cough syrup is winning over Westerners
+- [0573] | 4 | count | Anzahl | 计数 | The US in brief: Donald Trump questions the count
+- [0574] | 4 | crackdown | Razzia | 镇压 | GOP governor greenlights state troopers to join ICE in immigration crackdown
+- [0575] | 4 | cricket | Kricket | 板球 | Can Test cricket survive a sticky wicket?
+- [0576] | 4 | crypto’s | Kryptosäuren | 加密密码 | Stablecoins: is this crypto’s big bang moment?
+- [0577] | 4 | Cuts | Schnitte | 剪切 | Cuts to food stamps are about to hit in America
+- [0578] | 4 | defeat | Niederlage | 失败失败 | Texas’s Democrats prepare for a glorious defeat
+- [0579] | 4 | delay | Verzögerung | 延迟延迟 | The US in brief: Another deadline, another delay
+- [0580] | 4 | dictators | Diktatoren | 独裁者 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0581] | 4 | did | hat | 确实 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
+- [0582] | 4 | dig | graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben, graben | 挖掘 | The largest dig in a lifetime is under way in Pompeii
+- [0583] | 4 | dinosaurs | Dinosaurier | 恐龙 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
+- [0584] | 4 | Disciple” | Schüler | 嘉宾” | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0585] | 4 | disorder | Erkrankungen des Gastrointestinaltrakts | 精神疾病 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0586] | 4 | dithering | Dithering | 抖动 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0587] | 4 | driverless | Fahrerlos | 无驱动 | Uber is readying itself for the driverless age—again
+- [0588] | 4 | Earth | Erde | 地球地球地球 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0589] | 4 | eclectic | eklektisch | 电子计算 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
+- [0590] | 4 | economics | Wirtschaft | 经济学经济学经济学 | What economics can teach foreign-policy types
+- [0591] | 4 | educating | Ausbildung | 教育 教育 | Razia Jan insisted on educating Afghanistan’s girls
+- [0592] | 4 | environmentalists | Umweltschützer | 环境学家 | Trump 2 is pushing environmentalists to rethink their approach
+- [0593] | 4 | era | Zeit | 时代时代 | Strategic shift: the third nuclear era
+- [0594] | 4 | Eri | Eri | 埃里 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0595] | 4 | everywhere | überall | 各地 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0596] | 4 | exam | Prüfung | 考试考试考试 | The world’s toughest exam
+- [0597] | 4 | excites | Erregt | 异异 | Why the Trump administration excites some personal-injury lawyers
+- [0598] | 4 | failing | Fehler | 失败失败 | Growth-loving authoritarians are failing on their own terms
+- [0599] | 4 | fair | fair | 公平公平 | Not all’s fair: Israel and accountability
+- [0600] | 4 | faith | Glaube | 信 信 信 信 信 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [0601] | 4 | family | Familie | 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 家庭 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [0602] | 4 | Fannie | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 范妮 | To sell Fannie and Freddie, Trump must answer a $7trn question
+- [0603] | 4 | fans | Ventilatoren | 粉粉粉粉扇 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [0604] | 4 | farewell | Leb wohl | 告别告别 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [0605] | 4 | five-star | Fünf-Sterne | 五星五星 | Should you trust that five-star rating on Airbnb?
+- [0606] | 4 | fleeing | fliehen | 逃离 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
+- [0607] | 4 | following | folgend | 下述 | Teddi Mellencamp struggles with speech following cancer treatment
+- [0608] | 4 | foreign-policy | Außenpolitik | 外交政策 | What economics can teach foreign-policy types
+- [0609] | 4 | Fox | Fuchs | 狐狐狸 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [0610] | 4 | Fr | Fr | 中 调 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0611] | 4 | Freddie | Freddie | 弗雷迪 | To sell Fannie and Freddie, Trump must answer a $7trn question
+- [0612] | 4 | front | Vorderseite | 前前 | On Ukraine’s front lines the kill zone is getting deeper
+- [0613] | 4 | fungi | Pilze | 真菌 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0614] | 4 | getting | Erhalten | 获取 | On Ukraine’s front lines the kill zone is getting deeper
+- [0615] | 4 | Giorgia | Giorgia | 乔治亚 | Italian bosses want Giorgia Meloni to hurry up with reform
+- [0616] | 4 | girls | Mädchen | 女童 女童 | Razia Jan insisted on educating Afghanistan’s girls
+- [0617] | 4 | glorious | glorreich | 辉耀 | Texas’s Democrats prepare for a glorious defeat
+- [0618] | 4 | go | Gehen Sie. | 上去 | Narendra Modi and Donald Trump go head-to-head
+- [0619] | 4 | grand | Groß | 千美元 | Cincinnati viral beating suspects face new charges in grand jury indictment
+- [0620] | 4 | ground | Boden | 地面地面 | Islamist parties are gaining ground in Malaysia
+- [0621] | 4 | Growth-loving | Wachstumsliebe | 热爱增长 | Growth-loving authoritarians are failing on their own terms
+- [0622] | 4 | guys | Jungs | 男 男 男 | Thought John Proctor was one of the good guys? Think again
+- [0623] | 4 | had | hatte | 曾经 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0624] | 4 | harmful | schädlich | 有害有害 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0625] | 4 | Harris | Harris. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 哈里斯 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [0626] | 4 | he's | Er ist | # 他 # # 他 # # # He' # # He' # # He # # # He # # # # He # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # | JD Vance says he's 'obsessed' with eerie UFO videos
+- [0627] | 4 | he’s | er s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 其 | Donald Trump thinks he’s winning on trade, but America will lose
+- [0628] | 4 | holds | Haltegriffe | 持有的 | The humble tomato salad holds lessons for how to eat well
+- [0629] | 4 | home | Zuhause | 家 家 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [0630] | 4 | Hong | ENTWICKLUNG UND ENTWICKLUNG | 红 | Hong Kong is super superstitious
+- [0631] | 4 | Hotta | Heißta | 热热塔 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0632] | 4 | humble | bescheiden | 谦卑 | The humble tomato salad holds lessons for how to eat well
+- [0633] | 4 | hurry | Beeilung! | 快点 | Italian bosses want Giorgia Meloni to hurry up with reform
+- [0634] | 4 | Illinois | Illinois (Illinois). - (EN) Herr Präsident, meine Damen und Herren! | 伊利诺斯州 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [0635] | 4 | improved | verbessert | 改进后 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0636] | 4 | independence | Unabhängigkeit | 独立独立 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0637] | 4 | injury | Verletzung | 伤 伤 伤 伤 伤 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [0638] | 4 | innovation | Innovation | 创新创新 | A new wave of clean-energy innovation is building
+- [0639] | 4 | insisted | bestand darauf, | 坚持的 | Razia Jan insisted on educating Afghanistan’s girls
+- [0640] | 4 | Instead | Stattdessen | 取代 | Instead of sanctions, Donald Trump announces a summit with Russia
+- [0641] | 4 | intelligence | Intelligenz | 情报情报情报情报 | OpenAI’s latest step towards advanced artificial intelligence
+- [0642] | 4 | intelligentsia | Intelligenz | 知识分子 | Artificial intelligentsia: an interview with the boss of Anthropic
+- [0643] | 4 | invades | Eindringlinge | 入侵入侵 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0644] | 4 | IRA | IRA | 伊 拉 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 亚 地 列 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0645] | 4 | Italian | Italienisch | 意大利 意大利 意大利 意大利 意大利 意大利 意大利 意大利 意大利语 | Italian bosses want Giorgia Meloni to hurry up with reform
+- [0646] | 4 | Ivy | Efeu | 常 常 年 | Ivy League universities are on a debt binge
+- [0647] | 4 | James | - Ja. - Ja. - Ja. - Ja. | 詹姆斯·詹姆斯 | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
+- [0648] | 4 | Johann | - Ich weiß es nicht. - Ich weiß nicht. | 约翰·约翰 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0649] | 4 | judge | Richter | 法官 法官 法官 法官 法官 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [0650] | 4 | Kamala | Kamala | 卡马勒acala | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
+- [0651] | 4 | Keepers | Hüter | 保管人 | The Memory Keepers
+- [0652] | 4 | Kong | ENTWICKLUNG | 香港港 | Hong Kong is super superstitious
+- [0653] | 4 | largest | größte | 最大 | The largest dig in a lifetime is under way in Pompeii
+- [0654] | 4 | launches | Starts | 发射发射 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [0655] | 4 | lawfare | Rechts- und Verwaltungsvorschriften | 法律权益 | Panama brings lawfare to the canal ports saga
+- [0656] | 4 | lawyers | Rechtsanwälte | 律师律师 | Why the Trump administration excites some personal-injury lawyers
+- [0657] | 4 | Lehrer | Lehrer | 元首 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0658] | 4 | lessons | Unterricht | 经验教训 | The humble tomato salad holds lessons for how to eat well
+- [0659] | 4 | lifestyle | Lebensstil | 生活方式和生活方式 | Provence is not just a destination. It is a lifestyle brand
+- [0660] | 4 | lifetime | Lebensdauer | 寿命寿命 | The largest dig in a lifetime is under way in Pompeii
+- [0661] | 4 | lifting | Heben | 升举 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0662] | 4 | local | Ort | 当地当地 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [0663] | 4 | looked | Gesehen | 查看 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0664] | 4 | looms | Webstühle | 织物 | As the world focuses on Gaza, starvation also looms in Sudan
+- [0665] | 4 | Luis | L 347 vom 20.12.2013, S. 671. | 路易斯路易斯 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
+- [0666] | 4 | makes | macht | 环环环 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [0667] | 4 | map | Karte | 地图图图图地图 | Treasure map: Trump finds gold in redistricting
+- [0668] | 4 | MARCUS | MARCUS | 市场 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
+- [0669] | 4 | massive | massiv | 大规模 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [0670] | 4 | matter | Gegenstand | 事项 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0671] | 4 | McDonald’s | McDonald's | 麦克当当当当当当当当当面麦当当当当当面 | McDonald’s secret sauce—plus a pickle or two
+- [0672] | 4 | meeting | Sitzung | 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议 会 议 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
+- [0673] | 4 | Meloni | Meloni | 梅罗尼 | Italian bosses want Giorgia Meloni to hurry up with reform
+- [0674] | 4 | members | Mitglieder | 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 成员 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0675] | 4 | Memory | Speicher | 内存 | The Memory Keepers
+- [0676] | 4 | message | Nachricht | 消息消息 | The message about motherhood the media desperately wants you to miss
+- [0677] | 4 | Montana | Montana | 蒙塔纳 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [0678] | 4 | must | muss | 必须 | To sell Fannie and Freddie, Trump must answer a $7trn question
+- [0679] | 4 | my | mein | 我的 我的 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [0680] | 4 | nationwide | bundesweit | 全国 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
+- [0681] | 4 | Nayib | Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | Nayib 内比 | Nayib Bukele could now rule El Salvador for life
+- [0682] | 4 | nearly | fast | 近近 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [0683] | 4 | nightmares | Alpträume | 恶梦 | Are nightmares bad for your health?
+- [0684] | 4 | north | Norden | 北北部 | The far north has become NATO’s soft underbelly, writes John Bolton
+- [0685] | 4 | novels | Romane | 小说小说 | The novels conservatives want you to read
+- [0686] | 4 | NYC | NIEDERLANDE | 《纽约公约》 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [0687] | 4 | office | Büro | 办公室办公室 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
+- [0688] | 4 | officials | Beamte | 公务官员 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [0689] | 4 | OpenAI’s | ÖFFENTLICHKEITEN | 开放会计师协会 | OpenAI’s latest step towards advanced artificial intelligence
+- [0690] | 4 | out' | aus" | 出来 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [0691] | 4 | overvalued | überbewertet | 高估 | Palantir might be the most overvalued firm of all time
+- [0692] | 4 | own | eigene | 拥有的 | Growth-loving authoritarians are failing on their own terms
+- [0693] | 4 | paintings | Gemälde | 绘画绘画 | What 630,000 paintings say about the world economy
+- [0694] | 4 | Palestine | Palästina | 巴勒斯坦 巴勒斯坦 巴勒斯坦 | State swing: recognising Palestine
+- [0695] | 4 | Parliament | Europäisches Parlament | 议会 议会 议会 议会 议会 议会 议会 议会 议会 议会 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0696] | 4 | Party | Partei | 缔约方 缔约方 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
+- [0697] | 4 | Patrick | Patrick | 帕特里克 | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0698] | 4 | personal-injury | persönliche Verletzung | 人身伤害 | Why the Trump administration excites some personal-injury lawyers
+- [0699] | 4 | pickle | Gurken | 泡菜 | McDonald’s secret sauce—plus a pickle or two
+- [0700] | 4 | planned | geplant | 计划计划数 | New York Post expands west with California edition planned for early 2026
+- [0701] | 4 | plants | Pflanzen | 工厂工厂 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0702] | 4 | poetic | poetisch | 诗诗 | A little poetic justice for Donald Trump
+- [0703] | 4 | Pompeii | Pompeji | 庞贝 | The largest dig in a lifetime is under way in Pompeii
+- [0704] | 4 | Post | Postleitzahl | 员额员额 员额 员额 员额员额 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [0705] | 4 | prepare | Vorbereitung | 准备 | Texas’s Democrats prepare for a glorious defeat
+- [0706] | 4 | preparing | Vorbereitung | 准备中 | US Space Command is preparing for satellite-on-satellite combat
+- [0707] | 4 | preseason | Vorsaison | 预 季前 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [0708] | 4 | prison | Gefängnis | 监狱监狱 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [0709] | 4 | Proctor | Proctor | 分数 | Thought John Proctor was one of the good guys? Think again
+- [0710] | 4 | Provence | Frankreich | 普罗旺斯 | Provence is not just a destination. It is a lifestyle brand
+- [0711] | 4 | Putin’s | Putins | 普京的 | Mikhail Komin on why the Arctic is Putin’s next front
+- [0712] | 4 | question | Frage | 问 问 问 问 | To sell Fannie and Freddie, Trump must answer a $7trn question
+- [0713] | 4 | rating | Bewertung | 评级评分 | Should you trust that five-star rating on Airbnb?
+- [0714] | 4 | Razia | Razia | 拉齐亚Name | Razia Jan insisted on educating Afghanistan’s girls
+- [0715] | 4 | real | real | 实实数 | The real collusion between Donald Trump and Vladimir Putin
+- [0716] | 4 | recognising | Anerkennung | 确认承认 | State swing: recognising Palestine
+- [0717] | 4 | reform | Reform | 改革改革改革改革 | Italian bosses want Giorgia Meloni to hurry up with reform
+- [0718] | 4 | Republicans | Republikaner | 共和党人 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [0719] | 4 | restores | stellt wieder her | 恢复 | Parliament restores independence to Ukraine’s corruption-fighters
+- [0720] | 4 | rethink | Überdenken | 重新思考 | Trump 2 is pushing environmentalists to rethink their approach
+- [0721] | 4 | Rhodes | Rhodos | 罗得 | Who was Cecil Rhodes?
+- [0722] | 4 | roasting | Rösten | 烧烤 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0723] | 4 | rule | Regel | 规则细则细则细则细则细则细则细则 | Nayib Bukele could now rule El Salvador for life
+- [0724] | 4 | running | läuft | 运行中 | American businesses are running out of ways to avoid tariff pain
+- [0725] | 4 | Russian | Russisch | 俄文 俄文 俄文 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
+- [0726] | 4 | salad | Salat | 沙拉沙拉 | The humble tomato salad holds lessons for how to eat well
+- [0727] | 4 | satellite-on-satellite | Satelliten-on-Satellit | 卫星卫星卫星卫星 | US Space Command is preparing for satellite-on-satellite combat
+- [0728] | 4 | sauce—plus | Soße — plus | 酱酱加 | McDonald’s secret sauce—plus a pickle or two
+- [0729] | 4 | Scientists | Wissenschaftler | 科学家 科学家 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0730] | 4 | screen | Bildschirm | 屏幕屏幕 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0731] | 4 | sell | verkaufen | 出售 | To sell Fannie and Freddie, Trump must answer a $7trn question
+- [0732] | 4 | sequence | Reihenfolge | 序列序列序列 | Scientists want to sequence all animals, fungi and plants on Earth
+- [0733] | 4 | shooting | Schießerei | 射击射击 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [0734] | 4 | shot | Schuss | 射击 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [0735] | 4 | so | und | so so, so, so, so, so, so, so, so, so, | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
+- [0736] | 4 | soft | weich | 软软 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0737] | 4 | Stablecoins | Stablecoins | 稳定线 | Stablecoins: is this crypto’s big bang moment?
+- [0738] | 4 | stamps | Stempel | 邮票邮票 | Cuts to food stamps are about to hit in America
+- [0739] | 4 | step | Schritt | 步数 | OpenAI’s latest step towards advanced artificial intelligence
+- [0740] | 4 | sticky | klebrig | 粘粘性 | Can Test cricket survive a sticky wicket?
+- [0741] | 4 | Still | Immer noch | 仍然 | Still want to be a London cabbie?
+- [0742] | 4 | stop | Anhalten | 停止停止 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [0743] | 4 | SummerSlam | Sommerslam | 夏月光 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [0744] | 4 | super | super | 超级 | Hong Kong is super superstitious
+- [0745] | 4 | superstitious | abergläubisch | 迷信迷信 | Hong Kong is super superstitious
+- [0746] | 4 | survive | überleben | 活 活 活 活 | Can Test cricket survive a sticky wicket?
+- [0747] | 4 | Syria | Syrien | 叙利亚 叙利亚 | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0748] | 4 | syrup | Sirup | 糖糖浆 | A 400-year-old Chinese cough syrup is winning over Westerners
+- [0749] | 4 | Taiwan | Taiwan | 台台 | Blockades, blackouts and bullets: China invades Taiwan on screen
+- [0750] | 4 | teach | Unterricht | 教学 | What economics can teach foreign-policy types
+- [0751] | 4 | terms | Begriffsbestimmungen | 语数 | Growth-loving authoritarians are failing on their own terms
+- [0752] | 4 | Texas’s | Texas-Länder | 得克萨斯州 | Texas’s Democrats prepare for a glorious defeat
+- [0753] | 4 | theory | Theorie | 理论理论理论 | The Elon Musk theory of pay
+- [0754] | 4 | these | Diese | 这些人 | Getting ready to harvest your garden? Get these helpful tools
+- [0755] | 4 | Think | Denken Sie nach | 思考思考 | Thought John Proctor was one of the good guys? Think again
+- [0756] | 4 | thinks | denkt | 思考 | Donald Trump thinks he’s winning on trade, but America will lose
+- [0757] | 4 | Thought | Gedanken | 思考思考 | Thought John Proctor was one of the good guys? Think again
+- [0758] | 4 | tinker | basteln | 修工工工匠 | Japan’s carmakers are trying to tinker their way out of tariff pain
+- [0759] | 4 | tomato | Tomaten/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser/Paradeiser) | 番茄 | The humble tomato salad holds lessons for how to eat well
+- [0760] | 4 | toughest | am härtesten | 最难 | The world’s toughest exam
+- [0761] | 4 | town | Stadt | 镇镇 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [0762] | 4 | trans | trans trans | 转 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [0763] | 4 | Treasure | Schatz | 宝藏 | Treasure map: Trump finds gold in redistricting
+- [0764] | 4 | trn | L 347 vom 20.12.2013, S. 671. | Trtn (吨) | To sell Fannie and Freddie, Trump must answer a $7trn question
+- [0765] | 4 | Trump-Putin | Trump-Putin | 特朗普丁 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
+- [0766] | 4 | trust | Vertrauen | 信任信任信任 | Should you trust that five-star rating on Airbnb?
+- [0767] | 4 | types | Typen | 类型类型 | What economics can teach foreign-policy types
+- [0768] | 4 | UFOs | UFOs | UFOs 不明飞行组织 | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
+- [0769] | 4 | universities | Hochschulen | 大学大学 | Ivy League universities are on a debt binge
+- [0770] | 4 | video | Video | 视频视频 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
+- [0771] | 4 | Wadephul | Wadephul | 韦phul | Foreign Minister Johann Wadephul and Development Minister Reem Alabali Radovan on the lifting of all economic sanctions against Syria
+- [0772] | 4 | Walter | WETTBEWERBSREGELN | 沃尔特 Walter | Bombs, dinosaurs and UFOs: Luis Walter Alvarez’s eclectic career
+- [0773] | 4 | wants | will | 需要的 | The message about motherhood the media desperately wants you to miss
+- [0774] | 4 | wartime | Kriegszeit | 战时战争 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0775] | 4 | ways | Wege | 路径 | American businesses are running out of ways to avoid tariff pain
+- [0776] | 4 | were | wurden | 原为 | Japan’s dithering wartime leaders were just as harmful as European dictators, says Eri Hotta
+- [0777] | 4 | Westerners | Westliche Bevölkerung | 西部人 | A 400-year-old Chinese cough syrup is winning over Westerners
+- [0778] | 4 | wicket | Wicket | 阴道 | Can Test cricket survive a sticky wicket?
+- [0779] | 4 | wife | Ehefrau | 妻子为妻子的妻子 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [0780] | 4 | worth | im Wert von | 价值价值 | Tom Lehrer found matter worth roasting everywhere he looked
+- [0781] | 4 | WWE | WWE | WWWWWWWW WWW WWWW WWWW WWWW WWW WWW WWW WW WWW WWW WWW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW WW W WW WW W WW W W W W W W W W W WW WW WW W W W W W W W W W W WW W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W W | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [0782] | 4 | “Devil’s | ,Teufel , , , , . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | " 魔鬼 " | Fr Patrick Ryan, the “Devil’s Disciple”, improved IRA bomb-making
+- [0783] | 3 | 'Not | "Nicht | "不是" | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [0784] | 3 | accused | beschuldigt | 被告人 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
+- [0785] | 3 | ad | ad | 传真: add | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
+- [0786] | 3 | age—again | Alter — wieder | 年龄 - 再次 | Uber is readying itself for the driverless age—again
+- [0787] | 3 | ahead | voraus | 未来 | Australian state rolls out machete ‘disposal bins’ ahead of ban
+- [0788] | 3 | ailing | Krankheit | 报应中 | America’s ailing health insurers
+- [0789] | 3 | Americans | Amerikaner | 美裔美国人 | Allianz Life Insurance data breach exposes 1.4 million Americans
+- [0790] | 3 | anti-Trump | Anti-Trump | 反特朗普 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0791] | 3 | arms | Arme | 军火 | A farewell to arms? Hamas considers its options
+- [0792] | 3 | assault | Körperverletzung | 攻击性攻击 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
+- [0793] | 3 | AstraZeneca’s | AstraZenecas | 阿斯特拉泽内卡的 | AstraZeneca’s falling out with Britain
+- [0794] | 3 | attacks | Angriffe | 攻击攻击 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
+- [0795] | 3 | attorney | Rechtsanwalt | 律师律师 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0796] | 3 | backlash | Rückspiel | 反弹反弹 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [0797] | 3 | beating | Schlagen | 殴打和打打 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0798] | 3 | become | werden | 成为 | The far north has become NATO’s soft underbelly, writes John Bolton
+- [0799] | 3 | becomes | wird | 成为 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
+- [0800] | 3 | been | wurde | 一直 | How to tell if your Samsung Galaxy tablet has been hacked
+- [0801] | 3 | being | dabei sein | 正在 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [0802] | 3 | Biden | Biden | 拜登 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [0803] | 3 | bizarre | bizarr | 奇异 | How to make sense of Donald Trump’s bizarre tariff rates
+- [0804] | 3 | Bolton | Bolton (Bolton). - (EN) Herr Präsident! | 博尔顿 | The far north has become NATO’s soft underbelly, writes John Bolton
+- [0805] | 3 | boom | Hochkonjunktur | 繁荣 | Who will pay for the trillion-dollar AI boom?
+- [0806] | 3 | breach | Verstoß | 违反 | Multiple US cancer centers hit in coordinated phishing breach
+- [0807] | 3 | breaking | Bruch | 间间间断 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
+- [0808] | 3 | bring | mitbringen | 带来 | Trump is taking decisive action to bring this critical industry back to American soil
+- [0809] | 3 | change | Veränderung | 变动 | Greenlash: how to move the needle on climate change
+- [0810] | 3 | charges | Gebühren | 费用 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [0811] | 3 | civil | Zivilrecht | 民事 民事 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
+- [0812] | 3 | climate | Klima | 气候气候 | Greenlash: how to move the needle on climate change
+- [0813] | 3 | come | kommen | 来来来来来来来来来来来来来来来来来来来来来来来来来来 | Tipping scales: justice for Gaza will have to come from within Israel
+- [0814] | 3 | commissioner” | Beauftragter | 专员” | The US in brief: DC gets an “emergency police commissioner”
+- [0815] | 3 | Confrontation | Konfrontation | 对抗 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
+- [0816] | 3 | considers | betrachtet | 考虑考虑 | A farewell to arms? Hamas considers its options
+- [0817] | 3 | contentedly | zufrieden | 内容内容满意 | Hello Kitty’s owner is purring contentedly
+- [0818] | 3 | couple | Paar | 夫妇数 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [0819] | 3 | dangerous | Gefährlich | 危险 | Facebook crypto ads lead to dangerous malware scams
+- [0820] | 3 | daughter | Tochter | 女 儿 儿 女 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [0821] | 3 | deadliest | Der tödlichste | 最致命 | Which are the deadliest European cities in a heatwave?
+- [0822] | 3 | debut | Debüt | 开始( 开始) | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [0823] | 3 | declares | erklärt | 声明 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
+- [0824] | 3 | Dem | Dem | 迪米( 迪米) | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
+- [0825] | 3 | Department | Abteilung | 部 部 部 | Justice Department weighs release of Ghislaine Maxwell interview
+- [0826] | 3 | dies | stirbt | 死 死 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [0827] | 3 | drugs | Drogen | 毒品毒品 毒品 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
+- [0828] | 3 | edge | Rand | 边缘边缘 | How McKinsey lost its edge
+- [0829] | 3 | elections | Wahlen | 选 选 选 选 | Could AI tilt the outcome of elections?
+- [0830] | 3 | Elon | Elon | 伊隆 | The Elon Musk theory of pay
+- [0831] | 3 | ex-boss | Ex-boss | 前主管 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
+- [0832] | 3 | expert | Sachverständiger | 专家专家 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [0833] | 3 | far | weit | 远远 | The far north has become NATO’s soft underbelly, writes John Bolton
+- [0834] | 3 | fast | schnell | 快速快速 | South America is fast becoming the world’s hottest oil patch
+- [0835] | 3 | Father | Vater | 父亲父亲父亲 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
+- [0836] | 3 | featuring | mit einer Breite von 2 mm oder mehr, jedoch nicht mehr als 2 mm, | 具有 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [0837] | 3 | Fee-asco | Gebührenszenario | 收费 | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
+- [0838] | 3 | final | endgültig | 期末 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [0839] | 3 | fiscal | steuerlich | 财政财政 | China’s local governments are approaching a fiscal black hole
+- [0840] | 3 | focuses | fokussiert | 焦点焦点 | As the world focuses on Gaza, starvation also looms in Sudan
+- [0841] | 3 | four | Vier | 四个 | Americans' perception of discrimination against Black people dropped in last four years
+- [0842] | 3 | fraud | Betrug | 欺诈欺诈 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [0843] | 3 | freedom | RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 4/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — RECHTSSACHE 3/63 — | 自由自由 | Degrees of freedom? Harvard’s shakedown dilemma
+- [0844] | 3 | funding | Finanzierung | 供资供资 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [0845] | 3 | gaining | Gewinnen | 正在获取 | Islamist parties are gaining ground in Malaysia
+- [0846] | 3 | God | Mein Gott! | 神神神神神神神神神神神神神神神神神神神神神神神神神神神神神神神,真主真主真主,上帝,上帝,上帝神神神神神,上帝,上帝,上帝,上帝,上帝,真主真主真主,上帝,上帝,上帝,上帝,真主真主真主,上帝,上帝,上帝,真主真主真主真主,真主真主,真主,上帝,上帝,上帝,真主真主真主真主真主,真主真主真主,真主真主,真主真主真主,真主真主真主真主真主,真主真主真主真主,真主真主,真主真主真主真主,真主真主,真主真主真主真主,真主真主真主真主真主,真主真主真主真主真主真主,真主真主真主真主,真主真主真主真主真主,真主真主真主真主真主真主,真主真主真主真主真主真主真主真主真主真主真主,真主真主真主真主真主真主真主,真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主神真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主真主 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [0847] | 3 | government | Regierung | 政府政府政府 | Lebanon’s government is taking on a weakened Hizbullah
+- [0848] | 3 | greet | grüßen | 问候 | How to greet people at work
+- [0849] | 3 | group | Gruppe | 组群 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
+- [0850] | 3 | Guard | Wache | 警卫警卫 | Trump's federal crime operation brings 100 arrests, 800 National Guard troops to Washington
+- [0851] | 3 | Hall | Saal | 厅厅厅厅厅 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [0852] | 3 | haunted | Gespenster | 闹鬼 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0853] | 3 | heatwave | Wärmewelle | 热热波 | Which are the deadliest European cities in a heatwave?
+- [0854] | 3 | Hello | Guten Tag. | 你好 你好 你好 你好 你好 你好 你好 你好 你好 | Hello Kitty’s owner is purring contentedly
+- [0855] | 3 | him | Er ist es. | 世 世 世 世 世 世 世 世 世 世 世 世 世 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
+- [0856] | 3 | himself | sich selbst | 他本人 | Cuban-born businessman enters NYC mayoral race, calls himself 'polar opposite' of Mamdani
+- [0857] | 3 | honors | Ehrungen | 荣誉荣誉荣誉 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [0858] | 3 | hottest | heißesten | 最热 | South America is fast becoming the world’s hottest oil patch
+- [0859] | 3 | hunt | Jagd | 狩猎 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [0860] | 3 | husband | Ehemann | 丈夫 丈夫 丈夫 丈夫 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [0861] | 3 | incident | Zwischenfall | 事件 事件 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [0862] | 3 | inevitable | unausweichlich | 不可避免的 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
+- [0863] | 3 | insurers | Versicherungsunternehmen | 承保人 | America’s ailing health insurers
+- [0864] | 3 | interstellar | interstellar | 星际星际际 | How to build a ship for interstellar travel
+- [0865] | 3 | Islamist | Islamistisch | 伊斯兰伊斯兰 | Islamist parties are gaining ground in Malaysia
+- [0866] | 3 | Island | Insel | 岛屿 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [0867] | 3 | Israeli | Israelisch | 以色列 以色列人 | Israeli sentiment on the war in Gaza is shifting
+- [0868] | 3 | issues | Fragen | 问题(问题) | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [0869] | 3 | itself | sich selbst | 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 本身 | Uber is readying itself for the driverless age—again
+- [0870] | 3 | Jason | - Jason. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 杰森·杰森 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
+- [0871] | 3 | Joe | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 乔 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [0872] | 3 | Jr | Jr. | 小小小小小 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [0873] | 3 | jury | Jury | 陪陪审团 | Cincinnati viral beating suspects face new charges in grand jury indictment
+- [0874] | 3 | keeps | hält | 保持 | The US in brief: Bowser keeps calm, Democrats rage
+- [0875] | 3 | Kieran | Kieran | 基兰 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
+- [0876] | 3 | Kitty’s | Kätzchen | 珍珠猫的 | Hello Kitty’s owner is purring contentedly
+- [0877] | 3 | Komin | Komin | 科明 | Mikhail Komin on why the Arctic is Putin’s next front
+- [0878] | 3 | Kurt | - Kurt. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 库尔特 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0879] | 3 | Lange | Lange | 朗朗 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0880] | 3 | Las | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 拉斯 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [0881] | 3 | last | Letzter | 最后一 | Americans' perception of discrimination against Black people dropped in last four years
+- [0882] | 3 | Liberal | Liberal | 自由自由自由 | Liberal Uruguay and the right to die
+- [0883] | 3 | like | Wie z.B. | 类似 | Why Italy’s next cultural capital looks like a disaster zone
+- [0884] | 3 | M | M . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | M 男 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
+- [0885] | 3 | Malaysia | Malaysia | 马来西亚 马来西亚 马来西亚 | Islamist parties are gaining ground in Malaysia
+- [0886] | 3 | me | ich | 我,我,我 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [0887] | 3 | MIKE | MIKE | 迈 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 麦 米    米  米   米  米    米   米   米   米  米     米     米    米 米         米      米 米     米     米     米       米                   米                                                                                   米 米 米             米 米  米 米 米 | MIKE DAVIS: A tale of two Russiagate heroes
+- [0888] | 3 | Mikhail | Mikhail | 米哈伊尔 | Mikhail Komin on why the Arctic is Putin’s next front
+- [0889] | 3 | milk | Milch | 牛奶牛奶 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [0890] | 3 | million | in Mio. | 百万百万 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [0891] | 3 | mother | Mutter | 母 母 母 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [0892] | 3 | multiple | Mehrfach | 多个数 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [0893] | 3 | Mulvaney | Mulvaney | 穆尔瓦尼 | Confrontation in the Arctic is not inevitable, argues Kieran Mulvaney
+- [0894] | 3 | Musk | Moschus | 松木 | The Elon Musk theory of pay
+- [0895] | 3 | name | Bezeichnung | 名称名称名称名称名称 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0896] | 3 | Nasaw | Nasaw | Nasaw 纳索 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0897] | 3 | NATO | NATO | 北约北约 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
+- [0898] | 3 | needs | Bedarf | 需要满足的需求 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
+- [0899] | 3 | Nico | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 尼科 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0900] | 3 | Nordisk’s | Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk - Nordisk | 诺 诺 斯 的 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
+- [0901] | 3 | Novo | ENTWICKLUNG UND ENTWICKLUNG | 诺伏 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
+- [0902] | 3 | obesity | Fettleibigkeit | 肥胖肥胖症 | The world needs more than drugs to fight obesity, writes Novo Nordisk’s ex-boss
+- [0903] | 3 | old | alt | 旧 | The four years when old New York died and a new one was born
+- [0904] | 3 | other | Sonstige | 其他 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [0905] | 3 | Pakistan’s | Pakistans | 巴基斯坦 | Pakistan’s army chief is cosying up to Donald Trump
+- [0906] | 3 | parties | Parteien | 缔约方 | Islamist parties are gaining ground in Malaysia
+- [0907] | 3 | parts | Teile | 部件 | The summit of its parts: Ukraine, Trump and Putin
+- [0908] | 3 | patch | Pflaster | 补贴补贴补和 | South America is fast becoming the world’s hottest oil patch
+- [0909] | 3 | phishing | Phishing | 网钓 | TSA warns of phishing scam targeting PreCheck travelers
+- [0910] | 3 | possible | möglich | 可能(可能) | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
+- [0911] | 3 | Post-traumatic | Posttraumatisch | 创伤后 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0912] | 3 | process | Prozess | 进程进程 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [0913] | 3 | purring | schnurren | 扫荡 | Hello Kitty’s owner is purring contentedly
+- [0914] | 3 | push | schieben | 推进 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [0915] | 3 | quadruple | Vierfach | 三倍 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [0916] | 3 | Quiz | Quiz | 质 问 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
+- [0917] | 3 | race | Rennen | 种族 种族 | Virginia school districts support for transgender students' rights in governor's race spotlight
+- [0918] | 3 | rates | Steuersätze | 费率费率 | How to make sense of Donald Trump’s bizarre tariff rates
+- [0919] | 3 | readying | Vorbereitung | 准备就绪 | Uber is readying itself for the driverless age—again
+- [0920] | 3 | release | Freigabe | 释放 | Justice Department weighs release of Ghislaine Maxwell interview
+- [0921] | 3 | released | freigegeben | 释放 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [0922] | 3 | return | Rückkehr | 返回返回 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [0923] | 3 | right | Recht | 右右右右右 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [0924] | 3 | rivals | Rivalen | 竞争对手 | Next top model: GPT-5 and its AI rivals
+- [0925] | 3 | run | Ausführen | 运行中 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [0926] | 3 | s | s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | s , s , s , s , s , s , s , s , s | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [0927] | 3 | saga | Saga | 长相 | Panama brings lawfare to the canal ports saga
+- [0928] | 3 | same | gleich | 相同 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [0929] | 3 | sanctuary | Heiligtum | 避难避难所 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [0930] | 3 | Sanders' | Schleifmaschinen | 桑德斯 | Deion Sanders' Colorado quarterback decision much tougher than years past
+- [0931] | 3 | see | siehe | 见见 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [0932] | 3 | sense | Sinn | 感知 | How to make sense of Donald Trump’s bizarre tariff rates
+- [0933] | 3 | sentiment | Einschätzung | 情绪 | Israeli sentiment on the war in Gaza is shifting
+- [0934] | 3 | Shadowboxing | Schattenboxen | 影子箱 | The US in brief: Shadowboxing in DC
+- [0935] | 3 | shark | Haifisch | 鲨鱼 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [0936] | 3 | ship | Schiff | 船舶船舶 | How to build a ship for interstellar travel
+- [0937] | 3 | social | Sozialer Bereich | 社 会 社 会 社 会 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 社 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [0938] | 3 | South-East | Süd-Osten | 东南 | Fee-asco: why Trump’s tariffs have hit South-East Asia so hard
+- [0939] | 3 | starvation | Hungersnot | 饥饿、饥饿和饥饿 | As the world focuses on Gaza, starvation also looms in Sudan
+- [0940] | 3 | states | Staaten | 状态 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
+- [0941] | 3 | stolen | gestohlen | 被盗 | The new geography of stolen goods
+- [0942] | 3 | stress | Stress | 压力应应应 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0943] | 3 | student | Schüler | 学生 学生 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
+- [0944] | 3 | study | Studie | 学习学习 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [0945] | 3 | suffers | leidet | 受 苦 人 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [0946] | 3 | Swift | Bewegen | Swift 快速移动 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
+- [0947] | 3 | Swimming | Schwimmen | 游泳游泳 | Swimming pools are cauldrons of envy, danger and lust
+- [0948] | 3 | Sydney | Sydney | 悉悉尼 | Sydney Sweeney jeans controversy making advertising great again
+- [0949] | 3 | Syrian | Syrisch | 叙利亚语叙利亚语Name 叙利亚语Name | The great Syrian beach trip
+- [0950] | 3 | takeover | Übernahme | 接管 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
+- [0951] | 3 | targeting | Zielerreichung | 目标目标 | TSA warns of phishing scam targeting PreCheck travelers
+- [0952] | 3 | Taylor | Taylor (S). - (EN) Herr Präsident! | 泰勒 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
+- [0953] | 3 | teacher | Lehrer | 教师 教师 教师 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
+- [0954] | 3 | team | Team | 团队团队 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [0955] | 3 | Tennessee | Tennessee | 田田 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
+- [0956] | 3 | themselves | sich selbst | 本国本身本身 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0957] | 3 | they | sie/Sie | 和 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [0958] | 3 | tied | gebunden | 捆绑 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [0959] | 3 | ties | Verbindungen | 连结 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [0960] | 3 | Tipping | Trinkgeld | 跳斗 | Tipping scales: justice for Gaza will have to come from within Israel
+- [0961] | 3 | tool | Werkzeug | 工具工具工具 | MIT tool visualizes and edits “physically impossible” objects
+- [0962] | 3 | toy | Spielzeug | 玩具 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [0963] | 3 | travel | Reise | 旅费 旅费 旅费 | How to build a ship for interstellar travel
+- [0964] | 3 | trillion-dollar | Billion Dollar | 万亿美元 | Who will pay for the trillion-dollar AI boom?
+- [0965] | 3 | turns | Drehungen | 旋转 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
+- [0966] | 3 | Uber | Uber . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | Uber( Uber) | Uber is readying itself for the driverless age—again
+- [0967] | 3 | underbelly | Unterkiefer | 下带 | The far north has become NATO’s soft underbelly, writes John Bolton
+- [0968] | 3 | unveils | Enthüllungen | 揭幕揭幕 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [0969] | 3 | urges | Drängen | 敦促 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [0970] | 3 | Vegas | Vegas | 拉斯维加斯 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [0971] | 3 | veterans | Veteranen | 退伍军人 | Post-traumatic stress disorder haunted millions of veterans of the second world war long before it had a name, writes David Nasaw
+- [0972] | 3 | Volker | Volker | Volker Volker 沃尔克 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0973] | 3 | warning | Warnung | 警告警告警告 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [0974] | 3 | weighs | wiegt | 称重 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [0975] | 3 | welcome | Willkommen | 欢迎欢迎 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [0976] | 3 | Which | Welche | 哪个 | Which are the deadliest European cities in a heatwave?
+- [0977] | 3 | without | ohne | 无 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [0978] | 3 | WNBA | WNBA | WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA WNBA | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [0979] | 3 | Woman | Frau | 女 女 妇女 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
+- [0980] | 3 | work | Arbeit | 工 工 工 工 工 工 工 工 工 工 | How to greet people at work
+- [0981] | 3 | write | schreiben | 写入 | How NATO’s European members can help Ukraine and help themselves, write Kurt Volker and Nico Lange
+- [0982] | 3 | x | x | x x | What’s your preferred playback speed: 1x, 1.5x or 2x?
+- [0983] | 3 | young | Jung | 青年 青年 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [0984] | 3 | yourself | Sie selbst | 亲 亲 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
+- [0985] | 3 | Zohran | Zohran | 佐赫兰 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
+- [0986] | 3 | zone | Zone | 区域 | On Ukraine’s front lines the kill zone is getting deeper
+- [0987] | 3 | “emergency | Notstandsfall | “紧急 | The US in brief: DC gets an “emergency police commissioner”
+- [0988] | 2 | 'a | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein | a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a 'a | Former Democratic advisor says party's rhetoric on redistricting is getting 'a little out of control'
+- [0989] | 2 | 'Don't | Nicht! | "别" | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
+- [0990] | 2 | 'Good | "Gute Arbeit. | 好 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [0991] | 2 | 'I | "Ich | '一 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [0992] | 2 | 'It's | Es ist | # 这是 # # # It's # # It's # | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [0993] | 2 | 'very | "sehr | "非常" | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
+- [0994] | 2 | Abbott | Abbott | Abbott | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
+- [0995] | 2 | abortion | Abtreibung | 堕胎堕胎 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
+- [0996] | 2 | account | Konto | 账户账户账户 | How to quickly recover a disabled Facebook account
+- [0997] | 2 | aid | Beihilfen | 援助援助援助组织 | The War Room newsletter: How receiving aid became fatal in Gaza
+- [0998] | 2 | Alaska | Alaska | 阿阿拉斯加 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
+- [0999] | 2 | alliance | Allianz | 联盟联盟 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [1000] | 2 | ally | verbündet | 盟友 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
+- [1001] | 2 | America's | Amerikas | 美国 | America's obsession with politicizing our children has got to stop
+- [1002] | 2 | Anderson | L 347 vom 20.12.2013, S. 671. | 安德森 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [1003] | 2 | anniversary | Jahrestag | 周年纪念十周年 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [1004] | 2 | appeals | Rechtsmittel | 上诉上诉 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [1005] | 2 | appears | erscheint | 显示时 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [1006] | 2 | Apple | Apfel | 苹果苹果 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [1007] | 2 | approaching | sich nähern | 接近 | China’s local governments are approaching a fiscal black hole
+- [1008] | 2 | Arkansas | Arkansas | 阿肯色州 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [1009] | 2 | Armenia | Armenien | 亚美尼亚 亚美尼亚 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
+- [1010] | 2 | ask | fragen | 问 问 问 问 | America’s biggest ask in Asia
+- [1011] | 2 | athlete | Sportler | 运动员 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [1012] | 2 | auction | Versteigerung | 拍卖拍卖 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [1013] | 2 | Austin | Austin | 奥斯汀 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
+- [1014] | 2 | Azerbaijan | Aserbaidschan | 阿塞拜疆 阿塞拜疆 阿塞拜疆 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
+- [1015] | 2 | baby | Baby | 婴 婴 婴 婴 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [1016] | 2 | bank | Bank | 银行银行 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
+- [1017] | 2 | Barrel | Fäule | 桶 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [1018] | 2 | Beckham | Beckham | 贝克汉 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [1019] | 2 | beer | Bier | 啤酒啤酒 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
+- [1020] | 2 | behavior | Verhalten | 行为行为 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
+- [1021] | 2 | behind | hinter | 落后 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
+- [1022] | 2 | bestseller | Bestseller | 最佳卖方 | The moral of “The Salt Path”, an embellished bestseller
+- [1023] | 2 | Betts | Betten | 贝都士 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [1024] | 2 | bid | Angebot | 投标投标投标 | Schwarzenegger pushing back against Newsom redistricting bid in California
+- [1025] | 2 | biggest | größte | 最大 | America’s biggest ask in Asia
+- [1026] | 2 | boat | Boot | 渔船 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [1027] | 2 | body | Körper | 体体 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [1028] | 2 | bold | fett | 粗黑体 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [1029] | 2 | Bolivia’s | Bolivien | 玻利维亚 | Bolivia’s crazy kingdom of coca
+- [1030] | 2 | Bondi | Anhang V. Teil 2.113 | 邦迪 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [1031] | 2 | born | geboren | 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 出生 | The four years when old New York died and a new one was born
+- [1032] | 2 | Bowser | Bowser | 弓箭 | The US in brief: Bowser keeps calm, Democrats rage
+- [1033] | 2 | boyfriend | Freund | 男朋友男朋友 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
+- [1034] | 2 | brawl | Krabbe | 中瓦瓦 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
+- [1035] | 2 | bread | Brot | 面包面包 | Las Vegas tourism controversies, plus 9 high-fiber bread options
+- [1036] | 2 | breaks | Brüche | 课间休息 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
+- [1037] | 2 | Brian | BRANKREICH | 布赖恩 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [1038] | 2 | Brinkley | Brinkley | 布林克利 | Christie Brinkley admits forever might be too long for modern marriage
+- [1039] | 2 | brother | Bruder | 哥 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [1040] | 2 | Browns | Braungewächse | 棕色 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
+- [1041] | 2 | called | aufgerufen | 调号 -- -- 调号 -- -- | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
+- [1042] | 2 | calling | Anrufen | 调来电话 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
+- [1043] | 2 | calm | Ruhe | 平静平静 | The US in brief: Bowser keeps calm, Democrats rage
+- [1044] | 2 | can't | Ich kann nicht. | 不能 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [1045] | 2 | cancel | Annullieren | 取消取消取消 | Denzel Washington blasts cancel culture, says faith matters more than followers
+- [1046] | 2 | Carolina | L 347 vom 20.12.2013, S. 671. | 卡罗来纳州 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [1047] | 2 | caught | gefangen | 被抓获 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
+- [1048] | 2 | cauldrons | Herstellen aus Vormaterialien jeder Position, ausgenommen aus Vormaterialien derselben Position wie die hergestellte Ware, ausgenommen aus Vormaterialien derselben Position wie die hergestellte Ware: | 二次烷 | Swimming pools are cauldrons of envy, danger and lust
+- [1049] | 2 | Cena's | Cena's | Cena 餐厅 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [1050] | 2 | Center | Zentrum | 中心中心中心 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
+- [1051] | 2 | changing | Änderungen | 变动 | DC police accused of changing crime stats just weeks before Trump federalized city
+- [1052] | 2 | Chargers' | Ladegeräte" | 充电器 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [1053] | 2 | chefs | Küchenchefs | 厨师 厨师 | Private chefs are spilling the culinary secrets of the super-rich
+- [1054] | 2 | chiefs | Häuptlinge | 酋长长 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
+- [1055] | 2 | chilling | Kühlen | 寒冷的寒冷 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [1056] | 2 | Christian | Christlich | 基督教 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [1057] | 2 | Christie | Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 克里斯蒂 | Christie Brinkley admits forever might be too long for modern marriage
+- [1058] | 2 | Chuck | - Chuck. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 恰克 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
+- [1059] | 2 | churches | Kirchen | 教堂教堂 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
+- [1060] | 2 | citing | unter Hinweis auf | 引用引用 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
+- [1061] | 2 | citizenship | Staatsangehörigkeit | 公民身份公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 公民 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [1062] | 2 | clean | sauber | 清洁 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
+- [1063] | 2 | Clintons | Clintons | 克林顿 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
+- [1064] | 2 | close | schließen | 关闭 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
+- [1065] | 2 | coca | Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain/Kokain | 古柯 | Bolivia’s crazy kingdom of coca
+- [1066] | 2 | cold | kalt | 冷冷 | Blighty newsletter: The Tories go cold on the gig economy
+- [1067] | 2 | collarbone | Schlüsselbein | 锁骨 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
+- [1068] | 2 | College | Hochschule | 学院学院学院学院 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [1069] | 2 | Colombia | Kolumbien | 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 | Álvaro Uribe, a former president of Colombia, is convicted
+- [1070] | 2 | Colorado | Colorado | 科罗拉多 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [1071] | 2 | Comer | Kommer | 计算器 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
+- [1072] | 2 | common | Häufig | 常见 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [1073] | 2 | community | Gemeinschaft | 社区社区 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [1074] | 2 | company | Unternehmen | 公司 公司 | Texas company creates drones to confront school shooters in seconds
+- [1075] | 2 | concerns | Bedenken | 关注的问题(关注的问题) | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
+- [1076] | 2 | confirms | bestätigt | 确认确认 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
+- [1077] | 2 | confront | konfrontieren | A. 面对挑战 | Texas company creates drones to confront school shooters in seconds
+- [1078] | 2 | connect | verbinden | 连接连接 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [1079] | 2 | Connor | Connor (S). - (EN) Herr Präsident! | 康纳 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
+- [1080] | 2 | continue | Weiter | 续续 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
+- [1081] | 2 | continues | weiter | 继续 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
+- [1082] | 2 | control | Kontrolle | 控制控制 | Jeanine Pirro says current DC justice system 'isn't cutting it' as Trump takes federal control
+- [1083] | 2 | control' | Kontrolle" | 控制控制' | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [1084] | 2 | controversy | Kontroverse | 争议 | Sydney Sweeney jeans controversy making advertising great again
+- [1085] | 2 | convicted | Verurteilt | 定罪人数 | Álvaro Uribe, a former president of Colombia, is convicted
+- [1086] | 2 | cosying | Gemütlichkeit | 正在读取 | Pakistan’s army chief is cosying up to Donald Trump
+- [1087] | 2 | Country | Empfänger | 国家 | Country music icon Jeannie Seely dead at 85
+- [1088] | 2 | Cowboys' | Cowboys" | 牛仔队 | Cowboys' Jerry Jones reveals scary skin cancer battle
+- [1089] | 2 | Cow’s | Kühe | 奶牛 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
+- [1090] | 2 | Cracker | Cracker | Cracker 裂开器 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [1091] | 2 | crazy | verrückt | 疯狂 | Bolivia’s crazy kingdom of coca
+- [1092] | 2 | create | erstellen | 创建创建创建创建 | How AI could create the first one-person unicorn
+- [1093] | 2 | credits | Kredite | 贷项 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
+- [1094] | 2 | criminal | Strafverbrecher | 刑事犯罪 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [1095] | 2 | critics | Kritiker | 批评者 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
+- [1096] | 2 | Crowds | Massen | 人群数 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [1097] | 2 | culinary | kulinarisch | 食 食 餐 | Private chefs are spilling the culinary secrets of the super-rich
+- [1098] | 2 | Cuomo | Die Kommission stellt fest, dass die in Artikel 2 Absatz 1 Buchstabe b der Verordnung (EU) Nr. 1308/2013 genannten Maßnahmen nicht mit dem Gemeinsamen Markt vereinbar sind. | 库莫 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
+- [1099] | 2 | current | Aktuell | 当前 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
+- [1100] | 2 | customers | Kunden | 客户客户 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [1101] | 2 | cut | Schnitt | 剪切剪切 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [1102] | 2 | DA | RECHTSSACHE 28/63 — URTEIL | 达 达 达 达 达 达 达 达 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [1103] | 2 | daddy | Papa | 爸爸( 爸爸) | Indonesia’s new president has daddy issues
+- [1104] | 2 | danger | Gefahren | 危险危险 | Swimming pools are cauldrons of envy, danger and lust
+- [1105] | 2 | day | Tag | 天天 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
+- [1106] | 2 | deadly | tödlich | 致命致命 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
+- [1107] | 2 | deals | Abkommen | 交易交易 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [1108] | 2 | deep | tief | 深深 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [1109] | 2 | defends | verteidigt | 防御防御 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [1110] | 2 | Degrees | Grade | 度度 | Degrees of freedom? Harvard’s shakedown dilemma
+- [1111] | 2 | Dei | ENTWICKLUNG | Dei | Inside Opus Dei
+- [1112] | 2 | Deion | Deion | 下沉 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [1113] | 2 | Den | Großbuchstaben | 丹 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [1114] | 2 | Denzel | Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel/Denzel | 丹泽 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [1115] | 2 | desk | Schreibtisch | 服务台 | Should you use a standing desk?
+- [1116] | 2 | desperately | verzweifelt | 极度绝望 | The message about motherhood the media desperately wants you to miss
+- [1117] | 2 | DHS | DHS | DHS 人口与健康调查 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [1118] | 2 | DiCaprio | DiCaprio | 迪卡普里奥 | Leonardo DiCaprio, 50, calls himself 'emotionally 32' in candid interview on aging
+- [1119] | 2 | die | sterben | 死 死 | Liberal Uruguay and the right to die
+- [1120] | 2 | died | gestorben | 死 死 死 | The four years when old New York died and a new one was born
+- [1121] | 2 | dilemma | Dilemma | 进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进 | Degrees of freedom? Harvard’s shakedown dilemma
+- [1122] | 2 | discovered | entdeckt | 发现 | Radioactive wasp nest discovered by workers at former nuclear bomb site
+- [1123] | 2 | dishes | Geschirr | 盘子 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [1124] | 2 | district | Bezirk | 区区 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
+- [1125] | 2 | districts | Bezirke | 区区 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
+- [1126] | 2 | dive | Tauchgang | 潜水 | Arctic plunge: Trump and Putin dive in
+- [1127] | 2 | divorce | Scheidung | 离婚离婚离婚 离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚离婚 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [1128] | 2 | Don't | Nicht! | 不要 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
+- [1129] | 2 | doubles | Verdoppelung | 双双 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [1130] | 2 | dramatic | dramatisch | 戏剧性 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
+- [1131] | 2 | Dream | Traum | 梦梦 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [1132] | 2 | driver | Fahrer | 驱动驱动 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
+- [1133] | 2 | dropped | fallen gelassen | 下降数 | Americans' perception of discrimination against Black people dropped in last four years
+- [1134] | 2 | drops | Tropfen | 滴滴滴滴数 | Russia drops missile deployment moratorium amid tensions with Trump admin
+- [1135] | 2 | due | fällig | 到期应付应付 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [1136] | 2 | Duterte’s | Zollschuldner | 独裁者 | What Sara Duterte’s comeback means for the Philippines
+- [1137] | 2 | early | Anfang | 早期 | New York Post expands west with California edition planned for early 2026
+- [1138] | 2 | Education | Bildung | 教育 教育教育 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [1139] | 2 | effort | Aufwand | 努力努力 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
+- [1140] | 2 | efforts | Anstrengungen | A. 努力努力 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
+- [1141] | 2 | election | Wahl | 选 选 选 选 选 选 选 选 选 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
+- [1142] | 2 | Elizabeth | Elisabeth | 伊丽莎白 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [1143] | 2 | embellished | verziert | 装饰 | The moral of “The Salt Path”, an embellished bestseller
+- [1144] | 2 | embraces | Umarmungen | 括号内 | Gen Z embraces the Bible in unexpected global spiritual awakening
+- [1145] | 2 | envy | Neid | 嫉妒 | Swimming pools are cauldrons of envy, danger and lust
+- [1146] | 2 | Epstein | Epstein | 爱普斯坦语Name | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
+- [1147] | 2 | ESPN | ESPN | ESTP ESP ESP ESP ESP ESP ESP ESTP ESP ESP ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESPN ESP | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [1148] | 2 | estranged | entfremdet | 调出 | Florida schedules execution for man who killed estranged wife's family, set house on fire
+- [1149] | 2 | Europe’s | Europa n s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 欧洲的欧洲 | Europe’s Hogwarts has a new Dumbledore
+- [1150] | 2 | exact | Genau | 精确 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [1151] | 2 | experts | Sachverständige | 专家专家专家 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [1152] | 2 | explains | erklärt | 解释解释 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
+- [1153] | 2 | exposes | Entblößt | 曝光 | Allianz Life Insurance data breach exposes 1.4 million Americans
+- [1154] | 2 | Facebook | Facebook | 脸书脸书 | How to quickly recover a disabled Facebook account
+- [1155] | 2 | faces | Gesichter | 面面 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [1156] | 2 | Fame | Ruhm | 名名 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [1157] | 2 | Famer | Famer | 时前 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [1158] | 2 | famous | berühmt | 出名 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [1159] | 2 | Fan | Ventilator | 风扇 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [1160] | 2 | fatal | tödlich | 致命 | The War Room newsletter: How receiving aid became fatal in Gaza
+- [1161] | 2 | fellow | Stipendiat | 相 相 相 相 相 人 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [1162] | 2 | Female | Frauen | 女性 女性 女性 | Female police officer leaps into water, fights career criminal before making arrest, video shows
+- [1163] | 2 | Fire | Feuer | 火火火 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [1164] | 2 | fishing | Fischerei | 渔业 | Go fishing without breaking the bank with these budget-friendly fishing gadgets
+- [1165] | 2 | fitness | Eignung | 健身 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [1166] | 2 | five | Fünf | 5, 5 5 | France’s top general says Russia could attack in five years
+- [1167] | 2 | fuels | Brennstoffe | 燃料燃料燃料燃料燃料 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
+- [1168] | 2 | gaming | Spielen | 游戏游戏 | Britain is a global gaming superpower
+- [1169] | 2 | Gen | Allgemeines | 常规 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [1170] | 2 | General | Allgemeines | 一般性一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般的言言言言的变一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般的一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般一般 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [1171] | 2 | Ghislaine | Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain/Ghislain | 吉斯莱人 | Justice Department weighs release of Ghislaine Maxwell interview
+- [1172] | 2 | gift | Geschenk | 赠礼礼物 | Donald Trump’s gift to Vladimir Putin
+- [1173] | 2 | gig | Gig | 工作( 工作) | Blighty newsletter: The Tories go cold on the gig economy
+- [1174] | 2 | girl | Mädchen | 女 女童 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [1175] | 2 | Girlfriend | Freundin | 女朋友 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
+- [1176] | 2 | Google | Google | 谷歌谷歌 | Google AI email summaries can be hacked to hide phishing attacks
+- [1177] | 2 | GOV | GOV | GOV 通用 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
+- [1178] | 2 | governments | RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSSACHE 2/63 — RECHTSÄM | 政府政府政府政府 | China’s local governments are approaching a fiscal black hole
+- [1179] | 2 | GPT- | GPT- | GPT - - - -GPT - - -GPT - | Next top model: GPT-5 and its AI rivals
+- [1180] | 2 | Greenlash | Grüner Schrägstrich | 绿火 | Greenlash: how to move the needle on climate change
+- [1181] | 2 | groups | Gruppen | 组群 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
+- [1182] | 2 | gunman | Schütze | 炮兵 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
+- [1183] | 2 | hacked | gehackt | 黑白( hacked) | Google AI email summaries can be hacked to hide phishing attacks
+- [1184] | 2 | hardest | am härtesten | 最难 | The world’s hardest makeover: Hamas
+- [1185] | 2 | Harris' | Harris' | 哈里斯' | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [1186] | 2 | Harvard’s | Harvard's | 哈佛的 | Degrees of freedom? Harvard’s shakedown dilemma
+- [1187] | 2 | headlines | Schlagzeilen | 标题标题 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [1188] | 2 | heads | Kopf | 头头 | Humanoid robot turns heads at NYC sneaker store
+- [1189] | 2 | helps | hilft | 帮助帮助 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [1190] | 2 | Here's | Hier ist es. | 给 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [1191] | 2 | high-fiber | Hochfaser | 高纤维 | Las Vegas tourism controversies, plus 9 high-fiber bread options
+- [1192] | 2 | high-stakes | hohe Aufnahmemengen | 高取量 | Trump closes out 30th week in office with 'very warm' high-stakes Putin meeting
+- [1193] | 2 | Hiker | Wanderer | 希入者 | Hiker made fatal mistake when encountering poisonous snake, officials believe
+- [1194] | 2 | hiking | Wandern | 徒 徒 徒 徒 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [1195] | 2 | historic | historisch | 历史历史历史 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [1196] | 2 | Hizbullah | Hizbullah | 真主党真主党 | Lebanon’s government is taking on a weakened Hizbullah
+- [1197] | 2 | hole | Loch | 空洞 | China’s local governments are approaching a fiscal black hole
+- [1198] | 2 | home-grown | Eigenanbau | 土产 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [1199] | 2 | hopeful | hoffnungsvoll | 有希望 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
+- [1200] | 2 | hundreds | Hunderte | 百 数百 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
+- [1201] | 2 | I'm | Ich bin | 我... 我... 我... 我... | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [1202] | 2 | identity | Identität | 身份身份 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [1203] | 2 | indefinite | unbestimmt | 无限期 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [1204] | 2 | Indonesia’s | Indonesien | 印度尼西亚 | Indonesia’s new president has daddy issues
+- [1205] | 2 | Intel | Datenverarbeitungsgeräte | 英特尔 | What might Trumpian meddling mean for Intel?
+- [1206] | 2 | investigators | Ermittler | 调查员 调查员 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [1207] | 2 | isn't | ist es nicht | # 不是 # # 不是 # # # 不是 # #不是 # #不是 # #不是 # #不是 # #不是 # # #不是 # #不是 # # #不是 # # #不是 # # #不是 # # # #不是 # # #不是 # # # # #不是 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
+- [1208] | 2 | isn’t | Ist nicht | 不是“不是” | The nightmare of a Trump-Putin pact isn’t over
+- [1209] | 2 | it' | Es ist nicht möglich. | 约 约 约 约 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [1210] | 2 | it's | Es ist | 这是 | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
+- [1211] | 2 | Italy’s | Italien | 意大利 | Why Italy’s next cultural capital looks like a disaster zone
+- [1212] | 2 | JD | JD | 日军 | JD Vance says he's 'obsessed' with eerie UFO videos
+- [1213] | 2 | Jerry | - Jerry. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 杰瑞·杰里 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [1214] | 2 | Jim | UMWELT | 吉姆 Jim | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [1215] | 2 | jokes | Witze | 笑话 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1216] | 2 | Jones | Jones | 琼斯·琼斯 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [1217] | 2 | journalists | Journalisten | 记者记者 | The killing of journalists in Gaza
+- [1218] | 2 | keep | zu halten | 保留 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [1219] | 2 | Kelce | Kelz | 开 开 开 开 开 开 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
+- [1220] | 2 | Kelly | Kelly | 凯利 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [1221] | 2 | Kentucky | Kentucky | 肯塔基州 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [1222] | 2 | key | Schlüssel | 键键 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
+- [1223] | 2 | kill | Töten | 杀 | On Ukraine’s front lines the kill zone is getting deeper
+- [1224] | 2 | killing | Töten | 杀杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 | The killing of journalists in Gaza
+- [1225] | 2 | Kim | K.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I.I..................................................................................................................................................................................................................................................... | 金金 | South Korea's move to lower tensions with Kim Jong Un threatens 400,000 Christians
+- [1226] | 2 | kingdom | Königreich | 王国 | Bolivia’s crazy kingdom of coca
+- [1227] | 2 | Lane | Lane | 巷 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
+- [1228] | 2 | large | groß | 大型 | Seth Rollins looms large at SummerSlam amid possible knee injury
+- [1229] | 2 | law | Recht | 法律 法律 法律 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [1230] | 2 | lawsuit | Klage | 诉讼案件数量 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [1231] | 2 | lawyer | Rechtsanwalt | 律师律师 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
+- [1232] | 2 | leads | Leitungen | 铅铅 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [1233] | 2 | leaves | Blätter | 叶叶叶 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [1234] | 2 | Lebanon’s | Libanon | 黎巴嫩 黎巴嫩 | Lebanon’s government is taking on a weakened Hizbullah
+- [1235] | 2 | Leonardo | LEONARDO | 莱昂纳多 | Leonardo DiCaprio, 50, calls himself 'emotionally 32' in candid interview on aging
+- [1236] | 2 | LETITIA | LETITIEN | 立陶宛 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
+- [1237] | 2 | Light | Leicht | 照明灯 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
+- [1238] | 2 | lust | Lust | 情欲 | Swimming pools are cauldrons of envy, danger and lust
+- [1239] | 2 | lustre | Glanz | 色 | Wax off: Has McKinsey lost its lustre?
+- [1240] | 2 | Mace | Maul- und Klauenseuche | Mace 磁石 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [1241] | 2 | makeover | Verjüngungskur | 改 改 | The world’s hardest makeover: Hamas
+- [1242] | 2 | Mamdani's | Mamdani's | 曼达尼的 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [1243] | 2 | marriage | Ehe | 婚姻婚姻 | Christie Brinkley admits forever might be too long for modern marriage
+- [1244] | 2 | martyr | Märtyrer | 烈士 | A martyr in the making?
+- [1245] | 2 | match | Übereinstimmung | 匹配匹配 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [1246] | 2 | Maui | Maui | 毛毛毛 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
+- [1247] | 2 | Maxwell | Maxwell | 马克韦 | Justice Department weighs release of Ghislaine Maxwell interview
+- [1248] | 2 | mayor | Bürgermeister | 市长 市长 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [1249] | 2 | mayoral | Bürgermeister | 水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、水、 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [1250] | 2 | mean | Mittelwert | 中平均值 | What might Trumpian meddling mean for Intel?
+- [1251] | 2 | means | Mittel | 中指 | What Sara Duterte’s comeback means for the Philippines
+- [1252] | 2 | meddling | Einmischen | 插插 | What might Trumpian meddling mean for Intel?
+- [1253] | 2 | Melania | Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien/Melanien | 梅拉尼亚语Name | Melania Trump commemorates 200 days since resuming role as first lady
+- [1254] | 2 | migrant | Zuwanderer | 移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民移民 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [1255] | 2 | migrants | Migranten | 移民移民移民 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [1256] | 2 | military | Militärisch | 军事 军事 | Female military recruits surge across all service branches
+- [1257] | 2 | mirror | Spiegel | 镜镜镜 | Ziad Rahbani held a mirror to Lebanese society
+- [1258] | 2 | miss | Verpassen | 错过 | The message about motherhood the media desperately wants you to miss
+- [1259] | 2 | MIT | MIT | 麻 麻 三 | MIT tool visualizes and edits “physically impossible” objects
+- [1260] | 2 | model | Modell | 模型模型模型模型 | Next top model: GPT-5 and its AI rivals
+- [1261] | 2 | money | Geld | 货币 货币 | Race, power and money in South Africa
+- [1262] | 2 | Mookie | Mookie | 穆奇语Name | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [1263] | 2 | moral | sittlich | 道德、道德、道德、 | The moral of “The Salt Path”, an embellished bestseller
+- [1264] | 2 | motherhood | Mutterschaft | 母 母 母 母 母 | The message about motherhood the media desperately wants you to miss
+- [1265] | 2 | murders | Morde | 谋杀 谋杀 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [1266] | 2 | Nancy | Nancy | 南希 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [1267] | 2 | NASCAR | NASCAR | NASCAR 海军 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
+- [1268] | 2 | nears | naht | 近近 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
+- [1269] | 2 | needle | Injektionsnadel | 针针 | Greenlash: how to move the needle on climate change
+- [1270] | 2 | Night | Nacht | 夜间 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [1271] | 2 | nixes | nixes | 硝 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [1272] | 2 | no | Nein | 无 无 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [1273] | 2 | Obama | Obama | 奥巴马 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [1274] | 2 | Oct | Oktober | 10月 10月 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [1275] | 2 | officer | Beamter | 干事 干事 | Female police officer leaps into water, fights career criminal before making arrest, video shows
+- [1276] | 2 | official | amtlich | 公务 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [1277] | 2 | once | 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 2 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x 1 x | 一次 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [1278] | 2 | one-person | eine Person | 一人一人 | How AI could create the first one-person unicorn
+- [1279] | 2 | online | online | 在线在线 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
+- [1280] | 2 | opens | geöffnet | 打开 | Ex-NBA star's pregnant wife opens up about shark attack: 'I don't want to die'
+- [1281] | 2 | Opus | Opus | Opus 功能 | Inside Opus Dei
+- [1282] | 2 | others | Sonstige | 其他 其他 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
+- [1283] | 2 | our | unsere | 我们的 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [1284] | 2 | outcome | Ergebnis | 结果结果 | Could AI tilt the outcome of elections?
+- [1285] | 2 | overhaul | Überholung | 大修 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [1286] | 2 | Ozzy | Ozzy | 奥兹 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [1287] | 2 | Pacific | Pazifischer Ozean | 太平洋 | The War Room newsletter: Seven of the best books on the Pacific war
+- [1288] | 2 | pact | Pakt | 协约约约约 | The nightmare of a Trump-Putin pact isn’t over
+- [1289] | 2 | pastor | Pfarrer | 牧师 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [1290] | 2 | Path” | Pfad | 路径” | The moral of “The Salt Path”, an embellished bestseller
+- [1291] | 2 | Philippines | Philippinen | 菲律宾 菲律宾 菲律宾 | What Sara Duterte’s comeback means for the Philippines
+- [1292] | 2 | plans | Pläne | 计划计划 | It's not just Democrats. Socialist Mamdani's plans should worry Republicans nationwide
+- [1293] | 2 | play | Spiel | 播放播放 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [1294] | 2 | playing | Spielen | 播放播放 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [1295] | 2 | plunge | Eintauchen | 崩溃 | Arctic plunge: Trump and Putin dive in
+- [1296] | 2 | plus | zuzüglich | 加加 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [1297] | 2 | pools | Pools | 集合集合 | Swimming pools are cauldrons of envy, danger and lust
+- [1298] | 2 | potential | Potenzial | 潜在潜力 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [1299] | 2 | praises | Lobpreisung | 赞美赞美 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [1300] | 2 | press | Presse | 新闻报社 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
+- [1301] | 2 | Prosecutors | Staatsanwälte | 检察官 检察官 检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官检察官 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [1302] | 2 | protesters | Demonstranten | 抗议示威者 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
+- [1303] | 2 | pushes | Drücker | 推键 | Hamas endgame is ‘long-term’ and is playing out for all to see as Israel pushes deeper into Gaza
+- [1304] | 2 | quarterback | Quartalsrückstand | 四分卫 | Deion Sanders' Colorado quarterback decision much tougher than years past
+- [1305] | 2 | Rams | Ramsen | 拉姆 | Chargers' Quentin Johnston suffers concussion on hard hit from Rams defensive back
+- [1306] | 2 | Rare | Selten | 稀少 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [1307] | 2 | react | reagieren | 反应 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [1308] | 2 | reality | Wirklichkeit | 现实现实 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [1309] | 2 | reporters | Bericht erstattende Stellen | 记者记者 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1310] | 2 | Republican | Republikaner | 共和共和共和 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
+- [1311] | 2 | residents | Gebietsansässige | 居民 居民 居民 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
+- [1312] | 2 | reveal | offenlegen | 显示显示 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
+- [1313] | 2 | rhetoric | Rhetorik | 单词 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [1314] | 2 | ring | Ring | 环环 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
+- [1315] | 2 | rip | Rip | 下拉 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
+- [1316] | 2 | runs | läuft | 运行中 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
+- [1317] | 2 | Rush | Rush | 摇摇 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
+- [1318] | 2 | Russian-run | Russischer Lauf | 俄语运行 | The Russian-run town squatting on NATO territory
+- [1319] | 2 | safety | Sicherheit | 安全 安全 安全 安全 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
+- [1320] | 2 | Salt | Salz | 盐盐 | The moral of “The Salt Path”, an embellished bestseller
+- [1321] | 2 | Samsung | SAMMLUNG DER RECHTSPRECHUNG DES GERICHTSHOFES | 三星 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
+- [1322] | 2 | Sanders | Schleifmaschinen | 桑德斯 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [1323] | 2 | Sara | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 萨拉 | What Sara Duterte’s comeback means for the Philippines
+- [1324] | 2 | scales | Waagen | 比额表 | Tipping scales: justice for Gaza will have to come from within Israel
+- [1325] | 2 | scam | Betrug | 骗骗骗骗骗 | TSA warns of phishing scam targeting PreCheck travelers
+- [1326] | 2 | scams | Betrug | 骗骗骗 | How scammers exploit your data for 'pre-approved' retirement scams
+- [1327] | 2 | scene | Szene | 现场现场 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [1328] | 2 | scrutiny | Prüfung | 检查检查 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
+- [1329] | 2 | search | Suchen | 搜索搜索 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
+- [1330] | 2 | season | Jahreszeit | 季节季节 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [1331] | 2 | seat | Sitz | 位数 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
+- [1332] | 2 | secrets | Geheimnisse | 机密机密 | Private chefs are spilling the culinary secrets of the super-rich
+- [1333] | 2 | security | Sicherheit | 安全安全 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [1334] | 2 | seek | suchen | 寻找 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
+- [1335] | 2 | seeks | sucht | a. 寻求 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [1336] | 2 | set | eingestellt | 集集集集集集集 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
+- [1337] | 2 | Seven | Sieben | 七号七 | The War Room newsletter: Seven of the best books on the Pacific war
+- [1338] | 2 | shakedown | Shakedown | 抖动 | Degrees of freedom? Harvard’s shakedown dilemma
+- [1339] | 2 | Shannon | Shannon (Sänger). - (EN) Herr Präsident, meine Damen und Herren! | 香香香 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [1340] | 2 | shares | Anteile | 股份 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [1341] | 2 | sharing | Teilen | 共享共享共享 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [1342] | 2 | Sharon | Sharon | 沙龙 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [1343] | 2 | Sharpe | Schärfen | 锐化 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [1344] | 2 | Shedeur | Shedeur | 谢德 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
+- [1345] | 2 | shifting | Verschiebung | 移动 | Israeli sentiment on the war in Gaza is shifting
+- [1346] | 2 | sign | Zeichen | 符号符号符号 | Three states sign new agreements with ICE for expanded immigration enforcement operations
+- [1347] | 2 | slam | slam | 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚, 滚 | Crying foul: opponents slam the uneven EU-US trade deal
+- [1348] | 2 | slams | Zuschläge | 滚 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
+- [1349] | 2 | socialist | Sozialist | 社会主义社会主义 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
+- [1350] | 2 | sparks | Funken | 火花 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
+- [1351] | 2 | special | besonders | 特别特别特别 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
+- [1352] | 2 | spilling | Ausschüttung | 溢出物, | Private chefs are spilling the culinary secrets of the super-rich
+- [1353] | 2 | sports | Sport | 运动 运动 运动 运动 运动 运动 运动 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
+- [1354] | 2 | squatting | Kniebeugen | 占居 | The Russian-run town squatting on NATO territory
+- [1355] | 2 | standing | stehend | 现职 | Should you use a standing desk?
+- [1356] | 2 | state's | Staat | 状态 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [1357] | 2 | stay | bleiben | 停留停留 | You can eat bread and stay fit: Here are 9 high-fiber options from a health coach
+- [1358] | 2 | steps | Schritte | 步骤 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [1359] | 2 | storm | Sturm | 暴风雨 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
+- [1360] | 2 | struck | geschlagen | 击打 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [1361] | 2 | students | Schüler | 学生 学生 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
+- [1362] | 2 | submarines | U-Boote | 潜艇 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
+- [1363] | 2 | suffered | Erleidet | 遭受损失的 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
+- [1364] | 2 | super-rich | superreich | 超富 | Private chefs are spilling the culinary secrets of the super-rich
+- [1365] | 2 | superpower | Superkraft | 超强 | Britain is a global gaming superpower
+- [1366] | 2 | support | Unterstützung | 支助支助 | Virginia school districts support for transgender students' rights in governor's race spotlight
+- [1367] | 2 | supporters | Unterstützer | 支持者 | Cuomo supporters look to wealthy enclave to take down Mamdani: report
+- [1368] | 2 | supporting | Unterstützung | 支助支助 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
+- [1369] | 2 | surge | Überspannung | 快速激增 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [1370] | 2 | suspects | Verdächtige | 嫌疑人 | Mass shooting at NYC lounge leaves at least 3 dead, others injured; suspects at large
+- [1371] | 2 | Sweeney | Sweeney | 斯威尼 | Sydney Sweeney jeans controversy making advertising great again
+- [1372] | 2 | table' | Tabelle" | 表格表格 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
+- [1373] | 2 | tech | TECHNOLOGIE UND TECHNOLOGIE | 科技 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
+- [1374] | 2 | telecoms | Telekommunikation | 电信 | Can a home-grown telecoms firm connect South Sudan to the world?
+- [1375] | 2 | tell | sagen | 线对线( T) | How to tell if your Samsung Galaxy tablet has been hacked
+- [1376] | 2 | tensions | Spannungen | 紧张局势 | Russia drops missile deployment moratorium amid tensions with Trump admin
+- [1377] | 2 | territory | Gebiet | 领土领土 | The Russian-run town squatting on NATO territory
+- [1378] | 2 | threat | Bedrohung | 威胁威胁 | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
+- [1379] | 2 | threatening | bedrohlich | 威胁 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [1380] | 2 | threatens | droht | 威胁 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [1381] | 2 | tilt | Neigung | 倾斜倾斜 | Could AI tilt the outcome of elections?
+- [1382] | 2 | Times | Zeiten | 时时时时时时 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [1383] | 2 | Todd | Todd | 托德 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
+- [1384] | 2 | tougher | härter | 更坚硬 | AI helps chemists develop tougher plastics
+- [1385] | 2 | tour | Besichtigung | 参观参观参观参观 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
+- [1386] | 2 | tourism | Tourismus | 旅游旅游 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
+- [1387] | 2 | tourists | Touristen | 游客 游客 游客 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [1388] | 2 | Travis | Travis | 特拉维斯 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
+- [1389] | 2 | treatment | Behandlung | 治疗治疗 | Teddi Mellencamp struggles with speech following cancer treatment
+- [1390] | 2 | tribute | Huldigung | 致敬致敬 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [1391] | 2 | truancy | truancy | 旷课 | The US in brief: T for Texas, T for truancy
+- [1392] | 2 | TV | Fernsehen | 电视电视电视电视 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [1393] | 2 | UN | UN | 联合国 联合国 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [1394] | 2 | unicorn | Einhorn | 独角兽 | How AI could create the first one-person unicorn
+- [1395] | 2 | up' | aufwärts" | 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, 向上, | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
+- [1396] | 2 | urging | Dringend | 促请 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [1397] | 2 | Uribe | Uribe | 乌里韦 | Álvaro Uribe, a former president of Colombia, is convicted
+- [1398] | 2 | Uruguay | Uruguay | 乌拉圭 | Liberal Uruguay and the right to die
+- [1399] | 2 | US-India | USA-Indien | 美国-印度 | Cow’s milk, as well as Russian oil, fuels the US-India trade war
+- [1400] | 2 | use | Verwendung | 使用 | Should you use a standing desk?
+- [1401] | 2 | Vance | Vance | 频率 | JD Vance says he's 'obsessed' with eerie UFO videos
+- [1402] | 2 | vehicles | Fahrzeuge | 车辆车辆 | Where will be the Detroit of electric vehicles?
+- [1403] | 2 | Victory | Sieg | 胜利 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
+- [1404] | 2 | videos | Videos | 视频视频视频 | JD Vance says he's 'obsessed' with eerie UFO videos
+- [1405] | 2 | Virginia | Virginia | 弗吉尼亚州 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
+- [1406] | 2 | visitors | Besucher | 访 访 访 访 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
+- [1407] | 2 | vows | Gelübde | 誓言 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
+- [1408] | 2 | vs | vs. | Vs 和 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
+- [1409] | 2 | walkout | Spaziergang | 滚出 | Abbott, Texas Republicans launch new Trump-backed redistricting push as fleeing Democrats plan to end walkout
+- [1410] | 2 | warned | gewarnt | 警告 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [1411] | 2 | warrants | Haftbefehle | 授权书 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
+- [1412] | 2 | water | Wasser | 水 水 | Female police officer leaps into water, fights career criminal before making arrest, video shows
+- [1413] | 2 | Wax | Wachs | 轴速 | Wax off: Has McKinsey lost its lustre?
+- [1414] | 2 | weakened | geschwächt | 被弱化的 | Lebanon’s government is taking on a weakened Hizbullah
+- [1415] | 2 | Wealthy | Reichlich | 财富财富 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [1416] | 2 | weeks | Wochen | 周数 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [1417] | 2 | while | während | 时时 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
+- [1418] | 2 | wild | wild | 野 野 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [1419] | 2 | Wilson | Wilson | 威尔逊 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [1420] | 2 | within | innerhalb | 内 | Tipping scales: justice for Gaza will have to come from within Israel
+- [1421] | 2 | women's | Frauen | 妇女、妇女、妇女、 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [1422] | 2 | women’s-sports | Frauen-Sport | 妇女体育 | The year of the women’s-sports bar
+- [1423] | 2 | won't | wird es nicht | 不会 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1424] | 2 | workers | Arbeitnehmer | 工人 工人 | Radioactive wasp nest discovered by workers at former nuclear bomb site
+- [1425] | 2 | yacht | Yacht | 游游艇 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
+- [1426] | 2 | Yankees | Yankees | 扬基人 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [1427] | 2 | year | Jahr | 年份 | The year of the women’s-sports bar
+- [1428] | 2 | you' | Sie" | 贵 国 家 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [1429] | 2 | Z | Z. ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNGEN | 兹 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [1430] | 2 | Zilisch | Zilisch | 兹里希 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
+- [1431] | 2 | Álvaro | Álvaro | 阿尔瓦罗 | Álvaro Uribe, a former president of Colombia, is convicted
+- [1432] | 2 | ‘The | L 347 vom 20.12.2013, S. 671. | `我们 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [1433] | 1 | 'afraid' | "befürchtet" | "害怕" | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
+- [1434] | 1 | 'Ain't | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 内,内,内 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
+- [1435] | 1 | 'alarming' | "Bewaffnung" | (武装) | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [1436] | 1 | 'Aquaman' | "Aquaman" | "水路人" | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
+- [1437] | 1 | 'arrest' | "Verhaftet" | "逮捕" | Beach visitors risk 'arrest' for swimming without lifeguard following tragic incident
+- [1438] | 1 | 'associates' | „Assoziierte" | “ 联营公司 ” | Tennessee 'associates' of quadruple murder suspect arrested
+- [1439] | 1 | 'Bachelor' | "Bachelor" | "学士" | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [1440] | 1 | 'Baywatch' | "Baywatch" | "日光观察" | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [1441] | 1 | 'big | Groß | # 大 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1442] | 1 | 'blew | "Braut" | “ 利布” | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
+- [1443] | 1 | 'boy | Junge | "男孩" | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
+- [1444] | 1 | 'brutally | "brutal | 轻轻地 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
+- [1445] | 1 | 'bug | Käfer | 'bug" 错误 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [1446] | 1 | 'Can't | Kann ich nicht. | "不能" | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
+- [1447] | 1 | 'clever' | "Klever" | # 包括 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
+- [1448] | 1 | 'cold | "Kälte" | 寒冷 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
+- [1449] | 1 | 'comfortable' | "bequem" | "舒适" | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1450] | 1 | 'concern | "Besorgung | '关注 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
+- [1451] | 1 | 'Continue | "Weiter | 继续 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
+- [1452] | 1 | 'cover-up' | "Aufdeckung" | "掩盖" | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
+- [1453] | 1 | 'created | "geschaffen | 创建 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [1454] | 1 | 'crooked | "gestrichen | # 被大声 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
+- [1455] | 1 | 'Cruelty | "Wahrheit | 克鲁蒂 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [1456] | 1 | 'damage | "Schaden" | '损害 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [1457] | 1 | 'Dancing | "Tanzen | 跳舞 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
+- [1458] | 1 | 'Democrat | "Demokrat | 民主派 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [1459] | 1 | 'emergency | "Notfall" | '紧急 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
+- [1460] | 1 | 'emotionally | "emotional" | 情感 | Leonardo DiCaprio, 50, calls himself 'emotionally 32' in candid interview on aging
+- [1461] | 1 | 'engulfed' | "gespalten" | "孕育" | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
+- [1462] | 1 | 'ERIC | „ERIC | 埃里克 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [1463] | 1 | 'fall | Fall | 失败 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [1464] | 1 | 'false | "falsch" | “ 虚假” | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
+- [1465] | 1 | 'federalize' | "föderalisieren" | "联邦化" | Trump is threatening to 'federalize' DC with National Guard and more. Here's how that could play out
+- [1466] | 1 | 'General | "Allgemeines | 常规 ' 常规 ' 常规 ' | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
+- [1467] | 1 | 'good' | "gut" | "好" | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
+- [1468] | 1 | 'Gotta | "Gotta" | 上加 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
+- [1469] | 1 | 'grind | "Grind" | 'grind 农业 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [1470] | 1 | 'growing | "Wachstum" | 增长 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
+- [1471] | 1 | 'hate' | "Hass" | "仇恨" | Cracker Barrel customers 'hate' restaurant chain's new look in viral social media videos
+- [1472] | 1 | 'He | 'Er ist's. | "他" | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
+- [1473] | 1 | 'He's | Er ist | # 他 # # 他 # # 他 # # He's # He # | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [1474] | 1 | 'health | Gesundheitsschutz | 健康 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [1475] | 1 | 'highly | "hoch" | "高高" | Ghislaine Maxwell prison transfer called 'highly unusual' by former federal prison official
+- [1476] | 1 | 'Hillbilly | "Hillbilly" | 万岁 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [1477] | 1 | 'hostile' | "feindliche" | "敌对" | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
+- [1478] | 1 | 'in | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 在 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
+- [1479] | 1 | 'interviewing' | "Interviewing" | 访谈 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [1480] | 1 | 'isn't | "ist nicht | "不是" | Jeanine Pirro says current DC justice system 'isn't cutting it' as Trump takes federal control
+- [1481] | 1 | 'It | "Es ist | # 它 # # # 它 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
+- [1482] | 1 | 'It’s | Es ist | "它" | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
+- [1483] | 1 | 'Just | "Nur | 只是 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [1484] | 1 | 'Left | Links | 左左 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
+- [1485] | 1 | 'Legitimate | "Legitimiert | “ 隐名 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
+- [1486] | 1 | 'MAGA | MAGA | MAGA( MAGA) | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [1487] | 1 | 'Make | "Machen | 制造 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [1488] | 1 | 'mega-fire' | "Megafeuer" | "超火" | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
+- [1489] | 1 | 'Messed | "Gemessen | 先生 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [1490] | 1 | 'most | "die meisten | 最 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [1491] | 1 | 'Next | "Weiter | '下一个 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [1492] | 1 | 'No | "Nein | 没有 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [1493] | 1 | 'nowhere | "Nirgendwo | 无处 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [1494] | 1 | 'obsessed' | "besessen" | 隐隐 | JD Vance says he's 'obsessed' with eerie UFO videos
+- [1495] | 1 | 'old | "alt | 旧 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [1496] | 1 | 'Only | Nur | 只有 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
+- [1497] | 1 | 'Orwellian' | "Orwellian" | "奥利安人" | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
+- [1498] | 1 | 'overblown | "Überschwemmung" | 过度 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
+- [1499] | 1 | 'Party | Parteien | '缔约方 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [1500] | 1 | 'piling | "Piling" | '铺面 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [1501] | 1 | 'play | "Spielen | 播放 | Illinois substitute teacher had sex with 11-year-old student during 'play dates,' police say
+- [1502] | 1 | 'polar | polar | “ 极地” | Cuban-born businessman enters NYC mayoral race, calls himself 'polar opposite' of Mamdani
+- [1503] | 1 | 'pre-approved' | „vorbewilligt" | “事先批准” | How scammers exploit your data for 'pre-approved' retirement scams
+- [1504] | 1 | 'ranting | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 兰丁 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [1505] | 1 | 'reprehensible' | "verwerflich" | "可以想象的" | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
+- [1506] | 1 | 'run | Laufen | 运行 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
+- [1507] | 1 | 'runs | L 347 vom 20.12.2013, S. 671. | 运行 | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
+- [1508] | 1 | 'safe | "sicher" | '安全安全 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
+- [1509] | 1 | 'screwed | Geschraubt | 被缝熟的 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
+- [1510] | 1 | 'secondhand | Aus zweiter Hand | '二手 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [1511] | 1 | 'six | Sechs | 六岁 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [1512] | 1 | 'snubbed' | "gebrüllt" | 缩略( snubbbed) | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
+- [1513] | 1 | 'somebody | Irgendjemand | 某个人 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [1514] | 1 | 'Southern | „Süden" | '南方 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
+- [1515] | 1 | 'Super | "Super | 超级 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [1516] | 1 | 'supercharging' | "Überladung" | "超高收费" | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
+- [1517] | 1 | 'taking | "Einnehmen" | ' 采取 | Chuck Todd warns that Dems are falling into Trump’s trap, 'taking the bait' on redistricting
+- [1518] | 1 | 'terrorist | "Terrorist" | '恐怖主义 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
+- [1519] | 1 | 'the | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 爱的 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [1520] | 1 | 'too | "zu | '太过 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [1521] | 1 | 'under | "unter | 下 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
+- [1522] | 1 | 'unforgiving' | "Unverzeihlich" | "无罪" | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [1523] | 1 | 'unlawful' | "ungesetzlich" | "非法" | DC sues Trump administration over 'unlawful' federal takeover
+- [1524] | 1 | 'usurp' | "Usurp" | "usurp" (usurp) (usurp) (usurp) (usurp) (usurp) | Illinois Democrats tell feds to stop trying to 'usurp' state authority over immigration
+- [1525] | 1 | 'viewpoint | "Sichtpunkt | “ 观点点” | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [1526] | 1 | 'vote | „Abstimmung | 投票 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [1527] | 1 | 'Was | "War | 曾经是 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [1528] | 1 | 'years' | 'Jahre' | 年数 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
+- [1529] | 1 | 'yes | "Ja, das ist gut. | 是 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [1530] | 1 | 'You | "Du | "你" | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [1531] | 1 | 'Your | "Deine | "你的" | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [1532] | 1 | 'zero | 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 | '零 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
+- [1533] | 1 | -- | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. nein, nein. | -- -- -- -- -- | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
+- [1534] | 1 | -foot | - Fuß | -脚下 | 75-foot boat surfs wave, runs aground in Hawaii
+- [1535] | 1 | -hour | -Stunde | -小时 -小时 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [1536] | 1 | -run | - Laufen | - 运行 - 运行 - 运行 - 运行 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [1537] | 1 | -year | -Jahr | -年份 -年份 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
+- [1538] | 1 | Aaron | Aaron | 亚伦 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [1539] | 1 | abandon | aufgeben | 放弃的 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
+- [1540] | 1 | abandoned | verlassen | 被遗弃的 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [1541] | 1 | Abigail | Abigail | 阿比盖尔 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
+- [1542] | 1 | accident | Unfall | 事故事故 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
+- [1543] | 1 | according | entsprechend | 基底 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [1544] | 1 | accounts | Konten | 账户账户 | WhatsApp bans 6.8M scam accounts, launches safety tool
+- [1545] | 1 | accuser | Ankläger | 控告人 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [1546] | 1 | Acosta | Acosta | 阿科斯塔 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [1547] | 1 | Act | Rechtsakt | 《法案法案法案法》 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
+- [1548] | 1 | Act' | Rechtsakt" | 法案' | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [1549] | 1 | acting | handelnd | 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 行动 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
+- [1550] | 1 | action | Maßnahme | 行动和行动行动 | Trump is taking decisive action to bring this critical industry back to American soil
+- [1551] | 1 | activist | Aktivist | 活动家 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [1552] | 1 | activists | Aktivisten | 活动分子活动家 | Women's volleyball activists react to California high school team forfeiting to opponent with trans athlete
+- [1553] | 1 | ADAMS | ANPASSUNGEN | 成 成 体 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [1554] | 1 | addresses | Anschriften | 地址地址地址地址地址地址地址 | Bernie Sanders addresses whether he’ll run in 2028
+- [1555] | 1 | adds | fügt hinzu: | 加加 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
+- [1556] | 1 | ads | Anzeigen | 广告广告 | Facebook crypto ads lead to dangerous malware scams
+- [1557] | 1 | advertising | Werbung | 广告广告广告广告 | Sydney Sweeney jeans controversy making advertising great again
+- [1558] | 1 | advisor | Berater | 顾问顾问 | Former Democratic advisor says party's rhetoric on redistricting is getting 'a little out of control'
+- [1559] | 1 | affecting | Beeinflussung | 影响或影响影响 | Francis Ford Coppola's treatment sheds light on heart condition affecting millions
+- [1560] | 1 | aftermath | Nachwirkungen | 后 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [1561] | 1 | AG | RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — URTEIL | AA AA AA 公司 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
+- [1562] | 1 | Again' | Noch einmal." | 再来一次 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [1563] | 1 | agency's | der Agentur | 代理代理机构 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [1564] | 1 | agents | Erreger | 代理代理代理 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
+- [1565] | 1 | aggressive | aggressiv | 侵略 | Common sweetener could hold untapped potential to fight aggressive cancer, study finds
+- [1566] | 1 | aging | Alterung | 老龄化 | Leonardo DiCaprio, 50, calls himself 'emotionally 32' in candid interview on aging
+- [1567] | 1 | agreements | Abkommen | 协议协议协议协议协议 | Three states sign new agreements with ICE for expanded immigration enforcement operations
+- [1568] | 1 | aground | auf Grund | 浅地 | 75-foot boat surfs wave, runs aground in Hawaii
+- [1569] | 1 | AI-generated | KI-generiert | AI 生成 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [1570] | 1 | aide | Aids | 辅助 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [1571] | 1 | airport | Flughafen | 机场机场机场 | My flight was canceled. But a baby in the airport taught me everything about God's peace in a storm
+- [1572] | 1 | airstrike | Luftangriff | 空袭 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
+- [1573] | 1 | Al | Insgesamt | Al Al Al Al | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
+- [1574] | 1 | Alan | Alan, bitte sehr. | 艾伦·艾伦 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [1575] | 1 | alarm | Alarmanlage | 提醒提醒提醒 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [1576] | 1 | alarmed | Alarmiert | 惊电 | I'm a Black pastor alarmed by a new identity game some on the right are playing
+- [1577] | 1 | Albania’s | Albanien | 阿尔巴尼亚 阿尔巴尼亚 | Albania’s new anti-corruption unit is taking down bigwigs
+- [1578] | 1 | Alcatraz’ | Alcatraz | 阿尔卡特雷兹 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [1579] | 1 | aliases | Aliasnamen | 化别别别 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
+- [1580] | 1 | alive | lebend | 活 活 活 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [1581] | 1 | allegations' | Anschuldigungen" | A. 有关指称的指称和指控 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
+- [1582] | 1 | alleges | Anschuldigungen | B. 指称 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
+- [1583] | 1 | Allen | Allen | 艾伦·艾伦 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [1584] | 1 | Allianz | Allianz | 阿利安兹 | Allianz Life Insurance data breach exposes 1.4 million Americans
+- [1585] | 1 | allow | erlauben | 允许 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [1586] | 1 | Amazon | Amazonas | 亚马逊 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [1587] | 1 | ambush | Hinterhalt | 伏击 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
+- [1588] | 1 | amends | ändert | 修正 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [1589] | 1 | Americans' | Amerikaner | 美籍美国人 | Americans' perception of discrimination against Black people dropped in last four years
+- [1590] | 1 | among | zwischen | 介 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
+- [1591] | 1 | Amy | Amy | 艾米 Amy | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [1592] | 1 | Ana | Ana | 安娜 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [1593] | 1 | Andie | Andie | 安迪 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
+- [1594] | 1 | Angela | Angela | 安吉拉 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [1595] | 1 | Angeles | L 347 vom 20.12.2013, S. 671. | 洛杉矶 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
+- [1596] | 1 | Aniston | Aniston | 动因 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
+- [1597] | 1 | announce | ankündigen | 宣布宣布 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
+- [1598] | 1 | announcement | Ankündigung | 通知( 通知) | Kamala Harris' major California announcement triggers circular Dem firing squad
+- [1599] | 1 | annoyed | ärgerlich | 烦恼 | Putin appears to be visibly annoyed as reporters barrage him and Trump with questions
+- [1600] | 1 | answers | Antworten | 答 答 答 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [1601] | 1 | anti-Christian | antichristlich | 反基督教、反基督教、反基督教、反基督教、反基督教、反基督教、 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [1602] | 1 | anti-corruption | Antikorruption | 反腐败和反腐败 | Albania’s new anti-corruption unit is taking down bigwigs
+- [1603] | 1 | anti-feminist | Antifeminist | 反女权主义者 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
+- [1604] | 1 | anti-Israel | Anti-Israel | 反对以色列 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
+- [1605] | 1 | antisemitic | Antisemitikum | 反犹太主义 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
+- [1606] | 1 | anyone | jeder | 任何人 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
+- [1607] | 1 | AOC | AOC | AOC 阿拉伯石油公司 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
+- [1608] | 1 | Apollo | Apollo | 阿波罗 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [1609] | 1 | appointed | ernannt | 任命 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
+- [1610] | 1 | apps | Apps | 应用软件 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
+- [1611] | 1 | Arizona | Arizona | 亚利桑那州 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [1612] | 1 | arm | Arm | 手臂 | Codie Sanchez says money is the sword of the 21st Century. She wants to arm more Americans
+- [1613] | 1 | Armenia–Azerbaijan | Armenien-Aserbaijan | 亚美尼亚-阿塞拜疆 | Trump brings peace to Caucasus: Inside the Armenia–Azerbaijan deal 30 years in the making
+- [1614] | 1 | arranged | geordnet | 已经安排 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [1615] | 1 | art | Art.-Nr. | 艺术艺术艺术艺术 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [1616] | 1 | Asian | Asiatisch | 亚 亚 亚 亚 | Asian tourists are returning to Britain. But they look different
+- [1617] | 1 | asked | gefragt | 问 问 问 问 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [1618] | 1 | asks | fragt | 问 问 询 | Texas asks Illinois court to enforce arrest warrants for Democratic lawmakers
+- [1619] | 1 | assassination | Attentat | 暗杀暗杀 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [1620] | 1 | associate | assoziierte | 联系 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
+- [1621] | 1 | athletes | Sportler | 运动员运动员 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
+- [1622] | 1 | atomic | atomar | 原子原子 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [1623] | 1 | attacking | Angriff | 攻击 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
+- [1624] | 1 | attack’ | Angriff | " 攻击 " | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [1625] | 1 | attempt | Versuch | 企图或企图 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [1626] | 1 | August | ZEITSCHRIFTEN | 8月 8月(8月) | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [1627] | 1 | Australian | Australisch | 澳大利亚语Name | Australian state rolls out machete ‘disposal bins’ ahead of ban
+- [1628] | 1 | authorities | Behörden | 当局当局当局 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [1629] | 1 | authority | Behörde | 授权 | Illinois Democrats tell feds to stop trying to 'usurp' state authority over immigration
+- [1630] | 1 | autopen | Autopen | 自动自动顶顶楼 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [1631] | 1 | avalanche | Lawine | 雪崩 | America’s tariff avalanche catches Switzerland unawares
+- [1632] | 1 | avatar | avatar | avataraaaaaa 卡塔尔avataraaaaaaaaaaaaaaaaaaaaaaataraaaaaaaaaaa avataraaaaaaaaaaaaaaa avataraaaaaaaaaaaaaaaaaaaaaaaaaaaaa avataraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa、aaaaaaa、aaaaa、aaaaa、aaaaa、aaaa、aaaaa、aa、aaaa、aaaa、aaaaa、aaa、aaaaaaaaa、aa、a、aaaa、aaaaaa、aaaaaaaaaaaaaaaaaa、a、a、 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [1633] | 1 | awakening | Erwachen | 觉醒 | Gen Z embraces the Bible in unexpected global spiritual awakening
+- [1634] | 1 | awards | Auszeichnungen | 裁定赔偿金 | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
+- [1635] | 1 | away’ | Weg hier! | 外 外 外 外 外 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [1636] | 1 | B | B | BB ,B | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [1637] | 1 | Bahamas | Bahamas | 巴哈马巴哈马巴哈马巴哈马 | Two vacationers drown at Carnival's new Bahamas private island
+- [1638] | 1 | bail | Kaution | 保释 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
+- [1639] | 1 | Bailey | Bailey | 贝利 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
+- [1640] | 1 | bait' | Köder" | 诱饵 | Chuck Todd warns that Dems are falling into Trump’s trap, 'taking the bait' on redistricting
+- [1641] | 1 | Bama | Bama | 巴马 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
+- [1642] | 1 | band’s | Bandagen | 带带带 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [1643] | 1 | banned | verboten | 已禁止 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
+- [1644] | 1 | bans | Verbote | 禁止禁止 | WhatsApp bans 6.8M scam accounts, launches safety tool
+- [1645] | 1 | Barbara | RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — RECHTSSACHE 28/63 — | 芭芭拉 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [1646] | 1 | BareMinerals | BareMinerals | 矿 矿 矿 矿 矿 矿 矿 矿 矿 矿 矿 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [1647] | 1 | barge | Barge | 驳船 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [1648] | 1 | barley | Gerste | 大麦 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [1649] | 1 | barrage | Sperrholz | 列列列 | Putin appears to be visibly annoyed as reporters barrage him and Trump with questions
+- [1650] | 1 | baseball | Baseball | 棒球棒球 | American Culture Quiz: Test yourself on park pioneers and baseball bests
+- [1651] | 1 | baserunning | basenrunning | 基础运行 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [1652] | 1 | Bash | Bash | 巴什 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [1653] | 1 | bashing | Häuten | 击打 | Brazil bashing: the Trumpian school of foreign policy
+- [1654] | 1 | beatdown | Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown-Beatdown | 击打 | Seventh Cincinnati assault suspect arrested over violent beatdown
+- [1655] | 1 | beautiful' | Schön." | 美丽 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1656] | 1 | beauty | Schönheit | 美丽 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [1657] | 1 | became | wurde | 成为 | The War Room newsletter: How receiving aid became fatal in Gaza
+- [1658] | 1 | because | weil | 原因原因 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1659] | 1 | beers | Bier | 啤酒 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [1660] | 1 | beginner | Anfänger | 开学时 | A hunting gear checklist for beginner hunters
+- [1661] | 1 | beginnings | Anfänge | 开始开始 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
+- [1662] | 1 | begins | beginnt | 开始 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [1663] | 1 | believe | glauben | 相信相信 | Hiker made fatal mistake when encountering poisonous snake, officials believe
+- [1664] | 1 | Bernie | Bernie | 伯尼 | Bernie Sanders addresses whether he’ll run in 2028
+- [1665] | 1 | bests | bestes | 最佳 | American Culture Quiz: Test yourself on park pioneers and baseball bests
+- [1666] | 1 | beverages | Getränke | 饮料 | Keep your beverages hot or cold with these insulated bottles and tumblers
+- [1667] | 1 | bias | Voreingenommenheit | 性别偏见 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
+- [1668] | 1 | Bible | Bibel | 圣经圣经 | Gen Z embraces the Bible in unexpected global spiritual awakening
+- [1669] | 1 | biblical | biblisch | 圣经 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [1670] | 1 | Biden' | Biden" | 拜登 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [1671] | 1 | Biden-era | Biden-Ära | 拜登时代 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [1672] | 1 | Biden-nominated | Biden-nominiert | 拜伊提名国家 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
+- [1673] | 1 | Biden’s | Bidens | 拜登 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [1674] | 1 | Bighorn | Großhorn | 比大角( Bighorn) | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [1675] | 1 | bigwigs | Großzügige | 长宽 | Albania’s new anti-corruption unit is taking down bigwigs
+- [1676] | 1 | bikini | Bikini | 比基尼 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
+- [1677] | 1 | Bilhal | Bilhal | 比哈尔 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
+- [1678] | 1 | Bill | Gesetzentwurf | 法案法案单 | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
+- [1679] | 1 | billions | Milliarden | 数十亿 | US appeals court says Trump can slash billions in owed USAID funds
+- [1680] | 1 | Billy | Billy | 比利 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [1681] | 1 | bins’ | Binsen | 文件夹中 | Australian state rolls out machete ‘disposal bins’ ahead of ban
+- [1682] | 1 | birthday | Geburtstag | 生日生日 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [1683] | 1 | birthright | Geburtsrecht | 儿 生 生 权 权 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
+- [1684] | 1 | bite' | beißen" | 咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着咬着 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [1685] | 1 | Blackstock | Schwarzstäbchen | 黑股票 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [1686] | 1 | blame | Schuld | 责怪 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
+- [1687] | 1 | blames | Schuldzuweisungen | 责 责 责 责 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
+- [1688] | 1 | blasted | gesprengt | 防爆 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [1689] | 1 | blasts | Explosionen | 爆炸爆炸 | Denzel Washington blasts cancel culture, says faith matters more than followers
+- [1690] | 1 | Blighty | Schrecklich | 灰暗 | Blighty newsletter: The Tories go cold on the gig economy
+- [1691] | 1 | blocked | blockiert | 已封屏 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [1692] | 1 | blocks | Blöcke | 区块 | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
+- [1693] | 1 | blowup | Blowup | 吹爆 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [1694] | 1 | blue | blau | 蓝蓝色 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
+- [1695] | 1 | blunder | Verleumdung | 错误 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [1696] | 1 | board | Vorstand | 棋盘 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
+- [1697] | 1 | boardwalk | Laufsteg | 棋盘行走 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
+- [1698] | 1 | bodybuilder | Bodybuilder | 体积建造者 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [1699] | 1 | bomb | Bombe | 炸弹炸弹 | Radioactive wasp nest discovered by workers at former nuclear bomb site
+- [1700] | 1 | bombing | Bombardierung | 轰炸轰炸轰炸轰炸 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [1701] | 1 | bond | Anleihen | 债券债券债券 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [1702] | 1 | book | Buch | 书书本 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [1703] | 1 | Booker | Booker | 订书员 | Sen. Cory Booker refuses to endorse Zohran Mamdani
+- [1704] | 1 | border | Grenzüberschreitung | 边境边境边境 | Why did Thailand and Cambodia fight a senseless border war?
+- [1705] | 1 | Boroughs | Bohrlöcher | 区区 | Zohran Mamdani launches anti-Trump tour across Five Boroughs in New York City
+- [1706] | 1 | Bose | Bose | 贝贝 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [1707] | 1 | bottles | Flaschen | 瓶数瓶 | Keep your beverages hot or cold with these insulated bottles and tumblers
+- [1708] | 1 | bounced | gesprungen | 已弹出 | Teacher accused of Arkansas hiking murders bounced between 4 districts in 3 states
+- [1709] | 1 | boundaries' | Grenzen" | 边界 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [1710] | 1 | Boy | Junge | 男孩男孩 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [1711] | 1 | Boys | Jungen | 男生 男生 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [1712] | 1 | Bradley | Bradley | 布拉德利 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [1713] | 1 | Brady | Brady | 布雷迪 | Tom Brady burns Jets fans once more during statue ceremony
+- [1714] | 1 | brain | Gehirn | 脑脑 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [1715] | 1 | branches | Zweigniederlassungen | 分支分支分支 | Female military recruits surge across all service branches
+- [1716] | 1 | branded | gebrandmarkt | 品牌品牌 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [1717] | 1 | Brandon | Brandon | 布兰登 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [1718] | 1 | Braves | Tapferkeit | 勇士 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [1719] | 1 | break | Bruch | 间间断 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
+- [1720] | 1 | breast | Brust | 胸胸 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
+- [1721] | 1 | Brett | Brett | 布雷 布雷顿森林机构 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [1722] | 1 | Brewers | Brauereien | 酿酒者 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [1723] | 1 | Britain’s | Großbritannien | 英国 | The Fantasy Premier League is changing Britain’s favourite sport
+- [1724] | 1 | Brock | mit einer Dicke von mehr als 2 mm | 布洛克 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [1725] | 1 | broken | gebrochen | 缺 数 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [1726] | 1 | Bronny | Bronny | 布罗尼 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [1727] | 1 | Bryan | Bryan | 布莱恩·布赖恩 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [1728] | 1 | Bud | Knospen | 巴布 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
+- [1729] | 1 | budget-friendly | budgetschonend | 有利于预算 | Go fishing without breaking the bank with these budget-friendly fishing gadgets
+- [1730] | 1 | buffer | Puffer | 缓冲缓冲 | Scottish grandmother's case dropped after arrest for holding sign in abortion buffer zone
+- [1731] | 1 | Bukele's | Bukele's | 布克勒的 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [1732] | 1 | bullpen | bullpen | 公牛排 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
+- [1733] | 1 | bundle | Bündel | 捆绑 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
+- [1734] | 1 | burns | Verbrennungen | 烧灼 | Tom Brady burns Jets fans once more during statue ceremony
+- [1735] | 1 | bus | Bus | 公共汽车总线 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [1736] | 1 | businessman | Geschäftsmann | 商人 商人 | Cuban-born businessman enters NYC mayoral race, calls himself 'polar opposite' of Mamdani
+- [1737] | 1 | Buzbee | Buzbee | 巴斯比 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [1738] | 1 | Bystander | Zuseher | 旁观者 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
+- [1739] | 1 | call | Anruf | 调 调 调 调 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
+- [1740] | 1 | Cambodia | Kambodscha | 柬埔寨 柬埔寨 柬埔寨 | Why did Thailand and Cambodia fight a senseless border war?
+- [1741] | 1 | camp | Lager | 营地营地 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [1742] | 1 | Canadian | Kanadisch | 加拿大 加拿大 加拿大 加拿大 加拿大人 | Influencer couple killed in Canadian mountain crash
+- [1743] | 1 | canceled | Annulliert | 已取消已取消 | My flight was canceled. But a baby in the airport taught me everything about God's peace in a storm
+- [1744] | 1 | candid | offen | 直 实 | Leonardo DiCaprio, 50, calls himself 'emotionally 32' in candid interview on aging
+- [1745] | 1 | candidate | Anwärter | 候选人 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [1746] | 1 | Canyon | Einschlagschnecke | 峡谷 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
+- [1747] | 1 | capital | Kapital | 资本资本 | Why Italy’s next cultural capital looks like a disaster zone
+- [1748] | 1 | capped | Abgeschlossen | 上限上限 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [1749] | 1 | caps | Kappen | 顶盖 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
+- [1750] | 1 | CAPTCHAgeddon | CAPTCHAgeddon | CAPTCH Agdddon 电网 | CAPTCHAgeddon signals a dangerous shift
+- [1751] | 1 | captured | gefangen | 已抓取 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
+- [1752] | 1 | car | Fahrzeug | 汽车 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
+- [1753] | 1 | cardiac | Herz | 心脏心脏 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [1754] | 1 | cares | Pflege | 护理护理 | Trump administration cares more about son’s death than DC Council, mother of slain GOP intern says
+- [1755] | 1 | carnival | Karneval | 嘉年华 | American Culture Quiz: Test yourself on vintage vehicles and carnival crowds
+- [1756] | 1 | Carnival's | Karneval | 嘉年华 | Two vacationers drown at Carnival's new Bahamas private island
+- [1757] | 1 | Carrie | Kirsche | 卡莉 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [1758] | 1 | cartel | Kartell | 卡特尔卡特尔 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
+- [1759] | 1 | Cash-trapped | Bargeldumschlag | 现金 | Cash-trapped (part 2): drowning in debt
+- [1760] | 1 | casts | Abgüsse | 抛滚 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [1761] | 1 | catches | Fänge | 渔渔渔渔量 | America’s tariff avalanche catches Switzerland unawares
+- [1762] | 1 | Catherine | Catherine. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 凯瑟琳 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [1763] | 1 | Catholics | Katholiken | 天主教徒 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [1764] | 1 | causes | Ursachen | 原因原因原因原因 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [1765] | 1 | CDC | CDC | CDC CDC CDC 控制控制中心 | Father of CDC gunman indicates possible motivation behind shooting
+- [1766] | 1 | ceasefire' | Waffenstillstand" | 停火停火' | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
+- [1767] | 1 | celebrating | feiern | 庆祝 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
+- [1768] | 1 | celebration | Feier | 庆祝庆祝活动 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [1769] | 1 | celebrity | Berühmtheit | 名人 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [1770] | 1 | cell' | Zelle" | 单元格“ | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
+- [1771] | 1 | censorship | Zensur | 新闻审查审查制度 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
+- [1772] | 1 | centers | Zentren | 中心中心 | Multiple US cancer centers hit in coordinated phishing breach
+- [1773] | 1 | Century | Jahrhundert | 世纪世纪世纪世纪世纪世纪世纪世纪 世纪世纪世纪世纪世纪 | Codie Sanchez says money is the sword of the 21st Century. She wants to arm more Americans
+- [1774] | 1 | CEO | Geschäftsführender Direktor | 首席首席执行干事(CEO) | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [1775] | 1 | CEOs | CEOs | 首席执行干事 | Do consultants make good CEOs?
+- [1776] | 1 | ceremony | Zeremonie | 仪式仪式 | Tom Brady burns Jets fans once more during statue ceremony
+- [1777] | 1 | cervical | Gebärmutterhals | 宫颈宫颈 | Vaccinations to prevent cervical cancer have plummeted in Britain
+- [1778] | 1 | chain's | Kette | 链链链链 | Cracker Barrel customers 'hate' restaurant chain's new look in viral social media videos
+- [1779] | 1 | chairman | Vorsitzender | 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 主席 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [1780] | 1 | challenger | Herausforderer | 挑战器 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [1781] | 1 | challenges | Herausforderungen | 挑战挑战挑战 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [1782] | 1 | championships | Meisterschaften | 冠军赛 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
+- [1783] | 1 | chance' | Wahrscheinlichkeit" | 机会 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
+- [1784] | 1 | changed | geändert | 已更改 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
+- [1785] | 1 | Chappelle | Chappelle | 谢 平 公 公 公 公 公 公 公 公 公 公 公 公 公 公 | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
+- [1786] | 1 | charged | in Rechnung gestellt | 已充装 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [1787] | 1 | Charlamagne | Charlamagne | 沙拉曼语Name | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [1788] | 1 | checker | Prüfer | 校对器 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
+- [1789] | 1 | checklist | Checkliste | 核对清单清单 | A hunting gear checklist for beginner hunters
+- [1790] | 1 | Chef' | Küchenchef" | 主厨 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [1791] | 1 | chemists | Chemiker | 化学家 | AI helps chemists develop tougher plastics
+- [1792] | 1 | chess' | Schach" | 象棋 | Trump reveals his game plan for meeting with Putin in Alaska: 'It's like chess'
+- [1793] | 1 | child | Kind | 儿 孩 儿 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
+- [1794] | 1 | Chisholm | L 347 vom 20.12.2013, S. 671. | Chisholm Chisholm 奇肖姆 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [1795] | 1 | choices | Wahlmöglichkeiten | 选项 | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [1796] | 1 | Christ | Herrgott noch mal! | 基督基督基督基督基督 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [1797] | 1 | Christians | Christen | 基督教徒 | South Korea's move to lower tensions with Kim Jong Un threatens 400,000 Christians
+- [1798] | 1 | church | Kirche | 教会教堂 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
+- [1799] | 1 | circular | kreisförmig | 通知 | Kamala Harris' major California announcement triggers circular Dem firing squad
+- [1800] | 1 | citizens | Bürger | 公民 公民 公民 公民 公民 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [1801] | 1 | city's | Stadt | 城市 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [1802] | 1 | civic | staatsbürgerlich | 公民教育 | The colourful civic groups that hold Germany together
+- [1803] | 1 | claimed | geltend gemacht | 索赔 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [1804] | 1 | Clark | - Clark. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 克拉克 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
+- [1805] | 1 | Clarkson | Clarkson | 克拉克森 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [1806] | 1 | classified | klassifiziert | 被划为 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [1807] | 1 | closes | schließt | 关闭 | Trump closes out 30th week in office with 'very warm' high-stakes Putin meeting
+- [1808] | 1 | CM | CM | 内中华内中 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
+- [1809] | 1 | CNN | L 347 vom 20.12.2013, S. 671. | CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN CNN 有 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [1810] | 1 | CNN's | CNN's | CNN的 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [1811] | 1 | coast | Küste | 沿海海岸 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
+- [1812] | 1 | coaster | Untersetzer | 海岸 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [1813] | 1 | Coast’s | Küsten | 海岸 | Ivory Coast’s president is overstaying his welcome
+- [1814] | 1 | Codie | Codie | 科 科 科 | Codie Sanchez says money is the sword of the 21st Century. She wants to arm more Americans
+- [1815] | 1 | Colbert | - Colbert. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 高拔 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [1816] | 1 | colleagues | Kolleginnen und Kollegen | 同事和同事 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
+- [1817] | 1 | collection | Sammlung | 收藏收藏 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [1818] | 1 | colleges | Hochschulen | 高等专科学校 | Trump visa policies force colleges to scramble as international students vanish: report
+- [1819] | 1 | colorectal | colorektal | 颜色直白 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
+- [1820] | 1 | colourful | bunt | 彩色 | The colourful civic groups that hold Germany together
+- [1821] | 1 | Colts | Färöer | 固伏 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
+- [1822] | 1 | Columbia | Kolumbien | 哥伦比亚 哥伦比亚 哥伦比亚 哥伦比亚 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
+- [1823] | 1 | columnist | Kolumnist | 列词 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [1824] | 1 | combine | kombinieren | 组合 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [1825] | 1 | Comedian | Komiker | 喜剧演员 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [1826] | 1 | comes | kommt | 来 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [1827] | 1 | comic | Komisch | 连环漫画 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [1828] | 1 | commander | Befehlshaber | 指挥官 指挥官 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [1829] | 1 | commemorates | erinnert sich | 纪念纪念日 | Melania Trump commemorates 200 days since resuming role as first lady
+- [1830] | 1 | commits | Verpflichtet | 承诺 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [1831] | 1 | Computing | Datenverarbeitung | 电子计算 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
+- [1832] | 1 | concussion | Gehirnerschütterung | 脑震荡 | Chargers' Quentin Johnston suffers concussion on hard hit from Rams defensive back
+- [1833] | 1 | conduct | Verhalten | 行为 行为 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [1834] | 1 | confidence | Vertrauen | 信任 | Tankinis for coverage, support and confidence at the beach
+- [1835] | 1 | confronting | Konfrontieren | A. 面对挑战 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [1836] | 1 | Congress | Tagung | 预防犯罪大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会大会 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [1837] | 1 | congressional | Tagungswoche | 国会 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
+- [1838] | 1 | congressman | Kongressabgeordneter | 国会议员 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
+- [1839] | 1 | connecting | Verbindung | 连接连接 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
+- [1840] | 1 | consequences | Folgen | 后果后果 | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
+- [1841] | 1 | constituted | gebildet | 已组成 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [1842] | 1 | constitution | Verfassung | 宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法、宪法 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [1843] | 1 | Consultant | Berater | 顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问顾问 | Consultant management: McKinsey loses its shine
+- [1844] | 1 | consultants | Berater | 咨询人咨询人 咨询人咨询人 | Do consultants make good CEOs?
+- [1845] | 1 | contenders | Anwärter | 竞争者 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [1846] | 1 | contentious | streitsüchtig | 有争议 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
+- [1847] | 1 | contest | Wettbewerb | 竞赛比赛 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
+- [1848] | 1 | contract | Vertrag | 合同合同合同合同合同 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [1849] | 1 | controversies | Kontroversen | 争议争议 | Las Vegas tourism controversies, plus 9 high-fiber bread options
+- [1850] | 1 | conviction | Überzeugung | 定罪 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [1851] | 1 | coordinated | koordiniert | 协调协调 | Multiple US cancer centers hit in coordinated phishing breach
+- [1852] | 1 | Coppola's | Coppola's | 哥波拉的 | Francis Ford Coppola's treatment sheds light on heart condition affecting millions
+- [1853] | 1 | Cornyn | Cornyn | 康康环 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
+- [1854] | 1 | Cory | Cory | 孔数 | Sen. Cory Booker refuses to endorse Zohran Mamdani
+- [1855] | 1 | costly | Kostenaufwand | 费用昂贵 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [1856] | 1 | Council | Der Präsident. — Das Wort hat die Fraktion der Europäischen Volkspartei (Christlich-Demokratische Fraktion). | 理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会下理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会理事会 | Trump administration cares more about son’s death than DC Council, mother of slain GOP intern says
+- [1857] | 1 | councilman | Mitglied des Rats | 政务委员 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
+- [1858] | 1 | counter | Zähler | 柜式 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
+- [1859] | 1 | county | Bezirk | 县县县县 | Democratic governor declares state of emergency in crime-ridden county
+- [1860] | 1 | couple's | Pärchen | 夫妇 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
+- [1861] | 1 | court-approved | gerichtlich zugelassen | 经法院批准 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [1862] | 1 | coverage | Erfassungsbereich | 涵盖范围 | Tankinis for coverage, support and confidence at the beach
+- [1863] | 1 | COVID- | KOVID- | 科维德... | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
+- [1864] | 1 | coward | Feigling | 懦夫 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [1865] | 1 | cozying | Gemütlichkeit | 休眠 | Pakistan’s army chief is cozying up to Donald Trump
+- [1866] | 1 | craze | Craze | 暴动 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [1867] | 1 | creates | erstellt | 创建创建 | Texas company creates drones to confront school shooters in seconds
+- [1868] | 1 | credit | Kredit | 信贷信贷信贷 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
+- [1869] | 1 | crime-ridden | Verbrechensverbrechen | 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 犯罪 | Democratic governor declares state of emergency in crime-ridden county
+- [1870] | 1 | crimes | Verbrechen | 罪行 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [1871] | 1 | crisis | Krise | 危机危机危机危机危机 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [1872] | 1 | crisis' | Krise" | 危机危机 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
+- [1873] | 1 | critical | kritisch | 关键 | Trump is taking decisive action to bring this critical industry back to American soil
+- [1874] | 1 | cross-country | Länderübergreifend | 跨国 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
+- [1875] | 1 | Cruise | Kreuzfahrt | 游游 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
+- [1876] | 1 | Crying | Weinen | 哭泣 | Crying foul: opponents slam the uneven EU-US trade deal
+- [1877] | 1 | crypto | Krypto | 加密 | Facebook crypto ads lead to dangerous malware scams
+- [1878] | 1 | Cuban-born | Kubanisch-geboren | 古巴出生的古巴人 | Cuban-born businessman enters NYC mayoral race, calls himself 'polar opposite' of Mamdani
+- [1879] | 1 | cultural | Kultur | 文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、文化、 | Why Italy’s next cultural capital looks like a disaster zone
+- [1880] | 1 | Cunningham | Cunningham | 坎宁安 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
+- [1881] | 1 | currently | zur Zeit | 目前 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
+- [1882] | 1 | curtain | Vorhang | 窗帘 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [1883] | 1 | cutting | Schneiden | 裁剪 | Jeanine Pirro says current DC justice system 'isn't cutting it' as Trump takes federal control
+- [1884] | 1 | D | D . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | D D | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [1885] | 1 | dad | Vater | 父亲( 父亲) | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [1886] | 1 | Dak | Dak | 达卡 | Cowboys' Dak Prescott makes bold statement to Rams team owner
+- [1887] | 1 | damaging | schädigend | 损坏 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
+- [1888] | 1 | Dana | - Dana. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. nein, nein, nein, nein. nein, nein, nein. | 达纳 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [1889] | 1 | Daniel | Daniel | 丹尼尔 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
+- [1890] | 1 | Danville | Danville | 丹维尔 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
+- [1891] | 1 | date | Datum | 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [1892] | 1 | dates | Datteln | 日期日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 日期 | Illinois substitute teacher had sex with 11-year-old student during 'play dates,' police say
+- [1893] | 1 | dating | Datierung | 约会日期 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
+- [1894] | 1 | Dave | - Dave. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 戴夫 Dave | Dave Chappelle says he's been 'snubbed' by Hollywood awards shows following trans jokes
+- [1895] | 1 | DAVIS | DAVIS | DAVIS 残疾 | MIKE DAVIS: A tale of two Russiagate heroes
+- [1896] | 1 | Davis' | Davis'. (EN) Herr Präsident! | 戴维斯 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
+- [1897] | 1 | DaVita | DaVita | 达维塔 | Nearly a million patients hit by DaVita dialysis ransomware attack
+- [1898] | 1 | DC's | DC's | DC 的 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [1899] | 1 | dean | Herr dean | 院长 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
+- [1900] | 1 | deaths | Todesfälle | 死亡死亡 | Cancer deaths hit 'alarming' surge due to common health condition, experts say
+- [1901] | 1 | debate | Aussprache | 辩论辩论的一般性辩论 | Fiscal hawks seek millions for home district projects amid government funding debate
+- [1902] | 1 | debris | Abfälle | 废碎片 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [1903] | 1 | debuting | Debuting | 开 开 开 开 开 开 开 | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
+- [1904] | 1 | decision | Entscheidung | 决定 决 决 决 决 决 决 决 决 决 决 决定 | Deion Sanders' Colorado quarterback decision much tougher than years past
+- [1905] | 1 | decisive | entscheidungsentscheidend | 决定性 | Trump is taking decisive action to bring this critical industry back to American soil
+- [1906] | 1 | decries | Schreie | 切数 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [1907] | 1 | deemed | in Erwägung gezogen | 视为 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [1908] | 1 | defense | Verteidigung | 国防 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [1909] | 1 | defensive | defensiv | 防卫 | Chargers' Quentin Johnston suffers concussion on hard hit from Rams defensive back
+- [1910] | 1 | defunding | Erstattungsbetrag | 取消供资 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [1911] | 1 | delays | Verzögerungen | 延误延误 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [1912] | 1 | deliver | liefern | 交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付交付 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [1913] | 1 | Demand | Nachfrage | 需求需求需求 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [1914] | 1 | demands | Anforderungen | 需求需求需求 | Zelenskyy outlines peace demands before high-stakes White House meeting with Trump
+- [1915] | 1 | demeanor | Verhalten | 行为举者 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [1916] | 1 | Democrat | Demokratisch | 民主民主党 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
+- [1917] | 1 | denies | verleugnet | 否认否认 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
+- [1918] | 1 | dentist | Zahnarzt | 牙医 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [1919] | 1 | deployed | bereitgestellt | 已部署 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [1920] | 1 | deployment | Bereitstellung | 部署部署 | Russia drops missile deployment moratorium amid tensions with Trump admin
+- [1921] | 1 | deploys | Bereitstellungen | 部署 | Trump takes control of Metro Police, deploys National Guard to take on Washington crime
+- [1922] | 1 | deport | Abschiebung | 驱逐 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
+- [1923] | 1 | deported | abgeschoben | 被驱逐出境 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
+- [1924] | 1 | Depot | Depot | 仓库 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
+- [1925] | 1 | Depot’ | Depot | 股权 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [1926] | 1 | deputy | Stellvertreter | 副副副手 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [1927] | 1 | Dershowitz | Dershowitz | 德沙维茨 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
+- [1928] | 1 | describe | beschreiben | 描述描述描述描述描述描述描述描述描述 描述 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [1929] | 1 | designer | Designer | 设计师 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [1930] | 1 | designer's | Entwerfer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer/Designer | 设计师的 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
+- [1931] | 1 | detailed | im Einzelnen | 详细详细 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [1932] | 1 | details | Einzelheiten | 详细细节 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
+- [1933] | 1 | detained | Inhaftiert | 被拘留的 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [1934] | 1 | Detroit | Detroit | 底底特律 | Where will be the Detroit of electric vehicles?
+- [1935] | 1 | develop | entwickeln | 开发开发 | AI helps chemists develop tougher plastics
+- [1936] | 1 | Devil's | Teufelskreis | 魔鬼的恶魔 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
+- [1937] | 1 | Devil’s | Teufel | 魔鬼的恶魔 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [1938] | 1 | diabetes | Diabetes | 糖尿病 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [1939] | 1 | diagnosis | Diagnose | 诊断诊断 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [1940] | 1 | dialysis | Dialyse | 透透分析 | Nearly a million patients hit by DaVita dialysis ransomware attack
+- [1941] | 1 | didn't | hat es nicht getan. | 没有 | Why didn't anyone break up Cincinnati beating? Bystander behavior expert explains
+- [1942] | 1 | didn’t | nicht verfügbar | 没有” | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
+- [1943] | 1 | die' | stirbt." | # 死亡 死亡 # # 死亡 # # 死亡 # # 死亡 死亡 # | Ex-NBA star's pregnant wife opens up about shark attack: 'I don't want to die'
+- [1944] | 1 | diet’ | Ernährung | 饮食 ' | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [1945] | 1 | different | unterschiedlich | 不同 | Asian tourists are returning to Britain. But they look different
+- [1946] | 1 | digging | Graben | 挖掘 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [1947] | 1 | digital | digital | 数字数字 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
+- [1948] | 1 | Dingell | Dingell | 丁格尔Name | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
+- [1949] | 1 | director | Direktor | 主任 主任 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [1950] | 1 | disabled | deaktiviert | 残疾残疾人 | How to quickly recover a disabled Facebook account
+- [1951] | 1 | disappeared | verschwunden | 失踪 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [1952] | 1 | disappears | verschwindet | 消失 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [1953] | 1 | disaster | Katastrophe | 灾害和救灾灾害 | Why Italy’s next cultural capital looks like a disaster zone
+- [1954] | 1 | discrimination | Diskriminierung | 歧视歧视、歧视、歧视、歧视、 | Americans' perception of discrimination against Black people dropped in last four years
+- [1955] | 1 | discrimination' | Diskriminierung" | 歧视歧视公约》和《消除歧视歧视公约》 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [1956] | 1 | dismantle | demontieren | 拆卸 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [1957] | 1 | dismembered | zerteilt | 拆分 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [1958] | 1 | Disney | Disney | 迪斯尼 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
+- [1959] | 1 | disorderly | ungeordnet | 精神失常 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [1960] | 1 | dispute | Rechtsstreitigkeiten | 争议争议 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [1961] | 1 | disrupted | gestört | 中断 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
+- [1962] | 1 | Divers | Diverse | 多种 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
+- [1963] | 1 | divided | geteilt | 已除和除 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [1964] | 1 | DJ | DJ | DJ DJ | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
+- [1965] | 1 | Do | Zu tun | do  do  do Do | Do consultants make good CEOs?
+- [1966] | 1 | documentary | dokumentarisch | 纪录片 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
+- [1967] | 1 | dodge | Ausweichen | 躲躲 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [1968] | 1 | Dodgers | Ausweichmanöver | 道道者队 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
+- [1969] | 1 | does | tut | 具有 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [1970] | 1 | doesn't | tut es nicht | 没有 | Trump jokes he won't build a 'big, beautiful' press room because he doesn't want reporters 'comfortable'
+- [1971] | 1 | dollars' | in Dollar" | (单位:美元) | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
+- [1972] | 1 | Dolly | Dolly | 多圆 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
+- [1973] | 1 | dominance | marktbeherrschende Stellung | 占支配地位 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
+- [1974] | 1 | Donna | Donna | 唐纳 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [1975] | 1 | doubt | Zweifel | 有疑问 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [1976] | 1 | drama | Dramatik | 戏剧剧剧剧 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [1977] | 1 | drama' | Dramatik" | 戏剧剧 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [1978] | 1 | drinks | Getränke | 饮料 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
+- [1979] | 1 | drive | Antrieb | 驱动驱动 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
+- [1980] | 1 | drones | Drohnen | 无人驾驶无人驾驶无人驾驶飞机 | Texas company creates drones to confront school shooters in seconds
+- [1981] | 1 | drove | gefahren | 驱动驱动 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
+- [1982] | 1 | drown | Ertrinken | 淹死 | Two vacationers drown at Carnival's new Bahamas private island
+- [1983] | 1 | drowned | Ertrunken | 淹没在水中 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
+- [1984] | 1 | drowning | Ertrinken | 溺水 | Cash-trapped (part 2): drowning in debt
+- [1985] | 1 | Drummond | Drummond | 德鲁蒙德 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
+- [1986] | 1 | DTC | DTC | DTC 数字TC( DTC ) | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
+- [1987] | 1 | Dumbledore | Dumbledore | 邓布利多 | Europe’s Hogwarts has a new Dumbledore
+- [1988] | 1 | DUNLEAVY | SCHWERPUNKT | 杜纳维 | GOV. MIKE DUNLEAVY: Trump's energy dominance key to national security during Putin meeting
+- [1989] | 1 | duty | Zollsatz | 值值 | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
+- [1990] | 1 | Dynasty’ | Dynastie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 朝代王朝 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [1991] | 1 | Dyson | Dyson | 迪森 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
+- [1992] | 1 | D’Errico | L 347 vom 20.12.2013, S. 671. | 德里 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [1993] | 1 | e | e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e s e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n e n | e) e | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [1994] | 1 | ease | Leichtigkeit | 简便 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
+- [1995] | 1 | Eden | Eden | 伊甸 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [1996] | 1 | edition | Ausgabe | 版本版本 | New York Post expands west with California edition planned for early 2026
+- [1997] | 1 | edits | Bearbeitungen | 编辑编辑 | MIT tool visualizes and edits “physically impossible” objects
+- [1998] | 1 | eerie | Erbärmlich | 尔里 | JD Vance says he's 'obsessed' with eerie UFO videos
+- [1999] | 1 | efficiency | Effizienz | 效率效率 | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
+- [2000] | 1 | egregious | Schrecklich | 异常严重 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [2001] | 1 | Eileen | Eileen | 艾琳 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
+- [2002] | 1 | electric | elektrisch | 电动 | Where will be the Detroit of electric vehicles?
+- [2003] | 1 | Elegy' | Elegie" | 大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象,大象, | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [2004] | 1 | Elizabeth's | Elizabeth's | 伊丽莎白的 | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [2005] | 1 | emaciated | abgemagert | 减肥 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [2006] | 1 | email | E-Mail | 电子邮件 | Google AI email summaries can be hacked to hide phishing attacks
+- [2007] | 1 | emerge | entstehen | 正在出现 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [2008] | 1 | emergency | Notfall | 紧急紧急 | Democratic governor declares state of emergency in crime-ridden county
+- [2009] | 1 | emotional | emotional | 情感、情感、情感、 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [2010] | 1 | employee | Arbeitnehmer | 雇员雇员 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
+- [2011] | 1 | enclave | Enklave | 飞飞飞飞 | Cuomo supporters look to wealthy enclave to take down Mamdani: report
+- [2012] | 1 | encountering | Begegnung | 相遇 | Hiker made fatal mistake when encountering poisonous snake, officials believe
+- [2013] | 1 | endgame | Endspiel | 结束游戏游戏 | Hamas endgame is ‘long-term’ and is playing out for all to see as Israel pushes deeper into Gaza
+- [2014] | 1 | endorse | unterstützen | 经核准 | Sen. Cory Booker refuses to endorse Zohran Mamdani
+- [2015] | 1 | endorses | unterstützt | 核准书 核准书 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [2016] | 1 | enforce | Durchsetzung | 执行 | Texas asks Illinois court to enforce arrest warrants for Democratic lawmakers
+- [2017] | 1 | enforcement | Durchsetzung | 执法执法 | Three states sign new agreements with ICE for expanded immigration enforcement operations
+- [2018] | 1 | England | Vereinigtes Königreich | 英 英格兰 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
+- [2019] | 1 | enters | Betritt | 进进 | Cuban-born businessman enters NYC mayoral race, calls himself 'polar opposite' of Mamdani
+- [2020] | 1 | entire | vollständig | 整个 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
+- [2021] | 1 | entrepreneur | Unternehmer | 创业者 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [2022] | 1 | equal | gleich | 平 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [2023] | 1 | escalate | Eskalation | 升级 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [2024] | 1 | escorted | begleitet | 护送 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [2025] | 1 | essay | Aufsatz | 作文 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
+- [2026] | 1 | Estée | Estée | 埃斯泰 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [2027] | 1 | etiquette' | Etikette" | 礼仪 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
+- [2028] | 1 | EU-US | EU-USA | 欧盟-美国 | Crying foul: opponents slam the uneven EU-US trade deal
+- [2029] | 1 | EV | EV | EV EV | China’s planned Turkish EV factories have yet to power up
+- [2030] | 1 | evacuations | Evakuierung | 后撤 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
+- [2031] | 1 | event | Veranstaltung | 事件事件 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [2032] | 1 | Ever | Niemals | 从未 | Ever more Ukrainian women are joining the army
+- [2033] | 1 | everyday | täglich | 每天每天 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
+- [2034] | 1 | everything | alles | 一切一切 | My flight was canceled. But a baby in the airport taught me everything about God's peace in a storm
+- [2035] | 1 | Evolution | Entwicklung | 演变演变进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进进 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [2036] | 1 | ex | ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex v ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex ex | 以 un, un, un, un, un, un, un, un, un, un, un, un, un, un | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [2037] | 1 | ex-Biden | Ex-Biden | 退债 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [2038] | 1 | Ex-Cowboys | Ex-Cowboys | 前牛仔 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [2039] | 1 | ex-fact | Ex-Fakten | 反事实 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
+- [2040] | 1 | Ex-NBA | Ex-NBA | 前国家银行协会 | Ex-NBA star's pregnant wife opens up about shark attack: 'I don't want to die'
+- [2041] | 1 | exec | exec | exec 证书 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
+- [2042] | 1 | execution | Ausführung | 执行已执行 | Florida schedules execution for man who killed estranged wife's family, set house on fire
+- [2043] | 1 | exhibition | Ausstellung | 展 展 展 | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [2044] | 1 | expanded | erweitert | 扩大的 | Three states sign new agreements with ICE for expanded immigration enforcement operations
+- [2045] | 1 | expands | erweitert | 扩展 | New York Post expands west with California edition planned for early 2026
+- [2046] | 1 | expect | erwarten | 预计预计数 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [2047] | 1 | expel | Ausweisung | 驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐驱逐 | Europe’s top court nixes Italy’s plan to expel migrants, for now
+- [2048] | 1 | explaining | Erläuterung | 解释解释 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [2049] | 1 | exploit | Ausschöpfen | 剥削 | How scammers exploit your data for 'pre-approved' retirement scams
+- [2050] | 1 | expose | expose | 曝光曝光 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
+- [2051] | 1 | exposure | Exposition | 接触接触 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [2052] | 1 | extreme | extrem | 极端极端 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [2053] | 1 | eyes | Augen | 眼眼 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
+- [2054] | 1 | f | f . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | f , f , f , f | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [2055] | 1 | facility | Einrichtung | 设施设施 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [2056] | 1 | fact-checker | Fact-Checker | 事实检查器 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
+- [2057] | 1 | fact-checking | Fact-Checking | 事实检查 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [2058] | 1 | factories | Fabriken | 工厂工厂 | China’s planned Turkish EV factories have yet to power up
+- [2059] | 1 | FAILLA | FAILLA | 费利拉 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
+- [2060] | 1 | failure | Ausfall | 失败失败 | Famine in Gaza shows the failure of Israel’s strategy
+- [2061] | 1 | faithful | treu | 忠实 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
+- [2062] | 1 | faking | Vortäuschen | 伪装 | American accused of faking death, fleeing US found guilty of raping former girlfriend
+- [2063] | 1 | Falcons | Falken | 鹰鹰 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [2064] | 1 | fall | Herbst | 秋秋 | NASCAR driver Connor Zilisch breaks collarbone after hard fall in Victory Lane
+- [2065] | 1 | family’s | Familienangehörige | 家庭、家庭、家庭和家庭 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [2066] | 1 | Famine | Hungersnot | 饥荒 | Famine in Gaza shows the failure of Israel’s strategy
+- [2067] | 1 | fanbase | fanbase | 复方基 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
+- [2068] | 1 | Fantasy | Fantasie | 幻想 | The Fantasy Premier League is changing Britain’s favourite sport
+- [2069] | 1 | fan’ | Gebläse | 扇扇扇扇 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
+- [2070] | 1 | farm | Betrieb | 农场 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [2071] | 1 | fast-track | Schnellspurig | 快速铁路 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
+- [2072] | 1 | Fateh | Fetthölzer | 法特 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
+- [2073] | 1 | father-in-law | Schwiegervater | 公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公公 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [2074] | 1 | favor | Gunst | 偏为( p) | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [2075] | 1 | favorite | Favorit | 最喜欢的 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [2076] | 1 | favourite | Favorit | 最爱 | The Fantasy Premier League is changing Britain’s favourite sport
+- [2077] | 1 | Favre | Begünstigt | 法弗罗语Name | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [2078] | 1 | FCC | FCC | FCCFC 公平竞争委员会 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [2079] | 1 | federalized | föderalisiert | 联邦联邦制 | DC police accused of changing crime stats just weeks before Trump federalized city
+- [2080] | 1 | feds | Feds | 联邦联邦 | Illinois Democrats tell feds to stop trying to 'usurp' state authority over immigration
+- [2081] | 1 | feels | Gefühle | 感觉感觉 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [2082] | 1 | Festival | Fest | 节日节 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
+- [2083] | 1 | Fetterman | Betterman | 芬德曼 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
+- [2084] | 1 | feud | Fehde | 世仇 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
+- [2085] | 1 | Fever | Fieber | 发烧 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
+- [2086] | 1 | fewer | weniger | 较小 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
+- [2087] | 1 | fiasco | Fiasko | 亏损 | Fear of a new Oval Office fiasco over Ukraine
+- [2088] | 1 | fiery | Feuer | 冰冻 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
+- [2089] | 1 | fights | Kämpfe | 战斗 | Female police officer leaps into water, fights career criminal before making arrest, video shows
+- [2090] | 1 | figure | Abbildung | 图图图图 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [2091] | 1 | Film | Film | 电影电影电影 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
+- [2092] | 1 | Filmmaker | Filmemacher | 电影制制片人 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
+- [2093] | 1 | Find | Suchen | 查找查找查找查找 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [2094] | 1 | Finding | Finden | 找寻寻找寻寻寻寻寻寻 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
+- [2095] | 1 | fine | schön | 罚款 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [2096] | 1 | finest | am besten | 最佳 | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
+- [2097] | 1 | fingerprint | Fingerabdruck | 指纹指纹 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [2098] | 1 | firearms | Feuerwaffen | 火器火器 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [2099] | 1 | firing | Feuer | 射击 | Kamala Harris' major California announcement triggers circular Dem firing squad
+- [2100] | 1 | fit | Passend | 适 | You can eat bread and stay fit: Here are 9 high-fiber options from a health coach
+- [2101] | 1 | flavor | Geschmack | 调味味 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [2102] | 1 | fleeing; | fliehen; | 逃离; | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [2103] | 1 | flight | Flug | 飞行飞行 | My flight was canceled. But a baby in the airport taught me everything about God's peace in a storm
+- [2104] | 1 | flips | Drehungen | 翻翻 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [2105] | 1 | floats | Schwimmer | 浮动 | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
+- [2106] | 1 | foe | Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 敌人 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [2107] | 1 | followers | Follower | 追随者 | Denzel Washington blasts cancel culture, says faith matters more than followers
+- [2108] | 1 | foods | Lebensmittel | 食品食品 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
+- [2109] | 1 | fooled | getäuscht | 被骗 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
+- [2110] | 1 | football | Fußball | 足球足球 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
+- [2111] | 1 | force | Kraft | 强力力力 | Trump visa policies force colleges to scramble as international students vanish: report
+- [2112] | 1 | Forces | Kräfte | 部队 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
+- [2113] | 1 | Ford | FRANKREICH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 福特 | Francis Ford Coppola's treatment sheds light on heart condition affecting millions
+- [2114] | 1 | forever | für immer | 永永远永永 | Christie Brinkley admits forever might be too long for modern marriage
+- [2115] | 1 | forever' | für immer." | 永远 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
+- [2116] | 1 | forfeiting | Einbußen | 没收 | Women's volleyball activists react to California high school team forfeiting to opponent with trans athlete
+- [2117] | 1 | fortune | Vermögen | 财财财 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [2118] | 1 | forward | Vorwärts | 向前 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [2119] | 1 | foul | Foul | 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 犯 | Crying foul: opponents slam the uneven EU-US trade deal
+- [2120] | 1 | foundation | Stiftung | 基础基础 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
+- [2121] | 1 | founder | Gründer | 创建者 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [2122] | 1 | France | Frankreich | 法国 法国 法国 法国 法国 法国 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
+- [2123] | 1 | France’s | Frankreich | 法国 | France’s top general says Russia could attack in five years
+- [2124] | 1 | Francis | Franziskus | 弗朗西斯弗朗西斯弗朗西斯 | Francis Ford Coppola's treatment sheds light on heart condition affecting millions
+- [2125] | 1 | fraying | Ausfransen | 磨擦 | Nerves are fraying ahead of the Trump-Putin summit
+- [2126] | 1 | freeway | Autobahn | 高速公路 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
+- [2127] | 1 | French | Französisch | 法语 法语 法语 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [2128] | 1 | Friends | Freunde | 朋友之友 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
+- [2129] | 1 | fries | Pommes frites | 薯条薯条 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [2130] | 1 | fugitive's | Flüchtige | 逃犯 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [2131] | 1 | full-court | Vollgerichtsbarkeit | 整个法院 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
+- [2132] | 1 | funds | Mittel | 基金基金 | US appeals court says Trump can slash billions in owed USAID funds
+- [2133] | 1 | funeral | Beerdigung | 葬礼葬礼 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [2134] | 1 | Funny' | Komisch." | 有趣的是 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [2135] | 1 | gadgets | Gadgets | 设备 | Go fishing without breaking the bank with these budget-friendly fishing gadgets
+- [2136] | 1 | gain | Gewinn | 增益 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [2137] | 1 | Gaines | Gewinne | 收益收益 | Joanna Gaines keeps life simple in Texas away from Hollywood spotlight
+- [2138] | 1 | Galaxy | Galaxie | 银河系统 | How to tell if your Samsung Galaxy tablet has been hacked
+- [2139] | 1 | gang | Gang | 黑帮 | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
+- [2140] | 1 | gaps | Lücken | 差距 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
+- [2141] | 1 | garden | Garten | 花园花园 | Getting ready to harvest your garden? Get these helpful tools
+- [2142] | 1 | gasoline | Benzin | 汽油汽油汽油 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
+- [2143] | 1 | gate | Tor | 门门 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
+- [2144] | 1 | gather | sammeln | 集合集合 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [2145] | 1 | gathering | Sammlung | 正在收集 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [2146] | 1 | gave | gegeben | 给给 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [2147] | 1 | gear | Fanggerät | 装备 | A hunting gear checklist for beginner hunters
+- [2148] | 1 | generating | Erzeugung | 生成 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [2149] | 1 | generation | Erzeugung | 代 代 代 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [2150] | 1 | geography | Geografie | 地理地理 | The new geography of stolen goods
+- [2151] | 1 | Germans | Deutsche | 德国人 | Why the Germans are falling out of love with beer
+- [2152] | 1 | gerrymandered | gerrymandert | 漂流 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
+- [2153] | 1 | Get | Holen Sie sich | 上 | Getting ready to harvest your garden? Get these helpful tools
+- [2154] | 1 | gifts | Geschenke | 赠礼礼物 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [2155] | 1 | girl' | Mädchen" | 女 女 女 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [2156] | 1 | girls' | Mädchen" | 女童 女童 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
+- [2157] | 1 | Glen | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 格伦 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
+- [2158] | 1 | goats | Ziegen | 山羊 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [2159] | 1 | God's | Gottes | 上帝的上帝 | My flight was canceled. But a baby in the airport taught me everything about God's peace in a storm
+- [2160] | 1 | going | Ich gehe. | 继续 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
+- [2161] | 1 | gone | weg! | 已 远 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
+- [2162] | 1 | goodbye | Auf Wiedersehen. | 结束 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
+- [2163] | 1 | goods | Waren | 货物 | The new geography of stolen goods
+- [2164] | 1 | Gosselin | Gosselin | Golbelin 星座 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [2165] | 1 | got | erhalten | 已经拥有 | America's obsession with politicizing our children has got to stop
+- [2166] | 1 | gov't | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 政府 | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
+- [2167] | 1 | governor's | Gouverneur | 州长的 | Virginia school districts support for transgender students' rights in governor's race spotlight
+- [2168] | 1 | Grab | Greifen | 抓抓 抓抓 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
+- [2169] | 1 | grandkids | Enkel | 孙子女 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [2170] | 1 | grandmother's | Großmütter | 外祖母的 | Scottish grandmother's case dropped after arrest for holding sign in abortion buffer zone
+- [2171] | 1 | Grassroots | Wurzel- und Knollenwurzeln | 基层基层基层 | Grassroots push for freedom grows in Gaza as Hamas tightens its deadly grip
+- [2172] | 1 | grave | Grab | 严重 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [2173] | 1 | greenlights | Grünlichter | 绿灯绿灯 | GOP governor greenlights state troopers to join ICE in immigration crackdown
+- [2174] | 1 | grind' | Schleifen" | 磨 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 、 磨 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
+- [2175] | 1 | grinder' | Schleifmaschine" | 研磨机 | Brett Favre praises fellow Hall of Famer Deion Sanders after cancer news: 'He's a grinder'
+- [2176] | 1 | grip | Griff | 紧紧的对齐 | Grassroots push for freedom grows in Gaza as Hamas tightens its deadly grip
+- [2177] | 1 | gross’ | brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , brutto , | 毛额毛额 毛额 毛额 毛额 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
+- [2178] | 1 | groundbreaking | bahnbrechend | 开拓开创性新突破 | Fox News AI Newsletter: Trump admin unveils groundbreaking tool 'supercharging' gov't efficiency in AI
+- [2179] | 1 | grows | wächst | 生长 | Grassroots push for freedom grows in Gaza as Hamas tightens its deadly grip
+- [2180] | 1 | grueling | Verbrutungen | 苦 苦 苦 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [2181] | 1 | gruesome | Grausam | 恐怖 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
+- [2182] | 1 | gubernatorial | gubernatorial | 州长 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
+- [2183] | 1 | guest | Gast | 客人 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
+- [2184] | 1 | guilt | Schuld | 内已犯罪 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
+- [2185] | 1 | guilty | schuldig | 犯罪 | American accused of faking death, fleeing US found guilty of raping former girlfriend
+- [2186] | 1 | gun | Pistole | 枪炮 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
+- [2187] | 1 | hacker | Hacker | 黑客 | Google confirms data stolen in breach by known hacker group
+- [2188] | 1 | hacks' | Hacks" | 黑 黑 的 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [2189] | 1 | hair | Haare | 头发毛发 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
+- [2190] | 1 | halts | Anhalten | 停止停止 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
+- [2191] | 1 | hands' | Hände" | 手举手 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
+- [2192] | 1 | Hanks | Hanks | 汉克 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [2193] | 1 | harvest | Ernte | 收获丰收 | Getting ready to harvest your garden? Get these helpful tools
+- [2194] | 1 | hat | Hut | 帽子帽子 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [2195] | 1 | hate | Hass | 仇恨 | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
+- [2196] | 1 | haul | Ziehen | 拖拉 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [2197] | 1 | haunting | Gespenst | 缠绕着 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
+- [2198] | 1 | Hawaii | Hawaii | 夏威夷夏威夷 | 75-foot boat surfs wave, runs aground in Hawaii
+- [2199] | 1 | hawks | Falken | 鹰鹰 | Fiscal hawks seek millions for home district projects amid government funding debate
+- [2200] | 1 | head | Kopf | 头头 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
+- [2201] | 1 | head-to-head | Kopf-an-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf-An-Kopf | 头头对头 | Narendra Modi and Donald Trump go head-to-head
+- [2202] | 1 | heading | Bezeichnung | 标题标题 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
+- [2203] | 1 | healthier | gesünder | 更健康 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [2204] | 1 | hearing | Anhörung | 听询 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
+- [2205] | 1 | heart | Herz | 心心心 | Francis Ford Coppola's treatment sheds light on heart condition affecting millions
+- [2206] | 1 | heartbreaker | Herzschmerzmittel | 心碎者 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
+- [2207] | 1 | heartfelt | von Herzen | 衷心的 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [2208] | 1 | held | in Erwägung nachstehender Gründe: | 举行 举行 举行 | Ziad Rahbani held a mirror to Lebanese society
+- [2209] | 1 | Helen | Helen | 海伦 海伦 海伦 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [2210] | 1 | hell | Scheiße! | 地狱地狱 | Mr. President, help me bring my son back from hell
+- [2211] | 1 | helpful | hilfreich | 有用 | Getting ready to harvest your garden? Get these helpful tools
+- [2212] | 1 | Here | Hier, bitte. | 给 | You can eat bread and stay fit: Here are 9 high-fiber options from a health coach
+- [2213] | 1 | here' | Hier ist es. | 这里 | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [2214] | 1 | heroes | Helden | 英雄英雄英雄 | MIKE DAVIS: A tale of two Russiagate heroes
+- [2215] | 1 | herself | sich selbst | 本人本人本人 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [2216] | 1 | he’ll | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 将 | Bernie Sanders addresses whether he’ll run in 2028
+- [2217] | 1 | hidden | versteckt | 隐藏隐藏 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
+- [2218] | 1 | hide | ausblenden | 隐藏 | Google AI email summaries can be hacked to hide phishing attacks
+- [2219] | 1 | high | hoch | 高 | Women's volleyball activists react to California high school team forfeiting to opponent with trans athlete
+- [2220] | 1 | Hill | Hügel | 山丘 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
+- [2221] | 1 | hinges | Scharniere | 断链 | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [2222] | 1 | hire | Vermietung | 租 租 租 租 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
+- [2223] | 1 | history | Vorgeschichte | 历史历史历史历史历史历史历史 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
+- [2224] | 1 | history' | Vorgeschichte" | 历史历史 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [2225] | 1 | Hitler | Hitler | 希特勒 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
+- [2226] | 1 | Hogwarts | Hogwarts | 霍格沃茨 | Europe’s Hogwarts has a new Dumbledore
+- [2227] | 1 | holding | Betrieb | 持有持有 | Scottish grandmother's case dropped after arrest for holding sign in abortion buffer zone
+- [2228] | 1 | home-cooked | gegart | 家庭烹饪 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
+- [2229] | 1 | Homicide | Morddelikte | 凶杀 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
+- [2230] | 1 | hopes | Hoffnungen | 希望希望 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
+- [2231] | 1 | Hospital' | Krankenhaus" | 医院 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
+- [2232] | 1 | host | Gastgeber | 主机主机 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
+- [2233] | 1 | hostage | Geisel | 人质人质 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [2234] | 1 | Hostility | Feindseligkeit | 东 度 度 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
+- [2235] | 1 | hot | heiß | 热热 | Keep your beverages hot or cold with these insulated bottles and tumblers
+- [2236] | 1 | hotel | Hotel | 旅馆旅馆旅馆 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
+- [2237] | 1 | Houston | Houston | 休斯顿休斯敦 | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
+- [2238] | 1 | Howard | Howard, Mitglied der Kommission. - (EN) Herr Präsident! | 霍华德·霍华德 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [2239] | 1 | HP | H.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P.P. | HP 惠 HP | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
+- [2240] | 1 | Hudson | Hudson | 哈德逊 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [2241] | 1 | humanitarian | humanitäre Hilfe | 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 人道主义 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [2242] | 1 | Humanoid | Humanoid | 人类 | Humanoid robot turns heads at NYC sneaker store
+- [2243] | 1 | hunters | Jäger | 猎猎人 | A hunting gear checklist for beginner hunters
+- [2244] | 1 | hunting | Jagd | 狩猎、打猎和打猎 | A hunting gear checklist for beginner hunters
+- [2245] | 1 | Hurley | Hurley. - (EN) Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 赫里 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [2246] | 1 | Hyde | Hyde | 海德 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [2247] | 1 | hypocrisy | Heuchelei | 虚伪 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
+- [2248] | 1 | icon | Symbol | 图标图标图标 | Country music icon Jeannie Seely dead at 85
+- [2249] | 1 | ID | ID | ID 编号 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [2250] | 1 | Idaho | Idaho | 爱达荷 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [2251] | 1 | IDs | IDs | ID 身份证 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
+- [2252] | 1 | images | Bilder | 图像图像图像 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
+- [2253] | 1 | imaginary | imaginär | 想象中 | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
+- [2254] | 1 | immigrant | Zuwanderer | 移民移民移民 | ICE arrests illegal immigrant who was released despite charges of sex crimes against children
+- [2255] | 1 | immune | Immunantwort | 免疫性 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [2256] | 1 | implant-related | implantatbedingt | 与植入有关 | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
+- [2257] | 1 | impossible | Unmöglich | 不可能 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
+- [2258] | 1 | impossible” | Unmöglich | “不可能” | MIT tool visualizes and edits “physically impossible” objects
+- [2259] | 1 | impress | Beeindrucken | 印象深刻 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [2260] | 1 | impression' | Erscheinungsbild" | 给人留下的印象 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
+- [2261] | 1 | including | einschließlich | 包括 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [2262] | 1 | incumbency | Unberechenbarkeit | 在职人数 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
+- [2263] | 1 | indecent | unanständig | 猥亵 | Man charged with disorderly conduct and indecent exposure after WNBA sex toy incident
+- [2264] | 1 | indicates | zeigt an | 点点 | Father of CDC gunman indicates possible motivation behind shooting
+- [2265] | 1 | indictment | Anklage | 起诉书 | Cincinnati viral beating suspects face new charges in grand jury indictment
+- [2266] | 1 | indicts | Anklagepunkte | 起诉 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
+- [2267] | 1 | individuals | Einzelpersonen | 个人、个人、个人、个人、 | State Department stops issuing all visitor visas for individuals from Gaza
+- [2268] | 1 | industry | Industrie | 工业工业 | Trump is taking decisive action to bring this critical industry back to American soil
+- [2269] | 1 | infiltrates | Infiltrate | 渗透 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
+- [2270] | 1 | inflation | Inflation | 通货膨胀 | The US in brief: Stocks soar on inflation news
+- [2271] | 1 | Influencer | Influencer | 影响器 | Influencer couple killed in Canadian mountain crash
+- [2272] | 1 | info | Info | 信息信息信息 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [2273] | 1 | information | Informationen | 信息信息信息信息信息信息信息 | Colorado deputy could face massive fine for sharing information with immigration authorities
+- [2274] | 1 | ingredients | Inhaltsstoffe | 成分成分 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [2275] | 1 | inhalation | Inhalation | 吸入 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [2276] | 1 | injection | Injektionslösung | 注射 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
+- [2277] | 1 | injunction | einstweilige Anordnung | 强制禁令 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
+- [2278] | 1 | injured; | verletzt; | 受伤; | Mass shooting at NYC lounge leaves at least 3 dead, others injured; suspects at large
+- [2279] | 1 | injuries | Verletzungen | 伤 伤 伤 伤 伤 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [2280] | 1 | inning | Inning | 内内 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [2281] | 1 | insight | Einsicht | 洞洞洞见 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [2282] | 1 | inspires | inspiriert | 激励器 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [2283] | 1 | insulated | isoliert | 绝热隔热 | Keep your beverages hot or cold with these insulated bottles and tumblers
+- [2284] | 1 | Insurance | Versicherung | 保险保险 保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险保险 | Allianz Life Insurance data breach exposes 1.4 million Americans
+- [2285] | 1 | intensifies | verstärkt | 增强 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
+- [2286] | 1 | intensive | intensiv | 集中式 | Quadruple murder suspect Austin Drummond captured after intensive Tennessee search
+- [2287] | 1 | intern | Praktikant | 实习生 | Trump administration cares more about son’s death than DC Council, mother of slain GOP intern says
+- [2288] | 1 | intervenes | interveniert | 干预 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [2289] | 1 | intrigue | Intrigen | 阴谋 | Browns coach adds to quarterback intrigue following Shedeur Sanders' great preseason debut
+- [2290] | 1 | investigation | Untersuchung | 调查调查 | DOJ opens grand jury investigation into Letitia James tied to Trump civil case
+- [2291] | 1 | investigator | Prüfer | 调查员 调查员 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
+- [2292] | 1 | invite | einladen | 邀请邀请邀请 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
+- [2293] | 1 | involvement | Beteiligung | 参与 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [2294] | 1 | Iranian | Iranisch | 伊朗语 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
+- [2295] | 1 | ironically | ironisch | 讽刺地说 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [2296] | 1 | Israel's | Israels | 以 以 以 色 国 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
+- [2297] | 1 | Israel’s | Israel | 以 以 以 以 以 | Famine in Gaza shows the failure of Israel’s strategy
+- [2298] | 1 | issue' | Ausgabe" | A. 问题...... 25 - 25 5 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
+- [2299] | 1 | issuing | Ausgabe | 印发 | State Department stops issuing all visitor visas for individuals from Gaza
+- [2300] | 1 | it’s | Es handelt sich um | 它是 | Why it’s a pain to take a plane in Africa
+- [2301] | 1 | Ivanka | Iwanka | 伊万卡语Name | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
+- [2302] | 1 | Ivory | Elfenbein | 象牙 | Ivory Coast’s president is overstaying his welcome
+- [2303] | 1 | I’m | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 我... | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [2304] | 1 | jab | Jab | 以 jab | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [2305] | 1 | jacket | Jacke | 外套夹夹 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [2306] | 1 | Jackson | - Jackson. - (EN) Herr Präsident! | 杰克逊 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [2307] | 1 | jail | Gefängnis | 监禁 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [2308] | 1 | Jazeera | Jazeera | 半岛电视台 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
+- [2309] | 1 | Jazz | Jazz | 爵士爵士 | Yankees star Jazz Chisholm Jr commits egregious baserunning blunder, faces social media backlash
+- [2310] | 1 | JB | JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: JB: | JB JB 日元 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2311] | 1 | Jeanine | Jeanine, Mitglied der Kommission. - (EN) Herr Präsident! | 珍妮 | Jeanine Pirro says current DC justice system 'isn't cutting it' as Trump takes federal control
+- [2312] | 1 | Jeannie | Jeannie | 珍妮 | Country music icon Jeannie Seely dead at 85
+- [2313] | 1 | Jeannie’ | Jeannie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 珍妮 ' | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [2314] | 1 | jeans | Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans/Jeans | 牛仔牛仔牛仔裤 | Sydney Sweeney jeans controversy making advertising great again
+- [2315] | 1 | Jekyll | Jekyll | 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 头 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [2316] | 1 | Jennifer | Jennifer | 珍妮弗 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
+- [2317] | 1 | Jersey | Trikot | 泽泽西岛 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
+- [2318] | 1 | Jerusalem's | Jerusalems | 耶路撒冷 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [2319] | 1 | Jet | Strahl | 喷气喷气 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
+- [2320] | 1 | Jets | Jets | 喷喷喷喷喷气机 | Tom Brady burns Jets fans once more during statue ceremony
+- [2321] | 1 | jewelry | Schmuck | 珠宝首饰 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [2322] | 1 | Jewish | Jüdisch | 犹太犹太人 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
+- [2323] | 1 | JIMMY | JIMMY | 吉米 吉米 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
+- [2324] | 1 | Joanna | Joanna | 琼安娜 | Joanna Gaines keeps life simple in Texas away from Hollywood spotlight
+- [2325] | 1 | job | Arbeit | 工作 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [2326] | 1 | Joel | Joel | 乔尔 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [2327] | 1 | Johannesburg | Johannesburg | 约翰内斯堡 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [2328] | 1 | Johnny | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 强尼 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
+- [2329] | 1 | Johnston | Johnston, Mitglied der Kommission. - (EN) Herr Präsident! | 约翰斯顿 | Chargers' Quentin Johnston suffers concussion on hard hit from Rams defensive back
+- [2330] | 1 | join | beitreten | 加入加入加入 | GOP governor greenlights state troopers to join ICE in immigration crackdown
+- [2331] | 1 | joining | Beitritt | 合并加入 | Ever more Ukrainian women are joining the army
+- [2332] | 1 | joint | Gelenk | 联合联合 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
+- [2333] | 1 | JONATHAN | JONATHAN | 乔纳登 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
+- [2334] | 1 | Jong | Jong | 钟钟 | South Korea's move to lower tensions with Kim Jong Un threatens 400,000 Christians
+- [2335] | 1 | Josh | Josh | 乔希 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [2336] | 1 | journalist | journalist | 记者 | Israel says Al Jazeera journalist killed in airstrike was head of Hamas 'terrorist cell'
+- [2337] | 1 | judicial | Gerichtsstand | 司法 司法 司法 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
+- [2338] | 1 | jurisdictions | Zuständigkeitsbereiche | 法域 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [2339] | 1 | k | k | k k, k, k, k | How to secure your 401(k) plan from identity fraud
+- [2340] | 1 | Kate | - Kate. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 凯特 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [2341] | 1 | keeping | Bewahren | 保留 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
+- [2342] | 1 | Kelce's | Kelce's | Kelce 键盘 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
+- [2343] | 1 | Kennedy | Kennedy | 肯尼迪 | Tom Cruise turns down Trump’s Kennedy Center Honors invite: report
+- [2344] | 1 | kicks | Tritte | 踢踢 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
+- [2345] | 1 | kidnapping | Entführung | 绑架绑架 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [2346] | 1 | kids | Kinder | 儿 童 儿 童 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2347] | 1 | killer | Mörder | 杀手 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [2348] | 1 | killer's | Killer's | 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 杀 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
+- [2349] | 1 | kind | Art | 型 型 型 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [2350] | 1 | knee | Knie | 膝膝膝膝 | Seth Rollins looms large at SummerSlam amid possible knee injury
+- [2351] | 1 | knocked | geklopft | 已敲打 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
+- [2352] | 1 | knockout | Kockout | 敲击 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
+- [2353] | 1 | know | wissen | 已知 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [2354] | 1 | known | bekannt | 已知 | Google confirms data stolen in breach by known hacker group
+- [2355] | 1 | Kohberger's | Kohberger's | 科伯格 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [2356] | 1 | Kone | Vergebt | 键键 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
+- [2357] | 1 | Korea's | Koreas | 韩国 | South Korea's move to lower tensions with Kim Jong Un threatens 400,000 Christians
+- [2358] | 1 | Kremlin | Kreml | 克里姆林宫 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
+- [2359] | 1 | l | L 347 vom 20.12.2013, S. 671. | 升 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [2360] | 1 | lab | Labor | 实验室实验室 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
+- [2361] | 1 | Labor | Arbeit | 劳工劳工劳工劳工劳工劳动劳动 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
+- [2362] | 1 | lack | Mangel | 缺乏 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [2363] | 1 | lady | Frau | 女士( 女士) | Melania Trump commemorates 200 days since resuming role as first lady
+- [2364] | 1 | lake | See | 湖湖湖 | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
+- [2365] | 1 | lambasted | geräuchert | 羊排 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2366] | 1 | language | Sprache | 语言 语言 语言 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [2367] | 1 | lash | Schrägstrich | 电鞭 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
+- [2368] | 1 | lasting | Dauerhaft | 长期 | Girlfriend of Travis and Jason Kelce's father dead at 74: 'Left a lasting impression'
+- [2369] | 1 | late-night | späte Nacht | 深夜 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [2370] | 1 | Lauder | Lauder | 失败者 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [2371] | 1 | launch | Start | 启动启动 | Abbott, Texas Republicans launch new Trump-backed redistricting push as fleeing Democrats plan to end walkout
+- [2372] | 1 | launched | gestartet | 启动 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [2373] | 1 | launching | Start | 启动 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [2374] | 1 | Lawmaker | Rechtsanwältin | 立法者 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [2375] | 1 | lawmakers | Gesetzgeber | 立法者 | Texas asks Illinois court to enforce arrest warrants for Democratic lawmakers
+- [2376] | 1 | laws | Rechtsvorschriften | 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 法律 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
+- [2377] | 1 | lead | Blei | 铅铅 | Facebook crypto ads lead to dangerous malware scams
+- [2378] | 1 | leak | Leckage | 漏出 | Former Washington Post fact-checker admits he 'screwed up' on COVID-19 lab leak theory
+- [2379] | 1 | leaps | Sprünge | 飞跃 | Female police officer leaps into water, fights career criminal before making arrest, video shows
+- [2380] | 1 | least | mindestens | 最低 | Mass shooting at NYC lounge leaves at least 3 dead, others injured; suspects at large
+- [2381] | 1 | Lebanese | Libanesisch | 黎巴嫩黎巴嫩文 | Ziad Rahbani held a mirror to Lebanese society
+- [2382] | 1 | LeBrock | LeBrock | 勒布罗克Name | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [2383] | 1 | left' | links" | 左左 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [2384] | 1 | Left-wing | Links | 左翼 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [2385] | 1 | Leftist | Linkshänder | 左左派 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
+- [2386] | 1 | lefty | Linkshänder | 左左左 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
+- [2387] | 1 | leg | Bein | 腿腿 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [2388] | 1 | legal | Rechts- und Verwaltungsvorschriften | 法律 法律 法律 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [2389] | 1 | legend's | Legenden | 传说中的传说 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [2390] | 1 | legit | Legitimation | 纯正 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [2391] | 1 | Leo | Löwe | 利奥 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [2392] | 1 | leopard | Leopard | 豹型豹 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [2393] | 1 | Lesnar's | Lesnar's | 莱纳尔的 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [2394] | 1 | less | weniger | 小于 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [2395] | 1 | Level | Ebene | 职等职等 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [2396] | 1 | libs | libs | libs libs libs | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
+- [2397] | 1 | license | Lizenz | 许可证许可证许可证许可证许可证 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [2398] | 1 | licensing | Lizenzierung | 许可证发放 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
+- [2399] | 1 | life-changing | lebensverändernd | 改变生命 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [2400] | 1 | lifeguard | Rettungsschwimmer | 救生卫 | Beach visitors risk 'arrest' for swimming without lifeguard following tragic incident
+- [2401] | 1 | lifts | Aufzüge | 电梯 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
+- [2402] | 1 | likens | Gleichnisse | 线 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [2403] | 1 | Linda | Linda | 琳达 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [2404] | 1 | Lindsay | Lindsay | 林赛 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
+- [2405] | 1 | line | Zeile | 直行 | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
+- [2406] | 1 | lines | Zeilen | 线条 | On Ukraine’s front lines the kill zone is getting deeper
+- [2407] | 1 | lingers | Verweilt | 短短的 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [2408] | 1 | links | Verknüpfungen | 链接链接 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [2409] | 1 | Lions | Löwen | 狮子狮子狮 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [2410] | 1 | literally | im wahrsten Sinne des Wortes | 字数 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
+- [2411] | 1 | Little-known | Wenig bekannt | 鲜为人知 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [2412] | 1 | live | lebend | 活 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [2413] | 1 | lobby | Lobby | 大厅 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
+- [2414] | 1 | Locals | Einheimische | 当地人 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
+- [2415] | 1 | locker | Schließfach | 储物柜 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [2416] | 1 | Lohan | Lohan | 洛汉 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
+- [2417] | 1 | Lone | Einsam | 孤 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
+- [2418] | 1 | lonely | einsam | 孤单 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [2419] | 1 | long-term | langfristig | 长期长期 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
+- [2420] | 1 | Loni | Loni | 洛尼 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [2421] | 1 | looking | suchen | 外观 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
+- [2422] | 1 | looks | sieht aus | 外观 | Why Italy’s next cultural capital looks like a disaster zone
+- [2423] | 1 | Lord | Herr | 主主主主主,主主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主,主 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [2424] | 1 | Los | Verlust | 输 输 | 'General Hospital' star says goodbye to Los Angeles after 35 years with cross-country move
+- [2425] | 1 | losing | Verlust | 损失 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
+- [2426] | 1 | lounge | Aufenthaltsraum | 休息休息室 | Mass shooting at NYC lounge leaves at least 3 dead, others injured; suspects at large
+- [2427] | 1 | love | Liebe | 爱爱 | Why the Germans are falling out of love with beer
+- [2428] | 1 | Lovell | Lovell | 爱情 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [2429] | 1 | low-carb | kohlenhydratarm | 低负载量 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [2430] | 1 | Lowe | Niedrig | 低 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [2431] | 1 | lower | niedriger | 下下 | South Korea's move to lower tensions with Kim Jong Un threatens 400,000 Christians
+- [2432] | 1 | LUCADO | LUCADO | 卢卡多 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
+- [2433] | 1 | lucrative | lukrativ | 利润丰利 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
+- [2434] | 1 | Luigi | Luigi | 路易 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [2435] | 1 | lunar | Mond | 月圆 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
+- [2436] | 1 | luxury | Luxus | 奢侈品 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [2437] | 1 | ma'am | Ma'am, bitte sehr. | 女士们,女士们 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [2438] | 1 | MacDowell's | MacDowell's | 麦克道尔的 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
+- [2439] | 1 | machete | Machete | 干大毛毛大毛毛 | Australian state rolls out machete ‘disposal bins’ ahead of ban
+- [2440] | 1 | made | hergestellt | 作出 | Hiker made fatal mistake when encountering poisonous snake, officials believe
+- [2441] | 1 | magic | Zauberei | 魔法 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
+- [2442] | 1 | magic’s | Zauberei | 魔法魔法 | Las Vegas tourism officials blame tariffs for fewer visitors as others say magic’s gone
+- [2443] | 1 | Maher | Maher | Mah Maher | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
+- [2444] | 1 | make-up | Make-up | 化妆 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [2445] | 1 | malaria | Malaria | 疟疾 疟疾 疟疾 | How climate change could spread malaria
+- [2446] | 1 | malware | Malware | 恶意软件 | Facebook crypto ads lead to dangerous malware scams
+- [2447] | 1 | management | Verwaltung | 管理管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 管理 | Consultant management: McKinsey loses its shine
+- [2448] | 1 | Mangione | Mangion | 曼吉龙语Name | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [2449] | 1 | manhunt | Jagd | 搜 捕 人 猎 人 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [2450] | 1 | manuscripts | Manuskripte | 手动手头 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
+- [2451] | 1 | Manziel | Manziel | 曼齐尔 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
+- [2452] | 1 | Margaret | Margaret | 玛格丽特 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
+- [2453] | 1 | Marlins | Marlins | 马林斯 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
+- [2454] | 1 | Maryland | Maryland | 马里兰州 | Lone Maryland GOP congressman warns redistricting could cut White House ties for entire state
+- [2455] | 1 | Marzouk | Marzouk | 马祖克 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
+- [2456] | 1 | masks | Masken | 遮面罩 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [2457] | 1 | Mass | Masse | 质量质量质量质量 | Mass shooting at NYC lounge leaves at least 3 dead, others injured; suspects at large
+- [2458] | 1 | massacre | Massaker | 屠杀屠杀屠杀 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
+- [2459] | 1 | matched | abgestimmt | 匹配匹配 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
+- [2460] | 1 | matching | zusammenpassend | 匹配匹配 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [2461] | 1 | materials | Werkstoffe | 材料 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
+- [2462] | 1 | matriarch | Matriarch | 母母体 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [2463] | 1 | Matt | Matt | 马修 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [2464] | 1 | matters | Fragen | 事项事项(事项) | Denzel Washington blasts cancel culture, says faith matters more than followers
+- [2465] | 1 | MAX | MAX | MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX MAX | MAX LUCADO: Finding peace and faith in God in the middle of the storm
+- [2466] | 1 | mayors | Bürgermeister | 市长 市长 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [2467] | 1 | McMahon | McMahon | 麦克马洪 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [2468] | 1 | me' | Ich bin's. | 我,我,我, | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
+- [2469] | 1 | meals | Mahlzeiten | 膳食 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
+- [2470] | 1 | Medieval | Mittelalter | 中世纪 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [2471] | 1 | Meet | Treffen | 会 会 会 会 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
+- [2472] | 1 | megabill | Großbuchstaben | 特大比尔 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
+- [2473] | 1 | megachurch | Megachurch | 特大教会 | Former megachurch pastor declares Trump supporters can't be 'good' people in fiery essay
+- [2474] | 1 | Mellencamp | Mellencamp | 梅伦坎普 | Teddi Mellencamp struggles with speech following cancer treatment
+- [2475] | 1 | melt | Schmelze | 熔融 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
+- [2476] | 1 | men | Männer | 男子 男子 男子 男子 男子 | Christie Brinkley admits she and 27-year old daughter matched with the exact same men on dating apps
+- [2477] | 1 | mental | Psychisch | 精神病 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2478] | 1 | mere | nur | 仅 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
+- [2479] | 1 | messy | chaotisch | 乱成一团 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [2480] | 1 | Meta's | Meta's | Meta 的 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [2481] | 1 | meteoric | meteorisch | 气象学 | American Culture Quiz: Test yourself on boardwalk beginnings and meteoric magic
+- [2482] | 1 | Metro | U-Bahn | 地铁 | Trump takes control of Metro Police, deploys National Guard to take on Washington crime
+- [2483] | 1 | me’ | - Ich bin nicht mehr da. - Ich bin nicht mehr da. | " 我 " , | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [2484] | 1 | Miami | Miami | 迈阿密 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [2485] | 1 | Micah | Micah | 米迦 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [2486] | 1 | Michael | UMWELTVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHRSVERKEHR | 迈克尔·迈克尔 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
+- [2487] | 1 | Michelle | Michelle | 米歇尔 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [2488] | 1 | mid-haircut | Mittelhaarschnitt | 中头发切中 | Video shows Arkansas hiking murder suspect arrested mid-haircut
+- [2489] | 1 | middle | Mitte | 中间中间 | MAX LUCADO: Finding peace and faith in God in the middle of the storm
+- [2490] | 1 | Miele | Miele. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 米埃莱 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
+- [2491] | 1 | Minneapolis | Minneapolis | 明尼阿波利斯 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
+- [2492] | 1 | minutes | Minuten | 分钟 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [2493] | 1 | miraculous | Wundervoll | 奇迹 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [2494] | 1 | missile | Flugkörper | 导弹 导弹 | Russia drops missile deployment moratorium amid tensions with Trump admin
+- [2495] | 1 | missing | fehlt | 缺少 | New Jersey man missing in Grand Canyon 'mega-fire' as search efforts continue week later
+- [2496] | 1 | mistake | Fehler | 错误错误 | Hiker made fatal mistake when encountering poisonous snake, officials believe
+- [2497] | 1 | MLS | MLS | MLS 中 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [2498] | 1 | modern | modern | 现代 | Christie Brinkley admits forever might be too long for modern marriage
+- [2499] | 1 | Modi | ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNG DER ENTWICKLUNGEN | 莫迪语 | Narendra Modi and Donald Trump go head-to-head
+- [2500] | 1 | Moldova’s | Moldawien | 摩尔多瓦 | Moldova’s election will test its resistance to Russia
+- [2501] | 1 | Molly | Molly | Molly 娘娘娘娘娘娘娘娘娘娘 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [2502] | 1 | mom | Mutter | 妈妈 妈妈 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [2503] | 1 | Momoa | L 347 vom 20.12.2013, S. 671. | 莫莫拉 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
+- [2504] | 1 | monopoly' | Monopol" | 垄断垄断 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [2505] | 1 | Montauk’s | Montauk | 蒙托克 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
+- [2506] | 1 | moratorium | Moratorium | 暂停暂停 | Russia drops missile deployment moratorium amid tensions with Trump admin
+- [2507] | 1 | Morice | Fleisch von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen und Ziegen von Schafen | 摩曲 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [2508] | 1 | Morin's | Morin's | 莫林的 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
+- [2509] | 1 | motivation | Motivation | 动机 动机 动机 | Father of CDC gunman indicates possible motivation behind shooting
+- [2510] | 1 | motorcycle | Motorrad | 摩托车摩托车 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [2511] | 1 | Mount | Befestigen | 挂山 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [2512] | 1 | mountain | Berg | 山山山山山 | Influencer couple killed in Canadian mountain crash
+- [2513] | 1 | Mountains | Gebirge | 山山山脉 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [2514] | 1 | mounts | Halterungen | 上层 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
+- [2515] | 1 | moved' | umgezogen" | 移动' | WWE star says she suffered breast implant-related injury in ring: 'It has moved'
+- [2516] | 1 | movie | Film | 电影电影 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
+- [2517] | 1 | Mr | Herr | 先生 先生 先生 先生 先生 先生 先生 先生 | Mr. President, help me bring my son back from hell
+- [2518] | 1 | MS- | Mitgliedstaat | 管理系统- | ICE Houston arrests more than 350 gang members -- and it's not just MS-13
+- [2519] | 1 | much | viel | 多 | Deion Sanders' Colorado quarterback decision much tougher than years past
+- [2520] | 1 | music | Musik | 音乐音乐 | Country music icon Jeannie Seely dead at 85
+- [2521] | 1 | musicians | Musiker | 音乐家 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [2522] | 1 | mysterious | rätselhaft | 神秘 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
+- [2523] | 1 | Nagasaki | Nagasaki | 长崎 | Nagasaki mayor issues chilling warning on 80th anniversary of atomic bombing
+- [2524] | 1 | names | Bezeichnung | 名称名称 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [2525] | 1 | Narendra | Narendra | 纳伦德 | Narendra Modi and Donald Trump go head-to-head
+- [2526] | 1 | NASA's | Die NASA | 美国航天局 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
+- [2527] | 1 | NASCAR's | NASCAR's | NASCAR 海军 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [2528] | 1 | Nate | Nate | 内内特 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [2529] | 1 | naturalization | Einbürgerung | 归化入籍 | Top DHS official calls citizenship test 'too soft,' urges major overhaul of naturalization process
+- [2530] | 1 | nd | . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 结束时间 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
+- [2531] | 1 | near | in der Nähe | 附近 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [2532] | 1 | neighborhood | Nachbarschaft | 相邻邻居 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
+- [2533] | 1 | neighbourhood | Nachbarschaft | 邻里 | Welcome to the YIMBYest neighbourhood in America
+- [2534] | 1 | Nerves | Nerven | 神经 | Nerves are fraying ahead of the Trump-Putin summit
+- [2535] | 1 | nest | Nest | 巢巢 | Radioactive wasp nest discovered by workers at former nuclear bomb site
+- [2536] | 1 | Netanyahu | Netanyahu | 内塔尼亚 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [2537] | 1 | Netherlands | Niederlande | 荷兰 荷兰 荷兰 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
+- [2538] | 1 | Nets | Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-Netto-N | 净额净额净额 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
+- [2539] | 1 | Networks | Netze | 网络网络 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
+- [2540] | 1 | newest | neueste | 最新 | SCOOP: Trump's newest DC crime crackdown yields more than 100 arrests
+- [2541] | 1 | Newsom | Nachrichten | Newsom 新闻 | Schwarzenegger pushing back against Newsom redistricting bid in California
+- [2542] | 1 | NFL | NFL | NFL NFFNNFL | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
+- [2543] | 1 | NJ | NJ | NJ NJ | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [2544] | 1 | Nobel | Nein. | 诺诺诺 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
+- [2545] | 1 | Noem | Noem | Noem 编号 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [2546] | 1 | nominees | Nominierte | 被提名人 | Senate GOP threatens to 'grind it out' through August as Trump nominees face Democratic delays
+- [2547] | 1 | nonbelievers | Nichtgläubige | 非信非信徒 | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
+- [2548] | 1 | norms | Normen | 规范规范规范、规范规范、规范规范、规范规范 | 'Next Level Chef' challenges American food norms with 'bug bite' ingredients
+- [2549] | 1 | Norris | Norris | 诺里斯 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [2550] | 1 | notes | Anmerkungen | 注 注 注注 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [2551] | 1 | nothing | Nichts | 什么都没有 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [2552] | 1 | notice | Hinweis | 通知通知 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
+- [2553] | 1 | number | Anzahl | 号号号数 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
+- [2554] | 1 | nursing | Krankenpflege | 护理护理 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [2555] | 1 | nutrition | Ernährung | 营养营养 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
+- [2556] | 1 | O'Rourke | O'Rourke | 奥罗克 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
+- [2557] | 1 | objects | Objekte | 对象 | MIT tool visualizes and edits “physically impossible” objects
+- [2558] | 1 | obsession | Obsession | 固执 | America's obsession with politicizing our children has got to stop
+- [2559] | 1 | occupied | besetzt | 被占领 | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
+- [2560] | 1 | Odell | Odell | 奥德尔 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
+- [2561] | 1 | of' | von" | 的 年 月 年 月 年 月 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [2562] | 1 | offender | Straftäter | 违法罪犯 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [2563] | 1 | offer | Angebot | 提供 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
+- [2564] | 1 | offered | angeboten | 提供 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [2565] | 1 | officers | Beamte | 干事 干事 干事 | Protesters confront officers patrolling DC streets after Trump policing takeover
+- [2566] | 1 | oligarch’s | Oligarchen | " 寡寡寡人 " 组织 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
+- [2567] | 1 | Omar | Omar | 奥马尔 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
+- [2568] | 1 | on' | auf" | 上' 上' | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [2569] | 1 | on-field | vor Ort | 外地 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [2570] | 1 | open | geöffnet | 打开 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [2571] | 1 | operation | Betrieb | 操作操作已运行 | Trump's federal crime operation brings 100 arrests, 800 National Guard troops to Washington
+- [2572] | 1 | operations | Maßnahmen | 业务业务 | Three states sign new agreements with ICE for expanded immigration enforcement operations
+- [2573] | 1 | Opinion | Stellungnahme | 意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见意见 | Trump's massive tariff haul, America’s 250th anniversary, and more from Fox News Opinion
+- [2574] | 1 | opponent | Gegner | 对手方 | Women's volleyball activists react to California high school team forfeiting to opponent with trans athlete
+- [2575] | 1 | opponents | Gegner | 反对者 | Crying foul: opponents slam the uneven EU-US trade deal
+- [2576] | 1 | opposite | gegenüber | 反对 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [2577] | 1 | opposite' | gegenüber" | 对面' | Cuban-born businessman enters NYC mayoral race, calls himself 'polar opposite' of Mamdani
+- [2578] | 1 | order | Reihenfolge | 顺序顺序顺序 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
+- [2579] | 1 | Osbourne | Osbourne | 奥斯本 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [2580] | 1 | Osbourne's | Osbourne's | 奥斯本 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [2581] | 1 | outburst | Ausbruch | 爆发 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
+- [2582] | 1 | Outlaws | Gesetzlose | 外部法 | The US in brief: The Texas Outlaws
+- [2583] | 1 | outlines | Umrisse | 大纲大纲大纲 | Zelenskyy outlines peace demands before high-stakes White House meeting with Trump
+- [2584] | 1 | outpace | Ausschlag | 超快快 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
+- [2585] | 1 | outrage | Empörung | 暴行 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [2586] | 1 | Oval | Oval | 华度 | Fear of a new Oval Office fiasco over Ukraine
+- [2587] | 1 | over-valued | überbewertet | 估值过高 | Palantir might be the most over-valued firm of all time
+- [2588] | 1 | Oversight | Aufsicht | 监督监督 | 9th ex-Biden aide appears before House Oversight investigators in autopen probe
+- [2589] | 1 | Oversight's | Aufsicht | 监督监督 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
+- [2590] | 1 | overstaying | Überbeanspruchung | 逾期滞期 | Ivory Coast’s president is overstaying his welcome
+- [2591] | 1 | overturned | umgedreht | 已推翻 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
+- [2592] | 1 | owed | Verbindlichkeiten | 所欠欠款 | US appeals court says Trump can slash billions in owed USAID funds
+- [2593] | 1 | Ozempic | Ozempic | 亚湿 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [2594] | 1 | paid | bezahlt | 已付款 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [2595] | 1 | painstaking | mühevoll | 艰苦 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
+- [2596] | 1 | pal | Kumpel | 调牌 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [2597] | 1 | palace | Palast | 宫宫 | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [2598] | 1 | Palestinian | Palästinensische | 巴勒斯坦 巴勒斯坦 | France to deport Palestinian woman over antisemitic post featuring Hitler, halts Gaza evacuations
+- [2599] | 1 | Pamela | Pamela | 帕梅拉 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [2600] | 1 | pancreatic | Bauchspeicheldrüse | 洲际 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
+- [2601] | 1 | panel | Paneel | 面板面板 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [2602] | 1 | paparazzi | Paparazzi | 狗仔队 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
+- [2603] | 1 | Parenthood | Elternschaft | 父母亲 | Democrats escalate anti-Trump lawfare by targeting Congress in Planned Parenthood funding fight
+- [2604] | 1 | Parkland | Parkland | 公园地 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [2605] | 1 | Parsons | Parsonen | 帕松 | Ex-Cowboys star warns Jerry Jones amid contract drama with Micah Parsons
+- [2606] | 1 | part | Teil | 编 编 编 编 | Cash-trapped (part 2): drowning in debt
+- [2607] | 1 | parting | Trennung | 分离 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [2608] | 1 | Parton-inspired | Partieninspiriert | 受part 启发的 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
+- [2609] | 1 | party's | Parteien | 政党党党党 | Former Democratic advisor says party's rhetoric on redistricting is getting 'a little out of control'
+- [2610] | 1 | passage | Durchfahrt | 通道 | Senate Republicans reveal dramatic dealmaking behind Trump's $3.3T megabill passage
+- [2611] | 1 | passengers | Fluggäste | 乘客 乘客 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [2612] | 1 | passing | Vorübergehend | 通过通过 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
+- [2613] | 1 | past | Vergangenheit | 过去 | Deion Sanders' Colorado quarterback decision much tougher than years past
+- [2614] | 1 | patience | Geduld | 耐 耐 耐 耐 耐 耐 | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
+- [2615] | 1 | patients | Patienten | 病人 病人 | Nearly a million patients hit by DaVita dialysis ransomware attack
+- [2616] | 1 | patriotic | patriotisch | 爱国爱国 | Don't be fooled. Mamdani isn't the future of the Democratic Party. These two patriotic women are
+- [2617] | 1 | Patriots | Patrioten | 爱国者 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
+- [2618] | 1 | patrolling | Patrouillen | 巡逻巡逻 | Protesters confront officers patrolling DC streets after Trump policing takeover
+- [2619] | 1 | pavement-pounding | mit einer Breite von nicht mehr als 2 mm | 铺铺人路, | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
+- [2620] | 1 | PBS | PBS | PPBS 边边 边 边 边 边 边 边 边 边 边 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [2621] | 1 | penalties | Sanktionen | 处罚处罚 | Lawmaker unveils 'ERIC ADAMS Act' threatening criminal penalties for sanctuary city mayors
+- [2622] | 1 | penalty | Strafe | 处罚处罚 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [2623] | 1 | perception | Wahrnehmung | 受 感 知 | Americans' perception of discrimination against Black people dropped in last four years
+- [2624] | 1 | performance | Leistung | 业绩业绩 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [2625] | 1 | permit | Genehmigung | 许可许可许可 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
+- [2626] | 1 | Perryman | Perryman | 佩里曼 | Chargers' Denzel Perryman released without charges after firearms arrest
+- [2627] | 1 | personal | persönlich | 个人 个人 个人 | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [2628] | 1 | phenomenon | Phänomen | 现象现象 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [2629] | 1 | PHOTOS | FOTOS | 图片 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [2630] | 1 | piece | Stück | 块数 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
+- [2631] | 1 | pierogi | Pierogi |  | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
+- [2632] | 1 | pioneers | Pioniere | 先驱者 | American Culture Quiz: Test yourself on park pioneers and baseball bests
+- [2633] | 1 | Pirro | Pirro | 皮罗 | Jeanine Pirro says current DC justice system 'isn't cutting it' as Trump takes federal control
+- [2634] | 1 | plane | Ebene | 平平平面 | Why it’s a pain to take a plane in Africa
+- [2635] | 1 | plastics | Kunststoffe | 塑料塑料 | AI helps chemists develop tougher plastics
+- [2636] | 1 | playback | Wiedergabe | 播放重播 | What’s your preferred playback speed: 1x, 1.5x or 2x?
+- [2637] | 1 | Playboy | Spieljunge | 花花花花公子 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [2638] | 1 | pledge | Verpfändung | 认捐认捐 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
+- [2639] | 1 | plummeted | Eingestürzt | 直线直线 | Vaccinations to prevent cervical cancer have plummeted in Britain
+- [2640] | 1 | podcast | Podcast | 播 播 播 播 播 播 播 | Jason Kelce defends himself after debuting new look in podcast featuring Taylor Swift: 'Don't hate me'
+- [2641] | 1 | poised | in Erwägung nachstehender Gründe: | 准备就绪 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [2642] | 1 | poisonous | giftig | 有毒 | Hiker made fatal mistake when encountering poisonous snake, officials believe
+- [2643] | 1 | policies | Politikbereiche | 政策、政策、政策、政策和政策 | Trump visa policies force colleges to scramble as international students vanish: report
+- [2644] | 1 | policing | polizeiliche Maßnahmen | 警务警务维持治安 | Protesters confront officers patrolling DC streets after Trump policing takeover
+- [2645] | 1 | policy | Politik | 政策政策 | Brazil bashing: the Trumpian school of foreign policy
+- [2646] | 1 | policy’ | politik | 政策 " 政策 " | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2647] | 1 | Polite | Politisch | 理学 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [2648] | 1 | politician' | Politiker" | A. 政治家...... 18 - 18 5 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
+- [2649] | 1 | politicians' | Politik" | 政治家们 | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
+- [2650] | 1 | politicizing | politisierend | 政治化 | America's obsession with politicizing our children has got to stop
+- [2651] | 1 | Pope | Papst | 教皇派教皇 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [2652] | 1 | Porter | Portier | 波特 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
+- [2653] | 1 | pose | Pose | 装 容 容 容 容 容 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [2654] | 1 | Post's | Dienstposten | 员额 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
+- [2655] | 1 | post-health | nach der Gesundheit | 产后保健后 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
+- [2656] | 1 | posts | Planstellen | 员额员额员额 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [2657] | 1 | potatoes | Kartoffeln | 马铃薯 | French fries tied to diabetes risk, but not all potatoes 'created equal,' study finds
+- [2658] | 1 | pounce | Pounce | 弹喷 | Networks pounce on Republican redistricting. They didn’t care when Democrats did it
+- [2659] | 1 | practice | Praxis | 实践实践 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
+- [2660] | 1 | praise | Lob | 赞赞赞 | Dingell family in office for 90+ years: Locals praise pavement-pounding, critics say it indicts incumbency
+- [2661] | 1 | prayer | Gebet | 祈祷祈祷 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [2662] | 1 | PreCheck | Vorabüberprüfung | 预检检查 | TSA warns of phishing scam targeting PreCheck travelers
+- [2663] | 1 | predicted | vorausgesagt | 预测数 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
+- [2664] | 1 | preferred | Bevorzugte | 首首 | What’s your preferred playback speed: 1x, 1.5x or 2x?
+- [2665] | 1 | pregnant | schwanger | 怀孕 怀孕 | Ex-NBA star's pregnant wife opens up about shark attack: 'I don't want to die'
+- [2666] | 1 | Premier | Premierminister | 总理 总理 | The Fantasy Premier League is changing Britain’s favourite sport
+- [2667] | 1 | premium | Prämie | 保险费溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢溢 | John Cena's final SummerSlam match headlines Night 2 of premium live event
+- [2668] | 1 | prepares | Vorbereitung | 准备 | Alaska governor hopes for end to Ukraine war as state prepares for historic Trump-Putin summit
+- [2669] | 1 | Prescott | Präscott | 预 制 | Cowboys' Dak Prescott makes bold statement to Rams team owner
+- [2670] | 1 | presidency | Vorsitz | 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 大会主席 主席 主席 主席 主席 主席  主席   主席     主席 主席  主席      主席  主席       主席 | Trump caps off 29th week in office with peace deal, celebrating 200th day of second presidency
+- [2671] | 1 | presidential | Präsident | 总统 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [2672] | 1 | presser | Presser | 报 报 报 报 报 报 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [2673] | 1 | pressures | Drücke | 压力压力 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [2674] | 1 | prevent | verhindern | 预防预防 | Vaccinations to prevent cervical cancer have plummeted in Britain
+- [2675] | 1 | preventing | Prävention | 预防 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
+- [2676] | 1 | Priced | Preispflichtig | 价格计价 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [2677] | 1 | Pritzker | Pritzker | 普里茨克 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2678] | 1 | privacy | Privatsphäre | 隐私隐私 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [2679] | 1 | Prize | Preis | 得奖奖奖奖奖奖奖奖奖 | Trump to host Armenia, Azerbaijan leaders ahead of peace pledge as White House eyes Nobel Peace Prize
+- [2680] | 1 | pro-life | pro-life | 减少排放的六溴氟联苯酯 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
+- [2681] | 1 | proceedings | Verfahren | 程序 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
+- [2682] | 1 | procession | Prozession | 进数 | Ozzy Osbourne's funeral procession capped emotional farewell for matriarch Sharon and family: PHOTOS
+- [2683] | 1 | process’ | Verfahren | 过程 " 。 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
+- [2684] | 1 | products | Erzeugnisse | 产品产品 | Find your next beauty favorite on Amazon – new products from Estée Lauder to BareMinerals
+- [2685] | 1 | program | Programm | 程序程序 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
+- [2686] | 1 | progressive | Progressiv | 累进 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [2687] | 1 | progressives | Progressive | 递进 | Young progressives look to Zohran Mamdani, AOC as future of the Democratic Party – under one condition
+- [2688] | 1 | projects | Projekte | 项目项目项目 | Fiscal hawks seek millions for home district projects amid government funding debate
+- [2689] | 1 | promise | Versprechen | 承诺 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
+- [2690] | 1 | promises | Versprechungen | 承诺承诺承诺 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [2691] | 1 | protect | schützen | 保护 | Minneapolis Democratic socialist Omar Fateh vows to protect illegal immigrants from 'hostile' Trump admin
+- [2692] | 1 | protective | Schutz | 保护性保护 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [2693] | 1 | protester | Demonstranten | 抗议抗议者 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [2694] | 1 | protestors | Demonstranten | 抗议者 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
+- [2695] | 1 | proud | stolz | 骄傲自豪 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [2696] | 1 | Prove | Beweisen | 证明证明 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [2697] | 1 | provides | sieht vor, dass | 提供 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [2698] | 1 | provocative | provokativ | 挑衅性挑衅 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [2699] | 1 | PTSD | PTSD | 临时临时临时临时临时 数 | Lindsay Lohan says fame drove her out of Hollywood, blames paparazzi for PTSD
+- [2700] | 1 | Public | Öffentlich | 公共公开 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
+- [2701] | 1 | public' | öffentlich" | 公共 | Montana bar shooting suspect could return to town, state AG says, citing 'concern for the public'
+- [2702] | 1 | pull | Ziehen | 拉拉拉 | Yankees lose heartbreaker after new bullpen, other trade piece pull off the impossible vs Marlins
+- [2703] | 1 | pulls | Ziehungen | 下拉 | Linda McMahon pulls back the curtain on Trump's plan to dismantle the Department of Education
+- [2704] | 1 | punishment | Strafe | 处罚(惩罚) | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
+- [2705] | 1 | Punk | Punk | 朋拳 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
+- [2706] | 1 | puts | setzt | 调和 | Bondi puts sanctuary cities nationwide on notice after DC police federal takeover
+- [2707] | 1 | Qualley | Qualley | 夸里语Name | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
+- [2708] | 1 | Queen | Königin | 王后 | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [2709] | 1 | Quentin | Quentin | 昆丁 | Chargers' Quentin Johnston suffers concussion on hard hit from Rams defensive back
+- [2710] | 1 | quickly | schnell | 快速快速 | How to quickly recover a disabled Facebook account
+- [2711] | 1 | quorum | Beschlussfähigkeit | 法定人数 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
+- [2712] | 1 | QVC's | QVC's | QVC 的 QVC | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [2713] | 1 | Rachel | - Rachel. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 瑞切尔 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
+- [2714] | 1 | Radioactive | Radioaktiv | 放射性 | Radioactive wasp nest discovered by workers at former nuclear bomb site
+- [2715] | 1 | rages | Wutanfälle | 愤怒 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [2716] | 1 | Rahbani | Rahbani | Rahbani( 拉巴尼) | Ziad Rahbani held a mirror to Lebanese society
+- [2717] | 1 | raid | Razzia | 突击突击搜查 | Man struck, killed on freeway while fleeing immigration agents during Home Depot raid
+- [2718] | 1 | rammed | gerammelt | 倾斜 | Jennifer Aniston warns of Hollywood safety concerns after man rammed car into her gate
+- [2719] | 1 | ranking | Rangfolge | 排名排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排列排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排排列排排排排排排排排排排排排排排排排排排排排排排排排排排排 | 7 best low-carb beers that are also big on flavor, according to new ranking
+- [2720] | 1 | ransomware | Ransomware | 赎金软件 | Nearly a million patients hit by DaVita dialysis ransomware attack
+- [2721] | 1 | rape | Vergewaltigung | 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 强奸 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [2722] | 1 | raping | Vergewaltigen | 强奸 | American accused of faking death, fleeing US found guilty of raping former girlfriend
+- [2723] | 1 | Ravens | Ravens | 乌鸦 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
+- [2724] | 1 | raving' | Sie wird geplündert." | 胡言乱语 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [2725] | 1 | Raw | Roh | 原生 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [2726] | 1 | re-election | Wiederwahl | 连选连任 | Trump ally Bukele's party amends El Salvador constitution to allow indefinite presidential re-election
+- [2727] | 1 | re-enters | Wiedereinsteiger | 重新输入 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
+- [2728] | 1 | reaction | Reaktion | 反应反应反应 | Food feud: Woman 'blew up' at boyfriend over his reaction to her home-cooked meals
+- [2729] | 1 | readers | Leser | 阅读读者 | Washington Post's effort to court conservatives could drive away its liberal readers, ex-fact checker warns
+- [2730] | 1 | readies | Veröffentlichungen | 读数 | Trump's patience with Putin 'runs out' as White House readies major trade punishment and more top headlines
+- [2731] | 1 | ready | bereit | 准备就绪 | Getting ready to harvest your garden? Get these helpful tools
+- [2732] | 1 | receiving | Empfang | 接收 | The War Room newsletter: How receiving aid became fatal in Gaza
+- [2733] | 1 | recent | vor kurzem | 最近的最近 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [2734] | 1 | recipe | Rezept | 食谱配方 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [2735] | 1 | records | Aufzeichnungen | 记录记录记录 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [2736] | 1 | recover | Wiedereinziehung | 回收 | How to quickly recover a disabled Facebook account
+- [2737] | 1 | recruitment | Einstellung | 征聘征聘 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
+- [2738] | 1 | recruits | Rekruten | 新征聘人员 | Female military recruits surge across all service branches
+- [2739] | 1 | recurrence | Rezidiv | 重复重现 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
+- [2740] | 1 | Reds | Rote | 红 | Braves, Reds combine for historic 16-run 8th inning in wild game
+- [2741] | 1 | refugee | Flüchtling | 难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民难民 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [2742] | 1 | refuses | lehnt ab | 拒绝拒绝 | Sen. Cory Booker refuses to endorse Zohran Mamdani
+- [2743] | 1 | regime' | Regelung" | 制度制度”的制度 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [2744] | 1 | region | Region | 区域区域 | DAVID MARCUS: Democrat New England is the most gerrymandered region in American history
+- [2745] | 1 | region' | Region" | 区域 | Trump confirms 2 nuclear submarines are 'in the region' to counter Russia
+- [2746] | 1 | regret | Bedauern | 遗憾表示遗憾 | Leonardo DiCaprio admits deep regret over passing on major Hollywood movie
+- [2747] | 1 | regretted | bedauert | 遗憾的令人遗憾的 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [2748] | 1 | rehab | Entzugsentzug | 复健 | Danville, Virginia councilman faces possible 'years' of rehab after gasoline attack, boss says
+- [2749] | 1 | Reigns' | RECHTSPRECHUNG DES GERICHTSHOFES | 调 Reigns 调重 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
+- [2750] | 1 | rejected | abgelehnt | 被拒绝 | 'Baywatch' star Donna D’Errico says Playboy rejected her 30 years after provocative cover
+- [2751] | 1 | relating | betreffend | 有关 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [2752] | 1 | relationship | Beziehung | 关系关系 | Trump and Putin’s relationship turns sour as president pushes for resolution with Ukraine
+- [2753] | 1 | relationships | Beziehungen | 关系关系 | Trump's global reset of trade relationships will remain in the spotlight this week
+- [2754] | 1 | remain | bleiben | 剩余 | Trump's global reset of trade relationships will remain in the spotlight this week
+- [2755] | 1 | remained | blieb | 仍 留 | Kelly Clarkson remained protective of ex Brandon Blackstock despite legal battle and messy divorce
+- [2756] | 1 | remarkable | bemerkenswert | 显著 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
+- [2757] | 1 | remembering' | "Erinnerungen" | 记得' | Amy Bradley case hinges on 'somebody remembering' as investigators hunt for new leads 27 years later: expert
+- [2758] | 1 | remodels | Umbauten | 重新装修 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [2759] | 1 | renegade | Abtrünnige | 叛徒 | Texas’s renegade Democrats prepare for a glorious defeat
+- [2760] | 1 | rent-stabilized | Miet-stabilisiert | 稳定租金 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
+- [2761] | 1 | Rep | Antwort | Re Re Re Re | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [2762] | 1 | repeat | Wiederholen | 重复重复 | Kentucky dad rages after court-approved release of repeat offender leads to family’s kidnapping
+- [2763] | 1 | replica | Nachbildung | 复制 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [2764] | 1 | repositioning | Neupositionierung | 重新定位 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
+- [2765] | 1 | representation | Vertretung | 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 代表 | Dems face scrutiny over congressional representation gaps in blue states: 'Don't have clean hands'
+- [2766] | 1 | represented | vertreten | 任职人数 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [2767] | 1 | request | Antrag | 请求要求 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
+- [2768] | 1 | requests | Anträge | 要求 | Crowds on Demand CEO provides insight as paid protester requests up 400% under Trump
+- [2769] | 1 | requiring | erforderlich | 需要 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2770] | 1 | reset | Zurücksetzen | 重设重置 | Trump's global reset of trade relationships will remain in the spotlight this week
+- [2771] | 1 | resistance | Widerstandsfähigkeit | 抗药性 | Moldova’s election will test its resistance to Russia
+- [2772] | 1 | resolution | Auflösung | 决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,决议,解决 | Trump and Putin’s relationship turns sour as president pushes for resolution with Ukraine
+- [2773] | 1 | resources | Mittel | 资源资源资源资源资源 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [2774] | 1 | responds | antwortet | 回复回复 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [2775] | 1 | restaurant | Restaurant | 餐厅 | Cracker Barrel customers 'hate' restaurant chain's new look in viral social media videos
+- [2776] | 1 | resuming | Wiederaufnahme | 恢复 | Melania Trump commemorates 200 days since resuming role as first lady
+- [2777] | 1 | retirement | Ruhestand | 退休退休 | How scammers exploit your data for 'pre-approved' retirement scams
+- [2778] | 1 | retiring | in den Ruhestand tretend | 退休退休 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
+- [2779] | 1 | returning | Rückkehr | 返回返回 | Asian tourists are returning to Britain. But they look different
+- [2780] | 1 | revoke | Widerruf | 撤销 | Arizona senate president calls on FCC to revoke state's PBS license over 'viewpoint discrimination'
+- [2781] | 1 | revolt | Aufruhr | 叛乱 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [2782] | 1 | Ricchetti | Ricchetti | 里切蒂 | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [2783] | 1 | Richardson | Richardson (S). - (EN) Herr Präsident! | 理查森 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
+- [2784] | 1 | ride | Fahrt | 搭载 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [2785] | 1 | Rife’s | Rifes | 法 法 的 | Comedian Matt Rife’s new e.l.f make-up ad becomes latest celebrity ad generating outrage online
+- [2786] | 1 | rift | Rift | 裂断 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [2787] | 1 | righteous' | und rechtschaffen." | 善人啊!善人啊! | Ancient Christian church reveals mysterious 1,600-year-old warning to nonbelievers: 'Only the righteous'
+- [2788] | 1 | rights | Rechte | 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 儿 | Virginia school districts support for transgender students' rights in governor's race spotlight
+- [2789] | 1 | rips | Reißzähne | 裂数 | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
+- [2790] | 1 | rising | steigt | 上升 | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
+- [2791] | 1 | risk' | Risiko" | 风险 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [2792] | 1 | risk’ | Risiko | 风险 风险 风险 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [2793] | 1 | RIT | RIT | RIT 转机 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [2794] | 1 | RNC | RNC | RNNNN  RNNN | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [2795] | 1 | roasted | geröstet | 烧烤的 | CNN's Dana Bash roasted for calling Jan. 6 'most violent moment in recent history' after Trump crime presser
+- [2796] | 1 | Robertson’s | Robertsons | 罗伯逊 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [2797] | 1 | robot | Roboter | 机器人机器人 | Humanoid robot turns heads at NYC sneaker store
+- [2798] | 1 | Rock | Felsen | 摇滚摇滚 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [2799] | 1 | Rod | Stäbe | 罗德 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [2800] | 1 | Rodgers | Rodgers | 罗杰车 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [2801] | 1 | rogue | Schurken | 流氓 | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
+- [2802] | 1 | role | Rolle | 角色角色角色角色角色角色角色角色角色角色角色 | Melania Trump commemorates 200 days since resuming role as first lady
+- [2803] | 1 | roller | Walze | 滚滚 | WWE legend's daughter dishes on life-changing injuries she suffered on roller coaster ride
+- [2804] | 1 | Rollins | Rollinen | 滚滚 | Seth Rollins looms large at SummerSlam amid possible knee injury
+- [2805] | 1 | rolls | Rollen | 滚滚 | Australian state rolls out machete ‘disposal bins’ ahead of ban
+- [2806] | 1 | Roman | Römisch | 罗马罗马语 | SummerSlam Night 1 will see CM Punk go for gold, Roman Reigns' return
+- [2807] | 1 | Rome | Frankreich | 罗马 罗马 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [2808] | 1 | Ron | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 罗罗 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [2809] | 1 | rookie | Rookie | 新菜 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
+- [2810] | 1 | rough | grob | 粗粗 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
+- [2811] | 1 | route’ | Art der Anwendung | 路线 " 。 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [2812] | 1 | Routh | Routine | Routh | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [2813] | 1 | routine | Routine | 常规 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
+- [2814] | 1 | Rubio | Rubio | 鲁比奥 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [2815] | 1 | rules | Vorschriften | 规则规则 | Trump assassination attempt suspect Ryan Routh can't see classified info relating to case, judge rules
+- [2816] | 1 | rumors | Gerüchte | 谣言 | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
+- [2817] | 1 | runner | Läufer | 中跑者 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [2818] | 1 | Rural | Ländlich | 农村农村 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
+- [2819] | 1 | rushing | eilend | 匆匆 | Homicide investigator warns against rushing bikini designer's yacht death probe as lawyer reveals new details
+- [2820] | 1 | Russia-Ukraine | Russland-Ukraine | 俄罗斯-乌克兰 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
+- [2821] | 1 | Russiagate | Russische Föderation | 俄罗斯门 | MIKE DAVIS: A tale of two Russiagate heroes
+- [2822] | 1 | Sadie | Sadie | 萨迪 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [2823] | 1 | safari | Safari | 野外 | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [2824] | 1 | sailing | Segeln | 帆帆帆 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [2825] | 1 | sales | Verkäufe | 销售销售 | JIMMY FAILLA: Bud Light should hire Sydney Sweeney and make beer sales great again
+- [2826] | 1 | salutes | Grußworte | 敬礼 | Tom Hanks salutes Jim Lovell after Apollo 13 commander dies at 97
+- [2827] | 1 | Salvador’s | Salvadorien | 萨尔瓦多 | Just getting started: El Salvador’s president for life
+- [2828] | 1 | same-sex | gleichgeschlechtlich | 同性同性 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
+- [2829] | 1 | Sanchez | Sanchez | 桑切斯 | Codie Sanchez says money is the sword of the 21st Century. She wants to arm more Americans
+- [2830] | 1 | save | Speichern | 保存保存 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [2831] | 1 | saves | speichert | 保存 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
+- [2832] | 1 | savings | Einsparungen | 节余节余 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [2833] | 1 | SC | S.c.-Nr.: | 中 SC | SC Republican mounts bid for House seat currently occupied by gubernatorial hopeful Nancy Mace
+- [2834] | 1 | scammers | Betrüger | 诈骗者 | How scammers exploit your data for 'pre-approved' retirement scams
+- [2835] | 1 | scandal | Skandal | 丑闻 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
+- [2836] | 1 | scare | Angst | 恐吓 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
+- [2837] | 1 | scary | furchteinflößend | 可怕 | Cowboys' Jerry Jones reveals scary skin cancer battle
+- [2838] | 1 | schedules | Zeitpläne | 附表 | Florida schedules execution for man who killed estranged wife's family, set house on fire
+- [2839] | 1 | Scheffler | Scheffler | Scheffler 器器 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [2840] | 1 | scheme | Regelung | 计划方案 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
+- [2841] | 1 | Schiff | Schiff | 切iff | Cornyn takes swing at James, Schiff with new LETITIA Act targeting 'crooked politicians'
+- [2842] | 1 | Schumer's | Schumer's | 舒默( Schumer) | DAVID MARCUS: Democrats abandon Schumer's imaginary couple, Joe and Eileen Bailey
+- [2843] | 1 | Schwarzenegger | Schwarzenegger | 施瓦辛格 | Schwarzenegger pushing back against Newsom redistricting bid in California
+- [2844] | 1 | Schwarzman | Schwarzmann | 施瓦兹曼 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
+- [2845] | 1 | scolds | Schimpfe | 严寒 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [2846] | 1 | SCOOP | SCOOP | 孔孔 | SCOOP: Trump's newest DC crime crackdown yields more than 100 arrests
+- [2847] | 1 | score | Wert | 得分数 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [2848] | 1 | Scott | - Scott. - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | 斯科特·斯科特 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
+- [2849] | 1 | Scottie | Scottie | 斯科特 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [2850] | 1 | Scottish | Schottisch | 苏格兰语Name | Scottish grandmother's case dropped after arrest for holding sign in abortion buffer zone
+- [2851] | 1 | scramble | Rühren | 调色 | Trump visa policies force colleges to scramble as international students vanish: report
+- [2852] | 1 | scraps | Abfälle | 废料废料 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [2853] | 1 | screenings | Screenings | 筛查 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [2854] | 1 | script | Skript | 脚本脚本脚本 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [2855] | 1 | seal | Versiegelung | 密封封印 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [2856] | 1 | Sean | Seezunge | 肖恩·肖恩 | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [2857] | 1 | season-ending | Saisonende | 周期结束 | Ravens rookie Bilhal Kone suffers gruesome, season-ending injury in preseason game vs Colts
+- [2858] | 1 | seats | Sitze | 席位席位 | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [2859] | 1 | seconds | Sekunden | 秒数秒 | Texas company creates drones to confront school shooters in seconds
+- [2860] | 1 | secure | sicher | 安全安全 | How to secure your 401(k) plan from identity fraud
+- [2861] | 1 | Seely | Auf jeden Fall | 种子 | Country music icon Jeannie Seely dead at 85
+- [2862] | 1 | seen | gesehen | 可见 | Netanyahu responds after Israeli hostage seen emaciated, digging grave: 'Cruelty of Hamas has no boundaries'
+- [2863] | 1 | seized | beschlagnahmt | 正在处理已处理 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
+- [2864] | 1 | Sen | SEN | 森数 | Sen. Cory Booker refuses to endorse Zohran Mamdani
+- [2865] | 1 | senator | Senator | 参议员 | Trump takes jab at GOP senator, urging Republicans to 'vote the exact opposite of' how she does
+- [2866] | 1 | sends | sendet | 发送发送 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [2867] | 1 | senseless | sinnlos | 无理智 | Why did Thailand and Cambodia fight a senseless border war?
+- [2868] | 1 | sentence | Satz | 句子 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [2869] | 1 | sentencing | Urteilsvollstreckung | 判刑判刑 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
+- [2870] | 1 | separate | getrennt | 单独 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [2871] | 1 | separating | Trennung | 离职 | Kamala Harris scolds 'piling on' against Joe Biden when asked about separating herself during 2024 campaign
+- [2872] | 1 | serial | Seriell | 序列序列号 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [2873] | 1 | Series | Reihe | 系列丛书系列 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [2874] | 1 | serious | schwerwiegend | 严重严重 | Lions, Falcons stop play and gather in prayer after Morice Norris suffers serious injury
+- [2875] | 1 | serving | zum Servieren | 在职 | Montana fugitive's brother serving life sentence for separate murder conviction in same town
+- [2876] | 1 | sessions | Sitzungen | 届会届会的届会和届会的届会 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
+- [2877] | 1 | Seth | Seth | 赛斯 | Seth Rollins looms large at SummerSlam amid possible knee injury
+- [2878] | 1 | setup | Einrichtung | 设置设置设置设置 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
+- [2879] | 1 | Seventh | Siebter | 第七届 | Seventh Cincinnati assault suspect arrested over violent beatdown
+- [2880] | 1 | severe' | schwer" | 严重" | Trump doubles down on 'very severe' consequences threat if Putin blocks peace process
+- [2881] | 1 | Sha'Carri | Sha'Carri | 沙卡里 | Sha'Carri Richardson arrested for alleged assault of boyfriend days before US championships
+- [2882] | 1 | shames | Schamgefühle | 单数 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [2883] | 1 | shared | geteilt | 共享共享 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [2884] | 1 | Sharpe's | Sharpe's | 夏普的 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [2885] | 1 | sheds | Schuppen | 棚棚, | Francis Ford Coppola's treatment sheds light on heart condition affecting millions
+- [2886] | 1 | shelter | Unterschlupf | 庇护所 | 'I warned you': Left-wing governor scraps migrant shelter plan after $1B blowup
+- [2887] | 1 | shelter' | Unterschlupf" | 庇护所 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
+- [2888] | 1 | sheriff | Sheriff | 警长 | Florida sheriff rips 'reprehensible' lake brawl after 8 arrested
+- [2889] | 1 | shifts | Schicht | 轮班 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [2890] | 1 | shine | Glanz | 闪光 | Consultant management: McKinsey loses its shine
+- [2891] | 1 | shines | glänzt | 闪光 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [2892] | 1 | shipwreck | Schiffbruch | 船舶沉船 | Divers reveal images of 321-year-old shipwreck in remarkable condition off coast
+- [2893] | 1 | shooters | Schützen | 射击射击器 | Texas company creates drones to confront school shooters in seconds
+- [2894] | 1 | shop | Shop | 店铺 | Billy Joel to close Long Island motorcycle shop, auction off collection due to brain disorder diagnosis
+- [2895] | 1 | show | anzeigen | 显示显示显示 | Bill Maher slams Democrats like Kamala Harris and the Clintons for being 'afraid' to come on his show
+- [2896] | 1 | showbiz | Schaubiz | 显示biz | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
+- [2897] | 1 | showdown | Showdown | 上下显示 | GOP showdown: South Carolina Attorney General Alan Wilson accuses Rep. Nancy Mace of 'ranting and raving'
+- [2898] | 1 | shreds | Schredder | 切片 | CNN panel shreds Harris' Colbert interview for her lack of solutions after 'six months to figure it out'
+- [2899] | 1 | shunning | Shunning | 逃避报应者, | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
+- [2900] | 1 | shutdown | Abschaltung | 关闭关闭 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [2901] | 1 | shuttered | mit einer Breite von nicht mehr als 2 mm | 被封闭的 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [2902] | 1 | sickens | krankhaft | 病 病 病 | Raw milk from Florida farm sickens 21 people, including 6 children, health officials say
+- [2903] | 1 | side | Seite | 侧侧 | Cincinnati viral beating suspect posts bond for jail release as attorney promises other side of story
+- [2904] | 1 | sides | Seiten | 边边边 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
+- [2905] | 1 | signals | Signale | 信号信号信号 | CAPTCHAgeddon signals a dangerous shift
+- [2906] | 1 | Significant | Signifikant | 重要 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [2907] | 1 | silently | schweigend | 静静无声 | 5 everyday foods and drinks silently damaging your long-term health, say nutrition experts
+- [2908] | 1 | similar | Ähnliches | 类似 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [2909] | 1 | simple | einfach | 简单 | Joanna Gaines keeps life simple in Texas away from Hollywood spotlight
+- [2910] | 1 | simpler | einfacher | 简单化 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [2911] | 1 | Sims | mit einer Breite von mehr als 3 mm | 微微度 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [2912] | 1 | singer's | Sänger | 歌手 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [2913] | 1 | sir' | Herr | 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 谢 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [2914] | 1 | site | Ort | 网址网址 | Radioactive wasp nest discovered by workers at former nuclear bomb site
+- [2915] | 1 | sites | Standorte | 站 址 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [2916] | 1 | sites' | Standorte" | 网站 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
+- [2917] | 1 | situation | Situation | 局势局势状况 | Fox News gets inside look at Gaza humanitarian situation as Israel weighs next steps
+- [2918] | 1 | ski | Ski | 滑雪滑雪 | Jet ski rescue saves 6 people at beach as one dies in dramatic rip current incident
+- [2919] | 1 | skin | Haut | 皮肤皮肤皮肤 | Cowboys' Jerry Jones reveals scary skin cancer battle
+- [2920] | 1 | Sky | Himmel | 空 空 空 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
+- [2921] | 1 | slain | Erschlagen | 人 死 | Trump administration cares more about son’s death than DC Council, mother of slain GOP intern says
+- [2922] | 1 | slap | Ohrfeige | 打一巴掌 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
+- [2923] | 1 | slaps | Ohrfeigen | 耳拍 | Biden-nominated judge slaps nationwide injunction on Trump birthright citizenship order
+- [2924] | 1 | slash | Schrägstrich | 斜斜线 | US appeals court says Trump can slash billions in owed USAID funds
+- [2925] | 1 | slashed | geschliffen | 割断的 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
+- [2926] | 1 | Smithsonian’s | Smithsonians | 斯密森逊人 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
+- [2927] | 1 | smoke | Rauch | 烟烟烟烟烟 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [2928] | 1 | snake | Schlange | 蛇蛇 蛇蛇蛇 | Hiker made fatal mistake when encountering poisonous snake, officials believe
+- [2929] | 1 | sneaker | Sneaker | 运动鞋 | Humanoid robot turns heads at NYC sneaker store
+- [2930] | 1 | soar | Höher | 升高 | The US in brief: Stocks soar on inflation news
+- [2931] | 1 | society | Gesellschaft | 社会、社会、社会、社会、社会、 | Ziad Rahbani held a mirror to Lebanese society
+- [2932] | 1 | sociological | soziologische | 社会学 | Michelle Obama likens ESPN to reality TV: 'It's just sociological drama'
+- [2933] | 1 | soil | Boden | 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤, 土壤 | Trump is taking decisive action to bring this critical industry back to American soil
+- [2934] | 1 | sold | verkauft | 出售 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
+- [2935] | 1 | something | etwas | 某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某某 | Nets star Michael Porter Jr dishes on what he's looking for in wife: 'Gotta bring something to the table'
+- [2936] | 1 | son | Sohn | 子孙 | Mr. President, help me bring my son back from hell
+- [2937] | 1 | song | Lied | 歌曲歌歌 | Beach Boys founder Brian Wilson regretted being blocked from band’s hit song: book
+- [2938] | 1 | son’s | Sohn | 子 子 子 子 子 | Trump administration cares more about son’s death than DC Council, mother of slain GOP intern says
+- [2939] | 1 | Sophie | Sophie | 苏菲 | Sex toy infiltrates 2nd WNBA game, Fever star Sophie Cunningham weighs in
+- [2940] | 1 | Sorority | Sororität | 大学联谊会 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [2941] | 1 | Soros | Soros | 索罗斯 | Meet the former Soros foundation exec connecting Obama world with Mamdani campaign
+- [2942] | 1 | Soros-linked | Soros-gebunden | 与索罗斯相联 | O'Rourke, Soros-linked groups face call for DOJ probe over alleged funding of Texas Dem walkout
+- [2943] | 1 | sounds | Geräusche | 声音 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [2944] | 1 | sour | Sauerteig | 酸酸 | Trump and Putin’s relationship turns sour as president pushes for resolution with Ukraine
+- [2945] | 1 | Southern | Südlich | 南方南部 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [2946] | 1 | Spanberger | Spanberger | 斯潘伯格 | Abigail Spanberger, Democratic governor hopeful, unveils education overhaul plan as election nears
+- [2947] | 1 | spark | Funke | 闪闪 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [2948] | 1 | spat | spucken | 蒸汽 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
+- [2949] | 1 | speak | Sprechen | 说话 | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [2950] | 1 | speech | Rede | 语音 | Teddi Mellencamp struggles with speech following cancer treatment
+- [2951] | 1 | speed | Geschwindigkeit | 速度速度 | What’s your preferred playback speed: 1x, 1.5x or 2x?
+- [2952] | 1 | spirals | Spiralen | 螺旋螺旋 | America's tipping culture spirals from 15% to 30% as digital guilt trip kicks in
+- [2953] | 1 | spiritual | Geistig | 精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神、精神 | Gen Z embraces the Bible in unexpected global spiritual awakening
+- [2954] | 1 | sport | Sport | 体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育、体育 | The Fantasy Premier League is changing Britain’s favourite sport
+- [2955] | 1 | spread | Verbreitung | 展开 | How climate change could spread malaria
+- [2956] | 1 | squad | Einheit | 队队 | Kamala Harris' major California announcement triggers circular Dem firing squad
+- [2957] | 1 | Square | Quadrat | 广场广场 | 3 shot in Times Square, 17-year-old suspect detained after late-night dispute
+- [2958] | 1 | st | n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n n | 标准吨 | Codie Sanchez says money is the sword of the 21st Century. She wants to arm more Americans
+- [2959] | 1 | Stallone | Stallone | Stallone 软体体 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [2960] | 1 | stands | Ständer | 站台数 | Wild brawl breaks out among fans in stands at WWE SummerSlam, caught on video
+- [2961] | 1 | star's | Stern | 恒星星 | Ex-NBA star's pregnant wife opens up about shark attack: 'I don't want to die'
+- [2962] | 1 | stare’ | starren | 凝视着 ” | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [2963] | 1 | stars | Sterne | 恒星 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [2964] | 1 | Stars' | Sterne" | 星 星 星 星 星 星 星 | Israel's 'Dancing with the Stars' routine goes viral with Trump and Melania tribute
+- [2965] | 1 | started | begonnen | 开始 | Just getting started: El Salvador’s president for life
+- [2966] | 1 | starting | Beginn | 开始 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [2967] | 1 | Staten | Staaten | 状态n | 'Not welcome here': Staten Island activist arrested after confronting NYC mayoral candidate
+- [2968] | 1 | stations | Stationen | 站 站 站 站 | Inside NASA's fast-track plans for lunar nuclear power and new space stations to outpace global rivals
+- [2969] | 1 | stats | Statistiken | 国家数 | DC police accused of changing crime stats just weeks before Trump federalized city
+- [2970] | 1 | statue | Statue | 雕像 | Tom Brady burns Jets fans once more during statue ceremony
+- [2971] | 1 | statue-toppling | Statuen-Kupplung | 雕像切换 | DAVID MARCUS: Trump takes on Smithsonian’s lefty bias and statue-toppling libs melt down
+- [2972] | 1 | status’ | status-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 地位 " 地位 " | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [2973] | 1 | steaks | Steaks | 牛排牛排 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [2974] | 1 | Steelers | Stähle und Stähle | 钢钢人 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [2975] | 1 | stellar | stellar | 恒星 | Johnny Manziel praises Shedeur Sanders' Browns approach after stellar preseason debut: 'Continue to grind'
+- [2976] | 1 | Sterling | Sterling | 斯特勒林 | Sterling Sharpe returns gold jacket favor, honors brother Shannon Sharpe in heartfelt Hall of Fame moment
+- [2977] | 1 | Steve | SAMMLUNG DER RECHTSPRECHUNG DES GERICHTSHOFES | 史蒂夫 史蒂夫 Steve | 'Was the president up for the job?' Steve Ricchetti defends Biden’s fitness as GOP seeks answers
+- [2978] | 1 | Stewart's | Stewart's | 斯图尔特的 | Rod Stewart's AI-generated Ozzy Osbourne tribute featuring dead musicians leaves fans divided
+- [2979] | 1 | Stocks | Bestände | 库存库存 | The US in brief: Stocks soar on inflation news
+- [2980] | 1 | Stone | Stein | 石石头 | Sharon Stone admits her most lucrative gig isn't acting after losing $18M post-health scare
+- [2981] | 1 | stops | stoppt | 停止停止 | State Department stops issuing all visitor visas for individuals from Gaza
+- [2982] | 1 | store | lagern | 存储存储存储 | Humanoid robot turns heads at NYC sneaker store
+- [2983] | 1 | straight | gerade | 直直直线 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
+- [2984] | 1 | stranger's | Fremde | 陌生人的 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [2985] | 1 | strategy | Strategie | 战略战略战略战略 | Famine in Gaza shows the failure of Israel’s strategy
+- [2986] | 1 | street | Straße | 街头街道 | Local entrepreneur sounds alarm on local leaders over viral street attack: 'Democrat monopoly'
+- [2987] | 1 | streets | Straßen | 街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头街头 | Protesters confront officers patrolling DC streets after Trump policing takeover
+- [2988] | 1 | strength’ | Stärke | 强度 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [2989] | 1 | strikes | Streiks | 罢工罢工 | Third girl dies nearly week after barge strikes Miami sailing camp boat
+- [2990] | 1 | struggles | Kämpfe | 斗争 | Teddi Mellencamp struggles with speech following cancer treatment
+- [2991] | 1 | students' | Schüler" | 学生人数 | Virginia school districts support for transgender students' rights in governor's race spotlight
+- [2992] | 1 | student’s | Schüler | 学生 学生 学生 学生 学生 学生 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [2993] | 1 | studio | Arbeitszimmer | 工作室 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [2994] | 1 | stuff' | Sachen" | 东西' | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [2995] | 1 | subpoena | Vorladung | 传票 | Kamala Harris back in national spotlight as James Comer floats subpoena in Biden 'cover-up' probe
+- [2996] | 1 | subpoenas | Vorladungen | 传票 | Comer subpoenas the Clintons, Trump's DOJ in House Oversight's Epstein probe
+- [2997] | 1 | substitute | Ersatz | 替换替代 | Illinois substitute teacher had sex with 11-year-old student during 'play dates,' police say
+- [2998] | 1 | success | Erfolg | 成功成功 | Josh Allen shares similar sentiment to Scottie Scheffler about on-field success: 'You kind of forget about it'
+- [2999] | 1 | successful | Erfolg | 成功成功 | Why “Wednesday” is wickedly successful
+- [3000] | 1 | suddenly | Plötzlich | 突然间 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [3001] | 1 | sue | RECHTSSACHE | 单诉 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [3002] | 1 | sues | RECHTSSACHE | 诉讼 | DC sues Trump administration over 'unlawful' federal takeover
+- [3003] | 1 | summaries | Zusammenfassungen | 摘要摘要 | Google AI email summaries can be hacked to hide phishing attacks
+- [3004] | 1 | summer | Sommer | 夏季夏季 | QVC's summer deals deliver savings on Bose, Apple, designer jewelry and more
+- [3005] | 1 | sunsets | Sonnenuntergänge | 日落日落 | Last migrant hotel in New York City set to close as 'emergency shelter' program sunsets
+- [3006] | 1 | Superstar’ | Superstar | 超级巨星 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [3007] | 1 | superyacht | Superyacht | 超优 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
+- [3008] | 1 | Supreme | Oberster | 最高最高 | Supreme Court has 'good chance' of hearing Kim Davis' case urging same-sex marriage be overturned: lawyer
+- [3009] | 1 | surf | Surfen | 冲冲 | 'Aquaman' star Jason Momoa nearly drowned in surf accident during dangerous Maui trip
+- [3010] | 1 | surfs | Windsurfen | 冲冲 | 75-foot boat surfs wave, runs aground in Hawaii
+- [3011] | 1 | surrounding | Umgebung | 环绕周围 | Top House Dem sides with Mamdani critics on key controversy surrounding his campaign: 'Legitimate issue'
+- [3012] | 1 | survival | Überleben | 活生生的活生生 | Boy, 13, who lost leg in shark attack shares miraculous story of survival: ‘The Lord gave me the strength’
+- [3013] | 1 | survivalists | Überlebende | 活体生物体 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
+- [3014] | 1 | survivor | Überlebender | 遗属 | 'Not a politician': Father of young cancer survivor DJ Daniel runs for Texas 18th district seat
+- [3015] | 1 | suspect's | Verdächtiger | 嫌疑人的 | Rural Montana residents predicted bar massacre suspect's violent outburst: 'He will kill you'
+- [3016] | 1 | suspect’s | Verdächtige | 嫌疑人的 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [3017] | 1 | Sweeney's | Sweeney's | 斯威尼的 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
+- [3018] | 1 | sweetener | Süßungsmittel | 甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜甜 | Common sweetener could hold untapped potential to fight aggressive cancer, study finds
+- [3019] | 1 | swimsuits | Badeanzüge | 泳衣 | Elizabeth Hurley and her mother Angela pose in matching leopard swimsuits for 85th birthday celebration
+- [3020] | 1 | Switzerland | Schweiz | 瑞 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 瑞士 | America’s tariff avalanche catches Switzerland unawares
+- [3021] | 1 | sword | Schwert | 剑剑 | Codie Sanchez says money is the sword of the 21st Century. She wants to arm more Americans
+- [3022] | 1 | Sylvester | Sylvester | 锡尔维斯特 | Pamela Anderson doubles down on claims that Sylvester Stallone once offered her gifts to be his 'No. 1 girl'
+- [3023] | 1 | symbol | Symbol | 符号符号符号符号符号 | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [3024] | 1 | system' | System" | 系统系统 | Bronny James reveals aftermath of cardiac arrest: 'Messed with my immune system'
+- [3025] | 1 | tablet | Tabletten | 平板 | How to tell if your Samsung Galaxy tablet has been hacked
+- [3026] | 1 | tactics | Taktik | 战术战术 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
+- [3027] | 1 | tale | Geschichte | 故事故事 | MIKE DAVIS: A tale of two Russiagate heroes
+- [3028] | 1 | Tankinis | Tankinis | 坦克 | Tankinis for coverage, support and confidence at the beach
+- [3029] | 1 | task' | Aufgabe" | 任务的任务 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [3030] | 1 | taught | Unterricht | 教学 | My flight was canceled. But a baby in the airport taught me everything about God's peace in a storm
+- [3031] | 1 | teammates | Teamkollegen | 队友 | Mookie Betts credits teammates, Dodgers faithful for supporting him through rough 2025 season
+- [3032] | 1 | Teddi | Teddi | 特迪 | Teddi Mellencamp struggles with speech following cancer treatment
+- [3033] | 1 | teen's | Teen's | 青少年 | North Carolina teen's body discovered in Florida one week after he vanished with chilling final message
+- [3034] | 1 | Temple | Tempel | 寺庙 | Rare biblical seal with ancient fingerprint found in debris from Jerusalem's Temple Mount
+- [3035] | 1 | temple' | Tempel" | 寺庙 | Christian bodybuilder reveals how fitness honors God: 'Your body is a temple'
+- [3036] | 1 | tent | Zelt | 帐篷帐篷 | As Trump intervenes in DC's crime crisis, another violent city's DA gets a challenger from inside the tent
+- [3037] | 1 | terror | Terror | 恐怖主义恐怖主义 | US report urges UN agency's shutdown over Hamas ties, Oct 7 terror links
+- [3038] | 1 | terrorism | Terrorismus | 恐怖主义恐怖主义恐怖主义恐怖主义恐怖主义 | Hundreds of anti-Israel protestors arrested in London for supporting group banned under terrorism law
+- [3039] | 1 | text | Text | 文字文字文字文字 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [3040] | 1 | tha | n s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s s | 来 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [3041] | 1 | Thailand | Thailand | 泰国 泰国 泰国 泰国 | Why did Thailand and Cambodia fight a senseless border war?
+- [3042] | 1 | that's | Das ist | 这是 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [3043] | 1 | them | sie | 三、它们 | I'm Gen Z and many in my generation lost faith in the American Dream. Prove them wrong
+- [3044] | 1 | theories | Theorien | 理论理论 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [3045] | 1 | there' | Dort ist es." | 在那里 | Mookie Betts reveals what makes Brewers legit World Series contenders: 'Good recipe over there'
+- [3046] | 1 | Three | Drei | 3 三个 | Three states sign new agreements with ICE for expanded immigration enforcement operations
+- [3047] | 1 | throw | werfen | 丢弃 | Charlamagne tha God casts doubt on potential Harris 2028 run, urges Dems to throw 'old regime' under the bus
+- [3048] | 1 | thrown | geworfen | 投掷 | Chicago Sky game becomes latest WNBA contest disrupted by sex toy being thrown on court as arrests continue
+- [3049] | 1 | tightens | Straffungen | 收紧 | Grassroots push for freedom grows in Gaza as Hamas tightens its deadly grip
+- [3050] | 1 | TikTok | TikTok | 铁托 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [3051] | 1 | TIMELINE | ZEITSCHRIFTEN | 时 时 时 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [3052] | 1 | timeshare | Zeitanteil | 分配时间 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
+- [3053] | 1 | today's | Heute | 今日的今天 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [3054] | 1 | together | zusammen | 组合在一起 | The colourful civic groups that hold Germany together
+- [3055] | 1 | tombs | Gräber | 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 墓 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [3056] | 1 | Tony | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein! | 托尼 | Tony Buzbee, attorney who represented Shannon Sharpe's rape accuser, takes parting shot at Hall of Famer
+- [3057] | 1 | too | auch | 也一样 | Christie Brinkley admits forever might be too long for modern marriage
+- [3058] | 1 | tools | Werkzeuge | 工具工具 | Getting ready to harvest your garden? Get these helpful tools
+- [3059] | 1 | Tories | Tories | 煎饼 | Blighty newsletter: The Tories go cold on the gig economy
+- [3060] | 1 | Toronto | Toronto | 多伦多 | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
+- [3061] | 1 | tourist | Touristen | 游客 游客 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
+- [3062] | 1 | tourists' | Touristen" | 游客 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [3063] | 1 | touts | Hülsenfrüchte | 吨 | Trump's DHS touts massive number of illegal immigrants deported as Dems lash out at ICE
+- [3064] | 1 | track | Gleis | 音轨 | First RIT women's track runner comes forward about sharing team and locker room with viral trans athlete
+- [3065] | 1 | trafficking | Menschenhandel | 贩运贩运贩运 | WWE fans react to Brock Lesnar's return amid sex trafficking case involvement: 'Just coward stuff'
+- [3066] | 1 | tragic | tragisch | 悲惨的悲惨悲剧 | Beach visitors risk 'arrest' for swimming without lifeguard following tragic incident
+- [3067] | 1 | train | Zug | 火车火车 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [3068] | 1 | transfer | Übertragung | 转让 | Ghislaine Maxwell prison transfer called 'highly unusual' by former federal prison official
+- [3069] | 1 | Transform | Transformieren | 变换 | Transform your tech setup with the best early Labor Day tech deals on Apple, Samsung, HP and more
+- [3070] | 1 | transformation | Transformation | 变换 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
+- [3071] | 1 | transgender | Transgender | 变性者 | Virginia school districts support for transgender students' rights in governor's race spotlight
+- [3072] | 1 | transplant | Transplantation | 移植 | John Cena's hair transplant changed his life years after he was 'run out' of Hollywood
+- [3073] | 1 | trap | Falle | 陷阱陷阱陷阱 | Chuck Todd warns that Dems are falling into Trump’s trap, 'taking the bait' on redistricting
+- [3074] | 1 | trash | Müll | 垃圾垃圾垃圾 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
+- [3075] | 1 | travel' | Reiseverkehr" | 旅费 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [3076] | 1 | travelers | Reisende | 旅行旅行者 | TSA warns of phishing scam targeting PreCheck travelers
+- [3077] | 1 | Treasury | Schatzamt | 财务司财务司 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
+- [3078] | 1 | treated | behandelt | 治疗 | Fire under NJ train sends passengers fleeing; multiple treated for smoke inhalation
+- [3079] | 1 | trend | Entwicklung | 趋势趋势趋势趋势趋势趋势 | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
+- [3080] | 1 | trends | Trends | 趋势趋势趋势 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [3081] | 1 | trial | Versuch | 审判审判 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [3082] | 1 | trick | Trick | 技巧技巧技巧 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [3083] | 1 | triggers | Auslöser | 触发触发器 | Kamala Harris' major California announcement triggers circular Dem firing squad
+- [3084] | 1 | troopers | Unteroffiziere | 部队人数 | GOP governor greenlights state troopers to join ICE in immigration crackdown
+- [3085] | 1 | troops | Truppen | 部队 部队 部队 部队 部队 | Trump's federal crime operation brings 100 arrests, 800 National Guard troops to Washington
+- [3086] | 1 | trucks | Lastkraftwagen | 卡车卡车 | 159-year-old company embraces driverless trucks
+- [3087] | 1 | Trump-backed | Trump-unterstützt | 朗普背着 | Abbott, Texas Republicans launch new Trump-backed redistricting push as fleeing Democrats plan to end walkout
+- [3088] | 1 | Trump–Putin | Trump–Putin | 特朗特朗特普廷 | Russian oligarch’s $325M seized superyacht heads to auction as Trump–Putin summit nears
+- [3089] | 1 | try | Versuchen | 试试 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [3090] | 1 | TSA | TSA | TSA 塔萨( TSA) | TSA warns of phishing scam targeting PreCheck travelers
+- [3091] | 1 | tumble | Trommeln | 翻滚 | NASCAR's Connor Zilisch ironically deemed 'fall risk' after Victory Lane tumble causes broken collarbone
+- [3092] | 1 | tumblers | Trommeln |  | Keep your beverages hot or cold with these insulated bottles and tumblers
+- [3093] | 1 | tumors | Tumore | 肿瘤 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
+- [3094] | 1 | Turkish | Türkisch | 土耳其语土耳其语Name | China’s planned Turkish EV factories have yet to power up
+- [3095] | 1 | TURLEY | TURLEY | 土耳其 土耳其 | JONATHAN TURLEY: Dershowitz takes on pierogi politics, and Leftist hypocrisy
+- [3096] | 1 | turned | gedreht | 转转 | Polite stranger's 'yes ma'am, no sir' demeanor suddenly turned violent in murder of country singer's mom
+- [3097] | 1 | turning | Drehen | 转转 | Travis Kelce takes credit for turning Taylor Swift into an 'engulfed' football fan
+- [3098] | 1 | U | U . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | U U | Hostility against churches a 'growing trend,' as study finds hundreds of attacks on U.S. churches in 2024
+- [3099] | 1 | UFC | UFC | UCUC 团结团结会 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
+- [3100] | 1 | UFO | UFO | UFO 乌弗果 | JD Vance says he's 'obsessed' with eerie UFO videos
+- [3101] | 1 | Ukrainian | Ukrainisch | 乌克兰语乌克兰语Name | Ever more Ukrainian women are joining the army
+- [3102] | 1 | unawares | unwissend | 无意识者 | America’s tariff avalanche catches Switzerland unawares
+- [3103] | 1 | Underwood | Unterholz | 安德伍德 | Sorority ties run deep for Molly Sims, Carrie Underwood and other Southern stars as rush season begins
+- [3104] | 1 | unearth | unerde | 地 土 | Cracker Barrel customers revolt against remodels, plus workers unearth 1,000-year-old tombs
+- [3105] | 1 | uneven | ungleichmäßig | 不平衡 | Crying foul: opponents slam the uneven EU-US trade deal
+- [3106] | 1 | unexpected | unerwartet | 意外意外 | Gen Z embraces the Bible in unexpected global spiritual awakening
+- [3107] | 1 | unit | Einheit | 单位单位 | Albania’s new anti-corruption unit is taking down bigwigs
+- [3108] | 1 | unleash | Entfesseln | 释放 | Trump's full-court press against 'Orwellian' European censorship intensifies amid US efforts to unleash AI
+- [3109] | 1 | unseal | nicht versiegelt | 整闭 | Epstein grand jury materials won't be released after federal judge denies DOJ request to unseal
+- [3110] | 1 | unsolved | ungelöst | 未解决 | College student’s unsolved murder shines spotlight on serial killer as new theories emerge
+- [3111] | 1 | untapped | ungezähnt | 未开发 | Common sweetener could hold untapped potential to fight aggressive cancer, study finds
+- [3112] | 1 | unusual' | Ungewöhnlich" | 不寻常的' | Ghislaine Maxwell prison transfer called 'highly unusual' by former federal prison official
+- [3113] | 1 | unveil | Enthüllung | 揭幕 | Friends unveil Devil's Den couple's haunting final message before deadly park ambush
+- [3114] | 1 | unveiled | offengelegt | 已揭开 | Bryan Kohberger's Idaho murder scene unveiled through detailed 3D replica after death penalty struck
+- [3115] | 1 | upcoming | in Kürze | 即将到来 | Ivanka Trump re-enters DC ring for upcoming knockout UFC White House fight
+- [3116] | 1 | upstairs | oben | 楼上 | NFL employee shot in lobby by gunman warned colleagues upstairs before calling 911
+- [3117] | 1 | US-brokered | US-getauscht | 由美国经纪 | Armenia and Azerbaijan leaders seek to ease Russian and Iranian concerns after US-brokered peace deal
+- [3118] | 1 | USAID | USAID | 美援署 | US appeals court says Trump can slash billions in owed USAID funds
+- [3119] | 1 | used | verwendet | 使用 | Andie MacDowell's daughter, Margaret Qualley, used 'Southern girl etiquette' to win over famous husband
+- [3120] | 1 | users | Verwender | 用户用户用户 | New York City residents slam 'safe injection sites' after drug users trash neighborhood
+- [3121] | 1 | using | Verwendung | 使用 | Ancient rare Chinese manuscripts stolen in alleged scheme by man using multiple aliases
+- [3122] | 1 | us’ | us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us us | `我们 ' | Maui officer killed in line of duty, police chief calls her ‘the finest of us’
+- [3123] | 1 | v | V. RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — RECHTSSACHE 16/63 — RECHTSSACHE 16/63 — RECHTSSACHE 17/63 — RECHTSSACHE 17/63 — | 五 五 | Trump v DC
+- [3124] | 1 | vacationers | Urlauber | 度假者 | Two vacationers drown at Carnival's new Bahamas private island
+- [3125] | 1 | vacations | Urlaub | 假期 | Little-known 'secondhand travel' trick helps tourists score luxury vacations for less
+- [3126] | 1 | Vaccinations | Impfungen | 接种疫苗 | Vaccinations to prevent cervical cancer have plummeted in Britain
+- [3127] | 1 | vaccine | Impfstoff | 疫苗疫苗疫苗 | Cancer vaccine shows promise in preventing recurrence of pancreatic, colorectal tumors
+- [3128] | 1 | vacuums | Vakuume | 真空 | Best vacuums for keeping your home clean: Grab a Dyson, Shark or Miele for up to 34% off
+- [3129] | 1 | vanish | verschwinden | 消失 | Trump visa policies force colleges to scramble as international students vanish: report
+- [3130] | 1 | vanished | verschwunden | 失踪 | North Carolina teen's body discovered in Florida one week after he vanished with chilling final message
+- [3131] | 1 | veil | Schleier | 面纱 | Trump lifts veil on US submarines in warning shot to Kremlin in 'clever' repositioning move
+- [3132] | 1 | Venezuelan | Venezuelanisch | 委内瑞拉 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [3133] | 1 | very | Sehr | 严格 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [3134] | 1 | vet | Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin/Tierärztin | 兽医 | Special Forces vet exposes tactics of Montana, Washington state survivalists: 'Can't stay hidden forever'
+- [3135] | 1 | victim | Opfer | 受害者 受害者 受害者 受害者 受害者 受害者 受害者 受害者 受害者 受害者 | Jim Acosta blasted on social media after 'interviewing' AI avatar of Parkland shooting victim
+- [3136] | 1 | Victoria | Victoria | 维多利亚州 | Victoria and David Beckham keep spark alive after 26 years as family rift lingers
+- [3137] | 1 | Vietnamese | Vietnamesisch | 越南语越南语Name | I’m a Vietnamese refugee. We are proud to speak the language of our new home as all immigrants should
+- [3138] | 1 | Vikings | Wikinger | 维京人 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
+- [3139] | 1 | Vinegar | Essig | 醋醋 | Vinegar face masks and barley water? Medieval 'health hacks' mirror today's TikTok trends
+- [3140] | 1 | vintage | vintage | 历史历史 | American Culture Quiz: Test yourself on vintage vehicles and carnival crowds
+- [3141] | 1 | violation | Verstoß | 侵犯权利行为 | Luigi Mangione defense shared same records they claimed constituted privacy violation: prosecutors
+- [3142] | 1 | violent' | Gewalttätigkeit" | 暴力 暴力 | Treasury sanctions 'brutally violent' cartel for timeshare fraud in tourist destination, warns Americans
+- [3143] | 1 | visa | Visum | 签证签证签证签证签证签证签证 | Trump visa policies force colleges to scramble as international students vanish: report
+- [3144] | 1 | visas | Visa | 签证签证签证签证签证 | State Department stops issuing all visitor visas for individuals from Gaza
+- [3145] | 1 | visibly | sichtbar | 明显 | Putin appears to be visibly annoyed as reporters barrage him and Trump with questions
+- [3146] | 1 | visit | Besuch | 访问访问访问 | Trump officials visit Gaza aid sites as international community pressures Israel
+- [3147] | 1 | visitor | Besucher | 访 访 访 访 | State Department stops issuing all visitor visas for individuals from Gaza
+- [3148] | 1 | visualizes | visualisiert | 可视化 | MIT tool visualizes and edits “physically impossible” objects
+- [3149] | 1 | volleyball | Volleyball | 排排球 | Women's volleyball activists react to California high school team forfeiting to opponent with trans athlete
+- [3150] | 1 | Voter | Wähler | 选民选民 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [3151] | 1 | votes | Abstimmungen | 以 票票票、以 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 票、 | California school board votes to ban trans athletes from girls' sports amid state's lawsuit with Trump
+- [3152] | 1 | voting | Abstimmungen | 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 票 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 票 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 的表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决     表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决      表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决  表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 表决 | Crackdown on illegal immigrants voting in DC elections launched by Senate GOP
+- [3153] | 1 | VP | VP | 自愿 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [3154] | 1 | Vrabel | Vrabel | Vrabel 伏击 | Patriots coach Mike Vrabel gets knocked to the ground breaking up fight during joint practice with Vikings
+- [3155] | 1 | wait | Warte. | 等待等待 | DC gun permit wait slashed from months to days as Trump's crime crackdown continues
+- [3156] | 1 | wallets | Brieftaschen | 钱包钱包 | Priced out in Las Vegas? 5 costly steaks that can cut into tourists' wallets
+- [3157] | 1 | Walshe | Walshe | 沃尔什 | Brian Walshe murder trial: Prosecutors say husband dismembered wife Ana to dodge prison in art fraud case
+- [3158] | 1 | wandering | wandern | 游荡中 | Aaron Rodgers says he did 'the Joe Biden' during Steelers preseason game while explaining wandering behavior
+- [3159] | 1 | war' | Krieg" | 战争战争 | Chuck Todd warns America is heading towards a 'cold civil war' as redistricting battle continues
+- [3160] | 1 | wardrobe | Garderobe | 衣柜 | Queen Elizabeth's personal wardrobe choices to debut in major palace exhibition
+- [3161] | 1 | warfare’ | Kriegsführung | 战争 ' 战争 ' | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
+- [3162] | 1 | warm' | warm" | 温暖温暖 | Trump closes out 30th week in office with 'very warm' high-stakes Putin meeting
+- [3163] | 1 | Warren | Warren | 沃伦 | Former Elizabeth Warren foe flips script on her alliance with Mamdani: 'Party of the extreme left'
+- [3164] | 1 | warrior' | Krieger" | 战士 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [3165] | 1 | Wash | Waschen | 洗 洗 | Wash Post columnist says Meta's new community notes fact-checking system 'nowhere near up to the task'
+- [3166] | 1 | wasp | Wespe | 黄蜂 | Radioactive wasp nest discovered by workers at former nuclear bomb site
+- [3167] | 1 | Watkins | Watkins | 沃特金 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
+- [3168] | 1 | We're | Wir sind | 我们是 | Trump: We're going straight to Russia-Ukraine peace deal, 'not a mere ceasefire'
+- [3169] | 1 | wealth | Reichtum | 富裕的有财富, | Woman found dead on yacht sparks scrutiny of Montauk’s party scene and rising wealth
+- [3170] | 1 | weapons | Waffen | 武器武器 | Netherlands becomes first NATO ally to buy US weapons for Ukraine
+- [3171] | 1 | wearing | tragen | 穿着服装 | Fan wearing 'Make America Great Again' hat escorted by security from MLS match
+- [3172] | 1 | week's | Wochen | 周数 | TIMELINE: Evolution of Mamdani's defunding police rhetoric to this week's 'damage control'
+- [3173] | 1 | west | Westen | 西 西 | New York Post expands west with California edition planned for early 2026
+- [3174] | 1 | Western | Westlich | 西部 | Sydney Sweeney's Dolly Parton-inspired Western will benefit from ad backlash: expert
+- [3175] | 1 | Whatley | Was soll ich sagen? | 简 简 利 | Trump endorses 'MAGA warrior' for RNC chairman after Whatley launches Senate campaign
+- [3176] | 1 | WhatsApp | WhatsApp | Whats 亚pp | WhatsApp bans 6.8M scam accounts, launches safety tool
+- [3177] | 1 | What’s | Was gibt's? | 什么是“什么” | What’s your preferred playback speed: 1x, 1.5x or 2x?
+- [3178] | 1 | whether | ob | 是否 | Bernie Sanders addresses whether he’ll run in 2028
+- [3179] | 1 | whirlwind' | Wirbelwind" | 旋风 | Chiefs owner Clark Hunt credits Taylor Swift for fanbase transformation: 'It’s been a whirlwind'
+- [3180] | 1 | whistleblower | Whistleblower | 举报举报人 | Kentucky whistleblower claims licensing center sold IDs to illegal immigrants 'under the table'
+- [3181] | 1 | wickedly | gottlos | 恶人和毒人, | Why “Wednesday” is wickedly successful
+- [3182] | 1 | wife's | Frauen | 妻子的 | Florida schedules execution for man who killed estranged wife's family, set house on fire
+- [3183] | 1 | wife’ | Ehefrau . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . | 妻子 " 妻子 " | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [3184] | 1 | wins | gewinnt | 赢赢 | Voter ID law in Texas wins at appeals court after Biden admin lawsuit
+- [3185] | 1 | witnesses | Zeugen | 证人证人证人 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [3186] | 1 | woke | Erwacht | 已唤醒 | Former Disney child star woke up to 'zero dollars' in bank account after nearly 20 years in showbiz
+- [3187] | 1 | Wolf | Wolf | 狼狼狼 | Scott Wolf claims estranged wife planned 'false allegations' against him in contentious divorce proceedings
+- [3188] | 1 | works | Arbeiten | 工程 | Kate Gosselin works grueling 12-hour nursing shifts after reality TV fortune disappears
+- [3189] | 1 | worry | Sorge | 关注问题 | It's not just Democrats. Socialist Mamdani's plans should worry Republicans nationwide
+- [3190] | 1 | would | würde | 将 | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
+- [3191] | 1 | wrap' | Umhüllung" | 包装 | 'Super Funny' comic Nate Jackson declares that's 'a wrap' on cancel culture, phenomenon is over
+- [3192] | 1 | wreck | Wrack | 废废废废 | NASCAR driver Austin Hill sparks massive wreck at Watkins Glen
+- [3193] | 1 | wrist | Handgelenk | 手腕 | Man caught on video attacking pro-life protesters gets slap on wrist by judge
+- [3194] | 1 | writer | Verfasser | 作家写作 | New York Times guest writer argues 'boy crisis' is 'overblown,' citing anti-feminist backlash
+- [3195] | 1 | writing | Schreiben | 写写 | Rachel Morin's mother explains painstaking process of writing statement to read at killer's sentencing
+- [3196] | 1 | Wyoming | Wyoming | 怀俄明州 | Significant resources deployed in Wyoming hunt for hiker who disappeared in 'unforgiving' Bighorn Mountains
+- [3197] | 1 | Xi-Putin | Xi-Putin | Xi- 普丁 | How Trump could ‘un-unite’ the Xi-Putin alliance
+- [3198] | 1 | XIV | XIV | 十四 | Pope Leo XIV inspires over a million young Catholics at Rome faith gathering
+- [3199] | 1 | years-long | Jahre lang | 长年 | Public school teacher reveals years-long effort to expose alleged student abortion scandal
+- [3200] | 1 | years’ | Jahre | 年 年 年 年 | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
+- [3201] | 1 | yet | noch nicht | 尚未确定 | China’s planned Turkish EV factories have yet to power up
+- [3202] | 1 | yet' | Noch nicht." | 尚未确定(_F) | Odell Beckham Jr slams online rumors he's retiring: 'Ain't over yet'
+- [3203] | 1 | yields | Erträge | 输出量 | SCOOP: Trump's newest DC crime crackdown yields more than 100 arrests
+- [3204] | 1 | YIMBYest | YIMBYest | (约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约约 | Welcome to the YIMBYest neighbourhood in America
+- [3205] | 1 | Youssef | Youssef | 优素福 | Youssef Marzouk appointed associate dean of MIT Schwarzman College of Computing
+- [3206] | 1 | Zelenskyy | Zelenskyy | 泽伦斯基 | Zelenskyy outlines peace demands before high-stakes White House meeting with Trump
+- [3207] | 1 | Ziad | Ziad | Ziad 齐亚德 | Ziad Rahbani held a mirror to Lebanese society
+- [3208] | 1 | Zille | Zille | Zille 齐 | Helen Zille wants to save South Africa, starting in Johannesburg
+- [3209] | 1 | zings | Zinge | 制环 | Mamdani zings Cuomo in rent-stabilized housing spat during anti-Trump tour stop
+- [3210] | 1 | ‘ | „ | ' ' | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [3211] | 1 | ‘Alligator | „Alligator | `鳄鱼 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [3212] | 1 | ‘came | „wurden | # 来到了# | Rock Hudson ‘came on to me’ during arranged studio date: '50s sex symbol claims
+- [3213] | 1 | ‘censorship’ | „Zensur" | `新闻检查 ' | Filmmaker alleges ‘censorship’ after Toronto Film Festival drops Oct. 7 Hamas attack documentary
+- [3214] | 1 | ‘death | „Tod | 死亡 | Devil’s Den witnesses describe suspect’s ‘death stare’ minutes before murders: report
+- [3215] | 1 | ‘Deportation | „Abschiebung | `递解出境 | Florida to open ‘Deportation Depot’ at shuttered prison weeks after launching ‘Alligator Alcatraz’ facility
+- [3216] | 1 | ‘disastrous | „Katastrophe | '令人沮丧 | Illinois gov JB Pritzker lambasted for new ‘disastrous policy’ requiring mental health screenings for kids
+- [3217] | 1 | ‘disposal | „Entsorgung | `处置 | Australian state rolls out machete ‘disposal bins’ ahead of ban
+- [3218] | 1 | ‘divisive | „aufteilend | `分裂性 | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [3219] | 1 | ‘domesticate’ | „Hausarzt" | " 国内 " | Texas GOP seeks to ‘domesticate’ rogue Dems for breaking quorum through nationwide civil arrest warrants
+- [3220] | 1 | ‘Duck | „Scheiße | 达克 | ‘Duck Dynasty’ star Sadie Robertson’s husband makes bold move to impress famous father-in-law
+- [3221] | 1 | ‘evil’ | „bös" | `邪恶' | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [3222] | 1 | ‘for | „für | `为 ' | Abbott vows indefinite special sessions, says fleeing Dems could face arrest ‘for literally years’
+- [3223] | 1 | ‘gaps | „Gaps | 阴影 | Cincinnati assault: Police chiefs rip leaders over bail laws, ‘gaps in the judicial process’
+- [3224] | 1 | ‘I | „I | '一 | ‘I Dream of Jeannie’ star Barbara Eden feels very lonely after death of pal Loni Anderson
+- [3225] | 1 | ‘Jesus | „Jesus | 耶稣 | Rubio decries ‘Jesus Christ Superstar’ performance, says anti-Christian attacks are nothing new
+- [3226] | 1 | ‘just | „Nur | 仅仅 | DAVID MARCUS: Fetterman calls fellow Democrats ‘just gross’ for shunning Israel
+- [3227] | 1 | ‘long-term’ | „Langfristig" | `长期 ' | Hamas endgame is ‘long-term’ and is playing out for all to see as Israel pushes deeper into Gaza
+- [3228] | 1 | ‘nullify’ | „nullieren" | `无效 ' | California launches redistricting fight to ‘nullify’ Texas GOP plan, with Dems poised to gain 5 seats
+- [3229] | 1 | ‘protected | „geschützt | `受保护 | Venezuelan migrants, progressive group sue Trump admin after Noem nixes Biden-era ‘protected status’
+- [3230] | 1 | ‘psychological | „psychologisch | `心理 | Bama Rush star steps back from recruitment that coach called ‘psychological warfare’
+- [3231] | 1 | ‘put | „Eingabe | `产出 | Bondi DOJ names and shames 35 sanctuary jurisdictions that ‘put American citizens at risk’
+- [3232] | 1 | ‘ran | „verfügbar": | '兰 | ‘80s star Kelly LeBrock ‘ran away’ from Hollywood for goats, grandkids and simpler life
+- [3233] | 1 | ‘scary’ | „Schätze" | " 吓吓 " | Columbia student says Mamdani becoming mayor would be ‘scary’ for Jewish students in New York
+- [3234] | 1 | ‘targeted | „gezielt | `目标 | Tennessee manhunt for quadruple murder suspect tied to ‘targeted attack’ after baby found abandoned: DA
+- [3235] | 1 | ‘There's | „Es gibt | "有" | 'Bachelor' couple Sean and Catherine Lowe push back on Ozempic craze: ‘There's a healthier route’
+- [3236] | 1 | ‘trophy | „Trophäe | `战利品 ' | Wealthy dentist who killed ‘trophy wife’ on African safari is branded ‘evil’ Jekyll and Hyde
+- [3237] | 1 | ‘ultimate | „Endgültig | `最后一刻 | FOX ONE, ESPN DTC announce bundle offer for ‘ultimate sports fan’
+- [3238] | 1 | ‘un-unite’ | „Uneinheitlich" | `非统一 ' | How Trump could ‘un-unite’ the Xi-Putin alliance
+- [3239] | 1 | ‘Viking | „Viking | 维京 | Ancient ‘Viking diet’ makes a comeback: Here's what to know before you try it
+- [3240] | 1 | ’ | - Nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein, nein. | ' ' ; | 'Hillbilly Elegy' director Ron Howard did not expect JD Vance to be so ‘divisive,’ reveals last text to VP
+- [3241] | 1 | “physically | Physikalisch | “实际 | MIT tool visualizes and edits “physically impossible” objects
+- [3242] | 1 | “Wednesday” | Mittwoch | “星期三” | Why “Wednesday” is wickedly successful
